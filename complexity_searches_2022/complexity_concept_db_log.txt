@@ -1,0 +1,16 @@
+
+Database reset.
+
+File name added: CINAHL / None
+Date/time of data add:  2022-10-04T13:38:29.115168
+Article repeats:  0
+Article count before program ran:  0
+Article count after program completed:  22
+Total modifications to database:  61
+
+File name added: HSN / None
+Date/time of data add:  2022-10-04T13:40:47.607676
+Article repeats:  1
+Article count before program ran:  22
+Article count after program completed:  50
+Total modifications to database:  69
