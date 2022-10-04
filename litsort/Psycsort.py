@@ -19,7 +19,7 @@ def parse(file_to_open, conn, cur, **kwargs):
     kwargs['header']=kwargs.get('header', 0)
     kwargs['encoding']=kwargs.get('encoding', 'utf-8')
     db = "PSYCINFO"
-    df = pd.read_excel(file_to_open, header=kwargs['header'], encoding= kwargs['encoding'])
+    df = pd.read_excel(file_to_open, header=kwargs['header'])
     
     for row in df.itertuples():
         recnum= getattr(row, "Index")

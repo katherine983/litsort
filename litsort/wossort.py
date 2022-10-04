@@ -19,7 +19,7 @@ def parse(file_to_open, conn, cur, **kwargs):
     kwargs['header']=kwargs.get('header', 0)
     kwargs['encoding']=kwargs.get('encoding', 'utf-8')
     db = "WOS"
-    df = pd.read_excel(file_to_open, header=kwargs['header'], encoding= kwargs['encoding'], index_col=None, convert_float=True)
+    df = pd.read_excel(file_to_open, header=kwargs['header'], index_col=None, convert_float=True)
     df.columns = df.columns.str.replace(' ', '')
     df.columns = df.columns.str.replace("(", "")
     df.columns = df.columns.str.replace(")", "")
