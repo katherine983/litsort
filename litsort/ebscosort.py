@@ -256,13 +256,13 @@ def parse(file_to_open, conn, cur, **kwargs):
 if __name__ == '__main__':
     
     while True:
-        data_folder_parent = pathlib.Path(r'C:\Users\wuest\Desktop\complexity_searches\\')
+        data_folder_parent = pathlib.Path(r"C:\Users\Wuestney\Documents\GitHub\litsort\complexity_searches_2022")
         data_folder = input("Enter folder location as 'folder\subfolder\': ")
         if len(data_folder)<1 :
-            data_folder = 'HSN'
+            data_folder = 'CINAHL'
         fname = input("Enter file name: ")
         if len(fname)<1 : 
-            fname = "HSNallagingandolderpatientsandcomplexityorcomplexandfrail_2021.06.24.xml"
+            fname = "Mhallagingandcomplexityorcomplexandfrail_nursjournals_2022.10.03.xml"
     
         file_to_open = data_folder_parent / data_folder / fname
         try:
@@ -326,7 +326,7 @@ if __name__ == '__main__':
         print(articlecount_starting)
         
         
-        repeats += parse(file_to_open, conn, cur, db='HSN')
+        repeats += parse(file_to_open, conn, cur, db=db)
         
         cur.execute("SELECT count(*) FROM ARTICLES")
         articlecount_ending = cur.fetchone() [0]
