@@ -1,0 +1,36 @@
+
+Database reset.
+
+File name added:  HSNallagingandolderpatientsandcomplexityorcomplexandfrail_2021.06.24.xml
+Date/time of data add:  2021-07-01T18:13:36.518688
+Article repeats:  0
+Article count before program ran:  0
+Article count after program completed:  244
+Total modifications to database:  560
+
+Database reset.
+
+File name added:  HSNallagingandolderpatientsandcomplexityorcomplexandfrail_2021.06.24.xml
+Date/time of data add:  2021-07-01T18:15:55.429799
+Article repeats:  0
+Article count before program ran:  0
+Article count after program completed:  244
+Total modifications to database:  560
+
+Database reset.
+
+File name added:  HSNallagingandolderpatientsandcomplexityorcomplexandfrail_2021.06.24.xml
+Date/time of data add:  2021-07-01T18:19:49.683448
+Article repeats:  0
+Article count before program ran:  0
+Article count after program completed:  244
+Total modifications to database:  560
+
+Database reset.
+
+File name added:  HSNallagingandolderpatientsandcomplexityorcomplexandfrail_2021.06.24.xml
+Date/time of data add:  2021-07-01T18:21:06.869691
+Article repeats:  0
+Article count before program ran:  0
+Article count after program completed:  244
+Total modifications to database:  560
