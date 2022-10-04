@@ -34,3 +34,12 @@ Article repeats:  0
 Article count before program ran:  0
 Article count after program completed:  244
 Total modifications to database:  560
+
+Database reset.
+
+File name added:  Mhallagingandcomplexityorcomplexandfrail_nursjournals_2022.10.03.xml
+Date/time of data add:  2022-10-04T10:52:03.289138
+Article repeats:  0
+Article count before program ran:  0
+Article count after program completed:  22
+Total modifications to database:  61
