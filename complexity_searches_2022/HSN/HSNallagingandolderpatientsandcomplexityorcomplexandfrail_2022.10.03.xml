@@ -1,0 +1,1746 @@
+<records>
+<rec resultID="1">
+  <header shortDbName="hch" longDbName="Health Source: Nursing/Academic Edition" uiTerm="158896358">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Age &amp; Ageing</jtl>
+        <issn>00020729</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2022" month="08" day="01">Aug2022</dt>
+        <vid>51</vid>
+        <iid>8</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1093/ageing/afac174</ui>
+        <ppf>1</ppf>
+        <ppct>11</ppct>
+        <lexile>1390</lexile>
+        <formats />
+        <tig>
+          <atl>Shared decision-making for the treatment of proximal femoral fractures in frail institutionalised older patients: healthcare providers' perceived barriers and facilitators.</atl>
+        </tig>
+        <aug>
+          <au>Spronk, Inge</au>
+          <au>Loggers, Sverre A I</au>
+          <au>Joosse, Pieter</au>
+          <au>Willems, Hanna C</au>
+          <au>Balen, Romke Van</au>
+          <au>Gosens, Taco</au>
+          <au>Ponsen, Kornelis J</au>
+          <au>Steens, Jeroen</au>
+          <au>Ree, L C P (Marc) Van de</au>
+          <au>Zuurmond, Rutger G</au>
+          <au>Verhofstad, Michael H J</au>
+          <au>Lieshout, Esther M M Van</au>
+          <au>Polinder, Suzanne</au>
+          <affil>Erasmus MC , University Medical Center Rotterdam, Department of Public Health, Rotterdam, PO Box 2040, 3000 CA Rotterdam , The Netherlands</affil>
+          <affil>Department of Surgery , Northwest Clinics Alkmaar, P.O Box 501, 1800 AM Alkmaar , The Netherlands</affil>
+          <affil>Trauma Research Unit Department of Surgery , Erasmus MC, University Medical Center Rotterdam, PO Box 2040, 3000 CA Rotterdam , The Netherlands</affil>
+          <affil>Geriatrics Section , Department of Internal Medicine, Amsterdam UMC location AMC, PO Box 22660, 1100 DD Amsterdam , The Netherlands</affil>
+          <affil>Department of Public Health and Primary Care , Leiden University Medical Center, Hippocratespad 21, PO Box 9600, 2300 RC Leiden , The Netherlands</affil>
+          <affil>Department of Orthopaedic Surgery , Elisabeth-TweeSteden Ziekenhuis, PO Box 90151, 5000 LC Tilburg , The Netherlands</affil>
+          <affil>Department of Surgery , Rode Kruis Ziekenhuis, PO Box 1074, 1940 EB Beverwijk, The Netherlands</affil>
+          <affil>Department of Orthopaedic Surgery , Dijklander Ziekenhuis, PO Box 600, 1620 AR Hoorn , The Netherlands</affil>
+          <affil>Department Trauma TopCare , Elisabeth-TweeSteden Ziekenhuis, PO Box 90151, 5000 LC Tilburg , The Netherlands</affil>
+          <affil>Department of Orthopaedic Surgery , Isala, PO Box 10400, 8000 GK Zwolle , The Netherlands</affil>
+        </aug>
+        <sug>
+          <subj type="unclass">CONSERVATIVE treatment</subj>
+          <subj type="unclass">PATIENT participation</subj>
+          <subj type="unclass">HEALTH services accessibility</subj>
+          <subj type="unclass">LIFE expectancy</subj>
+          <subj type="unclass">HIP fractures</subj>
+          <subj type="unclass">TREATMENT effectiveness</subj>
+          <subj type="unclass">DECISION making</subj>
+          <subj type="unclass">QUESTIONNAIRES</subj>
+          <subj type="unclass">ALLIED health personnel</subj>
+          <subj type="unclass">OLD age</subj>
+        </sug>
+        <ab>Introduction Proximal femoral fractures are common in frail institutionalised older patients. No convincing evidence exists regarding the optimal treatment strategy for those with a limited pre-fracture life expectancy, underpinning the importance of shared decision-making (SDM). This study investigated healthcare providers' barriers to and facilitators of the implementation of SDM. Methods Dutch healthcare providers completed an adapted version of the Measurement Instrument for Determinants of Innovations questionnaire to identify barriers and facilitators. If ≥20% of participants responded with 'totally disagree/disagree', items were considered barriers and, if ≥80% responded with 'agree/totally agree', items were considered facilitators. Results A total of 271 healthcare providers participated. Five barriers and 23 facilitators were identified. Barriers included the time required to both prepare for and hold SDM conversations, in addition to the reflective period required to allow patients/relatives to make their final decision, and the number of parties required to ensure optimal SDM. Facilitators were related to patients' values, wishes and satisfaction, the importance of SDM for patients/relatives and the fact that SDM is not considered complex by healthcare providers, is considered to be part of routine care and is believed to be associated with positive patient outcomes. Conclusion Awareness of identified facilitators and barriers is an important step in expanding the use of SDM. Implementation strategies should be aimed at managing time constraints. High-quality evidence on outcomes of non-operative and operative management can enhance implementation of SDM to address current concerns around the outcomes.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=hch&amp;AN=158896358&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="2">
+  <header shortDbName="hch" longDbName="Health Source: Nursing/Academic Edition" uiTerm="158409144">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Age &amp; Ageing</jtl>
+        <issn>00020729</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2022" month="06" day="02">2022 Supplement</dt>
+        <vid>51</vid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1093/ageing/afac126.039</ui>
+        <ppf>1</ppf>
+        <ppct>1</ppct>
+        <lexile>1360</lexile>
+        <formats />
+        <tig>
+          <atl>986 IMMUNOSENESCENCE PROFILES AND MULTIPLE LONG-TERM CONDITIONS IN VERY OLD ADULTS: THE NEWCASTLE 85+ STUDY.</atl>
+        </tig>
+        <aug>
+          <au>Granic, A</au>
+          <au>Martin-Ruiz, C</au>
+          <au>Rimmer, L</au>
+          <au>Dodds, R M</au>
+          <au>Robinson, L</au>
+          <au>Spyridopoulos, I</au>
+          <au>Kirkwood, T B L</au>
+          <au>Zglinicki, T</au>
+          <au>Sayer, A A</au>
+          <affil>AGE Research Group, Newcastle University , UK</affil>
+          <affil>NIHR Newcastle Biomedical Research Centre, Newcastle University and Newcastle upon Tyne NHS Foundation Trust</affil>
+          <affil>Bioscience Institute, Newcastle University , UK</affil>
+          <affil>Population Health Sciences Institute, Newcastle University , UK</affil>
+        </aug>
+        <sug>
+          <subj type="unclass">IMMUNE system</subj>
+          <subj type="unclass">CONFERENCES &amp; conventions</subj>
+          <subj type="unclass">COMORBIDITY</subj>
+          <subj type="unclass">OLD age</subj>
+        </sug>
+        <ab>Introduction Immunosenescence, a decline in immune system function, has been linked to several age-related diseases and geriatric syndromes, including cardiovascular diseases and frailty. Very old adults (aged ≥85 years) live with multiple long-term conditions (MLTC) or multimorbidity—a complex phenomenon of poor health defined by either counts (≥2 diseases), indices, or patterns. However, little is known about the relationship between immunosenescence and MLTC in this age group. We utilised baseline data from the Newcastle 85+ Study to investigate the association between previously defined immunosenescence profilesa and MLTC. Method We used data from 703 participants who had multimorbidity and complete data for 16 chronic diseases and geriatric syndromes (i.e. analytic sample). MLTC counts were derived from the number of conditions and categorised into &lt;median and ≥ median MLTC groups. We used the SPSS Two Step clustering with all 16 conditions to define MLTC patterns. Two immunosenescence profiles ('Senescent-like phenotype' and 'Less senescent-like phenotype') were defined previously from 13 lymphocyte compartments. We used multivariable regression analyses to investigate the association between immunosenescence profiles and MLTC counts, groups, and patterns. Results In the analytic sample only 6.8% participants had 2 conditions, whilst 79.1% had 3–7, and 14.1% had ≥8 conditions, a median of 5, and 62.2% were in ≥median MLTC group. Three distinct MLTC patterns emerged by clustering: 'Low cardio-cerebro-metabolic diseases' (n = 209), 'High geriatric syndromes-arthritis' (n = 240), and 'Hypertensive-renal impairment' pattern, (n = 254). Having 'Senescent-like phenotype' characterised by higher frequency of CD4 and CD8 senescence-like effector memory cells and lower CD4/CD8 ratio was not significantly associated with either MLTC counts, ≥median MLTC group, or patterns compared with 'Less senescent phenotype'. Conclusion No cross-sectional associations between immunosenescence and MLTC were found in the very old. Further studies are needed to determine whether immunosenescence drives change in MLTC counts and patterns and influences MLTC burden in late adulthood.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=hch&amp;AN=158409144&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="3">
+  <header shortDbName="hch" longDbName="Health Source: Nursing/Academic Edition" uiTerm="158409173">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Age &amp; Ageing</jtl>
+        <issn>00020729</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2022" month="06" day="02">2022 Supplement</dt>
+        <vid>51</vid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1093/ageing/afac126.068</ui>
+        <ppf>1</ppf>
+        <ppct>1</ppct>
+        <lexile>1430</lexile>
+        <formats />
+        <tig>
+          <atl>1052 CLINICAL MEDICATION REVIEWS AND OPTIMISATION FOR INPATIENTS IDENTIFIED AS FRAIL ON THE ELDERLY CARE WARDS AT EAST LANCASHIRE HEALTH TRUST.</atl>
+        </tig>
+        <aug>
+          <au>Harborne, E</au>
+          <au>Singh, B</au>
+          <au>Fazeel, H</au>
+          <affil>Care of the Elderly Department; East Lancashire Healthcare Trust</affil>
+        </aug>
+        <sug>
+          <subj type="geo">ENGLAND</subj>
+          <subj type="unclass">FRAIL elderly</subj>
+          <subj type="unclass">HEALTH services administration</subj>
+          <subj type="unclass">MEDICATION error prevention</subj>
+          <subj type="unclass">CONFERENCES &amp; conventions</subj>
+          <subj type="unclass">HOSPITAL care of older people</subj>
+          <subj type="unclass">PATIENT care</subj>
+        </sug>
+        <ab>Introduction Inpatient medication review occurs daily on our elderly wards and NICE (clinical guideline NG5) advocates using a Stopp/Start tool. Polypharmacy and tablet burden are common issues in frail patients and medications should be under regular review. Evidence of these reviews can be laborious to identify in written notes, particularly for frail patients with complex discharges. We aimed to determine whether clinical medication reviews are documented clearly at ELHT and to improve this. Method Patients with a Rockwood frailty score of ≥6 were identified and inpatient notes and charts audited for written detail of medication reviews and drug changes, then compared to the trust Stopp/Start toolkit. Cycle 1 was prior to intervention. We then delivered clinical education on medication optimisation and prompted use of 'medications review' proforma on existing trust documents. Cycle 2 occurred after this, then following changeover of junior doctors educational sessions were repeated and cycle 3 data collected. Results 82% of all patients audited had altered medications with a mean hospital stay of 8 days. On cycle 1 65% of patients with altered medications had documentation to explain medication changes, on cycle 2 this improved to 88% and 72% on cycle 3. 92% of patients had a documented medication review (even if this involved no drug changes) at cycle 1 which improved to 100% on cycle 2 and remained at 92% on cycle 3. Both before and after intervention medications were appropriately rationalised or introduced. Conclusion We were already conducting regular reviews and optimising medications for frail patients. Prior to intervention there were inconsistencies on how this was documented. Through education and proforma for documentation this greatly improved, in turn improving communication and continuation of care on discharge. We are introducing electronic records to the trust and aim to include medication reviews into this system.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=hch&amp;AN=158409173&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="4">
+  <header shortDbName="hch" longDbName="Health Source: Nursing/Academic Edition" uiTerm="157756209">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Age &amp; Ageing</jtl>
+        <issn>00020729</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2022" month="06" day="01">Jun2022</dt>
+        <vid>51</vid>
+        <iid>6</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1093/ageing/afac134</ui>
+        <ppf>1</ppf>
+        <ppct>10</ppct>
+        <lexile>1230</lexile>
+        <formats />
+        <tig>
+          <atl>Decisions on antibiotic prescribing for suspected urinary tract infections in frail older adults: a qualitative study in four European countries.</atl>
+        </tig>
+        <aug>
+          <au>Hartman, Esther A R</au>
+          <au>Groen, Wim G</au>
+          <au>Heltveit-Olsen, Silje Rebekka</au>
+          <au>Lindbæk, Morten</au>
+          <au>Høye, Sigurd</au>
+          <au>Sundvall, Pär-Daniel</au>
+          <au>Skoglund, Ingmarie</au>
+          <au>Arnljots, Egill Snaebjörnsson</au>
+          <au>Gunnarsson, Ronny</au>
+          <au>Kowalczyk, Anna</au>
+          <au>Godycki-Cwirko, Maciek</au>
+          <au>Kosiek, Katarzyna</au>
+          <au>Platteel, Tamara N</au>
+          <au>Pol, Alma C van de</au>
+          <au>Verheij, Theo J M</au>
+          <au>Monnier, Annelie A</au>
+          <au>Hertogh, Cees M P M</au>
+          <affil>Department of Medicine for Older People, Amsterdam UMC, Vrije Universiteit Amsterdam , De Boelelaan 1117, Amsterdam , the Netherlands</affil>
+          <affil>Amsterdam Public Health Research Institute, Aging &amp; Later Life , Amsterdam , the Netherlands</affil>
+          <affil>Julius Center for Health Sciences and Primary Care, University Medical Center Utrecht, Utrecht University , Utrecht , the Netherlands</affil>
+          <affil>The Antibiotic Centre for Primary Care, Department of General Practice, Institute of Health and Society, University of Oslo , Oslo , Norway</affil>
+          <affil>General Practice/Family Medicine, School of Public Health and Community Medicine, Institute of Medicine, Sahlgrenska Academy, University of Gothenburg , Gothenburg , Sweden</affil>
+          <affil>Research, Education, Development &amp; Innovation, Primary Health Care, Region Västra Götaland , Sweden</affil>
+          <affil>Primary Health Care Clinic for Homeless People , Närhälsan, Region Västra Götaland , Sweden</affil>
+          <affil>Centre for Family and Community Medicine, the Faculty of Health Sciences, The Medical University of Lodz , Lodz , Poland</affil>
+          <affil>Family Doctors' Clinic , Lodz , Poland</affil>
+        </aug>
+        <sug>
+          <subj type="geo">NETHERLANDS</subj>
+          <subj type="geo">SWEDEN</subj>
+          <subj type="geo">NORWAY</subj>
+          <subj type="geo">POLAND</subj>
+          <subj type="geo">EUROPE</subj>
+          <subj type="unclass">ANTIBIOTICS</subj>
+          <subj type="unclass">ANTIMICROBIAL stewardship</subj>
+          <subj type="unclass">RESEARCH</subj>
+          <subj type="unclass">CAREGIVER attitudes</subj>
+          <subj type="unclass">URINARY tract infections</subj>
+          <subj type="unclass">RESEARCH methodology</subj>
+          <subj type="unclass">INTERVIEWING</subj>
+          <subj type="unclass">PHYSICIANS' attitudes</subj>
+          <subj type="unclass">QUALITATIVE research</subj>
+          <subj type="unclass">TREATMENT effectiveness</subj>
+          <subj type="unclass">PATIENTS' attitudes</subj>
+          <subj type="unclass">HOSPITAL nursing staff</subj>
+          <subj type="unclass">DECISION making in clinical medicine</subj>
+          <subj type="unclass">OLD age</subj>
+        </sug>
+        <ab>Background a suspected urinary tract infection (UTI) is the most common reason to prescribe antibiotics in a frail older patient. Frequently, antibiotics are prescribed unnecessarily. To increase appropriate antibiotic use for UTIs through antibiotic stewardship interventions, we need to thoroughly understand the factors that contribute to these prescribing decisions. Objectives (1) to obtain insight into factors contributing to antibiotic prescribing for suspected UTIs in frail older adults. (2) To develop an overarching model integrating these factors to guide the development of antibiotic stewardship interventions for UTIs in frail older adults. Methods we conducted an exploratory qualitative study with 61 semi-structured interviews in older adult care settings in Poland, the Netherlands, Norway and Sweden. We interviewed physicians, nursing staff, patients and informal caregivers. Results participants described a chain of decisions by patients, caregivers and/or nursing staff preceding the ultimate decision to prescribe antibiotics by the physician. We identified five themes of influence: (1) the clinical situation and its complexity within the frail older patient, (2) diagnostic factors, such as asymptomatic bacteriuria, (3) knowledge (gaps) and attitude, (4) communication: interprofessional, and with patients and relatives and (5) context and organisation of care, including factors such as availability of antibiotics (over the counter), antibiotic stewardship efforts and factors concerning out-of-hours care. Conclusions decision-making on suspected UTIs in frail older adults is a complex, multifactorial process. Due to the diverse international setting and stakeholder variety, we were able to provide a comprehensive overview of factors to guide the development of antibiotic stewardship interventions.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=hch&amp;AN=157756209&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="5">
+  <header shortDbName="hch" longDbName="Health Source: Nursing/Academic Edition" uiTerm="157756197">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Age &amp; Ageing</jtl>
+        <issn>00020729</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2022" month="06" day="01">Jun2022</dt>
+        <vid>51</vid>
+        <iid>6</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1093/ageing/afac111</ui>
+        <ppf>1</ppf>
+        <ppct>13</ppct>
+        <lexile>1310</lexile>
+        <formats />
+        <tig>
+          <atl>Kidney transplantation or dialysis in older adults—an interview study on the decision-making process.</atl>
+        </tig>
+        <aug>
+          <au>Schoot, Tessa S</au>
+          <au>Perry, Marieke</au>
+          <au>Hilbrands, Luuk B</au>
+          <au>Marum, Rob J van</au>
+          <au>Kerckhoffs, Angèle P M</au>
+          <affil>Department of Nephrology, Radboud Institute for Health Sciences, Radboud university medical center , Nijmegen , the Netherlands</affil>
+          <affil>Department of Nephrology, 's-Hertogenbosch, Jeroen Bosch Hospital , the Netherlands</affil>
+          <affil>Department of Geriatric Medicine, Radboud university medical center , Nijmegen , the Netherlands</affil>
+          <affil>Department of Geriatric Medicine, 's-Hertogenbosch, Jeroen Bosch Hospital , the Netherlands</affil>
+          <affil>Department of Clinical Pharmacology, 's-Hertogenbosch, Jeroen Bosch Hospital , the Netherlands</affil>
+          <affil>Department of Elderly Care Medicine, Amsterdam University Medical Center , the Netherlands</affil>
+        </aug>
+        <sug>
+          <subj type="unclass">CHRONIC kidney failure</subj>
+          <subj type="unclass">EVALUATION of medical care</subj>
+          <subj type="unclass">GLOMERULAR filtration rate</subj>
+          <subj type="unclass">LIFE expectancy</subj>
+          <subj type="unclass">RESEARCH methodology</subj>
+          <subj type="unclass">SOCIAL workers</subj>
+          <subj type="unclass">KIDNEY transplantation</subj>
+          <subj type="unclass">INTERVIEWING</subj>
+          <subj type="unclass">DECISION making</subj>
+          <subj type="unclass">DISEASE prevalence</subj>
+          <subj type="unclass">NURSES</subj>
+          <subj type="unclass">QUALITY of life</subj>
+          <subj type="unclass">HEMODIALYSIS</subj>
+          <subj type="unclass">THEMATIC analysis</subj>
+          <subj type="unclass">COMORBIDITY</subj>
+          <subj type="unclass">OLD age</subj>
+        </sug>
+        <ab>Background In older patients with end-stage kidney disease (ESKD), the choice between kidney transplantation (KT) and dialysis may be more complex than in younger patients because of a higher prevalence of comorbidities and frailty. This study aims to provide greater insight into the current decision-making process by exploring the expectations, experiences and health outcome priorities of all stakeholders. Methods We performed semi-structured interviews with patients ≥65 years with ESKD (eGFR &lt;15 ml/min/1.73m2, KT recipient or treated with dialysis), patients' relatives and healthcare professionals (nephrologists, nurses and medical social workers). Interviews were conducted until data saturation and thematically analysed. Results We performed 36 interviews (patients n  = 18, relatives n  = 5, healthcare professionals n  = 13). Thematic analysis revealed five themes. Older patients' health outcome priorities were mostly related to quality of life (QOL). Individual older patients showed marked differences in the preferred level of engagement during the decision-making process (varying from 'wants to be in the lead' to 'follows the nephrologist') and in informational needs (varying from evidence-based to experience-based). On the contrary, healthcare professionals were quite unanimous on all aspects. They focused on determining eligibility for KT as start of the decision-making process, on clear and extensive information provision and on classical, medical outcomes. Conclusions The decision-making process could benefit from early identification of older patients' values, needs and health outcome priorities, in parallel with assessment of KT eligibility and before discussing the treatment options, and the explicit use of this information in further steps of the decision-making process.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=hch&amp;AN=157756197&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="6">
+  <header shortDbName="hch" longDbName="Health Source: Nursing/Academic Edition" uiTerm="157112019">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Neurogastroenterology &amp; Motility</jtl>
+        <issn>13501925</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2022" month="06" day="01">Jun2022</dt>
+        <vid>34</vid>
+        <iid>6</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1111/nmo.14352</ui>
+        <ppf>1</ppf>
+        <ppct>6</ppct>
+        <lexile>1980</lexile>
+        <formats />
+        <tig>
+          <atl>Aging of enteric neuromuscular systems in gastrointestinal tract.</atl>
+        </tig>
+        <aug>
+          <au>Nguyen, Vy Truong Thuy</au>
+          <au>Taheri, Negar</au>
+          <au>Chandra, Abhishek</au>
+          <au>Hayashi, Yujiro</au>
+          <affil>Enteric Neuroscience Program and Department of Physiology and Biomedical Engineering, Mayo Clinic College of Medicine, Rochester Minnesota,, USA</affil>
+          <affil>Gastroenterology Research Unit, Mayo Clinic College of Medicine, Rochester Minnesota,, USA</affil>
+          <affil>Division of Geriatric Medicine and Gerontology, Department of Medicine, Mayo Clinic College of Medicine, Rochester Minnesota,, USA</affil>
+          <affil>Robert and Arlene Kogod Center on Aging, Mayo Clinic College of Medicine, Rochester Minnesota,, USA</affil>
+        </aug>
+        <sug>
+          <subj type="unclass">NEUROMUSCULAR system</subj>
+          <subj type="unclass">GASTROINTESTINAL system</subj>
+          <subj type="unclass">INTERSTITIAL cells</subj>
+          <subj type="unclass">GASTROESOPHAGEAL reflux</subj>
+          <subj type="unclass">FECAL incontinence</subj>
+          <subj type="unclass">PRESBYCUSIS</subj>
+        </sug>
+        <ab>Background: Aging is a complex biological process and associated with a progressive decline in functions of most organs including the gastrointestinal (GI) tract. Age‐related GI motor disorders/dysfunctions include esophageal reflux, dysphagia, constipation, fecal incontinence, reduced compliance, and accommodation. Although the incidence and severity of these diseases and conditions increase with age, they are often underestimated due in part to nonspecific and variable symptoms and lack of sufficient medical attention. They negatively affect quality of life and predispose the elderly to other diseases, sarcopenia, and frailty. The mechanisms underlying aging‐associated GI dysfunctions remain unclear, and there is limited data examining the effect of aging on GI motor functions. Many studies on aging‐associated changes to cells within the tunica muscularis including enteric neurons, smooth muscles, and interstitial cells have proposed that cell loss and/or molecular changes may be involved in the pathogenesis of age‐related GI motor disorders/dysfunctions. There is also evidence that the aging contributes to phenotypic changes in innate immune cells, which are physically and functionally linked to other cells in the tunica muscularis and can alter GI (patho) physiology. However, various patterns of changes have been reported, some of which are contradictory, indicating a need for additional work in this area. Purpose: Although GI infection due to intestinal bacterial overgrowth, bleeding, and cancers are also important and common problems in the elderly patients, this mini‐review focuses on data obtained from enteric neuromuscular aging research with the goal of better understanding the cellular and molecular mechanisms of enteric neuromuscular aging to enhance future therapy.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=hch&amp;AN=157112019&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="7">
+  <header shortDbName="hch" longDbName="Health Source: Nursing/Academic Edition" uiTerm="157263551">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Age &amp; Ageing</jtl>
+        <issn>00020729</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2022" month="05" day="01">May2022</dt>
+        <vid>51</vid>
+        <iid>5</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1093/ageing/afab282</ui>
+        <ppf>1</ppf>
+        <ppct>9</ppct>
+        <lexile>1480</lexile>
+        <formats />
+        <tig>
+          <atl>Clinical trials in older people.</atl>
+        </tig>
+        <aug>
+          <au>Pitkala, Kaisu H</au>
+          <au>Strandberg, Timo E</au>
+          <affil>University of Helsinki , Department of General Practice and Helsinki University Hospital, Unit of Primary Health Care. PO Box 20, 00014 University of Helsinki, Finland</affil>
+          <affil>University of Helsinki , Department of Medicine, and Helsinki University Hospital, PO Box 340, FI-00029 HUS, Finland</affil>
+          <affil>University of Oulu , Center for Life Course Health Research, Oulu, Finland</affil>
+        </aug>
+        <sug>
+          <subj type="unclass">HUMAN research subjects</subj>
+          <subj type="unclass">CLINICAL trials</subj>
+          <subj type="unclass">PATIENT participation</subj>
+          <subj type="unclass">SOCIAL support</subj>
+          <subj type="unclass">PATIENT selection</subj>
+          <subj type="unclass">RESEARCH bias</subj>
+          <subj type="unclass">OLD age</subj>
+        </sug>
+        <ab>Randomised controlled trials (RCTs) usually provide the best evidence for treatments and management. Historically, older people have often been excluded from clinical medication trials due to age, multimorbidity and disabilities. The situation is improving, but still the external validity of many trials may be questioned. Individuals participating in trials are generally less complex than many patients seen in geriatric clinics. Recruitment and retention of older participants are particular challenges in clinical trials. Multiple channels are needed for successful recruitment, and especially individuals experiencing frailty, multimorbidity and disabilities require support to participate. Cognitive decline is common, and often proxies are needed to sign informed consent forms. Older people may fall ill or become tired during the trial, and therefore, special support and empathic study personnel are necessary for the successful retention of participants. Besides the risk of participants dropping out, several other pitfalls may result in underestimating or overestimating the intervention effects. In nonpharmacological trials, imperfect blinding is often unavoidable. Interventions must be designed intensively and be long enough to reveal differences between the intervention and control groups, as control participants must still receive the best normal care available. Outcome measures should be relevant to older people, sensitive to change and targeted to the specific population in the trial. Missing values in measurements are common and should be accounted for when designing the trial. Despite the obstacles, RCTs in geriatrics must be promoted. Reliable evidence is needed for the successful treatment, management and care of older people.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=hch&amp;AN=157263551&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="8">
+  <header shortDbName="hch" longDbName="Health Source: Nursing/Academic Edition" uiTerm="156704353">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>British Journal of Community Nursing</jtl>
+        <issn>14624753</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2022" month="05" day="01">May2022</dt>
+        <vid>27</vid>
+        <iid>5</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.12968/bjcn.2022.27.5.226</ui>
+        <ppf>226</ppf>
+        <ppct>5</ppct>
+        <lexile>1530</lexile>
+        <formats />
+        <tig>
+          <atl>The role of the district nurse in screening and assessment for frailty.</atl>
+        </tig>
+        <aug>
+          <au>Horner, Ruth Louise</au>
+          <affil>Oldham NHS Trust, Northern Care Alliance, Oldham, United Kingdom</affil>
+        </aug>
+        <sug>
+          <subj type="unclass">OCCUPATIONAL roles</subj>
+          <subj type="unclass">FRAIL elderly</subj>
+          <subj type="unclass">NUTRITIONAL assessment</subj>
+          <subj type="unclass">MEDICAL screening</subj>
+          <subj type="unclass">COMMUNITY health services</subj>
+          <subj type="unclass">PATIENT-centered care</subj>
+          <subj type="unclass">GERIATRIC nursing</subj>
+          <subj type="unclass">NURSES</subj>
+          <subj type="unclass">INTEGRATED health care delivery</subj>
+          <subj type="unclass">COMMUNITY health nursing</subj>
+        </sug>
+        <ab>An ageing population is leading to greater demands on healthcare services; investments are being made to allow complex care to be given in patient's homes by community care staff, as highlighted in the NHS Long Term Plan (2019). Frailty is often identified in secondary care when acute crisis is hit; frailty does not suddenly occur and will happen over time. This article aims to explore community screening, the assessment processes of frailty and the role the district nurse has. It also addresses how working collaboratively with the wider multidisciplinary team to earlier identify service users with frailty can assist in improving patient outcomes by empowering and supporting service users to remain at home. Recognising continual improvement to service users' care and changes in practice should be considered and disseminated. based upon best available evidence.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=hch&amp;AN=156704353&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="9">
+  <header shortDbName="hch" longDbName="Health Source: Nursing/Academic Edition" uiTerm="156251798">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Health &amp; Social Care in the Community</jtl>
+        <issn>09660410</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2022" month="05" day="01">May2022</dt>
+        <vid>30</vid>
+        <iid>3</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1111/hsc.13450</ui>
+        <ppf>e804</ppf>
+        <ppct>8</ppct>
+        <lexile>1320</lexile>
+        <formats />
+        <tig>
+          <atl>Social care costs for community‐dwelling older people living with frailty.</atl>
+        </tig>
+        <aug>
+          <au>Nikolova, Silviya</au>
+          <au>Heaven, Anne</au>
+          <au>Hulme, Claire</au>
+          <au>West, Robert</au>
+          <au>Pendleton, Neil</au>
+          <au>Humphrey, Sara</au>
+          <au>Cundill, Bonnie</au>
+          <au>Clegg, Andrew</au>
+          <affil>Academic Unit of Health Economics, Leeds Institute of Health Sciences, University of Leeds, Leeds, UK</affil>
+          <affil>Academic Unit of Ageing and Stroke Research, Bradford Institute for Health Research, Bradford Teaching Hospital NHS Foundation Trust, Bradford, UK</affil>
+          <affil>Health Economics Group, Institute of Health Research, University of Exeter, Exeter, UK</affil>
+          <affil>Division of Health Research, University of Leeds, Leeds, UK</affil>
+          <affil>Division of Neuroscience and Experimental Psychology, Faculty of Biology, Medicine and Health, School of Biological Sciences, Manchester Academic Health Science Centre, Salford Royal NHS Hospital, University of Manchester, Manchester, UK</affil>
+          <affil>GP Partner North Street Surgery, Partner Affinity Care, GP with a Special Interest in Older People‐BTHFT Clinical Specialty Lead Older People &amp; Stroke BDCCG/BCCCG/AWC CCG Medical Director Westcliffe Health Innovations GP Advisor Yorkshire &amp; Humber Dementia CN and Member of Older People's Mental Health Expert Advisory Group Honorary Visiting Research Fellow Bradford University School of Dementia Studies, Bradford, UK</affil>
+          <affil>Clinical Trials Research Unit, Leeds Institute of Clinical Trials Research, University of Leeds, Leeds, UK</affil>
+          <affil>Academic Unit of Ageing and Stroke Research, University of Leeds, Leeds, UK</affil>
+          <affil>Bradford Teaching Hospital NHS Foundation Trust, Bradford, UK</affil>
+        </aug>
+        <sug>
+          <subj type="geo">ENGLAND</subj>
+          <subj type="unclass">FRAIL elderly</subj>
+          <subj type="unclass">AGE distribution</subj>
+          <subj type="unclass">MEDICAL care costs</subj>
+          <subj type="unclass">REGRESSION analysis</subj>
+          <subj type="unclass">SEX distribution</subj>
+          <subj type="unclass">INDEPENDENT living</subj>
+          <subj type="unclass">AGING</subj>
+          <subj type="unclass">COST analysis</subj>
+          <subj type="unclass">DESCRIPTIVE statistics</subj>
+          <subj type="unclass">SECONDARY analysis</subj>
+          <subj type="unclass">LONGITUDINAL method</subj>
+        </sug>
+        <ab>International evidence indicates that older people with frailty are more likely to access social care services, compared to nonfrail older people. There is, however, no robust evidence on costs of social care provided for community‐dwelling older people living with frailty in their own homes. The main objective of this study was to examine the relationship between community‐dwelling older people living with frailty, defined using the cumulative deficit model, and annual formal social care costs for the 2012–2018 period. A secondary objective was to estimate formal social care spending for every 1% reduction in the number of older people who develop frailty over 1 year. Secondary analysis of prospective cohort data from two large nationally representative community‐based cohort studies in England was performed. Respondents aged ≥75 were used in the main analysis and respondents aged 65–74 in sensitivity testing. We used regression tree modelling for formal social care cost analysis including frailty, age, gender, age at completing education and living with partner as key covariates. We employed a minimum node size stopping criteria to limit tree complexity and overfitting and applied 'bootstrap aggregating' to improve robustness. We assessed the impact of an intervention for every 1% decrease in the number of individuals who become frail over 1 year in England. Results show that frailty is the strongest predictor of formal social care costs. Mean social care costs for people who are not frail are £321, compared with £2,895 for individuals with frailty. For every 1% of nonfrail people not transitioning to frailty savings of £4.4 million in annual expenditures on formal social care in England are expected, not including expenditure on care homes. Given considerably higher costs for individuals classed as frail compared to nonfrail, a successful intervention avoiding or postponing the onset of frailty has the potential to considerably reduce social care costs.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=hch&amp;AN=156251798&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="10">
+  <header shortDbName="hch" longDbName="Health Source: Nursing/Academic Edition" uiTerm="156646887">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Age &amp; Ageing</jtl>
+        <issn>00020729</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2022" month="04" day="01">Apr2022</dt>
+        <vid>51</vid>
+        <iid>4</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1093/ageing/afac090</ui>
+        <ppf>1</ppf>
+        <ppct>10</ppct>
+        <lexile>1550</lexile>
+        <formats />
+        <tig>
+          <atl>New horizons in evidence-based care for older people: individual participant data meta-analysis.</atl>
+        </tig>
+        <aug>
+          <au>Clegg, Andrew</au>
+          <au>Bandeen-Roche, Karen</au>
+          <au>Farrin, Amanda</au>
+          <au>Forster, Anne</au>
+          <au>Gill, Thomas M</au>
+          <au>Gladman, John</au>
+          <au>Kerse, Ngaire</au>
+          <au>Lindley, Richard</au>
+          <au>McManus, Richard J</au>
+          <au>Melis, Rene</au>
+          <au>Mujica-Mota, Ruben</au>
+          <au>Raina, Parminder</au>
+          <au>Rockwood, Kenneth</au>
+          <au>Teh, Ruth</au>
+          <au>van der Windt, Danielle</au>
+          <au>Witham, Miles</au>
+          <affil>Academic Unit for Ageing &amp; Stroke Research , University of Leeds, Bradford Teaching Hospitals NHS Foundation Trust, Bradford, UK</affil>
+          <affil>Department of Biostatistics , Johns Hopkins University Bloomberg School of Public Health, Baltimore, MD, USA</affil>
+          <affil>Leeds Institute for Clinical Trials Research , University of Leeds, Leeds, UK</affil>
+          <affil>Yale School of Medicine , Yale University, New Haven, CT, USA</affil>
+          <affil>University of Nottingham , Nottingham, UK</affil>
+          <affil>Department of General Practice and Primary Health Care , University of Auckland School of Population Health, Auckland, New Zealand</affil>
+          <affil>Sydney Medical School , University of Sydney, Sydney, Australia</affil>
+          <affil>Nuffield Department of Primary Care Health Sciences , University of Oxford, Oxford, UK</affil>
+          <affil>Radboud UMC , Nijmegen, Netherlands</affil>
+          <affil>Academic Unit of Health Economics , Leeds Institute of Health Sciences, University of Leeds, Leeds, UK</affil>
+          <affil>Department of Health Evidence and Impact &amp; McMaster Institute for Research on Aging , Faculty of Health Sciences, McMaster University, Hamilton, Canada</affil>
+          <affil>Division of Geriatric Medicine , Dalhousie University, Halifax, Canada</affil>
+          <affil>School of Medicine , Keele University, Keele, UK</affil>
+          <affil>AGE Research Group , Newcastle University, Newcastle, UK</affil>
+        </aug>
+        <sug>
+          <subj type="unclass">HEART failure treatment</subj>
+          <subj type="unclass">TREATMENT of diabetes</subj>
+          <subj type="unclass">PROFESSIONAL practice</subj>
+          <subj type="unclass">HYPERTENSION</subj>
+          <subj type="unclass">META-analysis</subj>
+          <subj type="unclass">CONFIDENCE intervals</subj>
+          <subj type="unclass">FRAIL elderly</subj>
+          <subj type="unclass">GERIATRICS</subj>
+          <subj type="unclass">EVIDENCE-based medicine</subj>
+          <subj type="unclass">ACCIDENTAL falls</subj>
+          <subj type="unclass">ELDER care</subj>
+        </sug>
+        <ab>Evidence-based decisions on clinical and cost-effectiveness of interventions are ideally informed by meta-analyses of intervention trial data. However, when undertaken, such meta-analyses in ageing research have typically been conducted using standard methods whereby summary (aggregate) data are extracted from published trial reports. Although meta-analysis of aggregate data can provide useful insights into the average effect of interventions within a selected trial population, it has limitations regarding robust conclusions on which subgroups of people stand to gain the greatest benefit from an intervention or are at risk of experiencing harm. Future evidence synthesis using individual participant data from ageing research trials for meta-analysis could transform understanding of the effectiveness of interventions for older people, supporting evidence-based and sustainable commissioning. A major advantage of individual participant data meta-analysis (IPDMA) is that it enables examination of characteristics that predict treatment effects, such as frailty, disability, cognitive impairment, ethnicity, gender and other wider determinants of health. Key challenges of IPDMA relate to the complexity and resources needed for obtaining, managing and preparing datasets, requiring a meticulous approach involving experienced researchers, frequently with expertise in designing and analysing clinical trials. In anticipation of future IPDMA work in ageing research, we are establishing an international Ageing Research Trialists collective, to bring together trialists with a common focus on transforming care for older people as a shared ambition across nations.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=hch&amp;AN=156646887&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="11">
+  <header shortDbName="hch" longDbName="Health Source: Nursing/Academic Edition" uiTerm="156110075">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Age &amp; Ageing</jtl>
+        <issn>00020729</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2022" month="03" day="02">2022 Supplement</dt>
+        <vid>51</vid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1093/ageing/afac034.699</ui>
+        <ppf>1</ppf>
+        <ppct>1</ppct>
+        <lexile>1560</lexile>
+        <formats />
+        <tig>
+          <atl>699 EMBEDDING A FRAILTY TEAM AND UNIT INTO WYTHENSHAWE HOSPITAL'S EMERGENCY DEPARTMENT.</atl>
+        </tig>
+        <aug>
+          <au>Bruce, S S</au>
+          <au>Saunders, D</au>
+          <au>Mallouppa, E</au>
+          <affil>Wythenshawe Hospital, OPAL team, Manchester Foundation Trust</affil>
+        </aug>
+        <sug>
+          <subj type="unclass">HOSPITAL emergency services</subj>
+          <subj type="unclass">FRAIL elderly</subj>
+          <subj type="unclass">CONFERENCES &amp; conventions</subj>
+          <subj type="unclass">ELDER care</subj>
+        </sug>
+        <ab>Introduction Evaluation of Wythenshawe Hospital's Acute Frailty Service in January–June 2019 demonstrated slow referrals times and poor identification of frail patients due to inaccurate Clinical Frailty Scoring (CFS) at emergency department triage. This project presents the results of ongoing quality assessment of our service between June 2019–January 2021, following two quality improvement (QI) interventions. Aims: To evaluate our service's ability to deliver early identification and intervention for complex frail patients via Complex Geriatric Assessment (CGA), as set out in National and Regional Frailty standards.(1,2). -To improve and maintain better outcomes for patients accessing our frailty service. Method Intervention1 (July'19): Specialist frailty nurses relocated to ED. Dedicated frailty clinical fellows and Consultant geriatrician input 0900–1700 weekdays. Intervention2 (Sep'20): Short-stay frailty unit opened. Junior clinical fellow cover increased (0900–1900 weekdays and 0900–1700 weekends). 299 patients seen at intervals between Jun'19-Jan'21 analysed using electronic records and completed CGA proformas. Results Pre-intervention Intervention1 Intervention2 June'19(n = 22) July'19(n = 198) Nov'19(n = 25) Sep'20(n = 26) Jan'21(n = 28) Time from triage-to-CGA (mins) (CI 95%)* 372.0 ± 178.2 56.0 83.4 ± 31.0 72.9 ± 35.7 48.4 ± 20.0 Discharge(%): Same day 22.7 39.4 21.7 36.0 25.0 &lt; 72 hr(cumulative) 72.7 63.6 47.8 68.0 57.1 Ave. length of stay(days)(CI95%) 10.4 ± 5.9 20.6 20.0 ± 8.7 7.1 ± 3.4 5.4 ± 2.1 Readmission &lt;30 days(%) 30.0 9.0 17.4 12.5 25.0 CGA Quality(%) CFS completion 100 96.0100 89.3 ReSPECT discussion 29.3 64.0 61.5 67.9 Full medication review 46.5 96.0 80.8 89.3 Therapy assessment 85.5 92.0 92.3 89.3 *patients triaged between 0800–1700. Conclusion Since Intervention1, Wythenshawe frailty service has sustained a reduction in triage-to-CGA time, maintained high percentages of same-day and &lt; 72 hr discharges, and sustained high rates of CFS completion and therapy assessments. Following intervention2, average length of stay reduced. Increased readmission rates in Jan'21 were impacted by COVID-19. Additional interventions targeted at reducing readmission rates and increasing ReSPECT discussions should be implemented. 1. Greater Manchester Frailty Collaborative and Network, 2019. 2. Same-day acute frailty service, NHS improvement, 2019.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=hch&amp;AN=156110075&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="12">
+  <header shortDbName="hch" longDbName="Health Source: Nursing/Academic Edition" uiTerm="156110052">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Age &amp; Ageing</jtl>
+        <issn>00020729</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2022" month="03" day="02">2022 Supplement</dt>
+        <vid>51</vid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1093/ageing/afac037.664</ui>
+        <ppf>1</ppf>
+        <ppct>1</ppct>
+        <lexile>1300</lexile>
+        <formats />
+        <tig>
+          <atl>664 EXPLORING THE FEASIBILITY OF THE INTERRAI CHECK-UP FORM (SELF-REPORTED) IN OLDER PEOPLE LIVING WITH FRAILTY IN THE COMMUNITY.</atl>
+        </tig>
+        <aug>
+          <au>Rajpara, M K</au>
+          <au>Wilson, C</au>
+          <au>Gordon, A L</au>
+          <au>Cowley, A</au>
+          <affil>School of Medicine, University of Nottingham; School of Medicine, University of Nottingham; School of Medicine, University of Nottingham. University Hospitals of Derby and Burton NHS Foundation Trust. NIHR Applied Research Collaboration East Midlands (ARC-EM), Nottingham; Nottingham University Hospitals NHS Trust</affil>
+        </aug>
+        <sug>
+          <subj type="unclass">FRAIL elderly</subj>
+          <subj type="unclass">SELF-evaluation</subj>
+          <subj type="unclass">CONFERENCES &amp; conventions</subj>
+          <subj type="unclass">NATIONAL health services</subj>
+          <subj type="unclass">HOLISTIC medicine</subj>
+          <subj type="unclass">INDEPENDENT living</subj>
+          <subj type="unclass">NEEDS assessment</subj>
+          <subj type="unclass">MEDICAL needs assessment</subj>
+        </sug>
+        <ab>Introduction Identifying the holistic needs of community dwelling older people is an essential component of clinical care. Current assessment instruments are limited by a narrow medical view and varied language use, referring to identical clinical concepts in different ways. The interRAI family of assessments have been designed to integrate health information across multiple settings. The interRAI Check-Up (Self-Reported) was designed to support the management of older adults with multi-morbidities in the community setting but has not yet been widely tested in clinical practice in the United Kingdom. Objectives To investigate the extent to which the self-reported interRAI Check-Up tool could be used to assess older patients within the NHS. Methods Patients attending two outpatient clinics were recruited to complete the interRAI Check-Up which comprised of 109 items. Time taken for tool completion and prompts needed were recorded. Patient and individual item completion rates were calculated and assessed for floor or ceiling effects. Patient views on completing the tool were collected as field notes. Clinic staff completed a questionnaire exploring their views of the tool. Thematic analysis was carried out on patient and staff data. Results From 43 patient participants, the median time for tool completion was 25 minutes. The median patient completion rate was 96.6% and item completion rate was 97.1%. Of 105 analysed items, 55 items showed a ceiling or floor effect. The tool was found to comprehensively cover holistic needs but its length and complexity of structure was found to be a barrier during busy clinical practice. Conclusion The Self-reported interRAI Check-Up tool was found to be feasible for use in the outpatient setting. Further research into which patient groups and locations would benefit most is recommended as well as how to practically implement the assessment into clinical practice within the NHS.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=hch&amp;AN=156110052&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="13">
+  <header shortDbName="hch" longDbName="Health Source: Nursing/Academic Edition" uiTerm="155957976">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Journal of Aging &amp; Health</jtl>
+        <issn>08982643</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2022" month="03" day="01">Mar2022</dt>
+        <vid>34</vid>
+        <iid>2</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1177/08982643211039637</ui>
+        <ppf>221</ppf>
+        <ppct>12</ppct>
+        <lexile>1370</lexile>
+        <formats />
+        <tig>
+          <atl>Retirement? Other Ways Out of the Labour Market Are Far More Worrying for Health: Results from a Matching Approach Study.</atl>
+        </tig>
+        <aug>
+          <au>Pirani, Elena</au>
+          <au>De Santis, Gustavo</au>
+          <au>Zanasi, Francesca</au>
+          <affil>9300 University of Florence, Firenze, Italy</affil>
+          <affil>9295 University of Bari, Bari, Italy</affil>
+        </aug>
+        <sug>
+          <subj type="geo">EUROPE</subj>
+          <subj type="unclass">UNEMPLOYMENT</subj>
+          <subj type="unclass">SELF-evaluation</subj>
+          <subj type="unclass">FAMILIES</subj>
+          <subj type="unclass">CASE-control method</subj>
+          <subj type="unclass">HEALTH status indicators</subj>
+          <subj type="unclass">SURVEYS</subj>
+          <subj type="unclass">SOCIOECONOMIC factors</subj>
+          <subj type="unclass">AGING</subj>
+          <subj type="unclass">RETIREMENT</subj>
+          <subj type="unclass">LABOR market</subj>
+          <subj type="unclass">LONGITUDINAL method</subj>
+        </sug>
+        <ab>Objective: Despite a growing body of research, the effects of retirement on health are not clear. The study explores the role played by the path out of the labour market (formal retirement vs. unemployment or family reasons), accounting for individual heterogeneity. Methods: Propensity score matching approach is employed on longitudinal data from the Survey of Health, Ageing and Retirement in Europe (2004–2015). Results: While health does not change significantly for those who formally retire, it worsens considerably for those who leave the labour market for other reasons. Moreover, health outcomes turn out to be highly heterogeneous, depending on individual socio-economic and job-related characteristics. Discussion: Leaving the labour market in one's mature years is a complex transition. Future research should focus on understanding and combating the causes of premature exit from the labour market, a relevant concern both in economic terms and on health grounds, in the light of our results.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=hch&amp;AN=155957976&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="14">
+  <header shortDbName="hch" longDbName="Health Source: Nursing/Academic Edition" uiTerm="155106323">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Journal of the American Geriatrics Society</jtl>
+        <issn>00028614</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2022" month="02" day="01">Feb2022</dt>
+        <vid>70</vid>
+        <iid>2</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1111/jgs.17517</ui>
+        <ppf>522</ppf>
+        <ppct>9</ppct>
+        <lexile>1680</lexile>
+        <formats />
+        <tig>
+          <atl>Leveraging survey and claims data to identify high‐need Medicare beneficiaries in the National Health and Aging Trends Study.</atl>
+        </tig>
+        <aug>
+          <au>Tucher, Emma</au>
+          <au>Keeney, Tamra</au>
+          <au>Bélanger, Emmanuelle</au>
+          <affil>Department of Health Services, Policy, and Practice, Brown University School of Public Health, Providence Rhode Island,, USA</affil>
+          <affil>Division of Palliative Care and Geriatric Medicine, Department of Medicine, Massachusetts General Hospital, Boston Massachusetts,, USA</affil>
+          <affil>Mongan Institute Center for Aging and Serious Illness, Massachusetts General Hospital, Boston Massachusetts,, USA</affil>
+          <affil>Center for Gerontology and Health Care Research, Brown University School of Public Health, Providence Rhode Island,, USA</affil>
+        </aug>
+        <sug>
+          <subj type="unclass">MEDICARE beneficiaries</subj>
+          <subj type="unclass">OLDER patients</subj>
+          <subj type="unclass">HEALTH of older people</subj>
+          <subj type="unclass">MEDICAL care for older people</subj>
+          <subj type="unclass">FEE for service (Medical fees)</subj>
+          <subj type="unclass">FRAIL elderly</subj>
+          <subj type="unclass">RESEARCH evaluation</subj>
+          <subj type="unclass">MORTALITY</subj>
+          <subj type="unclass">HEALTH outcome assessment</subj>
+          <subj type="unclass">RETROSPECTIVE studies</subj>
+          <subj type="unclass">ACTIVITIES of daily living</subj>
+          <subj type="unclass">MEDICAL care</subj>
+          <subj type="unclass">HEALTH insurance reimbursement</subj>
+          <subj type="unclass">SURVEYS</subj>
+          <subj type="unclass">AGING</subj>
+          <subj type="unclass">INDEPENDENT living</subj>
+          <subj type="unclass">HOSPITAL care</subj>
+          <subj type="unclass">DESCRIPTIVE statistics</subj>
+          <subj type="unclass">MEDICARE</subj>
+          <subj type="unclass">ALGORITHMS</subj>
+          <subj type="unclass">LONGITUDINAL method</subj>
+        </sug>
+        <ab>Background: Multiple algorithms have been developed to identify and characterize the high‐need (HN) Medicare population. However, they vary in components and yield different populations, and were developed for varying purposes. We compared the performance of existing survey and claims‐based definitions in identifying HN beneficiaries and predicting poor outcomes among a community‐dwelling population. Methods: A retrospective cohort study using Round 5 (2015) of the National Health and Aging Trends Study (NHATS) linked with Medicare claims. We applied HN definitions from previous studies to our cohort of community‐dwelling, fee‐for‐service beneficiaries (n = 4201) using sampling weights to obtain nationally representative estimates. The Bélanger et al. (2019) definition defines HN as individuals with complex conditions, multi‐morbidity, acute and post‐acute healthcare utilization, dependency in activities of daily living, and frailty. The Hayes et al. (2016) definition defines HN as individuals with 3+ chronic conditions and a functional limitation. We applied each definition to survey and claims data. Outcomes were hospitalization or mortality in the subsequent year. Results: The proportion of NHATS respondents classified as HN varied greatly across definitions, ranging from 3.1% using the claims‐based Hayes definition to 32.9% using the survey‐based Bélanger definition. HN respondents had significantly higher mortality and hospitalization rates in 2016. Although all definitions had good specificity, none were able to predict outcomes in the following year with good accuracy. Conclusions: While mortality and hospitalization rates were significantly higher among respondents classified as HN, existing claims and survey‐based HN definitions were not able to accurately predict future outcomes in a community‐dwelling, nationally representative sample measured by the area under the curve.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=hch&amp;AN=155106323&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="15">
+  <header shortDbName="hch" longDbName="Health Source: Nursing/Academic Edition" uiTerm="155241219">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Age &amp; Ageing</jtl>
+        <issn>00020729</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2022" month="01" day="01">Jan2022</dt>
+        <vid>51</vid>
+        <iid>1</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1093/ageing/afab189</ui>
+        <ppf>1</ppf>
+        <ppct>4</ppct>
+        <lexile>1410</lexile>
+        <formats />
+        <tig>
+          <atl>Healthcare for older people in Asia.</atl>
+        </tig>
+        <aug>
+          <au>Woo, Jean</au>
+        </aug>
+        <sug>
+          <subj type="geo">ASIA</subj>
+          <subj type="unclass">MEDICAL policy</subj>
+          <subj type="unclass">FRAIL elderly</subj>
+          <subj type="unclass">SOCIAL determinants of health</subj>
+          <subj type="unclass">ACTIVE aging</subj>
+          <subj type="unclass">CHARITY</subj>
+          <subj type="unclass">MEDICAL care for older people</subj>
+          <subj type="unclass">MEDICAL care</subj>
+          <subj type="unclass">COMMUNITY health services</subj>
+          <subj type="unclass">HEALTH insurance</subj>
+          <subj type="unclass">INTEGRATED health care delivery</subj>
+          <subj type="unclass">SOCIAL services</subj>
+          <subj type="unclass">ENDOWMENTS</subj>
+          <subj type="unclass">MEDICAL needs assessment</subj>
+          <subj type="unclass">DEPENDENCY (Psychology)</subj>
+          <subj type="unclass">LONG-term health care</subj>
+          <subj type="unclass">ELDER care</subj>
+          <subj type="unclass">COVID-19 pandemic</subj>
+        </sug>
+        <ab>Populations in Asian developed economies are rapidly ageing, such that, currently, Hong Kong and Japan have the longest life expectancy at birth for both men and women. However, extended lifespan is not necessarily accompanied by prolongation of health span, such that there is increasing prevalence of frailty and dependency, which translates into increase in complex health and social needs as well as increase in absolute numbers of older adults that require such needs. Consideration of social determinants of healthy ageing would be important in the design of equitable health and social care systems. There is a trend towards development of integrated medical social care in the community in Asian countries. Long-term care insurance and also philanthropic support play a role in the financing of such care models.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=hch&amp;AN=155241219&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="16">
+  <header shortDbName="hch" longDbName="Health Source: Nursing/Academic Edition" uiTerm="154564685">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Journal of the American Geriatrics Society</jtl>
+        <issn>00028614</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2022" month="01" day="01">Jan2022</dt>
+        <vid>70</vid>
+        <iid>1</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1111/jgs.17446</ui>
+        <ppf>90</ppf>
+        <ppct>9</ppct>
+        <lexile>1530</lexile>
+        <formats />
+        <tig>
+          <atl>From research to bedside: Incorporation of a CGA‐based frailty index among multiple comanagement services.</atl>
+        </tig>
+        <aug>
+          <au>Cooper, Lisa</au>
+          <au>Loewenthal, Julia</au>
+          <au>Frain, Laura N.</au>
+          <au>Tulebaev, Samir</au>
+          <au>Cardin, Kristin</au>
+          <au>Hshieh, Tammy T.</au>
+          <au>Dumontier, Clark</au>
+          <au>Streiter, Shoshana</au>
+          <au>Joseph, Carly</au>
+          <au>Hilt, Austin</au>
+          <au>Theou, Olga</au>
+          <au>Rockwood, Kenneth</au>
+          <au>Orkaby, Ariela R.</au>
+          <au>Javedan, Houman</au>
+          <affil>Division of Aging, Brigham and Women's Hospital, Boston Massachusetts,, USA</affil>
+          <affil>Department of Medical Oncology, Dana‐Farber Cancer Institute, Boston Massachusetts,, USA</affil>
+          <affil>New England Geriatric Research, Education, and Clinical Center (GRECC), VA Boston Healthcare System, Boston Massachusetts,, USA</affil>
+          <affil>Department of Epidemiology, University of Michigan School of Public Health, Ann Arbor Michigan,, USA</affil>
+          <affil>Department of Psychiatry and Behavioral Sciences, University of California, Davis California,, USA</affil>
+          <affil>Department of Family and Community Medicine, University of California, Davis California,, USA</affil>
+          <affil>Physiotherapy, Dalhousie University, Halifax Nova Scotia,, Canada</affil>
+          <affil>Geriatric Medicine, Dalhousie University, Halifax Nova Scotia,, Canada</affil>
+          <affil>Centre for Health Care of the Elderly, Nova Scotia Health, Halifax Nova Scotia,, Canada</affil>
+        </aug>
+        <sug>
+          <subj type="unclass">FRAIL elderly</subj>
+          <subj type="unclass">HOSPITAL patients</subj>
+          <subj type="unclass">GERIATRIC assessment</subj>
+          <subj type="unclass">INTERPROFESSIONAL relations</subj>
+          <subj type="unclass">ROOMS</subj>
+          <subj type="unclass">COMMUNICATION</subj>
+          <subj type="unclass">QUALITY assurance</subj>
+          <subj type="unclass">ELECTRONIC health records</subj>
+          <subj type="unclass">MEDICAL research</subj>
+          <subj type="unclass">OUTPATIENT services in hospitals</subj>
+        </sug>
+        <ab>The comprehensive geriatric assessment (CGA) is the core tool used by geriatricians across diverse clinical settings to identify vulnerabilities and estimate physiologic reserve in older adults. In this paper, we demonstrate the iterative process at our institution to identify and develop a feasible, acceptable, and sustainable bedside CGA‐based frailty index tool (FI‐CGA) that not only quantifies and grades frailty but also provides a uniform way to efficiently communicate complex geriatric concepts such as reserve and vulnerability with other teams. We describe our incorporation of the FI‐CGA into the electronic health record (EHR) and dissemination among clinical services. We demonstrate that an increasing number of patients have documented FI‐CGA in their initial assessment from 2018 to 2020, while additional comanagement services were established (Figure 2). The acceptability and sustainability of the FI‐CGA, and its routine use by geriatricians in our division, were demonstrated by a survey where the majority of clinicians report using the FI‐CGA when assessing a new patient and that the FI‐CGA informs their clinical management. Finally, we demonstrate how we refined and updated the FI‐CGA, we provide examples of applications of the FI‐CGA across the institution and describe areas of ongoing process improvement and challenges for the use of this tailored yet standardized tool across diverse inpatient and outpatient services. The process outlined can be used by other geriatric departments to introduce and incorporate an FI‐CGA. See related editorial by Callahan in this issue.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=hch&amp;AN=154564685&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="17">
+  <header shortDbName="hch" longDbName="Health Source: Nursing/Academic Edition" uiTerm="154065853">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Palliative Medicine</jtl>
+        <issn>02692163</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2021" month="12" day="01">Dec2021</dt>
+        <vid>35</vid>
+        <iid>10</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1177/02692163211040187</ui>
+        <ppf>1961</ppf>
+        <ppct>14</ppct>
+        <lexile>1610</lexile>
+        <formats />
+        <tig>
+          <atl>Timely short-term specialized palliative care service intervention for older people with frailty and their family carers in primary care: Development and modelling of the frailty+ intervention using theory of change.</atl>
+        </tig>
+        <aug>
+          <au>de Nooijer, Kim</au>
+          <au>Pivodic, Lara</au>
+          <au>Van Den Noortgate, Nele</au>
+          <au>Pype, Peter</au>
+          <au>Evans, Catherine</au>
+          <au>Van den Block, Lieve</au>
+          <affil>End-of-life Care Research Group, Vrije Universiteit Brussel (VUB) &amp; Ghent University, Brussels, Belgium</affil>
+          <affil>Department of Geriatric Medicine, Ghent University Hospital, Ghent, Belgium</affil>
+          <affil>Department of Public Health and Primary Care, Ghent University, Ghent, Belgium</affil>
+          <affil>King's College London, Cicely Saunders Institute, London, UK</affil>
+          <affil>Sussex Community NHS Foundation Trust, Brighton General Hospital, Brighton, UK</affil>
+          <affil>Department of Clinical Sciences, Vrije Universiteit Brussel (VUB), Brussels, Belgium</affil>
+        </aug>
+        <sug>
+          <subj type="geo">BELGIUM</subj>
+          <subj type="geo">UNITED Kingdom</subj>
+          <subj type="unclass">HOME nursing</subj>
+          <subj type="unclass">FRAIL elderly</subj>
+          <subj type="unclass">SCIENTIFIC observation</subj>
+          <subj type="unclass">EVALUATION of human services programs</subj>
+          <subj type="unclass">RESEARCH methodology</subj>
+          <subj type="unclass">NURSING specialties</subj>
+          <subj type="unclass">TREATMENT duration</subj>
+          <subj type="unclass">INTERVIEWING</subj>
+          <subj type="unclass">PATIENT-centered care</subj>
+          <subj type="unclass">PRIMARY health care</subj>
+          <subj type="unclass">HUMAN services programs</subj>
+          <subj type="unclass">HOLISTIC medicine</subj>
+          <subj type="unclass">FAMILY-centered care</subj>
+          <subj type="unclass">PSYCHOLOGY of caregivers</subj>
+          <subj type="unclass">THEORY</subj>
+          <subj type="unclass">INTERPROFESSIONAL relations</subj>
+          <subj type="unclass">INTEGRATED health care delivery</subj>
+          <subj type="unclass">HOSPICE nurses</subj>
+          <subj type="unclass">PALLIATIVE treatment</subj>
+          <subj type="unclass">MEDICAL needs assessment</subj>
+          <subj type="unclass">ADULT education workshops</subj>
+          <subj type="unclass">OLD age</subj>
+        </sug>
+        <ab>Background: Palliative care is advocated for older people with frailty and multimorbidity in the community. However, how to best deliver it is unclear. Aim: To develop and model an intervention of short-term specialized palliative care that is initiated timely based on complex care needs and integrated with primary care for older people with frailty and their family, detailing the intervention components, outcomes and preconditions needed for implementation, using a novel theoretical approach. Design: Observational study informed by the UK MRC guidance for complex interventions integrated with a Theory of Change (i.e. hypothetical causal pathway to impact) approach. We synthesized evidence from a systematic review, semi-structured interviews, group discussions and Theory of Change workshops. Setting: Primary care in Flanders, Belgium. Results: We identified patient and family carer-related long-term outcomes and preconditions to achieve them for example, service providers are willing and able to deliver the intervention. The intervention components included implementation components, for example, training for service providers, and a core component, that is, provision of timely short-term specialized palliative care by a specialized palliative home care nurse. The latter includes: short-term service delivery; collaborative and integrative working within primary care; delivery of holistic needs- and capacity-based care; person-centred and family-focussed; and goal-oriented pro-active care. Conclusions: The Theory of Change approach allowed us to identify multiple intervention components targeting different stakeholders to achieve the desired outcomes. It also facilitated a detailed description of the intervention which aims to increase replicability and effective comparisons with other interventions.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=hch&amp;AN=154065853&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="18">
+  <header shortDbName="hch" longDbName="Health Source: Nursing/Academic Edition" uiTerm="153609901">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Age &amp; Ageing</jtl>
+        <issn>00020729</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2021" month="11" day="01">Nov2021</dt>
+        <vid>50</vid>
+        <iid>6</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1093/ageing/afab202</ui>
+        <ppf>1863</ppf>
+        <ppct>2</ppct>
+        <formats />
+        <tig>
+          <atl>Transition to a fully online journal.</atl>
+        </tig>
+        <aug>
+          <au>Harwood, Rowan H</au>
+        </aug>
+        <sug>
+          <subj type="unclass">COVID-19</subj>
+          <subj type="unclass">FRAIL elderly</subj>
+          <subj type="unclass">SERIAL publications</subj>
+          <subj type="unclass">ELECTRONIC journals</subj>
+          <subj type="unclass">DIABETES</subj>
+          <subj type="unclass">SARCOPENIA</subj>
+          <subj type="unclass">HIP fractures</subj>
+          <subj type="unclass">CLOSTRIDIOIDES difficile</subj>
+          <subj type="unclass">ADVANCE directives (Medical care)</subj>
+          <subj type="unclass">ACCIDENTAL falls</subj>
+          <subj type="unclass">LONELINESS</subj>
+        </sug>
+        <ab>The author discusses articles to be published in the next issue of "Age &amp; Ageing." Topics include the implementation of lateral flow device testing to identify COVID-19 infected care homes staff and visitors, role of designing and evaluating complex services for complex problems in scholarly geriatric medicine, and longitudinal associations between plasma fibroblast growth factor-21 and later muscle strength.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=hch&amp;AN=153609901&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="19">
+  <header shortDbName="hch" longDbName="Health Source: Nursing/Academic Edition" uiTerm="153717037">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Journals of Gerontology Series A: Biological Sciences &amp; Medical Sciences</jtl>
+        <issn>10795006</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2021" month="11" day="01">Nov2021</dt>
+        <vid>76</vid>
+        <iid>11</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1093/gerona/glab141</ui>
+        <ppf>2071</ppf>
+        <ppct>9</ppct>
+        <formats />
+        <tig>
+          <atl>Reexamining the Classification of Older Adults With Diabetes by Comorbidities and Exploring Relationships With Frailty, Disability, and 5-year Mortality.</atl>
+        </tig>
+        <aug>
+          <au>Leung, Vania</au>
+          <au>Wroblewski, Kristen</au>
+          <au>Schumm, L Philip</au>
+          <au>Huisingh-Scheetz, Megan</au>
+          <au>Huang, Elbert S</au>
+          <affil>Department of Academic Internal Medicine and Geriatrics, University of Illinois at Chicago , USA</affil>
+          <affil>Department of Public Health Sciences, University of Chicago , Illinois , USA</affil>
+          <affil>Section of Geriatrics and Palliative Medicine, University of Chicago , Illinois , USA</affil>
+          <affil>Section of General Internal Medicine, University of Chicago , Illinois , USA</affil>
+        </aug>
+        <sug>
+          <subj type="unclass">FRAIL elderly</subj>
+          <subj type="unclass">FRAILTY</subj>
+          <subj type="unclass">OLDER people</subj>
+          <subj type="unclass">MYOCARDIAL infarction</subj>
+          <subj type="unclass">CONGESTIVE heart failure</subj>
+          <subj type="unclass">DISABILITIES</subj>
+        </sug>
+        <ab>&lt;bold&gt;Background: &lt;/bold&gt;Limited research has been conducted to risk stratify older adults with diabetes. Our objective was to reexamine the 2005-2006 classification systems in participants who are now 5 years older.&lt;bold&gt;Methods: &lt;/bold&gt;We examined a subsample of 884 community-residing older adults with the diagnosis of diabetes from the National Social Life, Health, and Aging Project. The primary objective was to utilize a latent class analysis (LCA) to fit a model to 11 comorbidities, comparing the 2010-2011 LCA model to that of 2005-2006. The secondary objective was to evaluate the association of the identified classes with frailty, disability, and 5-year mortality.&lt;bold&gt;Results: &lt;/bold&gt;Both 2005-2006 LCA and the 2010-2011 LCA model fit 3 similar comorbidity profiles: Class 1 with the lowest rates of nearly all comorbidities, Class 2 had highest rates of obesity, hypertension, arthritis, and incontinence, and Class 3 had the higher rates of myocardial infarctions, congestive heart failure, and stroke. When compared to the healthier Class 1 (class probability = 0.67), participants with a comorbidity profile with more prevalent cardiovascular conditions (Class 3; 0.09) were at higher risk of frailty and mortality, but not disability; whereas participants with a comorbidity profile with more prevalent geriatric syndrome conditions (Class 2; 0.24) were at higher risk of frailty and disability, but not mortality.&lt;bold&gt;Conclusions: &lt;/bold&gt;We reconfirmed 3 latent classes with distinct comorbidity profiles among older adults with diabetes. However, the complex relationships between comorbidity classes with frailty, disability, and mortality will likely require revision of the current rationale for stratified goal setting and treatment selection.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>journal article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=hch&amp;AN=153717037&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="20">
+  <header shortDbName="hch" longDbName="Health Source: Nursing/Academic Edition" uiTerm="153489268">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Journal of Bone &amp; Joint Surgery, American Volume</jtl>
+        <issn>00219355</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2021" month="10" day="06">10/6/2021</dt>
+        <vid>103</vid>
+        <iid>19</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.2106/JBJS.20.01805</ui>
+        <ppf>1807</ppf>
+        <ppct>10</ppct>
+        <formats />
+        <tig>
+          <atl>Lower 1-Year Postoperative Mortality After Acetabular Versus Proximal Femoral Fractures in Elderly Patients.</atl>
+        </tig>
+        <aug>
+          <au>Stetzelberger, Vera M.</au>
+          <au>Brouze, Iris F.</au>
+          <au>Steppacher, Simon D.</au>
+          <au>Bastian, Johannes D.</au>
+          <au>Schwab, Joseph M.</au>
+          <au>Tannast, Moritz</au>
+          <affil>Department of Orthopaedic Surgery and Traumatology, HFR Cantonal Hospital, University of Fribourg, Fribourg, Switzerland</affil>
+          <affil>Department of Orthopaedic Surgery and Traumatology, Inselspital Bern, University of Bern, Bern, Switzerland</affil>
+          <affil>Department of Orthopaedic Surgery, Medical College of Wisconsin, Milwaukee, Wisconsin</affil>
+        </aug>
+        <sug>
+          <subj type="unclass">HIP fractures</subj>
+          <subj type="unclass">OLDER patients</subj>
+          <subj type="unclass">SURVIVAL rate</subj>
+          <subj type="unclass">PROPORTIONAL hazards models</subj>
+          <subj type="unclass">SURVIVAL analysis (Biometry)</subj>
+          <subj type="unclass">SURGICAL complications</subj>
+          <subj type="unclass">ACETABULUM surgery</subj>
+          <subj type="unclass">RESEARCH</subj>
+          <subj type="unclass">RESEARCH methodology</subj>
+          <subj type="unclass">RETROSPECTIVE studies</subj>
+          <subj type="unclass">MEDICAL cooperation</subj>
+          <subj type="unclass">EVALUATION research</subj>
+          <subj type="unclass">COMPARATIVE studies</subj>
+          <subj type="unclass">ACETABULUM (Anatomy)</subj>
+          <subj type="unclass">FRACTURE fixation</subj>
+          <subj type="unclass">BONE fractures</subj>
+        </sug>
+        <ab>&lt;bold&gt;Background: &lt;/bold&gt;Geriatric acetabular fractures are becoming more common due to demographic changes. Compared with proximal femoral fractures, surgical treatment is more complex and often does not allow full-weight-bearing. The aims of this study were to compare operatively treated acetabular and proximal femoral fractures with regard to (1) cumulative 1-year mortality, (2) perioperative complications, and (3) predictive factors associated with a higher 1-year mortality.&lt;bold&gt;Methods: &lt;/bold&gt;This institutional review board-approved comparative study included 486 consecutive surgically treated elderly patients (136 acetabular and 350 proximal femoral fractures). After matching, 2 comparable groups of 129 acetabular and 129 proximal femoral fractures were analyzed. Cumulative 1-year mortality was evaluated through Kaplan-Meier survivorship analysis, and perioperative complications were documented and graded. After confirming that the proportionality assumption was met, Cox proportional hazard modeling was conducted to identify factors associated with increased 1-year mortality.&lt;bold&gt;Results: &lt;/bold&gt;The acetabular fracture group had a significantly lower cumulative 1-year mortality before matching (18% compared with 33% for proximal femoral fractures, log-rank p = 0.001) and after matching (18% compared with 36%, log-rank p = 0.005). Nevertheless, it had a significantly higher overall perioperative complication rate (68% compared with 48%, p &lt; 0.001). In our multivariable Cox regression analysis, older age, perioperative blood loss of &gt;1 L, and wheelchair mobilization were associated with lower survival rates after acetabular fracture surgery. Older age and a higher 5-item modified frailty index were associated with a higher 1-year mortality rate after proximal femoral fractures, whereas postoperative full weight-bearing was protective.&lt;bold&gt;Conclusions: &lt;/bold&gt;Despite the complexity of operative treatment and a higher complication rate after acetabular fractures in the elderly, the 1-year mortality rate is lower than that after operative treatment of proximal femoral fractures, even after adjustment for comorbidities.&lt;bold&gt;Level Of Evidence: &lt;/bold&gt;Therapeutic Level III. See Instructions for Authors for a complete description of levels of evidence.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>journal article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=hch&amp;AN=153489268&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="21">
+  <header shortDbName="hch" longDbName="Health Source: Nursing/Academic Edition" uiTerm="152364571">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Ageing &amp; Society</jtl>
+        <issn>0144686X</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2021" month="10" day="01">Oct2021</dt>
+        <vid>41</vid>
+        <iid>10</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1017/S0144686X20000379</ui>
+        <ppf>2396</ppf>
+        <ppct>20</ppct>
+        <lexile>1250</lexile>
+        <formats />
+        <tig>
+          <atl>Understanding diversity in later life through images of old age.</atl>
+        </tig>
+        <aug>
+          <au>Enßle, Friederike</au>
+          <au>Helbrecht, Ilse</au>
+          <affil>Cultural and Social Geography Department, Humboldt-Universität zu Berlin, Berlin, Germany</affil>
+        </aug>
+        <sug>
+          <subj type="geo">GERMANY</subj>
+          <subj type="unclass">DEBATE</subj>
+          <subj type="unclass">SOCIAL networks</subj>
+          <subj type="unclass">CULTURAL pluralism</subj>
+          <subj type="unclass">AUDIOVISUAL materials</subj>
+          <subj type="unclass">IMAGINATION</subj>
+          <subj type="unclass">AGING</subj>
+        </sug>
+        <ab>This article aims to enhance the conceptual debate on diversity in old age by exploring the interplay of diversity in later life and images of old age. We argue that the analysis of images of old age on the micro-level is a fruitful methodology in order to unravel the meaning of diversity in later life. Drawing on findings from qualitative research in Berlin, we explore how new and diverse imaginations, experiences and lifestyles of old age emerge. The conceptual focus on images of old age enables us to investigate further what diversity in later life comprises and how it simultaneously fosters the genesis of new images of old age. The manifold new images we found in our research suggest that prevalent societal discourses about old age on the macro-level are rather deceptive and represent mostly stereotypes such as 'active agers' or 'frail and dependent elders'. We offer three explanations why alternative images of old age are currently barely present in public discourse: (a) the actors transmitting images of age; (b) the institutionalisation of the images; and (c) the challenge to communicate complexity. We conclude by suggesting that images of old age are a promising starting point to explore and make visible both the diversity of social groups within the older generation as well as the heterogeneity of older individuals.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=hch&amp;AN=152364571&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="22">
+  <header shortDbName="hch" longDbName="Health Source: Nursing/Academic Edition" uiTerm="152460631">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Age &amp; Ageing</jtl>
+        <issn>00020729</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2021" month="09" day="01">Sep2021</dt>
+        <vid>50</vid>
+        <iid>5</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1093/ageing/afab088</ui>
+        <ppf>1508</ppf>
+        <ppct>4</ppct>
+        <formats />
+        <tig>
+          <atl>HEARTS, minds and souls—it is time for geriatricians to bring more to continence management.</atl>
+        </tig>
+        <aug>
+          <au>Schlögl, Mathias</au>
+          <au>Gordon, Adam</au>
+          <affil>University Clinic for Acute Geriatric Care , City Hospital Waid Zurich, Zurich 8037, Switzerland</affil>
+          <affil>Care of Older People , Room 4113 Medical School, Royal Derby Hospital, University of Nottingham, Uttoxeter Road, Derby, DE22 3DT, UK</affil>
+          <affil>Building Community Resilience and Enabling Independence (BCREI) , NIHR Applied Research Collaboration-East Midlands (ARC-EM), Nottingham, UK</affil>
+        </aug>
+        <sug>
+          <subj type="unclass">URINARY incontinence treatment</subj>
+          <subj type="unclass">FRAIL elderly</subj>
+          <subj type="unclass">SOCIAL stigma</subj>
+          <subj type="unclass">AGING</subj>
+          <subj type="unclass">QUALITY of life</subj>
+          <subj type="unclass">COMMUNICATION</subj>
+          <subj type="unclass">DISEASE management</subj>
+          <subj type="unclass">COMORBIDITY</subj>
+        </sug>
+        <ab>Urinary incontinence (UI), the involuntary loss of urine, is a common health condition that may decrease the quality of life and which increases in incidence and prevalence with age. Recent epidemiologic data suggest an overall prevalence of 38% in women older than 60 years, increasing to 77% in older women living in nursing homes. Despite this high prevalence, incontinence remains underdiagnosed and undertreated in this age group. In a representative population of 7,000 participants drawn from the Irish Longitudinal Study of Ageing, 750 had UI of whom 285 (38%) had not sought the help of a health care professional. The reasons that older people do not seek help for incontinence are complex and multiplex. Stigma surrounding diagnosis, a sense of futility coupled to a notion that incontinence is a part of normal ageing and the fact that incontinence simply gets 'lost' in the midst of multimorbidity and frailty have all been shown to play a role. Active case finding has therefore been highlighted as a cornerstone of effective care in serial international guidelines.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=hch&amp;AN=152460631&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="23">
+  <header shortDbName="hch" longDbName="Health Source: Nursing/Academic Edition" uiTerm="152460650">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Age &amp; Ageing</jtl>
+        <issn>00020729</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2021" month="09" day="01">Sep2021</dt>
+        <vid>50</vid>
+        <iid>5</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1093/ageing/afab123</ui>
+        <ppf>1859</ppf>
+        <ppct>2</ppct>
+        <formats />
+        <tig>
+          <atl>Diagnostic complexity in the older patient: an unusual presentation of advanced biliary disease.</atl>
+        </tig>
+        <aug>
+          <au>Hosty, Jennifer</au>
+          <au>Narramore, Ruth</au>
+          <au>Boothroyd, Matthew</au>
+          <au>Ramanath, Rekha</au>
+          <affil>Internal Medicine Trainees , Department of Geriatric Medicine, Doncaster Royal Infirmary, Doncaster DN2 5LT, UK</affil>
+          <affil>Consultant in Geriatric Medicine , Department of Geriatric Medicine, Doncaster Royal Infirmary, Doncaster DN2 5LT, UK</affil>
+        </aug>
+        <sug>
+          <subj type="unclass">ANTIBIOTICS</subj>
+          <subj type="unclass">CHOLECYSTOSTOMY</subj>
+          <subj type="unclass">GALLBLADDER diseases</subj>
+          <subj type="unclass">EMPYEMA</subj>
+          <subj type="unclass">ABDOMINAL radiography</subj>
+          <subj type="unclass">OLD age</subj>
+        </sug>
+        <ab>Biliary disease is common in the older population, and gallbladder dysfunction and increased bile lithogenicity predispose to calculi formation. This case demonstrates an unusual presentation of gallbladder empyema. A 90-year-old male with metastatic prostate cancer presented with hypoactive delirium. With no localising features, normal liver function tests but persistently raised inflammatory markers, he was initially managed as a urinary tract infection. Chest wall discomfort and swelling over the right costal margin later developed. Abdominal imaging demonstrated a massive gallbladder empyema invaginating through the lower right rib cage, causing the superficial swelling. Pre-morbid status prevented cholecystectomy and he was managed conservatively with percutaneous cholecystostomy and antibiotics. He was discharged to 24-h care 2 weeks after diagnosis with a long-term drain.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=hch&amp;AN=152460650&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="24">
+  <header shortDbName="hch" longDbName="Health Source: Nursing/Academic Edition" uiTerm="151803393">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Health &amp; Social Work</jtl>
+        <issn>03607283</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2021" month="08" day="01">Aug2021</dt>
+        <vid>46</vid>
+        <iid>3</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1093/hsw/hlab014</ui>
+        <ppf>227</ppf>
+        <ppct>4</ppct>
+        <lexile>1400</lexile>
+        <formats>
+          <fmt type="HTML Full Text" />
+          <fmt type="PDF" size="135KB" />
+        </formats>
+        <tig>
+          <atl>Multiple Social Roles and Role Transference: Lessons Learned from a Chinese American Family Caregiver.</atl>
+        </tig>
+        <aug>
+          <au>Lun, Man Wai Alice</au>
+          <au>Gorton, Melissa E</au>
+          <affil>associate professor, Borough of Manhattan Community College, City University of New York , 199 Chambers Street, New York, NY 10007</affil>
+          <affil>clinical therapist, Ascension Providence DePaul Center , Waco, TX</affil>
+        </aug>
+        <sug>
+          <subj type="geo">UNITED States</subj>
+          <subj type="unclass">IMMIGRANTS</subj>
+          <subj type="unclass">ADAPTABILITY (Personality)</subj>
+          <subj type="unclass">ROLE playing</subj>
+          <subj type="unclass">SOCIAL workers</subj>
+          <subj type="unclass">COMMUNITY support</subj>
+          <subj type="unclass">SELF-efficacy</subj>
+          <subj type="unclass">PSYCHOLOGY of caregivers</subj>
+          <subj type="unclass">SOCIAL role change</subj>
+          <subj type="unclass">OLD age</subj>
+        </sug>
+        <ab>The article presents a case of a caregiving life story which provides insights for social workers to better understand the complexity of caregiving in a Chinese American family. Topics discussed include an immigrant Chinese woman's social role as a her husband's and family's caregiver, local club volunteer, and in broader civil engagement, the adjustment of her mind-set and schedule, and the natural acceptance of her role. Also noted is the need for resilience in social role transitions.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Case Study</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=hch&amp;AN=151803393&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="25">
+  <header shortDbName="hch" longDbName="Health Source: Nursing/Academic Edition" uiTerm="151354076">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Age &amp; Ageing</jtl>
+        <issn>00020729</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2021" month="07" day="01">Jul2021</dt>
+        <vid>50</vid>
+        <iid>4</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1093/ageing/afab057</ui>
+        <ppf>1064</ppf>
+        <ppct>5</ppct>
+        <formats />
+        <tig>
+          <atl>New horizons in cardiogeriatrics: geriatricians and heart failure care—the custard in the tart, not the icing on the cake.</atl>
+        </tig>
+        <aug>
+          <au>Levy, Shuli</au>
+          <au>Cole, Graham</au>
+          <au>Pabari, Punam</au>
+          <au>Dani, Melanie</au>
+          <au>Barton, Carys</au>
+          <au>Mayet, Jamil</au>
+          <au>McDonagh, Theresa</au>
+          <au>Baxter, John</au>
+          <au>Plymen, Carla</au>
+          <affil>Department of Cardiology , Imperial College Healthcare NHS Trust, London, UK</affil>
+          <affil>Department of Medicine for the Elderly , Imperial College Healthcare NHS Trust, London, UK</affil>
+          <affil>Department of Cardiology , Kings College Hospital NHS Foundation Trust, London, UK</affil>
+          <affil>Department of Medicine for the Elderly , Sunderland Royal Hospital, Sunderland, UK</affil>
+        </aug>
+        <sug>
+          <subj type="unclass">HEART failure treatment</subj>
+          <subj type="unclass">OCCUPATIONAL roles</subj>
+          <subj type="unclass">MEDICAL care</subj>
+          <subj type="unclass">CARDIOVASCULAR system</subj>
+          <subj type="unclass">AGING</subj>
+          <subj type="unclass">HEALTH care teams</subj>
+          <subj type="unclass">ELDER care</subj>
+          <subj type="unclass">COMORBIDITY</subj>
+          <subj type="unclass">OLD age</subj>
+        </sug>
+        <ab>Heart failure (HF) can be considered a disease of older people. It is a leading cause of hospitalisation and is associated with high rates of morbidity and mortality in the over-65s. In 2012, an editorial in this journal detailed the latest HF research and guidelines, calling for greater integration of geriatricians in HF care. This current article reflects upon what has been achieved in this field in recent years, highlighting some future challenges and promising areas. It is written from the perspective of one such integrated team and explores the new role of cardiogeriatrician, working in a multidisciplinary team to deliver and improve care to increasingly complex, older, frail patients with multiple comorbidities who present with primary cardiology problems, especially decompensated HF. Geriatric liaison has improved the care of frail patients in orthopaedics, cancer services, stroke, acute medicine and numerous community settings. We propose that this vital role should now be extended to cardiology teams in general and to HF in particular.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=hch&amp;AN=151354076&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="26">
+  <header shortDbName="hch" longDbName="Health Source: Nursing/Academic Edition" uiTerm="151062479">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Aging &amp; Mental Health</jtl>
+        <issn>13607863</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2021" month="07" day="01">Jul2021</dt>
+        <vid>25</vid>
+        <iid>7</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1080/13607863.2020.1732293</ui>
+        <ppf>1214</ppf>
+        <ppct>10</ppct>
+        <formats>
+          <fmt type="PDF" size="798KB" />
+        </formats>
+        <tig>
+          <atl>Widowhood and loneliness among Chinese older adults: the role of education and gender.</atl>
+        </tig>
+        <aug>
+          <au>Yang, Fang</au>
+          <affil>Department of Social Work, School of Sociology and Political Science, Shanghai University, Shanghai, China</affil>
+        </aug>
+        <sug>
+          <subj type="geo">CHINA</subj>
+          <subj type="unclass">LONELINESS in old age</subj>
+          <subj type="unclass">CONFIDENCE intervals</subj>
+          <subj type="unclass">WIDOWHOOD</subj>
+          <subj type="unclass">SEX distribution</subj>
+          <subj type="unclass">DESCRIPTIVE statistics</subj>
+          <subj type="unclass">DATA analysis software</subj>
+          <subj type="unclass">LOGISTIC regression analysis</subj>
+          <subj type="unclass">EDUCATIONAL attainment</subj>
+          <subj type="unclass">OLD age</subj>
+        </sug>
+        <ab>Widowhood is a significant predictor of loneliness in older adults and research on the underlying mechanisms of this link using longitudinal data is limited. This study examined whether education would moderate the effect of widowhood on loneliness, and whether such a relationship would differ by gender among Chinese older adults. A total of 2,704 older adults from the 2008 wave of the Chinese Longitudinal Healthy Longevity Survey were included. They were aged 65 years and above, were not lonely, and were married. Logistic regression models were applied to examine the interaction between widowhood, education, and gender on loneliness in the 2011 wave. Widowhood was a significant predictor of loneliness and could increase the odds of becoming lonely by 193%. The interaction between widowhood and education was significant only in older women, not in older men. Literate older women reported lower loneliness than did their illiterate counterparts when they remained married during the follow-up. However, when their spouse passed away, literate women did not differ from their illiterate counterparts in loneliness. This study revealed a gendered pattern in the interaction between widowhood and education on loneliness and demonstrated the complexity of the mechanisms. Furthermore, it highlighted the importance of considering the role of education and gender simultaneously in a Chinese context.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=hch&amp;AN=151062479&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="27">
+  <header shortDbName="hch" longDbName="Health Source: Nursing/Academic Edition" uiTerm="151352926">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Journal of the American Geriatrics Society</jtl>
+        <issn>00028614</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2021" month="07" day="01">Jul2021</dt>
+        <vid>69</vid>
+        <iid>7</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1111/jgs.17174</ui>
+        <ppf>1729</ppf>
+        <ppct>9</ppct>
+        <lexile>1690</lexile>
+        <formats />
+        <tig>
+          <atl>VA home‐based primary care interdisciplinary team structure varies with Veterans' needs, aligns with PACE regulation.</atl>
+        </tig>
+        <aug>
+          <au>Chan, Caitlin S.</au>
+          <au>Davis, Darlene</au>
+          <au>Cooper, Dayna</au>
+          <au>Edes, Thomas</au>
+          <au>Phibbs, Ciaran S.</au>
+          <au>Intrator, Orna</au>
+          <au>Kinosian, Bruce</au>
+          <affil>Geriatrics and Extended Care Data Analysis Center, Palo Alto, California</affil>
+          <affil>VA Palo Alto Health Economics Resource Center (HERC), Menlo Park California,, USA</affil>
+          <affil>Department of Veterans Affairs, Washington District of Columbia,, USA</affil>
+          <affil>Stanford University, Stanford California,, USA</affil>
+          <affil>University of Rochester, Rochester New York,, USA</affil>
+          <affil>Center for Health Equity Research and Promotion (CHERP), Philadelphia Pennsylvania,, USA</affil>
+          <affil>Cpl. Michael J Crescenz VA Medical Center (Philadelphia), Philadelphia Pennsylvania,, USA</affil>
+          <affil>University of Pennsylvania, Philadelphia Pennsylvania,, USA</affil>
+        </aug>
+        <sug>
+          <subj type="unclass">FRAIL elderly</subj>
+          <subj type="unclass">HOME care services</subj>
+          <subj type="unclass">CROSS-sectional method</subj>
+          <subj type="unclass">GOVERNMENT regulation</subj>
+          <subj type="unclass">PRIMARY health care</subj>
+          <subj type="unclass">MEDICAL care use</subj>
+          <subj type="unclass">RISK assessment</subj>
+          <subj type="unclass">HEALTH care teams</subj>
+          <subj type="unclass">VETERANS</subj>
+          <subj type="unclass">ELDER care</subj>
+          <subj type="unclass">UNITED States. Dept. of Veterans Affairs</subj>
+        </sug>
+        <ab>Background: Interdisciplinary team (IDT) care is central to home‐based primary care (HBPC) of frail elders. Traditionally, all HBPC disciplines managed a patient (Full IDT), a costly approach to maintain. The recent PACE (Program of All‐inclusive Care for the Elderly) regulation provides for a flexible approach of annual assessments from a core team with involvement of additional disciplines dependent upon patient needs (Core+). Current Department of Veterans Affairs (VA) HBPC guidance specifies Full IDTs care for medically complex and functionally impaired Veterans similar to PACE participants. We evaluated whether VA HBPC has adopted the flexible structure of the PACE regulation, aligned to Veteran needs. Design: Cross‐sectional analysis. Setting: All 139 VA HBPC programs administered across 379 sites. Participants: About 55,173 Veterans enrolled in HBPC during fiscal year 2018. Measurements: Patients' HBPC physician, nurse, psychologist/psychiatrist, social worker, therapist, dietitian, and pharmacist visits were grouped into interdisciplinary team types. Patient frailty was classified using VA HNHR v2 (High‐Need High‐Risk version 2, a measure of high, medium, and low risk of long‐term institutionalization). Medical complexity was measured by clusters of impairment in the JEN frailty index (JFI). JFI clusters were validated by VA's Nosos measure to project cost and Care Assessment Need (CAN) measure of hospitalization and mortality risk. Results: HBPC provided Full IDT care to 21%, Core+ care to 54%, and Home Health+ (HHA+) care (skilled home health services plus additional disciplines, without primary care) to 16% of Veterans. Team type was associated with medical complexity (X2 2863.5 [66 df], p &lt; 0.0001). High‐risk Veterans (72% of sample) were more likely to receive Full IDT care (X2 62.9, 1 df), p &lt; 0.0001), while low‐risk Veterans (28%) were more likely to receive HHA+ care (X2 314.8, 1 df, p &lt; 0.0001). Conclusion: There is a strong association between HBPC team patterns and patient frailty, indicating tailoring of care to match Veteran needs.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=hch&amp;AN=151352926&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="28">
+  <header shortDbName="hch" longDbName="Health Source: Nursing/Academic Edition" uiTerm="150186521">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>International Journal of Dermatology</jtl>
+        <issn>00119059</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2021" month="06" day="01">Jun2021</dt>
+        <vid>60</vid>
+        <iid>6</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1111/ijd.15492</ui>
+        <ppf>717</ppf>
+        <ppct>7</ppct>
+        <formats />
+        <tig>
+          <atl>HDR brachytherapy with individual epithetic molds for facial skin cancer: techniques and first clinical experience.</atl>
+        </tig>
+        <aug>
+          <au>Diefenhardt, Markus</au>
+          <au>Chatzikonstantinou, Georgios</au>
+          <au>Meissner, Markus</au>
+          <au>Köhn, Janett</au>
+          <au>Scherf, Christian</au>
+          <au>Trommel, Martin</au>
+          <au>Licher, Jörg</au>
+          <au>Ramm, Ulla</au>
+          <au>Rödel, Claus</au>
+          <au>Tselis, Nikolaos</au>
+          <affil>Department of Radiotherapy and Oncology, University of Frankfurt, Frankfurt, Germany</affil>
+          <affil>Frankfurt Cancer Institute, Frankfurt, Germany</affil>
+          <affil>Department of Dermatology, University of Frankfurt, Frankfurt, Germany</affil>
+          <affil>German Cancer Research Center (DKFZ), Heidelberg, German Cancer Consortium (DKTK), Partner Site Frankfurt am Main, Frankfurt, Germany</affil>
+        </aug>
+        <sug>
+          <subj type="unclass">SKIN cancer</subj>
+          <subj type="unclass">HIGH dose rate brachytherapy</subj>
+          <subj type="unclass">FRAIL elderly</subj>
+          <subj type="unclass">EXTERNAL beam radiotherapy</subj>
+          <subj type="unclass">OLDER patients</subj>
+          <subj type="unclass">FACIAL care</subj>
+        </sug>
+        <ab>Background: Facial skin cancer lesions in close proximity to critical organs require further development of radiotherapeutic techniques for highly conformal treatment, especially when treating elderly frail patients. We report on our treatment technique and first clinical experience for patients with perinasal/periorbital skin cancer treated with individualized epithetic mold high‐dose‐rate brachytherapy (BRT). Methods: From January 2019, patients with complex shaped or unfavorably located skin cancer not eligible for surgery or external beam radiotherapy (RT) were screened for mold‐based BRT. Six patients were identified. Toxicity and clinical response were documented during therapy and posttreatment follow‐up. Results: Median patient age was 80 years (74–92 years). Median prescription dose was 42 Gy (range, 33–44 Gy) delivered in once‐daily fractions of 3 or 4 Gy. Two patients had treatment interruptions caused by acute conjunctivitis grade 2 and a nontreatment‐related cardiac event, respectively. At a median follow‐up of 335 days (96–628 days), no ≥ grade 2 late toxicity was documented with all patients showing complete clinical response. Conclusions: High‐dose‐rate BRT with individualized epithetic molds for perinasal/periorbital skin cancer is a well‐tolerated and safe treatment option for patients not eligible for primary surgery or definitive external beam RT because of comorbidities or tumor location.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=hch&amp;AN=150186521&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="29">
+  <header shortDbName="hch" longDbName="Health Source: Nursing/Academic Edition" uiTerm="150790284">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Journal of the American Geriatrics Society</jtl>
+        <issn>00028614</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2021" month="06" day="01">Jun2021</dt>
+        <vid>69</vid>
+        <iid>6</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1111/jgs.17078</ui>
+        <ppf>1670</ppf>
+        <ppct>13</ppct>
+        <lexile>1500</lexile>
+        <formats />
+        <tig>
+          <atl>Community health worker interventions for older adults with complex health needs: A systematic review.</atl>
+        </tig>
+        <aug>
+          <au>Kennedy, Meaghan A.</au>
+          <au>Hatchell, Kayla E.</au>
+          <au>DiMilia, Peter R.</au>
+          <au>Kelly, Stephanie M.</au>
+          <au>Blunt, Heather B.</au>
+          <au>Bagley, Pamela J.</au>
+          <au>LaMantia, Michael A.</au>
+          <au>Reynolds, Charles F.</au>
+          <au>Crow, Rebecca S.</au>
+          <au>Maden, Tara N.</au>
+          <au>Kelly, S. Logan</au>
+          <au>Kihwele, Jacqueline M.</au>
+          <au>Batsis, John A.</au>
+          <affil>New England Geriatric Research, Education, and Clinical Center, VA Bedford Healthcare System, Bedford Massachusetts, USA</affil>
+          <affil>Department of Community and Family Medicine, Geisel School of Medicine at Dartmouth and Dartmouth‐Hitchcock Medical Center, Lebanon New Hampshire, USA</affil>
+          <affil>Health Unit, Mathematica, Cambridge Massachusetts, USA</affil>
+          <affil>Biomedical Libraries, Dartmouth College, Hanover New Hampshire, USA</affil>
+          <affil>Division of Geriatric Medicine, Department of Medicine, Larner College of Medicine at The University of Vermont, Burlington Vermont, USA</affil>
+          <affil>Department of Psychiatry, University of Pittsburgh, Pittsburgh Pennsylvania, USA</affil>
+          <affil>Department of Medicine, Geisel School of Medicine at Dartmouth, Hanover New Hampshire, USA</affil>
+          <affil>Geriatrics and Extended Care, Veterans Affairs Medical Center, White River Junction, White River Junction, Vermont, USA</affil>
+          <affil>Analytics Institute, Dartmouth‐Hitchcock Clinic, Lebanon New Hampshire, USA</affil>
+          <affil>Center for Health Care Strategies, Inc., Hamilton New Jersey, USA</affil>
+          <affil>Norris Cotton Cancer Center, Dartmouth‐Hitchcock Medical Center, Lebanon New Hampshire, USA</affil>
+          <affil>Division of Geriatric Medicine and Gillings School of Global Public Health, University of North Carolina, Chapel Hill North Carolina, USA</affil>
+        </aug>
+        <sug>
+          <subj type="unclass">COMMUNITY health workers</subj>
+          <subj type="unclass">HEALTH of older people</subj>
+          <subj type="unclass">COMMUNITY health services for older people</subj>
+          <subj type="unclass">MORTALITY of older people</subj>
+          <subj type="unclass">COMORBIDITY</subj>
+          <subj type="unclass">FRAIL elderly</subj>
+          <subj type="unclass">OLDER people with disabilities</subj>
+          <subj type="unclass">CHRONIC diseases</subj>
+          <subj type="unclass">WELL-being</subj>
+          <subj type="unclass">SOCIAL support</subj>
+          <subj type="unclass">SYSTEMATIC reviews</subj>
+          <subj type="unclass">HEALTH status indicators</subj>
+          <subj type="unclass">PEOPLE with disabilities -- Psychology</subj>
+          <subj type="unclass">MEDICAL care use</subj>
+          <subj type="unclass">TREATMENT effectiveness</subj>
+          <subj type="unclass">FUNCTIONAL assessment</subj>
+          <subj type="unclass">HEALTH literacy</subj>
+          <subj type="unclass">QUALITY of life</subj>
+          <subj type="unclass">PATIENT compliance</subj>
+          <subj type="unclass">ELDER care</subj>
+        </sug>
+        <ab>Background/Objectives: The number of older adults with complex health needs is growing, and this population experiences disproportionate morbidity and mortality. Interventions led by community health workers (CHWs) can improve clinical outcomes in the general adult population with multimorbidity, but few studies have investigated CHW‐delivered interventions in older adults. Design: We systematically reviewed the impact of CHW interventions on health outcomes among older adults with complex health needs. We searched for English‐language articles from database inception through April 2020 using seven databases. PROSPERO protocol registration CRD42019118761. Setting: Any U.S. or international setting, including clinical and community‐based settings. Participants: Adults aged 60 years or older with complex health needs, defined in this review as multimorbidity, frailty, disability, or high‐utilization. Interventions: Interventions led by a CHW or similar role consistent with the American Public Health Association's definition of CHWs. Measurements: Pre‐defined health outcomes (chronic disease measures, general health measures, treatment adherence, quality of life, or functional measures) as well as qualitative findings. Results: Of 5671 unique records, nine studies met eligibility criteria, including four randomized controlled trials, three quasi‐experimental studies, and two qualitative studies. Target population and intervention characteristics were variable, and studies were generally of low‐to‐moderate methodological quality. Outcomes included mood, functional status and disability, social support, well‐being and quality of life, medication knowledge, and certain health conditions (e.g., falls, cognition). Results were mixed with several studies demonstrating significant effects on mood and function, including one high‐quality RCT, while others noted no significant intervention effects on outcomes. Conclusion: CHW‐led interventions may have benefit for older adults with complex health needs, but additional high‐quality studies are needed to definitively determine the effectiveness of CHW interventions in this population. Integration of CHWs into geriatric clinical settings may be a strategy to deliver evidence‐based interventions and improve clinical outcomes in complex older adults. See related editorial by Thompson et al.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=hch&amp;AN=150790284&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec></records>
