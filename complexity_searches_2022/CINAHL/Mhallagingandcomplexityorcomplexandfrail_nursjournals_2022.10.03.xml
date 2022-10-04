@@ -1,0 +1,1551 @@
+<records>
+<rec resultID="1">
+  <header shortDbName="ccm" longDbName="CINAHL Complete" uiTerm="159105513">
+    <controlInfo>
+      <bkinfo />
+      <dissinfo />
+      <jinfo>
+        <jtl>American Journal of Public Health</jtl>
+        <issn>00900036</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2022" month="10" day="01">Oct2022</dt>
+        <vid>112</vid>
+        <iid>10</iid>
+        <place>Washington, District of Columbia</place>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.2105/ajph.2022.306968</ui>
+        <ppf>1421</ppf>
+        <ppct>8</ppct>
+        <formats>
+          <fmt type="HTML Full Text" />
+          <fmt type="PDF" />
+        </formats>
+        <tig>
+          <atl>Adult Day Services, Health Equity for Older Adults With Complex Needs, and the COVID-19 Pandemic.</atl>
+        </tig>
+        <aug>
+          <au>Sadarangani, Tina R.</au>
+          <au>Gaugler, Joseph E.</au>
+          <au>Dabelko-Schoeny, Holly</au>
+          <au>Marx, Katherine A.</au>
+        </aug>
+        <sug>
+          <subj type="major">COVID-19 Pandemic</subj>
+          <subj type="major">Community Health Services</subj>
+          <subj type="major">Day Care In Old Age</subj>
+          <subj type="major">Health Services Accessibility In Old Age</subj>
+          <subj type="major">Health Services Needs and Demand</subj>
+          <subj type="minor">Socialization</subj>
+          <subj type="minor">Monitoring, Physiologic</subj>
+          <subj type="minor">Psychological Well-Being</subj>
+          <subj type="minor">Race Factors</subj>
+          <subj type="minor">Ethnic Groups</subj>
+          <subj type="minor">Minority Groups</subj>
+          <subj type="minor">Needs Assessment</subj>
+          <subj type="minor">Data Collection</subj>
+          <subj type="minor">Resource Databases</subj>
+          <subj type="minor">Aged</subj>
+          <subj type="age">Aged: 65+ years</subj>
+        </sug>
+        <ab>Morbidity and mortality from COVID-19 have unduly affected older adults from racial and ethnic minority groups. In this article, we highlight the experiences and vulnerabilities of diverse older adults with complex health and social needs when their access to vital, but overlooked, community-based adult day service centers (ADSCs) was abruptly cut off during a pandemic. Pandemic-related ADSC closures left vulnerable older adults and their care partners without essential daily support and services, such as health monitoring and socialization. However, the magnitude of the impact of ADSC closures on well-being, particularly among members of racial/ethnic minority groups, has yet to be measured with any form of "big data" because large-scale, nationally representative data sets consisting of participant-level information and outcomes associated with ADSC participation do not yet exist. Unmet needs of older adults resulting from pandemic-related ADSC closures are underrecognized because of a lack of systematic data collection, undermining efforts to achieve health equity. We call on ADSCs to link rigorous collection of racial and ethnic data to quality measures of access to equitable "age-friendly" care as a means of better supporting diverse community-dwelling older adults beyond the COVID-19 pandemic. (Am J Public Health. 2022;112(10):1421–1428. https://doi.org/10.2105/AJPH.2022.306968)</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=ccm&amp;AN=159105513&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="2">
+  <header shortDbName="ccm" longDbName="CINAHL Complete" uiTerm="159238809">
+    <controlInfo>
+      <bkinfo />
+      <dissinfo />
+      <jinfo>
+        <jtl>BMC Nursing</jtl>
+        <issn>14726955</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2022" month="09" day="21">9/21/2022</dt>
+        <vid>21</vid>
+        <iid>1</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1186/s12912-022-01039-1</ui>
+        <ppf>1</ppf>
+        <ppct>10</ppct>
+        <formats>
+          <fmt type="HTML Full Text" />
+          <fmt type="PDF" />
+        </formats>
+        <tig>
+          <atl>Actions taken to safeguard the intended health care chain of older people with multiple diagnoses - a critical incident study.</atl>
+        </tig>
+        <aug>
+          <au>Gustafsson, Lena-Karin</au>
+          <au>Zander, Viktoria</au>
+          <au>Bondesson, Anna</au>
+          <au>Pettersson, Tina</au>
+          <au>Anbacken, El-Marie</au>
+          <au>Östlund, Gunnel</au>
+          <affil>Division of Caring Science, School of Health, Care and Social Welfare, Mälardalens University, Box 325, 63105, Eskilstuna, Sweden</affil>
+        </aug>
+        <sug>
+          <subj type="major">Comorbidity Prevention and Control</subj>
+          <subj type="major">Health Resource Allocation</subj>
+          <subj type="major">Transitional Care</subj>
+          <subj type="minor">Human</subj>
+          <subj type="minor">Male</subj>
+          <subj type="minor">Female</subj>
+          <subj type="minor">Adult</subj>
+          <subj type="minor">Middle Age</subj>
+          <subj type="minor">Aged</subj>
+          <subj type="minor">Critical Incidents Method</subj>
+          <subj type="minor">Semi-Structured Interview</subj>
+          <subj type="minor">Qualitative Studies</subj>
+          <subj type="minor">Descriptive Research</subj>
+          <subj type="minor">Funding Source</subj>
+          <subj type="minor">Patient Centered Care</subj>
+          <subj type="minor">Home Health Aides</subj>
+          <subj type="minor">Health Care Delivery</subj>
+          <subj type="minor">Collaboration</subj>
+          <subj type="minor">Professional Competence</subj>
+          <subj type="age">Adult: 19-44 years</subj>
+          <subj type="age">Middle Aged: 45-64 years</subj>
+          <subj type="age">Aged: 65+ years</subj>
+          <subj type="gender">Male</subj>
+          <subj type="gender">Female</subj>
+        </sug>
+        <ab>Background: Older people with multiple diagnoses often have problems coping with their daily lives at home because of lack of coordination between various parts of the healthcare chain during the transit from hospital care to the home. To provide good care to those persons who have the most complex needs, regions and municipalities must work together. It is of importance to develop further empirical knowledge in relation to older persons with multiple diagnoses to illuminate possible obstacles to person-centred care during the transition between healthcare institutions and the persons livelihood. The aim of the present study was to describe nurses' experienced critical incidents in different parts of the intended healthcare chain of older people with multiple diagnoses. Methods: The sample consisted of 18 RNs in different parts of the healthcare system involved in the care of older people with multiple diagnoses. Data were collected by semi structured interviews and analysed according to Critical Incident Technique (CIT). A total of 169 critical incidents were identified describing experiences in recently experienced situations. Results: The result showed that organizational restrictions in providing care and limitations in collaboration were the main areas of experienced critical incidents. Actions took place due to the lack of preventive actions for care, difficulties in upholding patients' legal rights to participation in care, deficiencies in cooperation between organizations as well as ambiguous responsibilities and roles. The RNs experienced critical incidents that required moral actions to ensure continued person-centred nursing and provide evidence-based care. Both types of critical incidents required sole responsibility from the nurse. The RNs acted due to ethics, 'walking the extra mile', searching for person-centred information, and finding out own knowledge barriers. Conclusions: In conclusion and based on this critical incident study, home-based healthcare of older people with multiple diagnoses requires a nurse that is prepared to take personal and moral responsibility to ensure person-centred home-based healthcare. Furthermore, the development of in-between adjustments of organizations to secure cooperation, and transference of person-centred knowledge is needed.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>research</doctype>
+        <doctype>tables/charts</doctype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=ccm&amp;AN=159238809&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="3">
+  <header shortDbName="ccm" longDbName="CINAHL Complete" uiTerm="158137552">
+    <controlInfo>
+      <bkinfo />
+      <dissinfo />
+      <jinfo>
+        <jtl>BMC Palliative Care</jtl>
+        <issn>1472684X</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2022" month="07" day="22">7/22/2022</dt>
+        <vid>21</vid>
+        <iid>1</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1186/s12904-022-01024-0</ui>
+        <ppf>1</ppf>
+        <ppct>13</ppct>
+        <formats />
+        <tig>
+          <atl>Barriers to and facilitators of ethical encounters at the end of life in a nursing home: an ethnographic study.</atl>
+        </tig>
+        <aug>
+          <au>Holmberg, Bodil</au>
+          <au>Godskesen, Tove</au>
+          <affil>Department of Health Care Sciences, Palliative Research Centre, Marie Cederschiöld University, Box 11189, 100 61, Stockholm, Sweden</affil>
+        </aug>
+        <sug>
+          <subj type="major">Nursing Homes</subj>
+          <subj type="major">Terminal Care</subj>
+          <subj type="major">Patient Centered Care</subj>
+          <subj type="major">Nurse-Patient Relations</subj>
+          <subj type="minor">Human</subj>
+          <subj type="minor">Ethnographic Research</subj>
+          <subj type="minor">Thematic Analysis</subj>
+          <subj type="minor">Male</subj>
+          <subj type="minor">Female</subj>
+          <subj type="minor">Adult</subj>
+          <subj type="minor">Middle Age</subj>
+          <subj type="minor">Aged</subj>
+          <subj type="minor">Aged, 80 and Over</subj>
+          <subj type="minor">Interviews</subj>
+          <subj type="age">Adult: 19-44 years</subj>
+          <subj type="age">Middle Aged: 45-64 years</subj>
+          <subj type="age">Aged: 65+ years</subj>
+          <subj type="age">Aged, 80 &amp; over</subj>
+          <subj type="gender">Male</subj>
+          <subj type="gender">Female</subj>
+        </sug>
+        <ab>Background: Among a growing population of older persons, many affected by multiple diseases and complex needs, are cared for in nursing homes. Previous studies of nursing homes have highlighted the importance of personalised palliative care. Nevertheless, we know little about whether everyday care practice involving assistant nurses and frail older persons accomplishes ethical encounters, especially in assisted bodily care. Therefore, the aim of this study was to understand and conceptualize the encounter between residents and assistant nurses in bodily care-situations at the end of life in a nursing home. Methods: Focused ethnographic design was used. Residents and assistant nurses from one nursing home in an urban Swedish area participated in this study. Data were collected for 6 months and consisted of 170 h of fieldwork, including participant observation and interviews. Observations and digitally recorded interviews were analysed thematically. Five public community stakeholders contributed to the analysis by discussing preliminary results and clinical implications in a focus group. Results: Four themes, each encompassing both barriers to and facilitators of ethical encounters in assisted bodily care, were identified: Coping with the impact of workplace demands; Interacting in dialogue and communication; Experiencing involvement in the provision of assisted bodily care; and Adapting to good care and comfort. Conclusions: The findings suggest that accomplishing ethical encounters in assisted bodily care practice in a nursing home context has many barriers that are related to communication, relationships, and quality of care. Barriers included lack of resources, ineffective communication, and work values, which hinder ethical encounters. Nevertheless, moral sensitivity, genuine interest in resident engagement, and collaborative practices facilitated ethical encounters and are thus central to person-centred care. Uniquely, assistant nurses must be aware of their responsibility for performing their tasks in response to residents' vulnerability. We therefore suggest that moral deliberation over issues of communication, compassion, decision-making, and behavior, with particular consideration for the care relationship. To further improve the quality of care, organisations must provide resources for the building of relationships, as well as time for assistant nurses to recover after long shifts. Additional research is warranted, including implementation of ethically grounded palliative care.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>research</doctype>
+        <doctype>tables/charts</doctype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=ccm&amp;AN=158137552&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="4">
+  <header shortDbName="ccm" longDbName="CINAHL Complete" uiTerm="157630821">
+    <controlInfo>
+      <bkinfo />
+      <dissinfo />
+      <jinfo>
+        <jtl>BMC Nursing</jtl>
+        <issn>14726955</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2022" month="06" day="24">6/24/2022</dt>
+        <vid>21</vid>
+        <iid>1</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1186/s12912-022-00942-x</ui>
+        <ppf>1</ppf>
+        <ppct>10</ppct>
+        <formats>
+          <fmt type="HTML Full Text" />
+          <fmt type="PDF" />
+        </formats>
+        <tig>
+          <atl>Assessing multidimensional complexity in home care: congruencies and discrepancies between patients and nurses.</atl>
+        </tig>
+        <aug>
+          <au>Busnel, Catherine</au>
+          <au>Vallet, Fanny</au>
+          <au>Ashikali, Eleni-Marina</au>
+          <au>Ludwig, Catherine</au>
+          <affil>Geneva Institution for Home Care and Assistance (imad), Avenue, Cardinal-Mermillod 36, CP 1731, 1227, Carouge, Switzerland</affil>
+        </aug>
+        <sug>
+          <subj type="major">Home Health Care</subj>
+          <subj type="major">Instrument Construction</subj>
+          <subj type="major">Patient Attitudes</subj>
+          <subj type="major">Nurse Attitudes</subj>
+          <subj type="major">Questionnaires Evaluation</subj>
+          <subj type="major">Instrument Validation</subj>
+          <subj type="minor">Human</subj>
+          <subj type="minor">Male</subj>
+          <subj type="minor">Female</subj>
+          <subj type="minor">Aged</subj>
+          <subj type="minor">Aged, 80 and Over</subj>
+          <subj type="minor">McNemar's Test</subj>
+          <subj type="minor">Kappa Statistic</subj>
+          <subj type="minor">Intraclass Correlation Coefficient</subj>
+          <subj type="minor">Patient Centered Care</subj>
+          <subj type="minor">Cross Sectional Studies</subj>
+          <subj type="minor">Descriptive Statistics</subj>
+          <subj type="minor">Data Analysis Software</subj>
+          <subj type="minor">Confidence Intervals</subj>
+          <subj type="minor">Patient-Reported Outcomes</subj>
+          <subj type="minor">Youden's J Statistic</subj>
+          <subj type="minor">Funding Source</subj>
+          <subj type="minor">Healthcare Disparities</subj>
+          <subj type="minor">Interviews</subj>
+          <subj type="minor">Adult</subj>
+          <subj type="minor">ROC Curve</subj>
+          <subj type="minor">Validation Studies</subj>
+          <subj type="minor">Internal Consistency</subj>
+          <subj type="age">Aged: 65+ years</subj>
+          <subj type="age">Aged, 80 &amp; over</subj>
+          <subj type="age">Adult: 19-44 years</subj>
+          <subj type="gender">Male</subj>
+          <subj type="gender">Female</subj>
+        </sug>
+        <ab>Background: Person-centered care allows for the inclusion of the totality of a person's needs and preferences, beyond just the clinical or medical aspect. This approach requires the development of tools to allow for the integration of the patient in his/her healthcare. Based on a 30-item tool developed for nurses to evaluate the complexity of home care situations (COMID), this study proposed a version for the patients (i.e. COMID-P). Both instruments were used, independently by nurses and patients, to rate the complexity of individual situations, in order to compare ratings. Methods: The COMID-P and the COMID were completed during the fraXity study at the patients' homes, independently by patients (aged 65 and over) and nurses. Item-level and scale-level analyses were performed using, Kappa and McNemar tests, and intra-class correlation (ICC). Results: A total of 159 pairs of COMID and COMID-P ratings were retained for analyses. Results demonstrated a high degree of patient/nurse agreement for 12/30 items, a moderate agreement for 10/30 items, and a low degree of agreement for 7/30 items. The intra-class correlation between the COMID-P and the COMID was high (ICC=.826, 95%CI [.761-.873]). Conclusions: The results demonstrate that patients and nurses can assess complexity using tools that have comparable structural properties. They also reveal congruencies and discrepancies in scoring the components of complexity, highlighting the need of reaching consensus in designing care plans. Further work is needed to demonstrate the benefits of joint assessment in developing care plans that truly meet patients' needs. Trial registration: The fraXity study was registered in ClinicalTrials.gov, NCT03883425, on March 20, 2019.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>research</doctype>
+        <doctype>tables/charts</doctype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=ccm&amp;AN=157630821&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="5">
+  <header shortDbName="ccm" longDbName="CINAHL Complete" uiTerm="156971141">
+    <controlInfo>
+      <bkinfo />
+      <dissinfo />
+      <jinfo>
+        <jtl>BMC Nursing</jtl>
+        <issn>14726955</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2022" month="05" day="19">5/19/2022</dt>
+        <vid>21</vid>
+        <iid>1</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1186/s12912-022-00902-5</ui>
+        <ppf>1</ppf>
+        <ppct>14</ppct>
+        <formats>
+          <fmt type="HTML Full Text" />
+          <fmt type="PDF" />
+        </formats>
+        <tig>
+          <atl>Effect, economic and process-evaluation of a generic function focused care program for long-term care; study protocol of a multicenter cluster–randomized trial.</atl>
+        </tig>
+        <aug>
+          <au>Vluggen, Stan</au>
+          <au>Metzelthin, Silke</au>
+          <au>Lima Passos, Valeria</au>
+          <au>Zwakhalen, Sandra</au>
+          <au>Huisman-de Waal, Getty</au>
+          <au>de Man-van Ginkel, Janneke</au>
+          <affil>Department of Health Services Research, Maastricht University, Care and Public Health Research Institute, Duboisdomein 30, 6229 GT, Maastricht, The Netherlands</affil>
+        </aug>
+        <sug>
+          <subj type="major">Long Term Care</subj>
+          <subj type="major">Program Development Economics</subj>
+          <subj type="major">Treatment Outcomes</subj>
+          <subj type="major">Holistic Nursing</subj>
+          <subj type="minor">Randomized Controlled Trials</subj>
+          <subj type="minor">Activities of Daily Living</subj>
+          <subj type="minor">Philosophy</subj>
+          <subj type="minor">Functional Status</subj>
+          <subj type="minor">Nurse Attitudes</subj>
+          <subj type="minor">Cost Benefit Analysis</subj>
+          <subj type="minor">Program Implementation</subj>
+          <subj type="minor">Aged</subj>
+          <subj type="age">Aged: 65+ years</subj>
+        </sug>
+        <ab>Background: Nurses are in a key position to stimulate older people to maximize their functional activity and independence. However, nurses still often work in a task-oriented manner and tend to take over tasks unnecessarily. It is evident to support nurses to focus on the capabilities of older people and provide care assistance only when required. Function-Focused Care (FFC) is a holistic care-philosophy aiming to support nurses to deliver care in which functioning and independence of older people is optimized. Dutch and internationally developed FFC-based interventions often lack effectiveness in changing nurses' and client's behavior. Process-evaluations have yielded lessons and implications resulting in the development of an advanced generic FFC-program: the 'SELF-program'. The SELF-program aims to improve activity stimulation behavior of nurses in long-term care services, and with that optimize levels of self-reliance in activities of daily living (ADL) in geriatric clients. The innovative character of the SELF-program lies for example in the application of extended behavior change theory, its interactive nature, and tailoring its components to setting-specific elements and needs of its participants. This paper describes the outline, content and theoretical background of the SELF-program. Subsequently, this paper describes a protocol for the assessment of the program's effect, economic and process-evaluation in a two-arm (SELF-program vs care as usual) multicenter cluster-randomized trial (CRT). Method: The proposed CRT has three objectives, including getting insight into the program's: (1) effectiveness regarding activity stimulation behavior of nurses and self-reliance in ADL of geriatric clients, and (2) cost-effectiveness from a societal perspective including assessments of quality of life and health-care use. Measurements will take place prior to program implementation (baseline), directly after (T1), and in long-term (T2). Parallel to the CRT, a process evaluation will be conducted to provide insight into the program's: (3) feasibility regarding implementation, mechanisms of impact and contextual factors. Discussion: The SELF-program was developed following the Medical Research Council framework, which addresses the systematic development, feasibility testing, evaluation and implementation of complex interventions. The program has been subjected to a feasibility study before and results of studies described in this protocol are expected to be available from end 2022 onwards. Trial-registration: The study is registered in the Dutch Trial Register (NL9189), as of December 22 2020.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>protocol</doctype>
+        <doctype>tables/charts</doctype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=ccm&amp;AN=156971141&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="6">
+  <header shortDbName="ccm" longDbName="CINAHL Complete" uiTerm="156251798">
+    <controlInfo>
+      <bkinfo />
+      <dissinfo />
+      <jinfo>
+        <jtl>Health &amp; Social Care in the Community</jtl>
+        <issn>09660410</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2022" month="05" day="01">May2022</dt>
+        <vid>30</vid>
+        <iid>3</iid>
+        <place>Malden, Massachusetts</place>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1111/hsc.13450</ui>
+        <ppf>e804</ppf>
+        <ppct>8</ppct>
+        <formats />
+        <tig>
+          <atl>Social care costs for community‐dwelling older people living with frailty.</atl>
+        </tig>
+        <aug>
+          <au>Nikolova, Silviya</au>
+          <au>Heaven, Anne</au>
+          <au>Hulme, Claire</au>
+          <au>West, Robert</au>
+          <au>Pendleton, Neil</au>
+          <au>Humphrey, Sara</au>
+          <au>Cundill, Bonnie</au>
+          <au>Clegg, Andrew</au>
+          <affil>Academic Unit of Health Economics, Leeds Institute of Health Sciences, University of Leeds, Leeds, UK</affil>
+        </aug>
+        <sug>
+          <subj type="major">Community Living In Old Age</subj>
+          <subj type="major">Frailty Syndrome</subj>
+          <subj type="major">Health Care Costs</subj>
+          <subj type="major">Aging</subj>
+          <subj type="minor">Human</subj>
+          <subj type="minor">Secondary Analysis</subj>
+          <subj type="minor">Prospective Studies</subj>
+          <subj type="minor">Aged</subj>
+          <subj type="minor">Regression</subj>
+          <subj type="minor">Costs and Cost Analysis</subj>
+          <subj type="minor">England</subj>
+          <subj type="minor">Descriptive Statistics</subj>
+          <subj type="minor">Male</subj>
+          <subj type="minor">Female</subj>
+          <subj type="minor">Aged, 80 and Over</subj>
+          <subj type="minor">Age Factors</subj>
+          <subj type="minor">Sex Factors</subj>
+          <subj type="age">Aged: 65+ years</subj>
+          <subj type="age">Aged, 80 &amp; over</subj>
+          <subj type="gender">Male</subj>
+          <subj type="gender">Female</subj>
+        </sug>
+        <ab>International evidence indicates that older people with frailty are more likely to access social care services, compared to nonfrail older people. There is, however, no robust evidence on costs of social care provided for community‐dwelling older people living with frailty in their own homes. The main objective of this study was to examine the relationship between community‐dwelling older people living with frailty, defined using the cumulative deficit model, and annual formal social care costs for the 2012–2018 period. A secondary objective was to estimate formal social care spending for every 1% reduction in the number of older people who develop frailty over 1 year. Secondary analysis of prospective cohort data from two large nationally representative community‐based cohort studies in England was performed. Respondents aged ≥75 were used in the main analysis and respondents aged 65–74 in sensitivity testing. We used regression tree modelling for formal social care cost analysis including frailty, age, gender, age at completing education and living with partner as key covariates. We employed a minimum node size stopping criteria to limit tree complexity and overfitting and applied 'bootstrap aggregating' to improve robustness. We assessed the impact of an intervention for every 1% decrease in the number of individuals who become frail over 1 year in England. Results show that frailty is the strongest predictor of formal social care costs. Mean social care costs for people who are not frail are £321, compared with £2,895 for individuals with frailty. For every 1% of nonfrail people not transitioning to frailty savings of £4.4 million in annual expenditures on formal social care in England are expected, not including expenditure on care homes. Given considerably higher costs for individuals classed as frail compared to nonfrail, a successful intervention avoiding or postponing the onset of frailty has the potential to considerably reduce social care costs.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>research</doctype>
+        <doctype>tables/charts</doctype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=ccm&amp;AN=156251798&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="7">
+  <header shortDbName="ccm" longDbName="CINAHL Complete" uiTerm="156617902">
+    <controlInfo>
+      <bkinfo />
+      <dissinfo />
+      <jinfo>
+        <jtl>International Journal of Older People Nursing</jtl>
+        <issn>17483735</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2022" month="05" day="01">May2022</dt>
+        <vid>17</vid>
+        <iid>3</iid>
+        <place>Malden, Massachusetts</place>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1111/opn.12433</ui>
+        <ppf>1</ppf>
+        <ppct>10</ppct>
+        <formats />
+        <tig>
+          <atl>Sexual harassment or disinhibition? Residential care staff responses to older adults' unwanted behaviours.</atl>
+        </tig>
+        <aug>
+          <au>Cook, Catherine M.</au>
+          <au>Schouten, Vanessa</au>
+          <au>Henrickson, Mark</au>
+          <au>McDonald, Sandra</au>
+          <au>Atefi, Narges</au>
+          <affil>School of Clinical Sciences, Auckland University of Technology, Auckland, New Zealand</affil>
+        </aug>
+        <sug>
+          <subj type="major">Sexual Harassment</subj>
+          <subj type="major">Nursing Home Patients Psychosocial Factors</subj>
+          <subj type="major">Attitude of Health Personnel Evaluation</subj>
+          <subj type="major">Attitude to Sexuality</subj>
+          <subj type="major">Sexual Behavior In Old Age</subj>
+          <subj type="major">Workplace Violence</subj>
+          <subj type="minor">Human</subj>
+          <subj type="minor">Qualitative Studies</subj>
+          <subj type="minor">Personnel, Health Facility Psychosocial Factors</subj>
+          <subj type="minor">Residential Facilities</subj>
+          <subj type="minor">New Zealand</subj>
+          <subj type="minor">Semi-Structured Interview</subj>
+          <subj type="minor">Extended Family</subj>
+          <subj type="minor">Accountability</subj>
+          <subj type="minor">Aged</subj>
+          <subj type="minor">Funding Source</subj>
+          <subj type="age">Aged: 65+ years</subj>
+        </sug>
+        <ab>Background: The ethical complexity of residential care is especially apparent for staff responding to residents' inappropriate sexual expression, particularly when directed towards care workers as these residents are typically frail, often cognitively impaired, and require ongoing care. Objectives: To explore staff accounts of how they made meaning of and responded to residents' unwanted sexual behaviours directed towards staff. This exploration includes whether staff appeared to accept harassment as a workplace hazard to be managed, or an unacceptable workplace violation, or something else. Methods: These qualitative data are drawn from a national two‐arm mixed method study in Aotearoa New Zealand undertaken in 35 residential care facilities. Semi‐structured interviews were conducted with 77 staff, residents and family members. Interpretive description was used to analyse the data. Results: Staff had numerous ways they used to respond to behaviours: (1) minimisation, deflection and de‐escalation, where staff used strategies to minimise behaviours without requiring any accountability from residents; (2) holding residents accountable, where staff to some degree addressed the behaviour directly with residents; (3) blurred boundaries and complexities in intimate long‐term care, where staff noted that in a context where touch is common‐place, cognitive function was diminished and relationships were long‐term, boundaries were easily breached; (4) dehumanising and infantilising residents' behaviours, where staff appeared to assert control through diminishing the residents' identity as an older person. It was evident that staff had developed considerable practice wisdom focused on preserving the care relationship although few referred to policy and education guiding practice. Conclusions: Staff appeared to be navigating a complex ethical terrain with thoughtfulness and skill. Care workers seemed reluctant to label resident behaviour as sexual harassment, and the term may not fit for staff where they perceive residents are frail and cognitively impaired. Implications for practice: Policy, education and clinical leadership are recommended to augment practice wisdom and ensure staff and resident safety and dignity and to determine how best to intervene with residents' unwanted sexual behaviours.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>research</doctype>
+        <doctype>tables/charts</doctype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=ccm&amp;AN=156617902&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="8">
+  <header shortDbName="ccm" longDbName="CINAHL Complete" uiTerm="154207049">
+    <controlInfo>
+      <bkinfo />
+      <dissinfo />
+      <jinfo>
+        <jtl>Pacific Rim International Journal of Nursing Research</jtl>
+        <issn>19068107</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2022" month="01" day="01">Jan-Mar2022</dt>
+        <vid>26</vid>
+        <iid>1</iid>
+      </pubinfo>
+      <artinfo>
+        <ppf>1</ppf>
+        <ppct>6</ppct>
+        <formats>
+          <fmt type="PDF" />
+        </formats>
+        <tig>
+          <atl>Future Nursing Research of Older Adults: Preserving Independence and Reducing Health Disparities.</atl>
+        </tig>
+        <aug>
+          <au>Ladda Thiamwong</au>
+          <affil>Associate Professor, College of Nursing, University of Central Florida, Orlando, FL, USA</affil>
+        </aug>
+        <sug>
+          <subj type="major">Research, Nursing In Old Age</subj>
+          <subj type="major">Health Care Delivery In Old Age</subj>
+          <subj type="major">Nursing Care</subj>
+          <subj type="minor">Patient Assessment</subj>
+          <subj type="minor">Nurse Researchers</subj>
+          <subj type="minor">COVID-19 Pandemic</subj>
+          <subj type="minor">Technology, Medical</subj>
+          <subj type="minor">Aged</subj>
+          <subj type="minor">Aged, 80 and Over</subj>
+          <subj type="age">Aged: 65+ years</subj>
+          <subj type="age">Aged, 80 &amp; over</subj>
+        </sug>
+        <ab>Nursing professionals are at the forefront of primary care and the largest segment of the health workforce, and nurse researchers can bring vital perspectives to aging research and clinical practice. Although healthcare systems are experiencing more work from the aging of populations, unfortunately there are limited nurse researchers trained in gerontological nursing. Future research in older adults needs to be based on the current needs of and for older adults. In this article, I identify potential future research of aspects for older adults by highlighting opportunities and examples to conduct culturally appropriate interventions that aim to reduce health disparities and preserve independence. Because there is a complexity of health issues in older adults, nurse researchers need to pursue the best ways to address their needs, investigate and disseminate technology-based assessments, provide culturally appropriate interventions to promote independence, prevent chronic conditions, and enhance health equality. Nurses and nurse researchers also need to monitor the changes in functional status and health of older adults, especially as the global burden and costs of diseases and disability of this population grows, and to save unnecessary health care expenditure. To create new knowledge and discover best practices in aging care, nurse researchers lead multidisciplinary teams, develop innovative ideas with the potential for significant clinical impact, and use appropriate research approaches that steer to successful grant applications to national funding agencies. It is essential to establish a program for training or mentoring nurse researchers dedicated to caring for older adults, advocating, and disseminating innovative care to maximize the independence of older adults.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=ccm&amp;AN=154207049&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="9">
+  <header shortDbName="ccm" longDbName="CINAHL Complete" uiTerm="153242039">
+    <controlInfo>
+      <bkinfo />
+      <dissinfo />
+      <jinfo>
+        <jtl>Journal of Gerontological Nursing</jtl>
+        <issn>00989134</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2021" month="11" day="01">Nov2021</dt>
+        <vid>47</vid>
+        <iid>11</iid>
+        <place>Thorofare, New Jersey</place>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.3928/00989134-20211013-02</ui>
+        <ppf>31</ppf>
+        <ppct>8</ppct>
+        <formats />
+        <tig>
+          <atl>Older Adults With Complex Chronic Conditions Who Receive Care at Home: The Importance of Primary Care Assessment.</atl>
+        </tig>
+        <aug>
+          <au>Agredano, Raül Sancho</au>
+          <au>Masclans, Jordi Galimany</au>
+          <au>Guix-Comellas, Eva Maria</au>
+          <au>Fraile, Victoria Morin</au>
+          <au>Sarria-Guerrero, José A.</au>
+          <au>Pola, Montserrat Solà</au>
+          <au>Fabrellas, Núria</au>
+        </aug>
+        <sug>
+          <subj type="major">Chronic Disease In Old Age</subj>
+          <subj type="major">Primary Health Care Evaluation</subj>
+          <subj type="minor">Aged</subj>
+          <subj type="minor">Male</subj>
+          <subj type="minor">Female</subj>
+          <subj type="minor">Polypharmacy</subj>
+          <subj type="minor">Self Concept</subj>
+          <subj type="minor">Quality of Life</subj>
+          <subj type="minor">Emergency Service</subj>
+          <subj type="minor">Patient Admission</subj>
+          <subj type="minor">Frailty Syndrome</subj>
+          <subj type="minor">Cross Sectional Studies</subj>
+          <subj type="minor">Exploratory Research</subj>
+          <subj type="minor">Nonprobability Sample</subj>
+          <subj type="minor">Convenience Sample</subj>
+          <subj type="minor">Spain</subj>
+          <subj type="minor">Questionnaires</subj>
+          <subj type="minor">Clinical Assessment Tools</subj>
+          <subj type="minor">Functional Status</subj>
+          <subj type="minor">Cognition</subj>
+          <subj type="minor">Barthel Index</subj>
+          <subj type="minor">Scales</subj>
+          <subj type="minor">Short Portable Mental Status Questionnaire</subj>
+          <subj type="minor">Data Analysis Software</subj>
+          <subj type="minor">Descriptive Statistics</subj>
+          <subj type="minor">Confidence Intervals</subj>
+          <subj type="minor">Odds Ratio</subj>
+          <subj type="minor">Analysis of Variance</subj>
+          <subj type="minor">Kruskal-Wallis Test</subj>
+          <subj type="minor">Spearman's Rank Correlation Coefficient</subj>
+          <subj type="minor">Chi Square Test</subj>
+          <subj type="minor">Immunization</subj>
+          <subj type="minor">Accidental Falls</subj>
+          <subj type="minor">Human</subj>
+          <subj type="age">Aged: 65+ years</subj>
+          <subj type="gender">Male</subj>
+          <subj type="gender">Female</subj>
+        </sug>
+        <ab>The current study aimed to describe the characteristics of older adults with complex chronic conditions cared for at home. One hundred thirty-eight participants were recruited. Participants' average age was 85.9 years and 69.6% were female. Poly-pharmacy was present in 89.9% of participants. Participants who presented with polypharmacy had a worse self-perception of health (p = 0.002), and the worst fall rate. A total of 22.5% had experienced a fall during the past 6 months. Approximately one half of participants rated their self-perceived quality of life as bad or very bad. The percentage who used emergency services (54.3%) was greater than the percentage who needed to be admitted (43.5%). A worse self-perception of physical health was significantly associated with hospital admissions (p = 0.01). Geriatric assessment by nurses can provide information to improve care in situations in which frailty, dependency, and chronic conditions occur together. Obtaining information on the needs of individuals with frailty is important in designing successful nursing interventions. [Journal of Gerontological Nursing, 47(11), 31–38.]</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>research</doctype>
+        <doctype>tables/charts</doctype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=ccm&amp;AN=153242039&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="10">
+  <header shortDbName="ccm" longDbName="CINAHL Complete" uiTerm="153908163">
+    <controlInfo>
+      <bkinfo />
+      <dissinfo />
+      <jinfo>
+        <jtl>Nursing &amp; Residential Care</jtl>
+        <issn>14659301</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2021" month="11" day="01">Nov2021</dt>
+        <vid>23</vid>
+        <iid>11</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.12968/nrec.2021.23.11.3</ui>
+        <ppf>1</ppf>
+        <ppct>12</ppct>
+        <formats />
+        <tig>
+          <atl>An exploration of hydration practices in Maltese residential care homes for older people.</atl>
+        </tig>
+        <aug>
+          <au>Micallef, Francesca</au>
+          <au>Vella, Marisa</au>
+          <au>Narmaniya, Alan Sciberras</au>
+          <au>Cook, Glenda</au>
+          <au>Thompson, Juliana</au>
+          <affil>Institute of Applied Sciences, Malta College of Arts, Science and Technology, Paola, Malta</affil>
+        </aug>
+        <sug>
+          <subj type="major">Residential Facilities Mediterranean Islands</subj>
+          <subj type="major">Hydration Status In Old Age</subj>
+          <subj type="minor">Human</subj>
+          <subj type="minor">Aged</subj>
+          <subj type="minor">Mediterranean Islands</subj>
+          <subj type="minor">Exploratory Research</subj>
+          <subj type="minor">Qualitative Studies</subj>
+          <subj type="minor">Semi-Structured Interview</subj>
+          <subj type="minor">Attitude of Health Personnel</subj>
+          <subj type="minor">Thematic Analysis</subj>
+          <subj type="minor">Convenience Sample</subj>
+          <subj type="minor">Self Care</subj>
+          <subj type="age">Aged: 65+ years</subj>
+        </sug>
+        <ab>Background/aims: The integral relationship between adequate hydration and good health is widely recognised. Older people with complex needs and frailty can struggle to maintain adequate hydration, with residents in care home settings being at an increased risk of dehydration. The aim of this study was to explore current hydration practices in residential care homes in Malta. Methods: An exploratory qualitative approach was adopted to explore staff's views and approaches in supporting residents' hydration. Data was collected via semi-structured, individual and small group interviews with staff from two care homes from the central and southern region of Malta. A process of open coding, followed by axial coding, was used to analyse the data. Peer debriefing was performed throughout, until agreement was reached among the research team about the final themes and sub-themes. Results: Three themes emerged from the data: culture of promoting fluid intake; challenges in supporting older people to achieve optimum hydration; hydration practices and approaches. Conclusions: A hydration promotion culture was demonstrated through various practices adopted in the care homes. The strong focus on water intake, in response to concerns about consuming sugary beverages, has implications for the promotion of a person-centred approach to hydration care. Inconsistencies in monitoring of fluids and daily recommended targets highlights the importance of policies or guidelines to guide hydration practice. Challenges related to refusal of fluids and language barriers among non-native staff were evident and justify further research is this area.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>research</doctype>
+        <doctype>tables/charts</doctype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=ccm&amp;AN=153908163&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="11">
+  <header shortDbName="ccm" longDbName="CINAHL Complete" uiTerm="153315107">
+    <controlInfo>
+      <bkinfo />
+      <dissinfo />
+      <jinfo>
+        <jtl>BMC Nursing</jtl>
+        <issn>14726955</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2021" month="10" day="29">10/29/2021</dt>
+        <vid>20</vid>
+        <iid>1</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1186/s12912-021-00745-6</ui>
+        <ppf>1</ppf>
+        <ppct>8</ppct>
+        <formats>
+          <fmt type="PDF" />
+        </formats>
+        <tig>
+          <atl>Next of kin's experiences of registered nurses' leadership close to older adults in municipal home care in Sweden: an interview study.</atl>
+        </tig>
+        <aug>
+          <au>Claesson, Maria</au>
+          <au>Jonasson, Lise-Lotte</au>
+          <au>Josefsson, Karin</au>
+          <affil>Faculty of Caring Science, Work Life and Social Welfare, University of Borås, 501 90, Borås, Sweden</affil>
+        </aug>
+        <sug>
+          <subj type="major">Family Psychosocial Factors</subj>
+          <subj type="major">Life Experiences</subj>
+          <subj type="major">Family Attitudes</subj>
+          <subj type="major">Registered Nurses</subj>
+          <subj type="major">Leadership</subj>
+          <subj type="major">Home Health Care In Old Age</subj>
+          <subj type="major">Hospitals, Public Sweden</subj>
+          <subj type="minor">Human</subj>
+          <subj type="minor">Qualitative Studies</subj>
+          <subj type="minor">Interviews</subj>
+          <subj type="minor">Aged</subj>
+          <subj type="minor">Content Analysis</subj>
+          <subj type="minor">Sweden</subj>
+          <subj type="minor">Data Analysis Software</subj>
+          <subj type="minor">Communication</subj>
+          <subj type="minor">Narratives</subj>
+          <subj type="minor">Accountability</subj>
+          <subj type="age">Aged: 65+ years</subj>
+        </sug>
+        <ab>Background: Next of kin to older adults over 65 years in municipal home care are concerned whether their older adults' needs are being met. In municipal home care, the registered nurses' leadership is important and complex, entailing multi-artist skills involving the older adults and their next of kin. Yet, little is known about next of kin's experiences of registered nurses' leadership. Thus, the aim of this study was to explore next of kin's experiences of registered nurses' leadership close to older adults in municipal home care. Methods: Individual telephone interviews were conducted with next of kin (n = 11) of older adults from April to September 2020 in two municipalities in western Sweden. Data were analysed using qualitative content analysis. Results: The results are presented with the theme, registered nurses do what they can, including two categories, interaction and competence, and the subcategories, relationship, communication, availability, responsibility, team leadership and cooperation. Registered nurses' leadership was experienced as a balancing act between their commitments and what they were able to achieve. Conclusions: Next of kin's experiences of registered nurses' leadership can contribute knowledge that will strengthen and prepare registered nurses for their leadership roles. This knowledge can support the development of policies for organisational preconditions that ensure quality and safe care to older adults in municipal home care.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>research</doctype>
+        <doctype>tables/charts</doctype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=ccm&amp;AN=153315107&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="12">
+  <header shortDbName="ccm" longDbName="CINAHL Complete" uiTerm="152928984">
+    <controlInfo>
+      <bkinfo />
+      <dissinfo />
+      <jinfo>
+        <jtl>British Journal of Community Nursing</jtl>
+        <issn>14624753</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2021" month="10" day="01">Oct2021</dt>
+        <vid>26</vid>
+        <iid>10</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.12968/bjcn.2021.26.10.482</ui>
+        <ppf>482</ppf>
+        <ppct>11</ppct>
+        <formats>
+          <fmt type="PDF" />
+        </formats>
+        <tig>
+          <atl>A new tool to measure acuity in the community: a case study.</atl>
+        </tig>
+        <aug>
+          <au>Baker, Edward</au>
+          <au>Facultad, Jose Loreto</au>
+          <au>Slade, Harriet</au>
+          <au>Lee, Geraldine</au>
+          <affil>Lecturer in Applied Technology for Clinical Care, King's College London, King's College Hospital NHS Foundation Trust</affil>
+        </aug>
+        <sug>
+          <subj type="major">Clinical Assessment Tools</subj>
+          <subj type="major">Community Health Nursing</subj>
+          <subj type="major">Nursing Intensity</subj>
+          <subj type="minor">Patient Care Methods</subj>
+          <subj type="minor">Models, Theoretical</subj>
+          <subj type="minor">Female</subj>
+          <subj type="minor">Aged</subj>
+          <subj type="minor">Home Health Care</subj>
+          <subj type="minor">Workforce</subj>
+          <subj type="minor">Leadership</subj>
+          <subj type="minor">Physical Examination</subj>
+          <subj type="minor">Multidisciplinary Care Team</subj>
+          <subj type="minor">Risk Assessment</subj>
+          <subj type="minor">Comorbidity</subj>
+          <subj type="minor">Workload</subj>
+          <subj type="age">Aged: 65+ years</subj>
+          <subj type="gender">Female</subj>
+        </sug>
+        <ab>The provision of acute healthcare within patients own home (i.e. hospital in the home) is an important method of providing individualised patient-centred care that reduces the need for acute hospital admissions and enables early hospital discharge for appropriate patient groups. The Hospital in the Home (HitH) model of care ensures that this approach maximises patient safety and limits potential risk for patients. As HitH services have seen record numbers of patient referrals in the past 2 years, there is now a greater need to measure and understand the acuity and dependency levels of the caseload. Through an expert clinician development process at one NHS trust, aspects of procedural complexity, interdisciplinary working, risk stratification and comorbidities were used to quantify acuity and dependency. This paper uses a case study approach to present a new method of measuring this important concept.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>case study</doctype>
+        <doctype>tables/charts</doctype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=ccm&amp;AN=152928984&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="13">
+  <header shortDbName="ccm" longDbName="CINAHL Complete" uiTerm="152817977">
+    <controlInfo>
+      <bkinfo />
+      <dissinfo />
+      <jinfo>
+        <jtl>Japan Journal of Nursing Science</jtl>
+        <issn>17427932</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2021" month="10" day="01">Oct2021</dt>
+        <vid>18</vid>
+        <iid>4</iid>
+        <place>Malden, Massachusetts</place>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1111/jjns.12440</ui>
+        <ppf>1</ppf>
+        <ppct>9</ppct>
+        <formats />
+        <tig>
+          <atl>Factors related to complex care needs of older adults in community‐based integrated care centers in Japan: A cross‐sectional study.</atl>
+        </tig>
+        <aug>
+          <au>Yoshioka‐Maeda, Kyoko</au>
+          <au>Kono, Ayumi</au>
+          <affil>Department of Health Promotion, National Institute of Public Health, Saitama, Japan</affil>
+        </aug>
+        <sug>
+          <subj type="major">Health Services Needs and Demand In Old Age</subj>
+          <subj type="major">Community Health Centers Japan</subj>
+          <subj type="major">Health Care Delivery, Integrated</subj>
+          <subj type="minor">Human</subj>
+          <subj type="minor">Cross Sectional Studies</subj>
+          <subj type="minor">Japan</subj>
+          <subj type="minor">Self Report</subj>
+          <subj type="minor">Questionnaires</subj>
+          <subj type="minor">Socioeconomic Factors</subj>
+          <subj type="minor">Age Factors</subj>
+          <subj type="minor">Logistic Regression</subj>
+          <subj type="minor">Social Isolation</subj>
+          <subj type="minor">Social Work Service</subj>
+          <subj type="minor">Frail Elderly</subj>
+          <subj type="minor">Social Factors</subj>
+          <subj type="minor">Self Neglect</subj>
+          <subj type="minor">Confidence Intervals</subj>
+          <subj type="minor">Mann-Whitney U Test</subj>
+          <subj type="minor">Chi Square Test</subj>
+          <subj type="minor">Data Analysis Software</subj>
+          <subj type="minor">Aged</subj>
+          <subj type="age">Aged: 65+ years</subj>
+        </sug>
+        <ab>Aim: This study aimed to identify the factors related to complex care needs of older adults in community‐based integrated care centers. Methods: We sent 936 self‐reported questionnaires to community‐based integrated care center directors in the Kinki region of Japan. These questionnaires included questions not only about the directors' demographic data, but also regarding the sociodemographic, psychosocial, and family‐related dimensions of the older adults in the community centers. The directors divided their cases into two categories: "Complex cases" and "Straightforward cases." We compared the intergroup differences and examined the factors related to complex care needs in older adults. Results: A total of 232 directors responded. Complex cases were significantly associated with younger age, poor health conditions, and having a family member who needs care, as compared to straightforward cases where these associations were not present. Logistic regression showed that in older adults, factors of refusing support or social services, social isolation, and trouble with neighbors were associated with their complexities. Additionally, family members with a high likelihood of refusing social services, older adults without a key family member, and difficulties in forming their consensus regarding care were associated with older adults' complexities. Conclusion: Older adults with complex care needs could have the risk of self‐neglect, and their families faced difficulties in supporting them as family members. Healthcare professions should carefully assess these factors and develop needs‐oriented services for them without their family support as an upstream intervention.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>research</doctype>
+        <doctype>tables/charts</doctype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=ccm&amp;AN=152817977&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="14">
+  <header shortDbName="ccm" longDbName="CINAHL Complete" uiTerm="152622462">
+    <controlInfo>
+      <bkinfo />
+      <dissinfo />
+      <jinfo>
+        <jtl>Journal of Nursing Research (Lippincott Williams &amp; Wilkins)</jtl>
+        <issn>16823141</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2021" month="10" day="01">Oct2021</dt>
+        <vid>29</vid>
+        <iid>5</iid>
+        <place>Baltimore, Maryland</place>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1097/JNR.0000000000000444</ui>
+        <ppf>e167</ppf>
+        <ppct>1</ppct>
+        <formats />
+        <tig>
+          <atl>Clinical Decision Path for Identifying Recurrent Falls in Late Middle-Aged and Older Patients With Chronic Schizophrenia.</atl>
+        </tig>
+        <aug>
+          <au>WANG, Mei-Yeh</au>
+          <au>LIU, I-Chao</au>
+          <au>CHIU, Chen-Huan</au>
+          <affil>PhD, RN, Associate Professor, Department of Nursing, Cardinal Tien Junior College of Healthcare and Management, Taiwan, ROC</affil>
+        </aug>
+        <sug>
+          <subj type="major">Schizophrenia Complications</subj>
+          <subj type="major">Psychiatric Patients</subj>
+          <subj type="major">Accidental Falls Risk Factors</subj>
+          <subj type="major">Accidental Falls Risk Factors</subj>
+          <subj type="major">Risk Assessment Methods</subj>
+          <subj type="major">Decision Making, Clinical</subj>
+          <subj type="minor">Human</subj>
+          <subj type="minor">Male</subj>
+          <subj type="minor">Female</subj>
+          <subj type="minor">Middle Age</subj>
+          <subj type="minor">Aged</subj>
+          <subj type="minor">Aged, 80 and Over</subj>
+          <subj type="minor">Taiwan</subj>
+          <subj type="minor">Cross Sectional Studies</subj>
+          <subj type="minor">Regression</subj>
+          <subj type="minor">Frailty Syndrome</subj>
+          <subj type="minor">Functional Status</subj>
+          <subj type="minor">Physical Performance</subj>
+          <subj type="minor">Depression</subj>
+          <subj type="minor">Cognition</subj>
+          <subj type="minor">Fatigue</subj>
+          <subj type="minor">Sex Factors</subj>
+          <subj type="minor">Descriptive Statistics</subj>
+          <subj type="minor">Data Analysis Software</subj>
+          <subj type="minor">T-Tests</subj>
+          <subj type="minor">Chi Square Test</subj>
+          <subj type="minor">Center for Epidemiological Studies Depression Scale</subj>
+          <subj type="minor">Short Portable Mental Status Questionnaire</subj>
+          <subj type="minor">Clinical Assessment Tools</subj>
+          <subj type="minor">Psychological Tests</subj>
+          <subj type="minor">Scales</subj>
+          <subj type="minor">Severity of Illness Indices</subj>
+          <subj type="minor">Funding Source</subj>
+          <subj type="age">Middle Aged: 45-64 years</subj>
+          <subj type="age">Aged: 65+ years</subj>
+          <subj type="age">Aged, 80 &amp; over</subj>
+          <subj type="gender">Male</subj>
+          <subj type="gender">Female</subj>
+        </sug>
+        <ab>Background: Falls are a major hazard for elderly patients with schizophrenia. As patients with schizophrenia may experience a more-accelerated rate of physical aging than the overall elderly population, the risk of falls may emerge during the late middle-age period in this population. Furthermore, the risk of falls is affected by multiple, interrelated risk factors. Purpose: This study was undertaken to capture the complexity of the risk of falls in patients with schizophrenia. A cross-sectional approach was used to apply classification and regression tree (CART) analysis to generate a clinical decision path to identify the risk factors of recurrent falls in late middle-aged and older patients with schizophrenia. Methods: Two hundred ninety-one patients aged 55 years or older were recruited from psychiatric halfway houses for assessment. Frailty, physical functional performance, depressive severity, cognitive function, and level of fatigue were measured, respectively, using the Study of Osteoporotic Fractures Frailty Index, Short Physical Performance Battery (SPPB), Center for Epidemiological Studies Depression Scale, Short Portable Mental Status Questionnaire (SPMSQ), and Chinese version of the Fatigue Severity Scale. The variables revealed by descriptive statistics to be statistically significant were further analyzed using CART analysis. Results: The overall proportion of recurrent fallers in this study was 19.2%. CART analysis revealed eight end groups and identified four predictors: frailty, physical functional performance, cognitive function, and sex. The most prominent condition for recurrent fallers was frailty, present in 57.1% of the frail participants. In the nonfrail group (both prefrail and robust), participants with an SPPB score of less than 10 had a 29.7% chance of being a recurrent faller versus 13.6% for those with an SPPB score of 10 or more. Furthermore, an SPMSQ score of 7 was the next-best split among participants without frailty, with an SPPB score of 10 or more. Finally, among participants without frailty and with an SPPB score of 10 or more and an SPMSQ score of more than 7, the proportion of recurrent fallers was higher in women than men. Conclusions: The results of this study indicate that assessing frailty status may be an effective, first-step approach to identifying schizophrenic patients at an increased risk of recurrent falls. Among patients with prefrailty or robust status, an SPPB score cutoff of 10, an SPMSQ score cutoff of 7, and being female may be used sequentially to identify individuals at a heightened risk of recurrent falls.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>research</doctype>
+        <doctype>tables/charts</doctype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=ccm&amp;AN=152622462&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="15">
+  <header shortDbName="ccm" longDbName="CINAHL Complete" uiTerm="153015129">
+    <controlInfo>
+      <bkinfo />
+      <dissinfo />
+      <jinfo>
+        <jtl>Journal of Wound Care</jtl>
+        <issn>09690700</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2021" month="10" day="01">Oct2021</dt>
+        <vid>30</vid>
+        <iid>10</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.12968/jowc.2021.30.10.845</ui>
+        <ppf>845</ppf>
+        <ppct>8</ppct>
+        <formats />
+        <tig>
+          <atl>Palliative care aspects of wound healing in complex patients: a case report.</atl>
+        </tig>
+        <aug>
+          <au>Allen, Latricia L</au>
+          <au>Uphold, Constance R</au>
+          <au>Koniaris-Rambaud, Christine</au>
+          <au>House, Kim</au>
+          <au>Gray, Frances</au>
+          <au>Fitzgerald, Linda</au>
+          <au>Vaughan, Camille</au>
+          <au>Johnson II, Theodore M</au>
+          <affil>Birmingham/Atlanta Geriatric Research, Education, and Clinical Center (GRECC), Department of Veterans Affairs, Decatur, GA, US</affil>
+        </aug>
+        <sug>
+          <subj type="major">Palliative Care</subj>
+          <subj type="major">Wound Healing</subj>
+          <subj type="major">Wound Care</subj>
+          <subj type="major">Pressure Ulcer Drug Therapy</subj>
+          <subj type="major">Comorbidity</subj>
+          <subj type="minor">Male</subj>
+          <subj type="minor">Aged</subj>
+          <subj type="minor">Frail Elderly</subj>
+          <subj type="minor">Quality of Life</subj>
+          <subj type="minor">Amoxicillin Therapeutic Use</subj>
+          <subj type="minor">Clavulanic Acid Therapeutic Use</subj>
+          <subj type="minor">Trimethoprim-Sulfamethoxazole Combination Therapeutic Use</subj>
+          <subj type="minor">Acetaminophen Therapeutic Use</subj>
+          <subj type="age">Aged: 65+ years</subj>
+          <subj type="gender">Male</subj>
+        </sug>
+        <ab>Symptom or palliative management for wound care has commonly been reported in the literature as being focused on end-of-life care with less emphasis on being an effective supportive option for any patient with a wound in whom symptom management is indicated. This case report describes a frail older patient with a hard-to-heal pressure injury and multiple comorbidities to highlight palliative symptom management as a viable option to enhance patient comfort. Wound care providers may consider a palliative approach for hard-to-heal wound management that incorporates the whole patient, family and/or caregiver when faced with management of a frail older adult with a hard-to-heal wound to enhance the relief of suffering and improve quality of life. All procedures were performed in compliance with relevant laws and institutional guidelines and the appropriate institutional committee has approved them. Declaration of interest: The authors have no conflicts of interest to declare.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>case study</doctype>
+        <doctype>pictorial</doctype>
+        <doctype>tables/charts</doctype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=ccm&amp;AN=153015129&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="16">
+  <header shortDbName="ccm" longDbName="CINAHL Complete" uiTerm="151957417">
+    <controlInfo>
+      <bkinfo />
+      <dissinfo />
+      <jinfo>
+        <jtl>Scandinavian Journal of Caring Sciences</jtl>
+        <issn>02839318</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2021" month="09" day="01">Sep2021</dt>
+        <vid>35</vid>
+        <iid>3</iid>
+        <place>Malden, Massachusetts</place>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1111/scs.12904</ui>
+        <ppf>871</ppf>
+        <ppct>10</ppct>
+        <formats>
+          <fmt type="HTML Full Text" />
+          <fmt type="HTML Full Text with Images" />
+          <fmt type="PDF" />
+        </formats>
+        <tig>
+          <atl>Transitional 'hospital to home' care of older patients: healthcare professionals' perspectives.</atl>
+        </tig>
+        <aug>
+          <au>Dolu, İlknur</au>
+          <au>Naharcı, Mehmet İlkin</au>
+          <au>Logan, Patricia A.</au>
+          <au>Paal, Piret</au>
+          <au>Vaismoradi, Mojtaba</au>
+          <affil>Faculty of Health Science, Bartin University, Bartın, Turkey</affil>
+        </aug>
+        <sug>
+          <subj type="major">Attitude of Health Personnel Turkey</subj>
+          <subj type="major">Transitional Care In Old Age</subj>
+          <subj type="major">Home Health Care In Old Age</subj>
+          <subj type="major">Urban Areas</subj>
+          <subj type="major">Continuity of Patient Care</subj>
+          <subj type="minor">Human</subj>
+          <subj type="minor">Male</subj>
+          <subj type="minor">Female</subj>
+          <subj type="minor">Adult</subj>
+          <subj type="minor">Middle Age</subj>
+          <subj type="minor">Turkey</subj>
+          <subj type="minor">Qualitative Studies</subj>
+          <subj type="minor">Thematic Analysis</subj>
+          <subj type="minor">Semi-Structured Interview</subj>
+          <subj type="minor">Health Personnel</subj>
+          <subj type="minor">Collaboration</subj>
+          <subj type="minor">Discharge Planning</subj>
+          <subj type="minor">Descriptive Statistics</subj>
+          <subj type="minor">Aged</subj>
+          <subj type="age">Adult: 19-44 years</subj>
+          <subj type="age">Middle Aged: 45-64 years</subj>
+          <subj type="age">Aged: 65+ years</subj>
+          <subj type="gender">Male</subj>
+          <subj type="gender">Female</subj>
+        </sug>
+        <ab>Background: Transitional care is a key area of care provision to older people with chronic and complex health conditions and is associated with the quality of care delivered in the healthcare system. Aims: This study aimed to explore the perspectives of healthcare providers, including nurses and physicians, regarding transitional care from hospital to home in an urban area of Turkey. Methods: A qualitative study using a thematic analysis method was carried out. In‐depth semi‐structured interviews were held with eight clinical nurses and five general physicians involved in the provision of healthcare services to older patients in the transitional care process from hospital to home. Findings: The thematic analysis of in‐depth semi‐structured interviews with 13 healthcare professionals led to the development of the following themes: 'uninterrupted chain of care transfer', 'commitment to meet patient's needs' and 'support and removing ambiguities'. Conclusions: Key factors impacting on the quality and safety of transitional care and continuity of healthcare are communication and collaboration between healthcare staff and settings, and older patients' as well as family caregivers' awareness and their feelings of responsibility towards the continuity of care at home.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>research</doctype>
+        <doctype>tables/charts</doctype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=ccm&amp;AN=151957417&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="17">
+  <header shortDbName="ccm" longDbName="CINAHL Complete" uiTerm="151291259">
+    <controlInfo>
+      <bkinfo />
+      <dissinfo />
+      <jinfo>
+        <jtl>International Journal of Nursing Studies</jtl>
+        <issn>00207489</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2021" month="08" day="01">Aug2021</dt>
+        <vid>120</vid>
+        <place>Philadelphia, Pennsylvania</place>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1016/j.ijnurstu.2021.103975</ui>
+        <ppct>1</ppct>
+        <formats />
+        <tig>
+          <atl>Can an individualized adherence education program delivered by nurses improve therapeutic adherence in elderly people with acute myocardial infarction?: A randomized controlled study.</atl>
+        </tig>
+        <aug>
+          <au>Calvo, Elena</au>
+          <au>Izquierdo, Silvia</au>
+          <au>Castillo, Rocio</au>
+          <au>César, Elisabeth</au>
+          <au>Domene, Gerard</au>
+          <au>Gómez, Ana Belén</au>
+          <au>Guerrero, Carmen</au>
+          <au>Andreu-Periz, Lola</au>
+          <au>Gómez-Hospital, Joan Antoni</au>
+          <au>Ariza-Solé, Albert</au>
+          <affil>Department of Heart Disease, Bellvitge University Hospital</affil>
+        </aug>
+        <sug>
+          <subj type="major">Nursing Interventions</subj>
+          <subj type="major">Medication Compliance Education</subj>
+          <subj type="major">Cardiac Patients Education</subj>
+          <subj type="major">Patient Education In Old Age</subj>
+          <subj type="major">Nurse-Patient Relations</subj>
+          <subj type="major">Acute Disease Surgery</subj>
+          <subj type="major">Myocardial Infarction In Old Age</subj>
+          <subj type="major">Outcomes of Education</subj>
+          <subj type="minor">Human</subj>
+          <subj type="minor">Randomized Controlled Trials</subj>
+          <subj type="minor">Comparative Studies</subj>
+          <subj type="minor">Tertiary Health Care</subj>
+          <subj type="minor">Aged</subj>
+          <subj type="minor">Aged, 80 and Over</subj>
+          <subj type="minor">Percutaneous Coronary Intervention</subj>
+          <subj type="minor">Geriatric Assessment</subj>
+          <subj type="minor">Patient Admission</subj>
+          <subj type="minor">Random Assignment</subj>
+          <subj type="minor">Monitoring, Physiologic</subj>
+          <subj type="minor">Medication Compliance Evaluation</subj>
+          <subj type="minor">Comorbidity</subj>
+          <subj type="minor">Descriptive Statistics</subj>
+          <subj type="minor">Malnutrition Risk Factors</subj>
+          <subj type="minor">Risk Assessment</subj>
+          <subj type="minor">Cognition Disorders Risk Factors</subj>
+          <subj type="minor">Educational Status</subj>
+          <subj type="minor">Scales</subj>
+          <subj type="age">Aged: 65+ years</subj>
+          <subj type="age">Aged, 80 &amp; over</subj>
+        </sug>
+        <ab>The ageing of the population is leading to an increase in the number of elderly patients with acute myocardial infarction. These patients are at higher risk for complications and poor medication adherence, which in turn are associated with higher healthcare resource expenditures. Nursing programmes might help to improve adherence in these complex patients. The objective of this study was to assess the impact of a nursing intervention on therapeutic adherence in elderly patients after myocardial infarction compared to a control group. A single-blind, randomized controlled trial. Heart disease institute of a tertiary care hospital. Patients aged ≥75 years with myocardial infarction undergoing percutaneous coronary intervention. A comprehensive geriatric assessment was performed during the admission in all patients (N=143). Patients were randomly allocated to a nursing intervention group (n=68) or a usual care group (n=75). In patients from the intervention group, a nursing intervention programme was performed 3 months after admission based on education support and patient monitoring to improve therapeutic adherence. The main outcome measured was 12-months therapeutic adherence, as defined by a combination of measurement tools (Morisky-Green and Hayness-Sacket scales, attendance at visits and withdrawal of medication from the pharmacy). Therapeutic adherence was assessed by nurses blinded to the assignment group. The mean age was 82.2 years. The proportion of comorbidities was significant (diabetes mellitus 51/143 (35.7%), hypertension 110/143 (76.9%), prior stroke 22/143 (15.4%)). Likewise, the proportion of geriatric syndromes was noticeable (frailty 26/143 (18.2%), risk of malnutrition 38/143 (26.6%), cognitive impairment 28/143 (19.6%)). Most patients (92.3%) had a low educational level. A total of 119 patients achieved 12-month assessment adherence. Among these patients, the proportions of adherence were as follows: Morisky-Green test: 76/119 (63.9%), Haynes-Sackett test 99/119 (83.2%), medical visits compliance 95/119 (79.8%), and correct acquisition of drugs in the pharmacy 74/119 (62.2%). A total of 42/119 patients (35.3%) were adherent as defined by the combination of the 4 measures. Therapeutic adherence at 12 months was achieved in a significantly higher proportion of patients from the nursing intervention group (51.9% vs 21.5%, p&lt;0.001). A significant proportion of elderly patients with myocardial infarction were non-adherent at 12 months. The proportion of adherent patients was highly variable according to the different tools used. A structured nursing intervention was independently associated with a higher adherence rate, as assessed by a multidimensional measurement, in this subset of complex high-risk elderly patients with myocardial infarction. Trial registration: Registered with www.clinicaltrials.gov (NCT04662762)</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>research</doctype>
+        <doctype>randomized controlled trial</doctype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=ccm&amp;AN=151291259&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="18">
+  <header shortDbName="ccm" longDbName="CINAHL Complete" uiTerm="151003797">
+    <controlInfo>
+      <bkinfo />
+      <dissinfo />
+      <jinfo>
+        <jtl>Health &amp; Social Care in the Community</jtl>
+        <issn>09660410</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2021" month="07" day="01">Jul2021</dt>
+        <vid>29</vid>
+        <iid>4</iid>
+        <place>Malden, Massachusetts</place>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1111/hsc.13123</ui>
+        <ppf>897</ppf>
+        <ppct>8</ppct>
+        <formats>
+          <fmt type="PDF" />
+        </formats>
+        <tig>
+          <atl>The impact of rapid response and telecare services on elderly and vulnerable residents.</atl>
+        </tig>
+        <aug>
+          <au>Watson, Pat</au>
+          <au>Bearpark, Terry</au>
+          <au>Ling, Jonathan</au>
+          <affil>School of Health &amp; Social Care, Teesside University, Middlesbrough, UK</affil>
+        </aug>
+        <sug>
+          <subj type="major">Rapid Response (Emergency Care)</subj>
+          <subj type="major">Telemedicine In Old Age</subj>
+          <subj type="major">Special Populations In Old Age</subj>
+          <subj type="major">Interns and Residents</subj>
+          <subj type="major">Housing for Older Persons</subj>
+          <subj type="minor">Human</subj>
+          <subj type="minor">Aged</subj>
+          <subj type="minor">England</subj>
+          <subj type="minor">Semi-Structured Interview</subj>
+          <subj type="minor">Thematic Analysis</subj>
+          <subj type="minor">Health Status</subj>
+          <subj type="minor">Quality of Life</subj>
+          <subj type="minor">Stress</subj>
+          <subj type="minor">Descriptive Research</subj>
+          <subj type="minor">Qualitative Studies</subj>
+          <subj type="minor">Data Analysis Software</subj>
+          <subj type="minor">Patient Discharge</subj>
+          <subj type="age">Aged: 65+ years</subj>
+        </sug>
+        <ab>An ageing population, government funding cuts and pressures on local authorities to provide services that meet the needs of elderly people, particularly those with complex needs, has resulted in challenges for service providers and service users. This study examined the impact on service users and other stakeholders of rapid response services for elderly and vulnerable residents living in social housing in north‐east England. The housing provider has a rapid response team for residents as part of its organisational infrastructure. This includes a 24/7 emergency response service combined with a telecare service, funded by the local authority for vulnerable clients with complex needs and self‐funded by others. The study utilised semi‐structured qualitative interviews to collect data. Participants included service users, commissioners, service providers, adult social care and family carers. Thematic analysis was used to identify key issues. Service users reported feeling safer and more confident knowing someone would be there at times of need. Family carers reported improvements in their own health and well‐being, as they no longer felt on call all the time. The number of requests for ambulances as a consequence of falls was reported to have reduced by the rapid response team. Vulnerable people with electronic monitoring/telecare support were able to remain in their own home for longer, reducing the need for residential funding by the local authority. The partnership between the housing association and the local authority resulted in a service able to respond to changing needs as well as identifying deterioration in residents' health status. In conclusion, the use of a combined rapid response and telecare service resulted in elderly people remaining independent in their homes for longer, which improved their reported quality of life and relieved stress on carers and pressures on other service providers.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>research</doctype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=ccm&amp;AN=151003797&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="19">
+  <header shortDbName="ccm" longDbName="CINAHL Complete" uiTerm="151003810">
+    <controlInfo>
+      <bkinfo />
+      <dissinfo />
+      <jinfo>
+        <jtl>Health &amp; Social Care in the Community</jtl>
+        <issn>09660410</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2021" month="07" day="01">Jul2021</dt>
+        <vid>29</vid>
+        <iid>4</iid>
+        <place>Malden, Massachusetts</place>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1111/hsc.13137</ui>
+        <ppf>1030</ppf>
+        <ppct>11</ppct>
+        <formats>
+          <fmt type="PDF" />
+        </formats>
+        <tig>
+          <atl>Psychosocial Adjustment to Illness Scale in family caregivers of patients with Parkinson's Disease: Spanish validation study.</atl>
+        </tig>
+        <aug>
+          <au>Ambrosio, Leire</au>
+          <au>Navarta‐Sánchez, Mª Victoria</au>
+          <au>Portillo, Mª Carmen</au>
+          <au>Martin‐Lanas, Raquel</au>
+          <au>Recio, Miriam</au>
+          <au>Riverol, Mario</au>
+          <affil>Faculty of Nursing, University of Navarra, Pamplona, Spain</affil>
+        </aug>
+        <sug>
+          <subj type="major">Psychosocial Adjustment to Illness Scale</subj>
+          <subj type="major">Caregivers</subj>
+          <subj type="major">Parkinson Disease</subj>
+          <subj type="major">Psychometrics</subj>
+          <subj type="major">Instrument Validation</subj>
+          <subj type="minor">Human</subj>
+          <subj type="minor">Cross Sectional Studies</subj>
+          <subj type="minor">Validation Studies</subj>
+          <subj type="minor">Scales</subj>
+          <subj type="minor">Short Form-36 Health Survey (SF-36)</subj>
+          <subj type="minor">Questionnaires</subj>
+          <subj type="minor">Descriptive Statistics</subj>
+          <subj type="minor">Chi Square Test</subj>
+          <subj type="minor">Male</subj>
+          <subj type="minor">Female</subj>
+          <subj type="minor">Middle Age</subj>
+          <subj type="minor">Aged</subj>
+          <subj type="minor">Construct Validity</subj>
+          <subj type="minor">Reliability</subj>
+          <subj type="minor">Criterion-Related Validity</subj>
+          <subj type="age">Middle Aged: 45-64 years</subj>
+          <subj type="age">Aged: 65+ years</subj>
+          <subj type="gender">Male</subj>
+          <subj type="gender">Female</subj>
+        </sug>
+        <ab>Psychosocial adjustment to a complex and disabling long‐term condition like Parkinson´s disease is a complex, dynamic, cyclical and interactive process. Family caregivers, face multiple challenges that require a significant effort in terms of psychosocial adjustment, which must be considered by healthcare professionals in order to provide a holistic care. The patients' self‐report version of the Psychosocial Adjustment to Illness Scale (PAIS‐SR), which has been validated in Spain for use in Parkinson's disease, is designed to evaluate the psychosocial adjustment of patients. Our purpose was to validate the Spanish PAIS‐SR version for caregivers of patients with Parkinson's disease. An open, national cross‐sectional study with one point‐in‐time evaluation and retest was carried out in 450 family caregivers of patients with Parkinson's disease. Data were collected in Spain from April 2016 to September 2017. The psychometric analysis performed showed that the Spanish version of the PAIS‐SR for caregivers presents adequate indicators of reliability, internal and external validity, and is structured according to the seven‐domain model proposed by the author of the instrument.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>pictorial</doctype>
+        <doctype>research</doctype>
+        <doctype>tables/charts</doctype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=ccm&amp;AN=151003810&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="20">
+  <header shortDbName="ccm" longDbName="CINAHL Complete" uiTerm="152131741">
+    <controlInfo>
+      <bkinfo />
+      <dissinfo />
+      <jinfo>
+        <jtl>Australian Journal of Advanced Nursing</jtl>
+        <issn>08130531</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2021" month="06" day="01">Jun-Aug2021</dt>
+        <vid>38</vid>
+        <iid>3</iid>
+        <place>Melbourne, &lt;Blank&gt;</place>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.37464/2020.383.147</ui>
+        <ppf>25</ppf>
+        <ppct>8</ppct>
+        <formats>
+          <fmt type="PDF" />
+        </formats>
+        <tig>
+          <atl>Association between communitybased nurse practitioner support, self-care behaviour and quality of life in patients with chronic heart failure.</atl>
+        </tig>
+        <aug>
+          <au>SHEAU HUEY CHEN</au>
+          <affil>School of Allied Health, Curtin University, Perth, Western Australia, Australia</affil>
+        </aug>
+        <sug>
+          <subj type="major">Nurse Practitioners</subj>
+          <subj type="major">Self Care</subj>
+          <subj type="major">Quality of Life</subj>
+          <subj type="major">Heart Failure</subj>
+          <subj type="major">Cardiac Patients</subj>
+          <subj type="major">Community Programs</subj>
+          <subj type="major">Readmission</subj>
+          <subj type="major">Health Behavior</subj>
+          <subj type="minor">Human</subj>
+          <subj type="minor">Comparative Studies</subj>
+          <subj type="minor">Short Form-36 Health Survey (SF-36)</subj>
+          <subj type="minor">Questionnaires</subj>
+          <subj type="minor">Funding Source</subj>
+          <subj type="minor">Medical Records</subj>
+          <subj type="minor">Hospitalization</subj>
+          <subj type="minor">Length of Stay</subj>
+          <subj type="minor">Data Analysis Software</subj>
+          <subj type="minor">Descriptive Statistics</subj>
+          <subj type="minor">Paired T-Tests</subj>
+          <subj type="minor">Pearson's Correlation Coefficient</subj>
+          <subj type="minor">Chi Square Test</subj>
+          <subj type="minor">Mann-Whitney U Test</subj>
+          <subj type="minor">Kaplan-Meier Estimator</subj>
+          <subj type="minor">Log-Rank Test</subj>
+          <subj type="minor">Middle Age</subj>
+          <subj type="minor">Aged</subj>
+          <subj type="minor">Aged, 80 and Over</subj>
+          <subj type="minor">Male</subj>
+          <subj type="minor">Female</subj>
+          <subj type="age">Middle Aged: 45-64 years</subj>
+          <subj type="age">Aged: 65+ years</subj>
+          <subj type="age">Aged, 80 &amp; over</subj>
+          <subj type="gender">Male</subj>
+          <subj type="gender">Female</subj>
+        </sug>
+        <ab>Objective: To evaluate the effects of a communitybased chronic heart failure management program, delivered by nurse practitioners, on self-care behaviour, quality of life and hospital readmissions. Background: Chronic heart failure is a complex condition associated with high rates of hospital readmissions. However, many hospitalisations in patients with chronic heart failure are potentially preventable with better self-management and access to specialised healthcare support. Nurse practitioners have an advanced scope of practice, making them well credentialed to support patients with chronic heart failure. Study design and methods: This study compared self-care behaviour and quality of life in patients who had attended a nurse-practitioner led chronic heart failure management service (SmartHeart) (n=58) compared with patients receiving usual care (n=58), but no nurse practitioner support. Self-care behaviour was assessed using the Self Care Heart Failure Index and quality of life was assessed using the Short Form-36 and Minnesota Living with Heart Failure Questionnaire. Hospitalisation records were extracted from medical records using data-linkage. Results: Patients who received nurse-practitioner support had better self-care behaviour (p&lt;0.05), mental component summary of the Short Form-36 (p&lt;0.05) and heart failure specific quality of life (p&lt;0.05). All-cause hospitalisations were delayed (p&lt;0.05) and length of stay was shorter (p&lt;0.05) in the group receiving nurse practitioner support, but there were no differences in chronic heart failure related admissions. Discussion: A chronic heart failure support program, operating in a community setting and delivered by nurse practitioners, enhanced self-care, improved psychosocial health and reduced time in hospital. Conclusion: Chronic heart failure management delivered by nurse practitioners can improve self-care behaviour and quality of life, and reduced hospital admissions, compared with usual care. What is already known about the topic? • Chronic heart failure is a complex health issue requiring disease-specific management that needs to be tailored to the individual. However, many patients with chronic heart failure don't receive adequate support to manage their condition. What does this paper add: • A chronic heart failure management service, delivered in primary care by nurse practitioners, improved self-management and quality of life and was associated with a lower rate of hospitalisations compared with usual care alone.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>research</doctype>
+        <doctype>tables/charts</doctype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=ccm&amp;AN=152131741&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="21">
+  <header shortDbName="ccm" longDbName="CINAHL Complete" uiTerm="152172133">
+    <controlInfo>
+      <bkinfo />
+      <dissinfo />
+      <jinfo>
+        <jtl>Canadian Journal of Cardiovascular Nursing</jtl>
+        <issn>08436096</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2021" month="06" day="01">Summer2021</dt>
+        <vid>31</vid>
+        <iid>2</iid>
+        <place>Ottawa, Ontario</place>
+      </pubinfo>
+      <artinfo>
+        <ppf>14</ppf>
+        <ppct>6</ppct>
+        <formats>
+          <fmt type="PDF" />
+        </formats>
+        <tig>
+          <atl>Delirium Pharmacotherapeutics in the Cardiac Iintensive Care Unit: An Alphabetical Mnemonic Approach.</atl>
+        </tig>
+        <aug>
+          <au>El Hussein, Mohamed</au>
+          <au>Markus, Shani</au>
+          <affil>School of Nursing and Midwifery Mount Royal University</affil>
+        </aug>
+        <sug>
+          <subj type="major">Coronary Care Units</subj>
+          <subj type="major">Intensive Care Units</subj>
+          <subj type="major">Delirium Risk Factors</subj>
+          <subj type="major">Delirium Drug Therapy</subj>
+          <subj type="minor">Aged</subj>
+          <subj type="minor">Delirium Symptoms</subj>
+          <subj type="minor">Cardiovascular Nursing</subj>
+          <subj type="minor">Antipsychotic Agents Therapeutic Use</subj>
+          <subj type="minor">Antianxiety Agents, Benzodiazepine Therapeutic Use</subj>
+          <subj type="minor">Cholinesterase Inhibitors Therapeutic Use</subj>
+          <subj type="minor">Age Factors</subj>
+          <subj type="minor">Health Status</subj>
+          <subj type="minor">Antipsychotic Agents Adverse Effects</subj>
+          <subj type="minor">Long QT Syndrome Risk Factors</subj>
+          <subj type="age">Aged: 65+ years</subj>
+        </sug>
+        <ab>Older adults are at increased risk of experiencing cardiovascular diseases, resulting in admissions to the medical cardiac intensive care unit (CICU) for advanced monitoring and interventions. Delirium has a complex etiology, caused by modifiable factors imposed on underlying medical or surgical conditions. The CICU environment is notorious for its delirium-inducing factors, such as receiving certain cardiac medications, lacking sleep, and undergo- ing medical procedures. More than half of patients with delirium experience agitation symptoms, posing a safety risk to the patient and the healthcare team involved and contributing to prolonged hospital stays. Nurses in the CICU are faced with the challenge of preventing and treating underlying causes of delirium and controlling delirium manifestations to protect their patients. We propose an alphabetical mnemonic, based on guideline-driven pharmacological interventions (ABCD: antipsychotics, benzo- diazepines, cholinesterase inhibitors, and dexmedetomidine), to facilitate nurses' understanding and recall of pharmacotherapy used in the complex management of delirium in the CICU.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>tables/charts</doctype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=ccm&amp;AN=152172133&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="22">
+  <header shortDbName="ccm" longDbName="CINAHL Complete" uiTerm="150250201">
+    <controlInfo>
+      <bkinfo />
+      <dissinfo />
+      <jinfo>
+        <jtl>Journal of Nursing Research (Lippincott Williams &amp; Wilkins)</jtl>
+        <issn>16823141</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2021" month="06" day="01">Jun2021</dt>
+        <vid>29</vid>
+        <iid>3</iid>
+        <place>Baltimore, Maryland</place>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1097/jnr.0000000000000428</ui>
+        <ppf>e151</ppf>
+        <ppct>1</ppct>
+        <formats />
+        <tig>
+          <atl>Exploring a Nursing Home-Specific, Interdisciplinary, Function-Focused, Communicative Framework Based on Situation, Background, Assessment, and Recommendation.</atl>
+        </tig>
+        <aug>
+          <au>PARK, Min Sun</au>
+          <au>LEE, Su Jung</au>
+          <au>CHOI, Young Rim</au>
+          <au>CHANG, Sung Ok</au>
+          <affil>PhD, RN, Assistant Professor, Department of Nursing, Cheongju University, Cheongju, Republic of Korea</affil>
+        </aug>
+        <sug>
+          <subj type="major">Nursing Home Patients Psychosocial Factors</subj>
+          <subj type="major">Functional Status In Old Age</subj>
+          <subj type="major">Needs Assessment</subj>
+          <subj type="major">Nursing Staff, Hospital</subj>
+          <subj type="major">Multidisciplinary Care Team</subj>
+          <subj type="major">Communication Evaluation</subj>
+          <subj type="major">Collaboration Evaluation</subj>
+          <subj type="major">Program Evaluation</subj>
+          <subj type="minor">Human</subj>
+          <subj type="minor">Descriptive Statistics</subj>
+          <subj type="minor">Funding Source</subj>
+          <subj type="minor">Health Services Needs and Demand</subj>
+          <subj type="minor">Aged</subj>
+          <subj type="minor">Nursing Home Personnel</subj>
+          <subj type="minor">Interviews</subj>
+          <subj type="minor">Content Analysis</subj>
+          <subj type="minor">Nursing Assessment</subj>
+          <subj type="minor">Nursing Skills</subj>
+          <subj type="minor">Referral and Consultation</subj>
+          <subj type="minor">Geriatric Functional Assessment</subj>
+          <subj type="minor">Conceptual Framework</subj>
+          <subj type="minor">Open-Ended Questionnaires</subj>
+          <subj type="minor">Thematic Analysis</subj>
+          <subj type="minor">Qualitative Studies</subj>
+          <subj type="minor">Administrative Personnel</subj>
+          <subj type="minor">Dietitians</subj>
+          <subj type="minor">Physical Therapists</subj>
+          <subj type="minor">Social Workers</subj>
+          <subj type="minor">Professional Role</subj>
+          <subj type="minor">Cognition Disorders Prevention and Control</subj>
+          <subj type="minor">Frailty Syndrome Prevention and Control</subj>
+          <subj type="minor">Sleep Disorders Prevention and Control</subj>
+          <subj type="minor">Body Weight Changes</subj>
+          <subj type="minor">Interpersonal Relations</subj>
+          <subj type="age">Aged: 65+ years</subj>
+        </sug>
+        <ab>Background: Improved methods of communication are needed among professionals in related fields to address the increasing complexity of clinical situations and various levels of functioning experienced by older adults who live in nursing homes. Purpose: The purpose of this study was to explore function-focused clinical communication among nurses and providers based on the Situation, Background, Assessment, Recommendation (SBAR) approach toward interdisciplinary collaboration to maintain function among nursing home residents and to identify the characteristics of SBAR flows in nursing homes. Methods: Detailed interviews with 28 interdisciplinary professionals working in four nursing homes were conducted. Directed qualitative content analysis was used to identify the internal attributes of SBAR-based communication. Case analysis was conducted to identify SBAR flows. Results: Four themes emerged as key factors for function-focused interdisciplinary staff communication in nursing homes. Effective nursing care to maintain function among nursing home residents requires accurate awareness of abnormal circumstances. Knowledge of assessment and resident background are needed to address situations requiring intervention and identify the problems underlying a resident's current state. The optimal therapeutic environment is created by sharing roles and tasks among practitioners through referrals. Twelve generalized situations requiring function-focused communication (i.e., dislocation of body line because of joint contracture, change in walking, difficulty of moving because of pain, difficulty in eating, fever, change in sleep pattern, change in excretion pattern, change in weight, change in condition, change in problematic behavior, decrease in cognitive function, and change in relationships) and the related nurse-centered SBAR pathways were identified. Conclusions/Implications for Practice: These results represent a first prototype for developing practical communication guidelines for nursing-home-specific function-focused care and provide new insights into the interdisciplinary approach.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>research</doctype>
+        <doctype>tables/charts</doctype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=ccm&amp;AN=150250201&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec></records>

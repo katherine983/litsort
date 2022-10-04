@@ -1,0 +1,23 @@
+CINAHL
+Search_Date	Search_Syntax	Year_Constraint	Language_Constraint	Peer_Review_Only	Result_Count	Saved_File_Name
+2021-04-02	(MH "Gerontologic Nursing+") AND AB complex*	none	none	N	172	none
+2021-04-02	(MH "Gerontologic Nursing+") AND AB complex*	none	none	N	370	MHgerontologicnursingandcomplexabs_2021.04.02.xml
+2021-04-02	(MH "Gerontologic Care") AND AB complex*	none	none	N	714	none
+2021-04-02	(MH "Gerontologic Care") AND AB complex*	2011-2021	none	N	511	none
+2021-04-02	(MH "Gerontologic Care") AND AB complex* AND TX nurs*	none	none	N	408	MHgerontologiccareandcomplexabsandnursalltxt_2021.04.02.xml
+2021-04-02	(MH "Frail Elderly") AND AB complex*	none	none	N	363	none
+2021-04-02	(MH "Frail Elderly") AND AB complex* AND TX nurs*	none	none	N	191	MHfrailelderlyandcomplexabsandnursalltxt_2021.04.02.xml
+2021-04-02	((MH "Aged") OR (MH "Aged, 80 and Over")) AND AB complex* AND TX nurs*	none	none	N	6007	none
+2021-04-02	((MH "Aged") OR (MH "Aged, 80 and Over")) AND TI complex* AND TX nurs*	none	none	N	711	none
+2021-04-02	((MH "Aged") OR (MH "Aged, 80 and Over")) AND TI complex* AND TX nurs*	2011-2021	none	N	481	MHagedoraged80andcomplextitleandnursalltxt_2021.04.02.xml
+2021-04-05	(MH "Gerontologic Nursing+") AND AB complexity	none	english	Y	98	MHgerontologicnursingandcomplexityabs_2021.04.05.xml
+2021-04-05	(MH "Gerontologic Care") AND AB complexity AND TX nurs*	none	english	Y	97	MHgerontologiccareandcomplexityabsandnursalltxt_2021.04.05.xml
+2021-04-05	(MH "Frail Elderly") AND AB complexity	none	english	Y	80	MHfrailelderlyandcomplexityabs_2021.04.05.xml
+2021-04-05	(MH "Frail Elderly") AND TX complexity AND TX nurs*	none	english	Y	none
+2021-04-05	((MH "Aged") OR (MH "Aged, 80 and Over")) AND TI complexity AND TX nurs*	2011-2021	english	Y	88	MHagedoragedover80andcomplexityTIandnursalltxt_2021.04.05.xml
+
+PUBMED
+2021-04-05	(geriatric nursing[MeSH Terms]) AND (complexity[Title/Abstract])	none	none	N	98	geriatricnursingandcomplexityTIAB_2021.04.05.csv
+2021-04-05	(geriatrics[MeSH Terms]) AND (complexity[Title/Abstract])	none	none	N	116	geriatricsMeshandcomplexityTIAB_2021.04.05.csv
+2021-04-06	(((aged[MeSH Terms]) OR (aged, 80 and over[MeSH Terms])) AND ("complexity"[All Fields])) AND (elderly, frail[MeSH Terms]) none	english	N	20 
+2021-04-06	((elderly, frail[MeSH Terms]) AND (complex*[Title/Abstract])) AND (nurs*)	none	english	N	191	pubmed-elderlyfra-set.txt

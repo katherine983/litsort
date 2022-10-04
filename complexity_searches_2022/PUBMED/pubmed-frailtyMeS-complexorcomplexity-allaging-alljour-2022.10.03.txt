@@ -1,0 +1,1074 @@
+PMID- 34172940
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210923
+LR  - 20210923
+IS  - 1759-5037 (Electronic)
+IS  - 1759-5029 (Linking)
+VI  - 17
+IP  - 9
+DP  - 2021 Sep
+TI  - Type 2 diabetes mellitus in older adults: clinical considerations and management.
+PG  - 534-548
+LID - 10.1038/s41574-021-00512-2 [doi]
+AB  - The past 50 years have seen a growing ageing population with an increasing 
+      prevalence of type 2 diabetes mellitus (T2DM); now, nearly half of all 
+      individuals with diabetes mellitus are older adults (aged ≥65 years). Older 
+      adults with T2DM present particularly difficult challenges. For example, the 
+      accentuated heterogeneity of these patients, the potential presence of multiple 
+      comorbidities, the increased susceptibility to hypoglycaemia, the increased 
+      dependence on care and the effect of frailty all add to the complexity of 
+      managing diabetes mellitus in this age group. In this Review, we offer an update 
+      on the key pathophysiological mechanisms associated with T2DM in older people. We 
+      then evaluate new evidence relating particularly to the effects of frailty and 
+      sarcopenia, the clinical difficulties of age-associated comorbidities, and the 
+      implications for existing guidelines and therapeutic options. Our conclusions 
+      will focus on the effect of T2DM on an ageing society.
+CI  - © 2021. Springer Nature Limited.
+FAU - Bellary, Srikanth
+AU  - Bellary S
+AUID- ORCID: 0000-0002-5924-5278
+AD  - School of Life and Health Sciences, Aston University, Birmingham, UK. 
+      s.bellary@aston.ac.uk.
+AD  - University Hospitals Birmingham NHS Foundation Trust, Birmingham, UK. 
+      s.bellary@aston.ac.uk.
+AD  - Aston Research Centre for Healthy Ageing (ARCHA), Aston University, Birmingham, 
+      UK. s.bellary@aston.ac.uk.
+FAU - Kyrou, Ioannis
+AU  - Kyrou I
+AUID- ORCID: 0000-0002-6997-3439
+AD  - Warwickshire Institute for the Study of Diabetes, Endocrinology and Metabolism 
+      (WISDEM), University Hospitals Coventry and Warwickshire NHS Trust, Coventry, UK.
+AD  - Aston Medical Research Institute, Aston Medical School, Aston University, 
+      Birmingham, UK.
+AD  - Warwick Medical School, University of Warwick, Coventry, UK.
+AD  - Centre for Sport, Exercise and Life Sciences, Research Institute for Health & 
+      Wellbeing, Coventry University, Coventry, UK.
+FAU - Brown, James E
+AU  - Brown JE
+AD  - School of Life and Health Sciences, Aston University, Birmingham, UK.
+AD  - Aston Research Centre for Healthy Ageing (ARCHA), Aston University, Birmingham, 
+      UK.
+FAU - Bailey, Clifford J
+AU  - Bailey CJ
+AD  - School of Life and Health Sciences, Aston University, Birmingham, UK.
+AD  - Aston Research Centre for Healthy Ageing (ARCHA), Aston University, Birmingham, 
+      UK.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20210625
+PL  - England
+TA  - Nat Rev Endocrinol
+JT  - Nature reviews. Endocrinology
+JID - 101500078
+SB  - IM
+MH  - Age Factors
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Aging/*physiology
+MH  - Comorbidity
+MH  - Diabetes Mellitus, Type 2/diagnosis/epidemiology/*therapy
+MH  - Frailty/complications/epidemiology/therapy
+MH  - Humans
+MH  - Prevalence
+MH  - Sarcopenia/complications/epidemiology/therapy
+EDAT- 2021/06/27 06:00
+MHDA- 2021/09/24 06:00
+CRDT- 2021/06/26 06:11
+PHST- 2021/05/13 00:00 [accepted]
+PHST- 2021/06/27 06:00 [pubmed]
+PHST- 2021/09/24 06:00 [medline]
+PHST- 2021/06/26 06:11 [entrez]
+AID - 10.1038/s41574-021-00512-2 [pii]
+AID - 10.1038/s41574-021-00512-2 [doi]
+PST - ppublish
+SO  - Nat Rev Endocrinol. 2021 Sep;17(9):534-548. doi: 10.1038/s41574-021-00512-2. Epub 
+      2021 Jun 25.
+
+PMID- 34184088
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211227
+LR  - 20211227
+IS  - 1791-244X (Electronic)
+IS  - 1107-3756 (Linking)
+VI  - 48
+IP  - 2
+DP  - 2021 Aug
+TI  - Pathophysiology and mechanisms of primary sarcopenia (Review).
+LID - 156 [pii]
+LID - 10.3892/ijmm.2021.4989 [doi]
+AB  - Aging causes skeletal muscle atrophy, and myofiber loss can be a critical 
+      component of this process. In 1989, Rosenberg emphasized the importance of the 
+      loss of skeletal muscle mass that occurs with aging and coined the term 
+      'sarcopenia'. Since then, sarcopenia has attracted considerable attention due to 
+      the aging population in developed countries. The presence of sarcopenia is 
+      closely related to staggering, falls and even frailty in the elderly, which in 
+      turn leads to the need for nursing care. Sarcopenia is often associated with a 
+      poor prognosis in the elderly. Therefore, it is crucial to investigate the causes 
+      and pathogenesis of sarcopenia, and to develop and introduce interventional 
+      strategies in line with these causes and pathogenesis. Sarcopenia can be a 
+      primary component of physical frailty. The association between sarcopenia, 
+      frailty and locomotive syndrome is complex; however, sarcopenia is a 
+      muscle‑specific concept that is relatively easy to approach in research. In the 
+      elderly, a lack of exercise, malnutrition and hormonal changes lead to 
+      neuromuscular junction insufficiency, impaired capillary blood flow, reduced 
+      repair and regeneration capacity due to a decrease in the number of muscle 
+      satellite cells, the infiltration of inflammatory cells and oxidative stress, 
+      resulting in muscle protein degradation exceeding synthesis. In addition, 
+      mitochondrial dysfunction causes metabolic abnormalities, such as insulin 
+      resistance, which may lead to quantitative and qualitative abnormalities in 
+      skeletal muscle, resulting in sarcopenia. The present review article focuses on 
+      age‑related primary sarcopenia and outlines its pathogenesis and mechanisms.
+FAU - Nishikawa, Hiroki
+AU  - Nishikawa H
+AD  - The Second Department of Internal Medicine, Osaka Medical and Pharmaceutical 
+      University, Takatsuki, Osaka 569‑8686, Japan.
+FAU - Fukunishi, Shinya
+AU  - Fukunishi S
+AD  - The Second Department of Internal Medicine, Osaka Medical and Pharmaceutical 
+      University, Takatsuki, Osaka 569‑8686, Japan.
+FAU - Asai, Akira
+AU  - Asai A
+AD  - The Second Department of Internal Medicine, Osaka Medical and Pharmaceutical 
+      University, Takatsuki, Osaka 569‑8686, Japan.
+FAU - Yokohama, Keisuke
+AU  - Yokohama K
+AD  - The Second Department of Internal Medicine, Osaka Medical and Pharmaceutical 
+      University, Takatsuki, Osaka 569‑8686, Japan.
+FAU - Nishiguchi, Shuhei
+AU  - Nishiguchi S
+AD  - Department of Internal Medicine, Kano General Hospital, Osaka 531‑0041, Japan.
+FAU - Higuchi, Kazuhide
+AU  - Higuchi K
+AD  - The Second Department of Internal Medicine, Osaka Medical and Pharmaceutical 
+      University, Takatsuki, Osaka 569‑8686, Japan.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20210629
+PL  - Greece
+TA  - Int J Mol Med
+JT  - International journal of molecular medicine
+JID - 9810955
+RN  - 0 (Cytokines)
+RN  - 0 (Muscle Proteins)
+SB  - IM
+MH  - Aged
+MH  - Aging/*metabolism/physiology
+MH  - Cytokines/*metabolism
+MH  - Humans
+MH  - Muscle Proteins/*metabolism
+MH  - Muscle, Skeletal/*metabolism/pathology/physiopathology
+MH  - Muscular Atrophy/*metabolism/physiopathology
+MH  - Myofibrils/metabolism
+MH  - Sarcopenia/*metabolism/pathology/physiopathology
+MH  - Satellite Cells, Skeletal Muscle/metabolism
+OTO - NOTNLM
+OT  - mechanism
+OT  - myofiber
+OT  - myokine
+OT  - primary sarcopenia
+OT  - satellite cell
+EDAT- 2021/06/30 06:00
+MHDA- 2021/12/28 06:00
+CRDT- 2021/06/29 06:35
+PHST- 2021/04/28 00:00 [received]
+PHST- 2021/06/09 00:00 [accepted]
+PHST- 2021/06/29 06:35 [entrez]
+PHST- 2021/06/30 06:00 [pubmed]
+PHST- 2021/12/28 06:00 [medline]
+AID - 156 [pii]
+AID - 10.3892/ijmm.2021.4989 [doi]
+PST - ppublish
+SO  - Int J Mol Med. 2021 Aug;48(2):156. doi: 10.3892/ijmm.2021.4989. Epub 2021 Jun 29.
+
+PMID- 34684520
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211119
+LR  - 20211119
+IS  - 2072-6643 (Electronic)
+IS  - 2072-6643 (Linking)
+VI  - 13
+IP  - 10
+DP  - 2021 Oct 7
+TI  - Metabolic Syndrome and Sarcopenia.
+LID - 10.3390/nu13103519 [doi]
+LID - 3519
+AB  - Skeletal muscle is a major organ of insulin-induced glucose metabolism. In 
+      addition, loss of muscle mass is closely linked to insulin resistance (IR) and 
+      metabolic syndrome (Met-S). Skeletal muscle loss and accumulation of 
+      intramuscular fat are associated with a variety of pathologies through a 
+      combination of factors, including oxidative stress, inflammatory cytokines, 
+      mitochondrial dysfunction, IR, and inactivity. Sarcopenia, defined by a loss of 
+      muscle mass and a decline in muscle quality and muscle function, is common in the 
+      elderly and is also often seen in patients with acute or chronic muscle-wasting 
+      diseases. The relationship between Met-S and sarcopenia has been attracting a 
+      great deal of attention these days. Persistent inflammation, fat deposition, and 
+      IR are thought to play a complex role in the association between Met-S and 
+      sarcopenia. Met-S and sarcopenia adversely affect QOL and contribute to increased 
+      frailty, weakness, dependence, and morbidity and mortality. Patients with Met-S 
+      and sarcopenia at the same time have a higher risk of several adverse health 
+      events than those with either Met-S or sarcopenia. Met-S can also be associated 
+      with sarcopenic obesity. In this review, the relationship between Met-S and 
+      sarcopenia will be outlined from the viewpoints of molecular mechanism and 
+      clinical impact.
+FAU - Nishikawa, Hiroki
+AU  - Nishikawa H
+AD  - Second Department of Internal Medicine, Osaka Medical and Pharmaceutical 
+      University, Takatsuki 569-8686, Japan.
+AD  - Premier Departmental Research of Medicine, Osaka Medical and Pharmaceutical 
+      University, Takatsuki 569-8686, Japan.
+FAU - Asai, Akira
+AU  - Asai A
+AUID- ORCID: 0000-0002-2915-7875
+AD  - Second Department of Internal Medicine, Osaka Medical and Pharmaceutical 
+      University, Takatsuki 569-8686, Japan.
+FAU - Fukunishi, Shinya
+AU  - Fukunishi S
+AD  - Second Department of Internal Medicine, Osaka Medical and Pharmaceutical 
+      University, Takatsuki 569-8686, Japan.
+AD  - Premier Departmental Research of Medicine, Osaka Medical and Pharmaceutical 
+      University, Takatsuki 569-8686, Japan.
+FAU - Nishiguchi, Shuhei
+AU  - Nishiguchi S
+AD  - Kano General Hospital, Osaka 531-0041, Japan.
+FAU - Higuchi, Kazuhide
+AU  - Higuchi K
+AD  - Second Department of Internal Medicine, Osaka Medical and Pharmaceutical 
+      University, Takatsuki 569-8686, Japan.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20211007
+TA  - Nutrients
+JT  - Nutrients
+JID - 101521595
+SB  - IM
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Aging/physiology
+MH  - Female
+MH  - Humans
+MH  - Insulin Resistance/physiology
+MH  - Male
+MH  - Metabolic Syndrome/complications/*physiopathology
+MH  - Muscle, Skeletal/physiopathology
+MH  - Quality of Life
+MH  - Sarcopenia/complications/*physiopathology
+PMC - PMC8541622
+OTO - NOTNLM
+OT  - insulin resistance
+OT  - mechanism
+OT  - metabolic syndrome
+OT  - outcome
+OT  - sarcopenia
+OT  - sarcopenic obesity
+COIS- The authors declare no conflict of interest.
+EDAT- 2021/10/24 06:00
+MHDA- 2021/11/20 06:00
+CRDT- 2021/10/23 01:18
+PHST- 2021/08/21 00:00 [received]
+PHST- 2021/09/30 00:00 [revised]
+PHST- 2021/10/05 00:00 [accepted]
+PHST- 2021/10/23 01:18 [entrez]
+PHST- 2021/10/24 06:00 [pubmed]
+PHST- 2021/11/20 06:00 [medline]
+AID - nu13103519 [pii]
+AID - nutrients-13-03519 [pii]
+AID - 10.3390/nu13103519 [doi]
+PST - epublish
+SO  - Nutrients. 2021 Oct 7;13(10):3519. doi: 10.3390/nu13103519.
+
+PMID- 35267957
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220314
+LR  - 20220316
+IS  - 2072-6643 (Electronic)
+IS  - 2072-6643 (Linking)
+VI  - 14
+IP  - 5
+DP  - 2022 Feb 25
+TI  - Sarcopenic Dysphagia, Malnutrition, and Oral Frailty in Elderly: A Comprehensive 
+      Review.
+LID - 10.3390/nu14050982 [doi]
+LID - 982
+AB  - Frailty is a highly prevalent condition in the elderly that has been increasingly 
+      considered as a crucial public health issue, due to the strict correlation with a 
+      higher risk of fragility fractures, hospitalization, and mortality. Among the 
+      age-related diseases, sarcopenia and dysphagia are two common pathological 
+      conditions in frail older people and could coexist leading to dehydration and 
+      malnutrition in these subjects. "Sarcopenic dysphagia" is a complex condition 
+      characterized by deglutition impairment due to the loss of mass and strength of 
+      swallowing muscles and might be also related to poor oral health status. 
+      Moreover, the aging process is strictly related to poor oral health status due to 
+      direct impairment of the immune system and wound healing and physical and 
+      cognitive impairment might indirectly influence older people's ability to carry 
+      out adequate oral hygiene. Therefore, poor oral health might affect nutrient 
+      intake, leading to malnutrition and, consequently, to frailty. In this scenario, 
+      sarcopenia, dysphagia, and oral health are closely linked sharing common 
+      pathophysiological pathways, disabling sequelae, and frailty. Thus, the aim of 
+      the present comprehensive review is to describe the correlation among sarcopenic 
+      dysphagia, malnutrition, and oral frailty, characterizing their phenotypically 
+      overlapping features, to propose a comprehensive and effective management of 
+      elderly frail subjects.
+FAU - de Sire, Alessandro
+AU  - de Sire A
+AUID- ORCID: 0000-0002-5541-8346
+AD  - Department of Medical and Surgical Sciences, University of Catanzaro "Magna 
+      Graecia", 88100 Catanzaro, Italy.
+FAU - Ferrillo, Martina
+AU  - Ferrillo M
+AUID- ORCID: 0000-0003-1878-4694
+AD  - Department of Health Sciences, University of Catanzaro "Magna Graecia", 88100 
+      Catanzaro, Italy.
+FAU - Lippi, Lorenzo
+AU  - Lippi L
+AUID- ORCID: 0000-0001-9035-1485
+AD  - Department of Health Sciences, University of Eastern Piedmont "A. Avogadro", 
+      28100 Novara, Italy.
+FAU - Agostini, Francesco
+AU  - Agostini F
+AUID- ORCID: 0000-0003-3162-3473
+AD  - Department of Anatomical and Histological Sciences, Legal Medicine and 
+      Orthopedics, Sapienza University, 00185 Rome, Italy.
+FAU - de Sire, Roberto
+AU  - de Sire R
+AUID- ORCID: 0000-0002-6448-2649
+AD  - Department of Clinical Medicine and Surgery, University Federico II of Naples, 
+      80126 Naples, Italy.
+FAU - Ferrara, Paola Emilia
+AU  - Ferrara PE
+AD  - University Polyclinic Foundation Agostino Gemelli IRCSS, Catholic University of 
+      Sacred Heart, 00168 Rome, Italy.
+FAU - Raguso, Giuseppe
+AU  - Raguso G
+AD  - Department of Otolaryngology-Head and Neck Surgery, University of Verona, 37129 
+      Verona, Italy.
+FAU - Riso, Sergio
+AU  - Riso S
+AUID- ORCID: 0000-0001-8798-1224
+AD  - Dietetic and Clinical Nutrition Unit, Maggiore della Carità Hospital, 28100 
+      Novara, Italy.
+FAU - Roccuzzo, Andrea
+AU  - Roccuzzo A
+AUID- ORCID: 0000-0002-8079-0860
+AD  - Department of Periodontology, School of Dental Medicine, University of Bern, 
+      Freiburgstrasse 7, 3010 Bern, Switzerland.
+AD  - Department of Oral and Maxillofacial Surgery, Copenhagen University Hospital 
+      (Rigshospitalet), 2100 Copenhagen, Denmark.
+FAU - Ronconi, Gianpaolo
+AU  - Ronconi G
+AD  - University Polyclinic Foundation Agostino Gemelli IRCSS, Catholic University of 
+      Sacred Heart, 00168 Rome, Italy.
+FAU - Invernizzi, Marco
+AU  - Invernizzi M
+AUID- ORCID: 0000-0001-5141-0681
+AD  - Department of Health Sciences, University of Eastern Piedmont "A. Avogadro", 
+      28100 Novara, Italy.
+AD  - Translational Medicine, Dipartimento Attività Integrate Ricerca e Innovazione 
+      (DAIRI), Azienda Ospedaliera SS. Antonio e Biagio e Cesare Arrigo, 15121 
+      Alessandria, Italy.
+FAU - Migliario, Mario
+AU  - Migliario M
+AUID- ORCID: 0000-0003-1627-4164
+AD  - Dental Clinic, Department of Translational Medicine, University of Eastern 
+      Piedmont, 28100 Novara, Italy.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20220225
+TA  - Nutrients
+JT  - Nutrients
+JID - 101521595
+SB  - IM
+MH  - Aged
+MH  - *Deglutition Disorders/complications/epidemiology
+MH  - Frail Elderly
+MH  - *Frailty/complications
+MH  - Humans
+MH  - *Malnutrition/complications/epidemiology
+MH  - *Sarcopenia/complications/epidemiology
+PMC - PMC8912303
+OTO - NOTNLM
+OT  - dysphagia
+OT  - elderly
+OT  - malnutrition
+OT  - oral health
+OT  - osteoporosis
+OT  - sarcopenia
+OT  - sarcopenic dysphagia
+COIS- The authors declare no conflict of interest.
+EDAT- 2022/03/11 06:00
+MHDA- 2022/03/15 06:00
+CRDT- 2022/03/10 15:27
+PHST- 2022/02/11 00:00 [received]
+PHST- 2022/02/23 00:00 [revised]
+PHST- 2022/02/24 00:00 [accepted]
+PHST- 2022/03/10 15:27 [entrez]
+PHST- 2022/03/11 06:00 [pubmed]
+PHST- 2022/03/15 06:00 [medline]
+AID - nu14050982 [pii]
+AID - nutrients-14-00982 [pii]
+AID - 10.3390/nu14050982 [doi]
+PST - epublish
+SO  - Nutrients. 2022 Feb 25;14(5):982. doi: 10.3390/nu14050982.
+
+PMID- 33897874
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210730
+LR  - 20210730
+IS  - 1838-7640 (Electronic)
+IS  - 1838-7640 (Linking)
+VI  - 11
+IP  - 12
+DP  - 2021
+TI  - Application of mesenchymal stem cell therapy for aging frailty: from mechanisms 
+      to therapeutics.
+PG  - 5675-5685
+LID - 10.7150/thno.46436 [doi]
+AB  - Aging frailty is a complex geriatric syndrome that becomes more prevalent with 
+      advancing age. It constitutes a major health problem due to frequent adverse 
+      outcomes. Frailty is characterized by disruption of physiological homeostasis and 
+      progressive decline of health status. Multiple factors contribute to development 
+      of frailty with advancing age, including genome instability, DNA damage, 
+      epigenetic alternations, stem cell exhaustion, among others. These interrelated 
+      factors comprehensively result in loss of tissue homeostasis and diminished 
+      reserve capacity in frailty. Therefore, the aged organism gradually represents 
+      symptoms of frailty with decline in physiological functions of organs. Notably, 
+      the brain, cardiovascular system, skeletal muscle, and endocrine system are 
+      intrinsically interrelated to frailty. The patients with frailty may display the 
+      diminished reserves capacity of organ systems. Due to the complex 
+      pathophysiology, no specific treatments have been approved for prevention of this 
+      syndrome. At such, effective strategies for intervening in pathogenic process to 
+      improve health status of frail patients are highly needed. Recent progress in 
+      cell-based therapy has greatly contributed to the amelioration of degenerative 
+      diseases related to age. Mesenchymal stem cells (MSCs) can exert regenerative 
+      effects and possess anti-inflammatory properties. Transplantation of MSCs 
+      represents as a promising therapeutic strategy to address the pathophysiologic 
+      problems of frail syndrome. Currently, MSC therapy have undergone the phase I and 
+      II trials in human subjects that have endorsed the safety and efficacy of MSCs 
+      for aging frailty. However, despite these positive results, caution is still 
+      needed with regard to potential to form tumors, and further large-scale studies 
+      are warranted to confirm the therapeutic efficacy of MSC therapy.
+CI  - © The author(s).
+FAU - Zhu, Yingqian
+AU  - Zhu Y
+AD  - Department of Geriatrics, Shanghai East Hospital, Tongji University School of 
+      Medicine, Shanghai, 200123, China.
+AD  - Department of General medicine, Shanghai East Hospital, Tongji University School 
+      of Medicine, Shanghai, 200123, China.
+FAU - Ge, Jianli
+AU  - Ge J
+AD  - Department of Geriatrics, Shanghai East Hospital, Tongji University School of 
+      Medicine, Shanghai, 200123, China.
+AD  - Department of General medicine, Shanghai East Hospital, Tongji University School 
+      of Medicine, Shanghai, 200123, China.
+FAU - Huang, Ce
+AU  - Huang C
+AD  - Institute for Regenerative Medicine, Shanghai East Hospital, Tongji University 
+      School of Medicine, Shanghai, 200123, China.
+FAU - Liu, Hailiang
+AU  - Liu H
+AD  - Institute for Regenerative Medicine, Shanghai East Hospital, Tongji University 
+      School of Medicine, Shanghai, 200123, China.
+FAU - Jiang, Hua
+AU  - Jiang H
+AD  - Department of Geriatrics, Shanghai East Hospital, Tongji University School of 
+      Medicine, Shanghai, 200123, China.
+AD  - Department of General medicine, Shanghai East Hospital, Tongji University School 
+      of Medicine, Shanghai, 200123, China.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20210331
+TA  - Theranostics
+JT  - Theranostics
+JID - 101552395
+SB  - IM
+MH  - Aged
+MH  - Aging/*physiology
+MH  - Animals
+MH  - Frail Elderly
+MH  - Frailty/*therapy
+MH  - Humans
+MH  - Mesenchymal Stem Cell Transplantation/methods
+MH  - Mesenchymal Stem Cells/*cytology
+MH  - Regenerative Medicine/methods
+MH  - Syndrome
+PMC - PMC8058725
+OTO - NOTNLM
+OT  - aging
+OT  - aging frailty
+OT  - mesenchymal stem cells
+OT  - regenerative medicine
+OT  - stem cell therapy
+COIS- Competing Interests: The authors have declared that no competing interest exists.
+EDAT- 2021/04/27 06:00
+MHDA- 2021/07/31 06:00
+CRDT- 2021/04/26 05:51
+PHST- 2020/03/28 00:00 [received]
+PHST- 2021/03/15 00:00 [accepted]
+PHST- 2021/04/26 05:51 [entrez]
+PHST- 2021/04/27 06:00 [pubmed]
+PHST- 2021/07/31 06:00 [medline]
+AID - thnov11p5675 [pii]
+AID - 10.7150/thno.46436 [doi]
+PST - epublish
+SO  - Theranostics. 2021 Mar 31;11(12):5675-5685. doi: 10.7150/thno.46436. eCollection 
+      2021.
+
+PMID- 33413026
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210614
+LR  - 20211005
+IS  - 2325-6621 (Electronic)
+IS  - 2329-6933 (Print)
+IS  - 2325-6621 (Linking)
+VI  - 18
+IP  - 6
+DP  - 2021 Jun
+TI  - Persistent Poor Health after COVID-19 Is Not Associated with Respiratory 
+      Complications or Initial Disease Severity.
+PG  - 997-1003
+LID - 10.1513/AnnalsATS.202009-1175OC [doi]
+AB  - Rationale: Much is known about the acute infective process of severe acute 
+      respiratory syndrome coronavirus 2 (SARS-CoV-2), the causative virus of the 
+      coronavirus disease (COVID-19) pandemic. The marked inflammatory response and 
+      coagulopathic state in acute SARS-CoV-2 infection may promote pulmonary fibrosis. 
+      However, little is known about the incidence and seriousness of post-COVID-19 
+      pulmonary pathology. Objectives: To describe the respiratory recovery and 
+      self-reported health after infection at the time of outpatient attendance. 
+      Methods: Infection severity was graded into three groups: 1) not requiring 
+      admission, 2) requiring hospital admission, and 3) requiring intensive care unit 
+      care. Participants underwent chest radiography and a 6-minute walk test (6MWT). 
+      Fatigue and subjective return to health were assessed, and concentrations of CRP 
+      (C-reactive protein), IL-6 (interleukin-6), sCD25 (soluble CD25), and D-dimer 
+      were measured. The associations between initial illness and abnormal chest X-ray 
+      findings, 6MWT distance, and perception of maximal exertion were investigated. 
+      Results: A total of 487 patients were offered an outpatient appointment, of whom 
+      153 (31%) attended for assessment at a median of 75 days after diagnosis. A total 
+      of 74 (48%) had required hospital admission during acute infection. Persistently 
+      abnormal chest X-ray findings were seen in 4%. The median 6MWT distance covered 
+      was 460 m. A reduced distance covered was associated with frailty and length of 
+      inpatient stay. A total of 95 (62%) patients believed that they had not returned 
+      to full health, whereas 47% met the case definition for fatigue. Ongoing ill 
+      health and fatigue were associated with an increased perception of exertion. None 
+      of the measures of persistent respiratory disease were associated with initial 
+      disease severity. Conclusions: This study highlights the rates of objective 
+      respiratory disease and subjective respiratory symptoms after COVID-19 and the 
+      complex multifactorial nature of post-COVID-19 ill health.
+FAU - Townsend, Liam
+AU  - Townsend L
+AUID- ORCID: 0000-0002-7089-0665
+AD  - Department of Infectious Diseases.
+AD  - Department of Clinical Medicine and.
+FAU - Dowds, Joanne
+AU  - Dowds J
+AD  - Department of Physiotherapy.
+FAU - O'Brien, Kate
+AU  - O'Brien K
+AD  - Department of Physiotherapy.
+FAU - Sheill, Grainne
+AU  - Sheill G
+AD  - Department of Physiotherapy.
+AD  - Department of Physiotherapy.
+FAU - Dyer, Adam H
+AU  - Dyer AH
+AD  - Department of Medical Gerontology, School of Medicine, Trinity Translational 
+      Medicine Institute.
+FAU - O'Kelly, Brendan
+AU  - O'Kelly B
+AD  - Department of Infectious Diseases.
+FAU - Hynes, John P
+AU  - Hynes JP
+AD  - Department of Radiology, Mater Misericordiae University Hospital, Dublin, 
+      Ireland.
+FAU - Mooney, Aoife
+AU  - Mooney A
+AD  - Department of Immunology.
+FAU - Dunne, Jean
+AU  - Dunne J
+AD  - Department of Immunology.
+FAU - Ni Cheallaigh, Cliona
+AU  - Ni Cheallaigh C
+AD  - Department of Infectious Diseases.
+AD  - Department of Clinical Medicine and.
+FAU - O'Farrelly, Cliona
+AU  - O'Farrelly C
+AD  - School of Biochemistry and Immunology, Trinity Biomedical Sciences Institute, 
+      and.
+AD  - Department of Comparative Immunology and.
+FAU - Bourke, Nollaig M
+AU  - Bourke NM
+AD  - Department of Medical Gerontology, School of Medicine, Trinity Translational 
+      Medicine Institute.
+FAU - Conlon, Niall
+AU  - Conlon N
+AD  - Department of Immunology.
+AD  - Department of Immunology, School of Medicine, Trinity College, Dublin, Ireland; 
+      and.
+FAU - Martin-Loeches, Ignacio
+AU  - Martin-Loeches I
+AD  - Department of Intensive Care Medicine, and.
+AD  - Department of Clinical Medicine and.
+FAU - Bergin, Colm
+AU  - Bergin C
+AD  - Department of Infectious Diseases.
+AD  - Department of Clinical Medicine and.
+FAU - Nadarajan, Parthiban
+AU  - Nadarajan P
+AD  - Department of Respiratory Medicine, St. James's Hospital, Dublin, Ireland.
+FAU - Bannan, Ciaran
+AU  - Bannan C
+AD  - Department of Infectious Diseases.
+AD  - Department of Clinical Medicine and.
+LA  - eng
+GR  - WT_/Wellcome Trust/United Kingdom
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+TA  - Ann Am Thorac Soc
+JT  - Annals of the American Thoracic Society
+JID - 101600811
+RN  - post-acute COVID-19 syndrome
+SB  - IM
+CIN - Ann Am Thorac Soc. 2021 Aug;18(8):1428-1429. PMID: 33596160
+CIN - Ann Am Thorac Soc. 2021 Oct;18(10):1753. PMID: 33730528
+CIN - Ann Am Thorac Soc. 2021 Jun;18(6):948-950. PMID: 34076561
+MH  - Adult
+MH  - Aged
+MH  - Ambulatory Care
+MH  - COVID-19/*complications/diagnostic imaging/physiopathology
+MH  - Dyspnea/physiopathology
+MH  - Fatigue/*physiopathology
+MH  - Female
+MH  - Frailty/*physiopathology
+MH  - Health Status
+MH  - Hospitalization
+MH  - Humans
+MH  - Intensive Care Units
+MH  - Length of Stay/statistics & numerical data
+MH  - Lung/diagnostic imaging/*physiopathology
+MH  - Male
+MH  - Middle Aged
+MH  - Physical Exertion
+MH  - Radiography, Thoracic
+MH  - *Recovery of Function
+MH  - SARS-CoV-2
+MH  - Severity of Illness Index
+MH  - Walk Test
+PMC - PMC8456724
+OTO - NOTNLM
+OT  - COVID-19
+OT  - breathlessness
+OT  - respiratory complications
+EDAT- 2021/01/09 06:00
+MHDA- 2021/06/16 06:00
+CRDT- 2021/01/08 05:41
+PHST- 2021/01/09 06:00 [pubmed]
+PHST- 2021/06/16 06:00 [medline]
+PHST- 2021/01/08 05:41 [entrez]
+AID - 10.1513/AnnalsATS.202009-1175OC [doi]
+PST - ppublish
+SO  - Ann Am Thorac Soc. 2021 Jun;18(6):997-1003. doi: 10.1513/AnnalsATS.202009-1175OC.
+
+PMID- 33575703
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210217
+LR  - 20210217
+IS  - 2260-1341 (Print)
+IS  - 2260-1341 (Linking)
+VI  - 10
+IP  - 2
+DP  - 2021
+TI  - Physical Functional Assessment in Older Adults.
+PG  - 141-149
+LID - 10.14283/jfa.2020.61 [doi]
+AB  - The evaluation of the physical domain represents a critical part of the 
+      assessment of the older person, both in the clinical as well as the research 
+      setting. To measure physical function, clinicians and researchers have 
+      traditionally relied on instruments focusing on the capacity of the individual to 
+      accomplish specific functional tasks (e.g., the Activities of Daily Living [ADL] 
+      or the Instrumental ADL scales). However, a growing number of physical 
+      performance and muscle strength tests has been developed in parallel over the 
+      past three decades. These measures are specifically designed to: 1) provide 
+      objective results (not surprisingly, they are frequently timed tests) taken in 
+      standardized conditions, whereas the traditional physical function scales are 
+      generally self- or proxy-reported measures; 2) be more sensitive to changes; 3) 
+      capture the real biology of the function through the assessment of standardized 
+      tasks mirroring specific functional subdomains; and 4) mirror the quality of 
+      specific mechanisms underlying more complex and multidomain functions. Among the 
+      most commonly used instruments, the usual gait speed test, the Short Physical 
+      Performance Battery, the handgrip strength, the Timed Up-and-Go test, the 
+      6-minute walk test, and the 400-meter walk test are widely adopted by clinicians 
+      and researchers. The clinical and research importance of all these instruments 
+      has been demonstrated by their predictive capacity for negative health-related 
+      outcomes (i.e., hospitalization, falls, institutionalization, disability, 
+      mortality). Moreover, they have shown to be associated with subclinical and 
+      clinical conditions that are also not directly related to the physical domain 
+      (e.g., inflammation, oxidative stress, overall mortality). For this reason, they 
+      have been repeatedly indicated as markers of wellbeing linked to the burden of 
+      multiple chronic conditions rather than mere parameters of mobility or strength. 
+      In this work protocols of the main tests for the objective assessment of physical 
+      function in older adults are presented.
+FAU - Patrizio, E
+AU  - Patrizio E
+AD  - Enrica Patrizio, Azienda di Servizi alla Persona Istituti Milanesi Martinitt e 
+      Stelline e Pio Albergo Trivulzio, Milan, Italy, Email: patrizio.enrica@gmail.com.
+FAU - Calvani, R
+AU  - Calvani R
+FAU - Marzetti, E
+AU  - Marzetti E
+FAU - Cesari, M
+AU  - Cesari M
+LA  - eng
+PT  - Journal Article
+PL  - France
+TA  - J Frailty Aging
+JT  - The Journal of frailty & aging
+JID - 101604797
+SB  - IM
+MH  - Activities of Daily Living
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - *Geriatric Assessment
+MH  - Hand Strength/physiology
+MH  - Humans
+MH  - *Physical Functional Performance
+MH  - Walking Speed/physiology
+OTO - NOTNLM
+OT  - Physical function
+OT  - comprehensive geriatric assessment
+OT  - gait speed
+OT  - muscular strength
+OT  - older adults
+OT  - physical performance
+COIS- The authors have no conflicts of interest to disclose.
+EDAT- 2021/02/13 06:00
+MHDA- 2021/02/18 06:00
+CRDT- 2021/02/12 06:10
+PHST- 2021/02/12 06:10 [entrez]
+PHST- 2021/02/13 06:00 [pubmed]
+PHST- 2021/02/18 06:00 [medline]
+AID - 10.14283/jfa.2020.61 [doi]
+PST - ppublish
+SO  - J Frailty Aging. 2021;10(2):141-149. doi: 10.14283/jfa.2020.61.
+
+PMID- 34597877
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211025
+LR  - 20211025
+IS  - 1872-6976 (Electronic)
+IS  - 0167-4943 (Linking)
+VI  - 97
+DP  - 2021 Nov-Dec
+TI  - Social frailty dimensions and frailty models over time.
+PG  - 104515
+LID - S0167-4943(21)00178-3 [pii]
+LID - 10.1016/j.archger.2021.104515 [doi]
+AB  - INTRODUCTION: Social frailty is a complex concept and there is still no consensus 
+      on the criteria that best define it, nor on the role that social dimensions play 
+      in well-established frailty models. AIM: To analyse the predictive value of 
+      social frailty dimensions on distinct frailty models. METHOD: A non-probabilistic 
+      sample of 193 community-dwelling adults aged 65 years and over was recruited in 
+      2016 and followed for three years. Frailty was assessed by the Tilburg Frailty 
+      Indicator, the Groningen Frailty Indicator, and the Fried Phenotype criteria. 
+      Questions about living alone, social network, social support, loneliness, and 
+      frequency of social activities engagement were used to assess social criteria. 
+      Bivariate correlations and sequential multiple hierarchical logistic regression 
+      analyses were performed. RESULTS: At baseline, 22.2% older adults lived alone, 
+      47.2% reported missing people around them, 21.1% reported lack of social support, 
+      26.1% reported having reduced their participation in social activities recently 
+      and 52.2% reported loneliness. The percent of frail individuals varied across 
+      frailty measures, and social criteria showed significant correlations and 
+      increased the prediction of frailty status. Loneliness and social activities 
+      engagement were associated with frailty as assessed by the Tilburg frailty 
+      Indicator and by the Fried Phenotype criteria; the lack of social support is 
+      associated with frailty as assessed by the Groningen Frailty Indicator. Living 
+      alone and lack of social relationships did not predict frailty. CONCLUSION: 
+      Including social dimensions in a frailty model needs a consensual theoretical 
+      basis as they have different roles in predicting frailty, varying over time and 
+      across assessment tools.
+CI  - Copyright © 2021 Elsevier B.V. All rights reserved.
+FAU - Bessa, Bruno
+AU  - Bessa B
+AD  - Institute of Biomedical Sciences Abel Salazar, University of Porto (ICBAS.UP), 
+      Rua de Jorge Viterbo Ferreira, 228, 4050-313 Porto, Portugal; Center for Health 
+      Technology and Services Research (CINTESIS), Rua Dr. Plácido da Costa, 4200-450, 
+      Porto, Portugal. Electronic address: bbessa24@hotmail.com.
+FAU - Coelho, Tiago
+AU  - Coelho T
+AD  - School of Health, Polytechnic Institute of Porto, Rua Dr. António Bernardino de 
+      Almeida, 400, 4200-072 Porto, Portugal; Psychosocial Rehabilitation Lab, Center 
+      for Rehabilitation Research (CIR), Rua Dr. António Bernardino de Almeida 400, 
+      4200-072, Porto, Portugal.
+FAU - Ribeiro, Óscar
+AU  - Ribeiro Ó
+AD  - Center for Health Technology and Services Research (CINTESIS), Rua Dr. Plácido da 
+      Costa, 4200-450, Porto, Portugal; Department of Education and Psychology, 
+      University of Aveiro, Campus Universitário de Santiago, 3810-193 Aveiro, 
+      Portugal.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20210904
+PL  - Netherlands
+TA  - Arch Gerontol Geriatr
+JT  - Archives of gerontology and geriatrics
+JID - 8214379
+SB  - IM
+MH  - Aged
+MH  - Frail Elderly
+MH  - *Frailty/diagnosis/epidemiology
+MH  - Geriatric Assessment
+MH  - Humans
+MH  - Independent Living
+MH  - Loneliness
+OTO - NOTNLM
+OT  - Frailty
+OT  - Social Frailty
+OT  - longitudinal
+OT  - older adults
+OT  - social factors
+EDAT- 2021/10/02 06:00
+MHDA- 2021/10/26 06:00
+CRDT- 2021/10/01 20:20
+PHST- 2021/07/05 00:00 [received]
+PHST- 2021/08/27 00:00 [revised]
+PHST- 2021/08/31 00:00 [accepted]
+PHST- 2021/10/02 06:00 [pubmed]
+PHST- 2021/10/26 06:00 [medline]
+PHST- 2021/10/01 20:20 [entrez]
+AID - S0167-4943(21)00178-3 [pii]
+AID - 10.1016/j.archger.2021.104515 [doi]
+PST - ppublish
+SO  - Arch Gerontol Geriatr. 2021 Nov-Dec;97:104515. doi: 
+      10.1016/j.archger.2021.104515. Epub 2021 Sep 4.
+
+PMID- 34542615
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220113
+LR  - 20220113
+IS  - 2574-3805 (Electronic)
+IS  - 2574-3805 (Linking)
+VI  - 4
+IP  - 9
+DP  - 2021 Sep 1
+TI  - Interventions to Reduce Hospital Length of Stay in High-risk Populations: A 
+      Systematic Review.
+PG  - e2125846
+LID - 10.1001/jamanetworkopen.2021.25846 [doi]
+LID - e2125846
+AB  - IMPORTANCE: Many strategies to reduce hospital length of stay (LOS) have been 
+      implemented, but few studies have evaluated hospital-led interventions focused on 
+      high-risk populations. The Agency for Healthcare Research and Quality (AHRQ) 
+      Learning Health System panel commissioned this study to further evaluate 
+      system-level interventions for LOS reduction. OBJECTIVE: To identify and 
+      synthesize evidence regarding potential systems-level strategies to reduce LOS 
+      for patients at high risk for prolonged LOS. EVIDENCE REVIEW: Multiple databases, 
+      including MEDLINE and Embase, were searched for English-language systematic 
+      reviews from January 1, 2010, through September 30, 2020, with updated searches 
+      through January 19, 2021. The scope of the protocol was determined with input 
+      from AHRQ Key Informants. Systematic reviews were included if they reported on 
+      hospital-led interventions intended to decrease LOS for high-risk populations, 
+      defined as those with high-risk medical conditions or socioeconomically 
+      vulnerable populations (eg, patients with high levels of socioeconomic risk, who 
+      are medically uninsured or underinsured, with limited English proficiency, or who 
+      are hospitalized at a safety-net, tertiary, or quaternary care institution). 
+      Exclusion criteria included interventions that were conducted outside of the 
+      hospital setting, including community health programs. Data extraction was 
+      conducted independently, with extraction of strength of evidence (SOE) ratings 
+      provided by systematic reviews; if unavailable, SOE was assessed using the AHRQ 
+      Evidence-Based Practice Center methods guide. FINDINGS: Our searches yielded 4432 
+      potential studies. We included 19 systematic reviews reported in 20 articles. The 
+      reviews described 8 strategies for reducing LOS in high-risk populations: 
+      discharge planning, geriatric assessment, medication management, clinical 
+      pathways, interdisciplinary or multidisciplinary care, case management, 
+      hospitalist services, and telehealth. Interventions were most frequently designed 
+      for older patients, often those who were frail (9 studies), or patients with 
+      heart failure. There were notable evidence gaps, as there were no systematic 
+      reviews studying interventions for patients with socioeconomic risk. For patients 
+      with medically complex conditions, discharge planning, medication management, and 
+      interdisciplinary care teams were associated with inconsistent outcomes (LOS, 
+      readmissions, mortality) across populations. For patients with heart failure, 
+      clinical pathways and case management were associated with reduced length of stay 
+      (clinical pathways: mean difference reduction, 1.89 [95% CI, 1.33 to 2.44] days; 
+      case management: mean difference reduction, 1.28 [95% CI, 0.52 to 2.04] days). 
+      CONCLUSIONS AND RELEVANCE: This systematic review found inconsistent results 
+      across all high-risk populations on the effectiveness associated with 
+      interventions, such as discharge planning, that are often widely used by health 
+      systems. This systematic review highlights important evidence gaps, such as the 
+      lack of existing systematic reviews focused on patients with socioeconomic risk 
+      factors, and the need for further research.
+FAU - Siddique, Shazia Mehmood
+AU  - Siddique SM
+AD  - Division of Gastroenterology, University of Pennsylvania, Philadelphia.
+AD  - Leonard Davis Institute of Health Economics, University of Pennsylvania, 
+      Philadelphia.
+AD  - Center for Evidence-Based Practice, University of Pennsylvania Health System, 
+      Philadelphia.
+FAU - Tipton, Kelley
+AU  - Tipton K
+AD  - ECRI Evidence-based Practice Center, Center for Clinical Evidence and Guidelines, 
+      Plymouth Meeting, Pennsylvania.
+FAU - Leas, Brian
+AU  - Leas B
+AD  - Center for Evidence-Based Practice, University of Pennsylvania Health System, 
+      Philadelphia.
+FAU - Greysen, S Ryan
+AU  - Greysen SR
+AD  - Leonard Davis Institute of Health Economics, University of Pennsylvania, 
+      Philadelphia.
+AD  - Center for Evidence-Based Practice, University of Pennsylvania Health System, 
+      Philadelphia.
+AD  - Division of General Internal Medicine, University of Pennsylvania, Philadelphia.
+FAU - Mull, Nikhil K
+AU  - Mull NK
+AD  - Center for Evidence-Based Practice, University of Pennsylvania Health System, 
+      Philadelphia.
+AD  - Division of General Internal Medicine, University of Pennsylvania, Philadelphia.
+FAU - Lane-Fall, Meghan
+AU  - Lane-Fall M
+AD  - Leonard Davis Institute of Health Economics, University of Pennsylvania, 
+      Philadelphia.
+AD  - Center for Evidence-Based Practice, University of Pennsylvania Health System, 
+      Philadelphia.
+AD  - Department of Anesthesiology and Critical Care, University of Pennsylvania, 
+      Philadelphia.
+FAU - McShea, Kristina
+AU  - McShea K
+AD  - ECRI Evidence-based Practice Center, Center for Clinical Evidence and Guidelines, 
+      Plymouth Meeting, Pennsylvania.
+FAU - Tsou, Amy Y
+AU  - Tsou AY
+AD  - ECRI Evidence-based Practice Center, Center for Clinical Evidence and Guidelines, 
+      Plymouth Meeting, Pennsylvania.
+AD  - Division of Neurology, Michael J. Crescenz Veterans Affairs Medical Center, 
+      Philadelphia, Pennsylvania.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PT  - Systematic Review
+DEP - 20210901
+TA  - JAMA Netw Open
+JT  - JAMA network open
+JID - 101729235
+SB  - IM
+MH  - Age Factors
+MH  - Aged
+MH  - Case Management
+MH  - Critical Pathways
+MH  - Geriatric Assessment
+MH  - Heart Failure/therapy
+MH  - Hospitalists
+MH  - Humans
+MH  - *Length of Stay
+MH  - Patient Care Team
+MH  - *Patient Discharge
+MH  - Risk Assessment/*methods
+MH  - Socioeconomic Factors
+MH  - Telemedicine
+MH  - United States
+MH  - Vulnerable Populations
+PMC - PMC8453321
+COIS- Conflict of Interest Disclosures: Dr Leas reported receiving grants from the 
+      Agency for Healthcare Research and Quality (AHRQ) outside the submitted work. No 
+      other disclosures were reported.
+EDAT- 2021/09/21 06:00
+MHDA- 2022/01/14 06:00
+CRDT- 2021/09/20 12:26
+PHST- 2021/09/20 12:26 [entrez]
+PHST- 2021/09/21 06:00 [pubmed]
+PHST- 2022/01/14 06:00 [medline]
+AID - 2784338 [pii]
+AID - zoi210761 [pii]
+AID - 10.1001/jamanetworkopen.2021.25846 [doi]
+PST - epublish
+SO  - JAMA Netw Open. 2021 Sep 1;4(9):e2125846. doi: 
+      10.1001/jamanetworkopen.2021.25846.
+
+PMID- 33569572
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210928
+LR  - 20210928
+IS  - 2426-0266 (Electronic)
+IS  - 2274-5807 (Linking)
+VI  - 8
+IP  - 2
+DP  - 2021
+TI  - Overtreating Alzheimer's Disease.
+PG  - 234-236
+LID - 10.14283/jpad.2020.74 [doi]
+AB  - The management of frailty in older persons is not easy, implying interventions 
+      beyond the simple prescription of medications. Biological complexity, 
+      multimorbidity, polypharmacy, and social issues often hamper the possibility to 
+      directly translate the evidence coming from research into clinical practice. 
+      Frailty indeed represents the most relevant cause of the “evidence-based medicine 
+      issue” influencing clinical decisions in geriatric care. Today, patients with 
+      Alzheimer’s disease (AD) are much older and frailer than some decades ago. They 
+      also tend to have more drugs prescribed. In parallel, research on AD has evolved 
+      over the years, hypothesizing that anticipating the interventions to the earliest 
+      stages of the disease may provide beneficial effects (to date, still lacking). In 
+      this article, we argue that, by focusing exclusively on “the disease” and pushing 
+      to anticipate its detection (sometimes even before the appareance of its clinical 
+      manifestations) may overshadow the person’s values and priorities. Research 
+      should be developed for better integrating the concept of aging and frailty in 
+      the design of clinical trials in order to provide results that can be implemented 
+      in real life. On the other hand, clinicians should be less prone to the easy (but 
+      unsupported by evidence) pharmacological prescription.
+FAU - Canevelli, M
+AU  - Canevelli M
+AD  - Matteo Cesari, MD, PhD, Geriatric Unit, IRCCS Istituti Clinici Scientifici 
+      Maugeri, Via Camaldoli 64 - 20138 Milan - Italy, Phone: +39 02 50725136, Twitter: 
+      @macesari, email: macesari@gmail.com.
+FAU - Vanacore, N
+AU  - Vanacore N
+FAU - Blasimme, A
+AU  - Blasimme A
+FAU - Bruno, G
+AU  - Bruno G
+FAU - Cesari, M
+AU  - Cesari M
+LA  - eng
+PT  - Journal Article
+PL  - Switzerland
+TA  - J Prev Alzheimers Dis
+JT  - The journal of prevention of Alzheimer's disease
+JID - 101638820
+SB  - IM
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Aging/*physiology
+MH  - Alzheimer Disease/*drug therapy
+MH  - Evidence-Based Medicine
+MH  - *Frail Elderly
+MH  - Humans
+MH  - *Multimorbidity
+MH  - *Polypharmacy
+MH  - Quality of Life/psychology
+COIS- Marco Canevelli is supported by a research grant of the Italian Ministry of 
+      Health (GR-2016-02364975) for the project “Dementia in immigrants and ethnic 
+      minorities living in Italy: clinical-epidemiological aspects and public health 
+      perspectives” (ImmiDem). Matteo Cesari has received honoraria for presentations 
+      at scientific meetings and/or research funding from Nestlé. No specific conflict 
+      of interest declared by the other authors.
+EDAT- 2021/02/12 06:00
+MHDA- 2021/09/29 06:00
+CRDT- 2021/02/11 05:55
+PHST- 2021/02/11 05:55 [entrez]
+PHST- 2021/02/12 06:00 [pubmed]
+PHST- 2021/09/29 06:00 [medline]
+AID - 10.14283/jpad.2020.74 [doi]
+PST - ppublish
+SO  - J Prev Alzheimers Dis. 2021;8(2):234-236. doi: 10.14283/jpad.2020.74.

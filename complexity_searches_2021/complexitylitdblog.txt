@@ -1,0 +1,41 @@
+File name added:  MHgerontologicnursingandcomplexityabs_2021.04.05.xml
+Date/time of data add:  2021-04-06T09:37:35.085519
+Article repeats:  2
+Article count before program ran:  0
+Article count after program completed:  96
+Total modifications to database:  527
+
+File name added:  MHgerontologiccareandcomplexityabsandnursalltxt_2021.04.05.xml
+Date/time of data add:  2021-04-06T09:41:12.073992
+Article repeats:  0
+Article count before program ran:  96
+Article count after program completed:  96
+Total modifications to database:  0
+
+File name added:  MHgerontologiccareandcomplexityabsandnursalltxt_2021.04.05.xml
+Date/time of data add:  2021-04-06T09:41:46.843113
+Article repeats:  12
+Article count before program ran:  96
+Article count after program completed:  181
+Total modifications to database:  427
+
+File name added:  MHfrailelderlyandcomplexityabs_2021.04.05.xml
+Date/time of data add:  2021-04-06T09:42:38.085254
+Article repeats:  11
+Article count before program ran:  181
+Article count after program completed:  250
+Total modifications to database:  349
+
+File name added:  MHagedoragedover80andcomplexityTIandnursalltxt_2021.04.05.xml
+Date/time of data add:  2021-04-06T09:44:03.305859
+Article repeats:  7
+Article count before program ran:  250
+Article count after program completed:  331
+Total modifications to database:  406
+
+File name added:  pubmed-elderlyfra-set.txt
+Date/time of data add:  2021-04-06T19:19:33.045537
+Article repeats:  0
+Article count before program ran:  0
+Article count after program completed:  191
+Total modifications to database:  783

@@ -1,0 +1,1425 @@
+<records>
+<rec resultID="1">
+  <header shortDbName="ccm" longDbName="CINAHL Complete" uiTerm="147544359">
+    <controlInfo>
+      <bkinfo />
+      <dissinfo />
+      <jinfo>
+        <jtl>JAMA Network Open</jtl>
+      </jinfo>
+      <pubinfo>
+        <dt year="2020" month="12" day="11">12/11/2020</dt>
+        <vid>3</vid>
+        <iid>12</iid>
+        <place>Chicago, Illinois</place>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1001/jamanetworkopen.2020.29068</ui>
+        <ppf>e2029068</ppf>
+        <ppct>1</ppct>
+        <formats />
+        <tig>
+          <atl>Use of Latent Class Analysis and k-Means Clustering to Identify Complex Patient Profiles.</atl>
+        </tig>
+        <aug>
+          <au>Grant, Richard W.</au>
+          <au>McCloskey, Jodi</au>
+          <au>Hatfield, Meghan</au>
+          <au>Uratsu, Connie</au>
+          <au>Ralston, James D.</au>
+          <au>Bayliss, Elizabeth</au>
+          <au>Kennedy, Chris J.</au>
+          <affil>Division of Research, Kaiser Permanente Northern California, Oakland</affil>
+        </aug>
+        <sug>
+          <subj type="major">Health Resource Utilization</subj>
+          <subj type="major">Health Informatics</subj>
+          <subj type="major">Health Information Management</subj>
+          <subj type="minor">Prospective Studies</subj>
+          <subj type="minor">California</subj>
+          <subj type="minor">Male</subj>
+          <subj type="minor">Female</subj>
+          <subj type="minor">Aged</subj>
+          <subj type="minor">Aged, 80 and Over</subj>
+          <subj type="minor">Confidence Intervals</subj>
+          <subj type="minor">Odds Ratio</subj>
+          <subj type="minor">Descriptive Statistics</subj>
+          <subj type="minor">Relative Risk</subj>
+          <subj type="minor">Models, Theoretical</subj>
+          <subj type="minor">Data Analysis Software</subj>
+          <subj type="minor">Human</subj>
+          <subj type="minor">Health Resource Allocation</subj>
+          <subj type="minor">Funding Source</subj>
+          <subj type="age">Aged: 65+ years</subj>
+          <subj type="age">Aged, 80 &amp; over</subj>
+          <subj type="gender">Male</subj>
+          <subj type="gender">Female</subj>
+        </sug>
+        <ab>This cohort study uses data clustering methods and clinical stakeholder assessment to identify clinical profiles in a population of medically complex patients. Key Points: Question: What distinct clinical profiles can be identified within a population of the most medically complex patients? Findings: In this cohort study of 104 869 individuals, data clustering methods were combined with clinical stakeholder assessment to define clinical profiles within the top 3% most medically complex adult patients in a large integrated care system: high acuity, older with cardiovascular complications, frail elderly, pain management, psychiatric illness, cancer treatment, and less engaged. These profiles had significantly different 1-year health care utilization and mortality, and each profile suggested different adjunctive care strategies. Meaning: The findings suggest that a single care model may not meet the needs of adults with high comorbidity and care utilization. Importance: Medically complex patients are a heterogeneous group that contribute to a substantial proportion of health care costs. Coordinated efforts to improve care and reduce costs for this patient population have had limited success to date. Objective: To define distinct patient clinical profiles among the most medically complex patients through clinical interpretation of analytically derived patient clusters. Design, Setting, and Participants: This cohort study analyzed the most medically complex patients within Kaiser Permanente Northern California, a large integrated health care delivery system, based on comorbidity score, prior emergency department admissions, and predicted likelihood of hospitalization, from July 18, 2018, to July 15, 2019. From a starting point of over 5000 clinical variables, we used both clinical judgment and analytic methods to reduce to the 97 most informative covariates. Patients were then grouped using 2 methods (latent class analysis, generalized low-rank models, with k-means clustering). Results were interpreted by a panel of clinical stakeholders to define clinically meaningful patient profiles. Main Outcomes and Measures: Complex patient profiles, 1-year health care utilization, and mortality outcomes by profile. Results: The analysis included 104 869 individuals representing 3.3% of the adult population (mean [SD] age, 70.7 [14.5] years; 52.4% women; 39% non-White race/ethnicity). Latent class analysis resulted in a 7-class solution. Stakeholders defined the following complex patient profiles (prevalence): high acuity (9.4%), older patients with cardiovascular complications (15.9%), frail elderly (12.5%), pain management (12.3%), psychiatric illness (12.0%), cancer treatment (7.6%), and less engaged (27%). Patients in these groups had significantly different 1-year mortality rates (ranging from 3.0% for psychiatric illness profile to 23.4% for frail elderly profile; risk ratio, 7.9 [95% CI, 7.1-8.8], P &lt;.001). Repeating the analysis using k-means clustering resulted in qualitatively similar groupings. Each clinical profile suggested a distinct collaborative care strategy to optimize management. Conclusions and Relevance: The findings suggest that highly medically complex patient populations may be categorized into distinct patient profiles that are amenable to varying strategies for resource allocation and coordinated care interventions.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>research</doctype>
+        <doctype>tables/charts</doctype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=ccm&amp;AN=147544359&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="2">
+  <header shortDbName="ccm" longDbName="CINAHL Complete" uiTerm="141312898">
+    <controlInfo>
+      <bkinfo />
+      <dissinfo />
+      <jinfo>
+        <jtl>Clinical Journal of Oncology Nursing</jtl>
+        <issn>10921095</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2020" month="02" day="01">Feb2020</dt>
+        <vid>24</vid>
+        <iid>1</iid>
+        <place>Pittsburgh, Pennsylvania</place>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1188/20.CJON.65-74</ui>
+        <ppf>65</ppf>
+        <ppct>10</ppct>
+        <formats>
+          <fmt type="PDF" />
+        </formats>
+        <tig>
+          <atl>Nurse Case Manager: Measurement of care coordination activities and quality and resource use outcomes when caring for the complex patient with hematologic cancer.</atl>
+        </tig>
+        <aug>
+          <au>Garnett, Doris</au>
+          <au>Hardy, Lynda</au>
+          <au>Fitzgerald, Elizabeth</au>
+          <au>Fisher, Taylor</au>
+          <au>Graham, Lisa</au>
+          <au>Overcash, Janine</au>
+          <affil>Nurse manager in the Patient Care Resource Management Department at Arthur G. James Cancer Hospital and Richard J. Solove Research Institute (The James) in Columbus, OH</affil>
+        </aug>
+        <sug>
+          <subj type="major">Hematologic Neoplasms</subj>
+          <subj type="major">Case Management Methods</subj>
+          <subj type="major">Health Resource Utilization Evaluation</subj>
+          <subj type="major">Quality of Health Care Evaluation</subj>
+          <subj type="minor">Education, Continuing (Credit)</subj>
+          <subj type="minor">Human</subj>
+          <subj type="minor">Adult</subj>
+          <subj type="minor">Middle Age</subj>
+          <subj type="minor">Aged</subj>
+          <subj type="minor">Aged, 80 and Over</subj>
+          <subj type="minor">Ohio</subj>
+          <subj type="minor">Record Review</subj>
+          <subj type="minor">Descriptive Statistics</subj>
+          <subj type="minor">Communication</subj>
+          <subj type="minor">After Care</subj>
+          <subj type="minor">Patient Care Plans</subj>
+          <subj type="minor">Continuity of Patient Care</subj>
+          <subj type="minor">Health Behavior</subj>
+          <subj type="minor">Health Care Costs</subj>
+          <subj type="minor">Cost Savings</subj>
+          <subj type="minor">Self Care</subj>
+          <subj type="minor">Patient Compliance</subj>
+          <subj type="minor">Data Analysis Software</subj>
+          <subj type="age">Adult: 19-44 years</subj>
+          <subj type="age">Middle Aged: 45-64 years</subj>
+          <subj type="age">Aged: 65+ years</subj>
+          <subj type="age">Aged, 80 &amp; over</subj>
+        </sug>
+        <ab>BACKGROUND: The lack of coordination of care for complex patients in the hematology setting has prompted nurse case managers (NCMs) to coordinate that care. OBJECTIVES: This article aimed to identify the frequency of NCM care coordination activities and quality and resource use outcomes in the complex care of patients in the hematology setting. METHODS: NCM aggregate data from complex outpatients with hematologic cancer were retrieved from electronic health records at a comprehensive cancer center in the midwestern United States. Total volume of activities and outcomes were calculated as frequency and percentage. FINDINGS: Care coordination activities included communicating; monitoring, following up, and responding to change; and creating a proactive plan of care. Quality outcomes included improving continuity of care and change in health behavior, and resource use outcomes most documented were patient healthcare cost savings.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>CEU</doctype>
+        <doctype>research</doctype>
+        <doctype>tables/charts</doctype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=ccm&amp;AN=141312898&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="3">
+  <header shortDbName="ccm" longDbName="CINAHL Complete" uiTerm="134963977">
+    <controlInfo>
+      <bkinfo />
+      <dissinfo />
+      <jinfo>
+        <jtl>British Journal of General Practice</jtl>
+        <issn>09601643</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2019" month="03" day="01">Mar2019</dt>
+        <vid>69</vid>
+        <iid>680</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.3399/bjgp19X701297</ui>
+        <ui type="pmid">NLM30745355</ui>
+        <ppf>e171</ppf>
+        <ppct>11</ppct>
+        <formats />
+        <tig>
+          <atl>Management of depression and referral of older people to psychological therapies: a systematic review of qualitative studies.</atl>
+        </tig>
+        <aug>
+          <au>Frost, Rachael</au>
+          <au>Beattie, Angela</au>
+          <au>Bhanu, Cini</au>
+          <au>Walters, Kate</au>
+          <au>Ben-Shlomo, Yoav</au>
+          <affil>Department of Primary Care and Population Health, University College London, London.</affil>
+        </aug>
+        <sug>
+          <subj type="major">Attitude of Health Personnel</subj>
+          <subj type="major">Depression Psychosocial Factors</subj>
+          <subj type="major">Psychological Techniques</subj>
+          <subj type="major">Primary Health Care Methods</subj>
+          <subj type="major">Depression Therapy</subj>
+          <subj type="minor">Patient Care Methods</subj>
+          <subj type="minor">Referral and Consultation</subj>
+          <subj type="minor">Clinical Competence</subj>
+          <subj type="minor">Aged, 80 and Over</subj>
+          <subj type="minor">Aged</subj>
+          <subj type="minor">Clinical Assessment Tools</subj>
+          <subj type="minor">Scales</subj>
+          <subj type="minor">Social Readjustment Rating Scale</subj>
+          <subj type="age">Aged, 80 &amp; over</subj>
+          <subj type="age">Aged: 65+ years</subj>
+        </sug>
+        <ab>Background: Depressive symptoms are common in later life and increase both the risk of functional and cognitive decline and the use of healthcare services. Despite older people expressing preferences for talking therapies, they are less likely to be referred than younger adults, particularly when aged ≥80 years.Aim: To explore how healthcare professionals (HCPs) manage older people in relation to depression and referrals to psychological therapies.Design and Setting: Systematic review and thematic synthesis of qualitative studies.Method: MEDLINE, Embase, PsycINFO, CINAHL, and the Social Sciences Citation Index (inception-March 2018) were searched for studies exploring HCPs' views regarding management of late-life depression across all settings. Studies of older people's views or depression management across all ages were excluded.Results: In total, 27 studies, were included; these predominantly focused on the views of GPs and primary and community care nurses. Many HCPs felt that late-life depression was mainly attributable to social isolation and functional decline, but treatments appropriate for this were limited. Clinicians perceived depression to have associated stigma for older adults, which required time to negotiate. Limited time in consultations and the complexity of needs in later life meant physical health was often prioritised over mental health, particularly in people with frailty. Good management of late-life depression appeared to depend more on the skills and interest of individual GPs and nurses than on any structured approach.Conclusion: Mental ill health needs to be a more-prominent concern in the care of older adults, with greater provision of psychological services tailored to later life. This may facilitate future identification and management of depression.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>journal article</doctype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=ccm&amp;AN=134963977&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="4">
+  <header shortDbName="ccm" longDbName="CINAHL Complete" uiTerm="130482565">
+    <controlInfo>
+      <bkinfo />
+      <dissinfo />
+      <jinfo>
+        <jtl>EWMA Journal</jtl>
+        <issn>16092759</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2018" month="04" day="01">Apr2018</dt>
+        <vid>19</vid>
+        <iid>1</iid>
+      </pubinfo>
+      <artinfo>
+        <ppf>15</ppf>
+        <ppct>6</ppct>
+        <formats>
+          <fmt type="PDF" />
+        </formats>
+        <tig>
+          <atl>Skin tears in the aging population: Remember the 5 Ws.</atl>
+        </tig>
+        <aug>
+          <au>Vanzi, Valentina</au>
+          <au>LeBlanc, Kimberly</au>
+          <affil>RN, CNS in Wound Care, IRCCS Bambino Gesu Children's Hospital, Center of Excellence of Nursing Scholarship (CECRI), Rome, Italy</affil>
+        </aug>
+        <sug>
+          <subj type="major">Skin Injuries</subj>
+          <subj type="major">Skin Diseases Therapy</subj>
+          <subj type="major">Skin Diseases Prevention and Control</subj>
+          <subj type="major">Skin Diseases Diagnosis</subj>
+          <subj type="major">Physicians</subj>
+          <subj type="minor">Aged</subj>
+          <subj type="minor">Skin Diseases Risk Factors</subj>
+          <subj type="minor">Skin Diseases Etiology</subj>
+          <subj type="minor">Diagnosis, Differential</subj>
+          <subj type="age">Aged: 65+ years</subj>
+        </sug>
+        <ab>Skin tears represent a relevant clinical consequence of age-associated skin vulnerability, and are extremely common among frail and older individuals. They are acute wounds with the potential to be closed by primary intention, however they are often mismanaged and misdiagnosed and transition to become chronic and complex wounds. Reported skin tear prevalence suggests they are a growing healthcare problem which have a profound impact on the health and wellbeing of affected individuals and a great financial burden to healthcare systems. With the aging global population, it can be assumed that the prevalence of skin tears will continue to increase proportionally with the aging population. In order to minimize the impact of skin tears clinicians must to be aware of what skin tears are, who is at risk, why and when they occur, and how to manage skin tears when they do occur. The purpose of this article is to assist clinicians with the prediction, prevention, assessment and management of skin tears among the aging population across healthcare sectors.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>pictorial</doctype>
+        <doctype>tables/charts</doctype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=ccm&amp;AN=130482565&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="5">
+  <header shortDbName="ccm" longDbName="CINAHL Complete" uiTerm="126986437">
+    <controlInfo>
+      <bkinfo />
+      <dissinfo />
+      <jinfo>
+        <jtl>Journal of Cardiovascular Nursing</jtl>
+        <issn>08894655</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2018" month="01" day="01">Jan/Feb2018</dt>
+        <vid>33</vid>
+        <iid>1</iid>
+        <place>Baltimore, Maryland</place>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1097/JCN.0000000000000408</ui>
+        <ppf>E1</ppf>
+        <ppct>7</ppct>
+        <formats />
+        <tig>
+          <atl>Identifying a Relationship Between Physical Frailty and Heart Failure Symptoms.</atl>
+        </tig>
+        <aug>
+          <au>Denfeld, Quin E.</au>
+          <au>Winters-Stone, Kerri</au>
+          <au>Mudd, James O.</au>
+          <au>Hiatt, Shirin O.</au>
+          <au>Lee, Christopher S.</au>
+          <affil>Post-Doctoral Fellow, Knight Cardiovascular Institute, Oregon Health &amp; Science University, Portland</affil>
+        </aug>
+        <sug>
+          <subj type="major">Frailty Syndrome</subj>
+          <subj type="major">Physical Fitness Psychosocial Factors</subj>
+          <subj type="major">Heart Failure Symptoms</subj>
+          <subj type="major">Physical Activity</subj>
+          <subj type="major">Dyspnea Psychosocial Factors</subj>
+          <subj type="major">Depression Psychosocial Factors</subj>
+          <subj type="minor">Human</subj>
+          <subj type="minor">Cross Sectional Studies</subj>
+          <subj type="minor">Scales</subj>
+          <subj type="minor">Clinical Assessment Tools</subj>
+          <subj type="minor">Questionnaires</subj>
+          <subj type="minor">Linear Regression</subj>
+          <subj type="minor">Middle Age</subj>
+          <subj type="minor">Aged</subj>
+          <subj type="minor">Male</subj>
+          <subj type="minor">Female</subj>
+          <subj type="minor">Frail Elderly</subj>
+          <subj type="age">Middle Aged: 45-64 years</subj>
+          <subj type="age">Aged: 65+ years</subj>
+          <subj type="gender">Male</subj>
+          <subj type="gender">Female</subj>
+        </sug>
+        <ab>Background: Heart failure (HF) is a complex clinical syndrome associated with significant symptom burden; however, our understanding of the relationship between symptoms and physical frailty in HF is limited. Objective: The aim of this study was to quantify associations between symptoms and physical frailty in adults with HF. Methods: A sample of adults with symptomatic HF were enrolled in a cross-sectional study. Physical symptoms were measured with the HF Somatic Perception Scale-Dyspnea subscale, the Epworth Sleepiness Scale, and the Brief Pain Inventory short form. Affective symptoms were measured with the Patient Health Questionnaire-9 and the Brief Symptom Inventory-Anxiety scale. Physical frailty was assessed according to the Frailty Phenotype Criteria: shrinking, weakness, slowness, physical exhaustion, and low physical activity. Comparative statistics and generalized linear modeling were used to quantify associations between symptoms and physical frailty, controlling for Seattle HF Model projected 1-year survival. Results: The mean age of the sample (n = 49) was 57.4 T 9.7 years, 67% were male, 92% had New York Heart Association class III/IV HF, and 67% had nonischemic HF. Physically frail participants had more than twice the level of dyspnea (P &lt; .001), 75% worse wake disturbances (P &lt; .001), and 76% worse depressive symptoms (P = .003) compared with those who were not physically frail. There were no differences in pain or anxiety. Conclusions: Physically frail adults with HF have considerably worse dyspnea, wake disturbances, and depression. Targeting physical frailty may help identify and improve physical and affective symptoms in HF.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>research</doctype>
+        <doctype>tables/charts</doctype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=ccm&amp;AN=126986437&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="6">
+  <header shortDbName="ccm" longDbName="CINAHL Complete" uiTerm="112468227">
+    <controlInfo>
+      <bkinfo />
+      <dissinfo />
+      <jinfo>
+        <jtl>Journal of Hospice &amp; Palliative Nursing</jtl>
+        <issn>15222179</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2016" month="02" day="01">Feb2016</dt>
+        <vid>18</vid>
+        <iid>1</iid>
+        <place>Baltimore, Maryland</place>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1097/NJH.0000000000000215</ui>
+        <ppf>74</ppf>
+        <ppct>8</ppct>
+        <formats />
+        <tig>
+          <atl>"I Didn't Know He Was Dying".</atl>
+        </tig>
+        <aug>
+          <au>Shigeko (Seiko) Izumi</au>
+          <au>Van Son, Catherine</au>
+          <affil>Assistant professor, School of Nursing, Oregon Health &amp; Science University, Portland</affil>
+        </aug>
+        <sug>
+          <subj type="major">Death In Old Age</subj>
+          <subj type="major">Family Attitudes Evaluation</subj>
+          <subj type="major">Terminal Care</subj>
+          <subj type="major">Decision Making, Family</subj>
+          <subj type="major">Professional-Family Relations</subj>
+          <subj type="minor">Human</subj>
+          <subj type="minor">Semi-Structured Interview</subj>
+          <subj type="minor">Aged</subj>
+          <subj type="minor">Qualitative Studies</subj>
+          <subj type="minor">Descriptive Research</subj>
+          <subj type="minor">Convenience Sample</subj>
+          <subj type="minor">Audiorecording</subj>
+          <subj type="minor">Adult</subj>
+          <subj type="minor">Middle Age</subj>
+          <subj type="minor">Aged, 80 and Over</subj>
+          <subj type="minor">Male</subj>
+          <subj type="minor">Female</subj>
+          <subj type="minor">Descriptive Statistics</subj>
+          <subj type="minor">Retrospective Design</subj>
+          <subj type="minor">Content Analysis</subj>
+          <subj type="minor">Family Role</subj>
+          <subj type="minor">Communication</subj>
+          <subj type="age">Aged: 65+ years</subj>
+          <subj type="age">Adult: 19-44 years</subj>
+          <subj type="age">Middle Aged: 45-64 years</subj>
+          <subj type="age">Aged, 80 &amp; over</subj>
+          <subj type="gender">Male</subj>
+          <subj type="gender">Female</subj>
+        </sug>
+        <ab>Research is limited on end-of-life care decision-making for older adults with chronic conditions whose end-of-life trajectory is difficult to predict because of their complex and frail condition. Semistructured interviews were conducted with family members of 22 deceased older adults to explore their experiences with end-of-life decision-making with/for their loved ones. Participants did not identify a specific time they made an end-of-life care decision as they did not know the older adult was at the end of life, health care providers did not ask them to make a decision, or they had to make forced decisions, and subsequently they experienced regret about the end-of-life care their family member received. End-of-life care decisions were dependent on the awareness of approaching death by participants, their loved ones, and health care providers. Health care providers being aware of the possibility of approaching death and assisting family members to make decisions that would honor the older adult's preference by explaining possible care options and what each care options would mean to them are key to providing quality end-of-life care for these individuals.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>research</doctype>
+        <doctype>tables/charts</doctype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=ccm&amp;AN=112468227&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="7">
+  <header shortDbName="ccm" longDbName="CINAHL Complete" uiTerm="131616016">
+    <controlInfo>
+      <bkinfo />
+      <dissinfo />
+      <jinfo>
+        <jtl>Manual Therapy, Posturology &amp; Rehabilitation Journal</jtl>
+        <issn>22365435</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2016" month="01" day="01">2016</dt>
+        <vid>14</vid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.17784/mtprehabjournal.2016.14.353</ui>
+        <ppf>1</ppf>
+        <ppct>6</ppct>
+        <formats>
+          <fmt type="PDF" />
+        </formats>
+        <tig>
+          <atl>Fragility in the elderly participants of coexistence and health promotion groups in the aging.</atl>
+        </tig>
+        <aug>
+          <au>Fagundes de Lima Filho, Bartolomeu</au>
+          <au>de Sousa Dantas, Diego</au>
+          <au>de Sá, Fernanda Diniz</au>
+          <au>Batista Araújo de Oliveira, Luciane Paula</au>
+          <affil>Undergraduate of the Physiotherapy course, Federal University of Rio Grande do Norte (UFRN), campus of Faculty of Health Sciences of Trairi (FACISA), Santa Cruz (RN), Brazil</affil>
+        </aug>
+        <sug>
+          <subj type="major">Aging</subj>
+          <subj type="major">Frailty Syndrome Risk Factors</subj>
+          <subj type="major">Phenotype</subj>
+          <subj type="major">Social Determinants of Health</subj>
+          <subj type="minor">Human</subj>
+          <subj type="minor">Brazil</subj>
+          <subj type="minor">Descriptive Research</subj>
+          <subj type="minor">Descriptive Statistics</subj>
+          <subj type="minor">Aged</subj>
+          <subj type="minor">Middle Age</subj>
+          <subj type="minor">P-Value</subj>
+          <subj type="minor">Cross Sectional Studies</subj>
+          <subj type="minor">Pearson's Correlation Coefficient</subj>
+          <subj type="minor">Fisher's Exact Test</subj>
+          <subj type="minor">Data Analysis Software</subj>
+          <subj type="minor">Female</subj>
+          <subj type="minor">Male</subj>
+          <subj type="age">Aged: 65+ years</subj>
+          <subj type="age">Middle Aged: 45-64 years</subj>
+          <subj type="gender">Female</subj>
+          <subj type="gender">Male</subj>
+        </sug>
+        <ab>INTRODUCTION: The frailty syndrome is a complex condition that permeates the life of the elderly, with the decrease of the homeostatic reserve of the organism and loss of resistance to the stressors, caused as results of many factors, but mainly by sarcopenia. Such syndrome makes the elderly vulnerable to illness and may lead to terminal stages of life if there is no adequate treatment. OBJECTIVE: To evaluate the influence of the factors related to the frailty phenotype in the occurrence of this in participants of groups of coexistence and health promotion of the city of Santa Cruz/RN. METHOD: This is a descriptive, associative and transversal of quantitative approach study with 60 elderly. The socioeconomic condition and the fragility phenotype was evaluated. RESULTS: the mean age of the sample was 66.1 years (SD=5.08). Most of them (53.3%) are in the age group of 60-69 years, does not have a partner (63.4%) and are illiterate (58.3%). In the mentioned morbidity, 42 (70%) reported some morbidity and hypertension was more prevalent in the sample (53.3%), followed by diabetes (20%) and osteoporosis (18.3%). Four elderly were fragile, forty-nine were pre-fragile and seven were non-fragile. There was a significant correlation in unintentional loss of weight (0.017), exhaustion (&lt;0.001) and slowness in gait (&lt;0.001) in the occurrence of pre-frailty. CONCLUSION: the prevalence of pre-frailty indicators in the investigated groups indicates warning signs so that actions more strongly linked to the prevention of this aggravation become a priority in the planning of the undertaken interventions in groups. Participation in social groups has a protective effect in the prevention of frailty in the elderly.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>research</doctype>
+        <doctype>tables/charts</doctype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=ccm&amp;AN=131616016&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="8">
+  <header shortDbName="ccm" longDbName="CINAHL Complete" uiTerm="111386013">
+    <controlInfo>
+      <bkinfo />
+      <dissinfo />
+      <jinfo>
+        <jtl>Research &amp; Theory for Nursing Practice</jtl>
+        <issn>15416577</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2015" month="01" day="01">2015</dt>
+        <vid>29</vid>
+        <iid>1</iid>
+        <place>New York, New York</place>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1891/1541-6577.29.1.66</ui>
+        <ppf>66</ppf>
+        <ppct>19</ppct>
+        <formats />
+        <tig>
+          <atl>Frailty in Older Adults: An Evolutionary Concept Analysis.</atl>
+        </tig>
+        <aug>
+          <au>Tocchi, Christine</au>
+          <affil>Duke University, Durham, North Carolina</affil>
+        </aug>
+        <sug>
+          <subj type="major">Frail Elderly</subj>
+          <subj type="minor">Concept Analysis</subj>
+          <subj type="minor">Aged</subj>
+          <subj type="minor">Human</subj>
+          <subj type="minor">Systematic Review</subj>
+          <subj type="minor">PubMed</subj>
+          <subj type="minor">CINAHL Database</subj>
+          <subj type="minor">Psycinfo</subj>
+          <subj type="minor">Medline</subj>
+          <subj type="minor">Nomenclature</subj>
+          <subj type="minor">Vulnerability</subj>
+          <subj type="minor">Comorbidity</subj>
+          <subj type="minor">Functional Status</subj>
+          <subj type="minor">Mental Status</subj>
+          <subj type="minor">Physiopathology</subj>
+          <subj type="minor">Life Style</subj>
+          <subj type="minor">Disease Attributes</subj>
+          <subj type="minor">Frailty Syndrome</subj>
+          <subj type="minor">Disease Susceptibility</subj>
+          <subj type="age">Aged: 65+ years</subj>
+        </sug>
+        <ab>The term frailty is often used to describe a subset of the older population with complex health issues. It is associated with dependence, disability, increased health care use, and mortality. An emergent problem is the lack of consensus as to the etiology and definition of frailty. The purpose of this concept analysis is to clarify the concept of frailty in the context of older adults and propose a definition of frailty that may be relevant to identification of frail older adults. The results from this analysis conclude frailty in older adults is a tenuous state of health that is the result of the complex interplay of physiological, psychosocial, and environmental stressors that increases an older adult's susceptibility to adverse health outcomes.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>research</doctype>
+        <doctype>systematic review</doctype>
+        <doctype>tables/charts</doctype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=ccm&amp;AN=111386013&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="9">
+  <header shortDbName="ccm" longDbName="CINAHL Complete" uiTerm="109793115">
+    <controlInfo>
+      <bkinfo />
+      <dissinfo />
+      <jinfo>
+        <jtl>Journal of Nursing Measurement</jtl>
+        <issn>10613749</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2014" month="05" day="01">2014</dt>
+        <vid>22</vid>
+        <iid>2</iid>
+        <place>New York, New York</place>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1891/1061-3749.22.2.223</ui>
+        <ui type="pmid">NLM25255675</ui>
+        <ppf>223</ppf>
+        <ppct>18</ppct>
+        <formats />
+        <tig>
+          <atl>Development of a Frailty Measure for Older Adults: The Frailty Index for Elders.</atl>
+        </tig>
+        <aug>
+          <au>Tocchi, Christine</au>
+          <au>Dixon, Jane</au>
+          <au>Naylor, Mary</au>
+          <au>Jeon, Sangchoon</au>
+          <au>McCorkle, Ruth</au>
+          <affil>New York University College of Nursing</affil>
+        </aug>
+        <sug>
+          <subj type="major">Instrument Construction</subj>
+          <subj type="major">Frail Elderly</subj>
+          <subj type="major">Instrument Validation</subj>
+          <subj type="major">Health Status In Old Age</subj>
+          <subj type="minor">Human</subj>
+          <subj type="minor">Aged</subj>
+          <subj type="minor">Aged, 80 and Over</subj>
+          <subj type="minor">Conceptual Framework</subj>
+          <subj type="minor">Models, Theoretical</subj>
+          <subj type="minor">Assisted Living</subj>
+          <subj type="minor">Community Living</subj>
+          <subj type="minor">Educational Status</subj>
+          <subj type="minor">Income</subj>
+          <subj type="minor">Black Persons</subj>
+          <subj type="minor">White Persons</subj>
+          <subj type="minor">Hispanic Americans</subj>
+          <subj type="minor">Pennsylvania</subj>
+          <subj type="minor">New York</subj>
+          <subj type="minor">Multicenter Studies</subj>
+          <subj type="minor">Geriatric Depression Scale</subj>
+          <subj type="minor">Scales</subj>
+          <subj type="minor">Psychological Tests</subj>
+          <subj type="minor">Summated Rating Scaling</subj>
+          <subj type="minor">Validation Studies</subj>
+          <subj type="minor">Activities of Daily Living</subj>
+          <subj type="minor">Chi Square Test</subj>
+          <subj type="minor">Descriptive Statistics</subj>
+          <subj type="minor">Item-Total Correlations</subj>
+          <subj type="minor">Item Analysis</subj>
+          <subj type="minor">Functional Status</subj>
+          <subj type="minor">Health Status Evaluation</subj>
+          <subj type="minor">Content Validity</subj>
+          <subj type="minor">Secondary Analysis</subj>
+          <subj type="minor">Cross Sectional Studies</subj>
+          <subj type="minor">Construct Validity</subj>
+          <subj type="age">Aged: 65+ years</subj>
+          <subj type="age">Aged, 80 &amp; over</subj>
+        </sug>
+        <ab>Background and Purpose: Frailty is a significant challenge for health care. Therefore, it is important to identify frail individuals. Theoretical Framework: The Vulnerability/Risk/ Human Response/Care Model. The purpose of this study was to develop and validate a measure to identify frail older adults. Methods: Instrument development encompassed the following: delineation of content domains, item generation, content validity, quantitative content validity analysis, and psychometric analysis. Results: Findings indicated the following: (a) Frailty is a complex concept, (b) the Frailty Index for Elders (FIFE) is composed of 10 items, (c) FIFE was able to predict depression, and (d) FIFE was able to differentiate differences in demographic profiles by social support environment. Conclusions: FIFE is a valid instrument. FIFE can be used to study the relationships among frailty determinants, provide standardized measurement, and develop and measure interventional studies.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>research</doctype>
+        <doctype>tables/charts</doctype>
+        <doctype>Journal Article</doctype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=ccm&amp;AN=109793115&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="10">
+  <header shortDbName="ccm" longDbName="CINAHL Complete" uiTerm="103936774">
+    <controlInfo>
+      <bkinfo />
+      <dissinfo />
+      <jinfo>
+        <jtl>Nursing Older People</jtl>
+        <issn>14720795</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2014" month="05" day="01">May2014</dt>
+        <vid>26</vid>
+        <iid>4</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.7748/nop2014.04.26.4.20.e561</ui>
+        <ui type="pmid">NLM24787943</ui>
+        <ppf>20</ppf>
+        <ppct>4</ppct>
+        <formats />
+        <tig>
+          <atl>DEVELOPING ADVANCED NURSING SKILLS FOR FRAIL OLDER PEOPLE.</atl>
+        </tig>
+        <aug>
+          <au>Goldberg, Sarah</au>
+          <au>Cooper, Jo</au>
+          <au>Russell, Catherine</au>
+          <affil>Senior Clinical Academic Nurse, University of Nottingham/Nottingham University Hospitals NHS Trust</affil>
+        </aug>
+        <sug>
+          <subj type="major">Frail Elderly</subj>
+          <subj type="major">Nursing Skills</subj>
+          <subj type="major">Gerontologic Care Education</subj>
+          <subj type="major">Advanced Nursing Practice Education</subj>
+          <subj type="major">Professional Development</subj>
+          <subj type="minor">Aged</subj>
+          <subj type="minor">Advanced Practice Nurses</subj>
+          <subj type="minor">Nursing Staff, Hospital</subj>
+          <subj type="minor">Geriatric Assessment</subj>
+          <subj type="minor">Nursing Role</subj>
+          <subj type="minor">Acute Care</subj>
+          <subj type="minor">Inpatients</subj>
+          <subj type="minor">Patient Centered Care</subj>
+          <subj type="age">Aged: 65+ years</subj>
+        </sug>
+        <ab>Improving hospital care for frail older people requires expertise, leadership and resources as these patients have multiple complex needs. One innovative solution to providing the skilled care necessary is to train experienced nurses to become advanced nurse practitioners (ANPs). Such roles encompass activity previously undertaken by medical staff, together with leadership, teaching, research and service development. Skills specific to caring for older people, such as comprehensive geriatric assessment, are also required. This article discusses the need for ANPs in this clinical area, a pilot that is under way in one acute trust to develop these roles, and the potential benefits and challenges that may accompany this development.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>pictorial</doctype>
+        <doctype>Journal Article</doctype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=ccm&amp;AN=103936774&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="11">
+  <header shortDbName="ccm" longDbName="CINAHL Complete" uiTerm="104060544">
+    <controlInfo>
+      <bkinfo />
+      <dissinfo />
+      <jinfo>
+        <jtl>Nursing Older People</jtl>
+        <issn>14720795</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2014" month="04" day="01">Apr2014</dt>
+        <vid>26</vid>
+        <iid>3</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.7748/nop2014.03.26.3.16.e570</ui>
+        <ui type="pmid">NLM24673323</ui>
+        <ppf>16</ppf>
+        <ppct>6</ppct>
+        <formats />
+        <tig>
+          <atl>WHY INTERMEDIATE CARE SERVICES NEED TO BE REFRESHED.</atl>
+        </tig>
+        <aug>
+          <au>Kilgore, Cliff</au>
+          <affil>Team leader and advanced nurse practitioner in intermediate care, Dorset HealthCare community intermediate care service</affil>
+        </aug>
+        <sug>
+          <subj type="major">Health Services for the Aged</subj>
+          <subj type="major">Subacute Care In Old Age</subj>
+          <subj type="major">Gerontologic Nursing</subj>
+          <subj type="major">Community Health Services</subj>
+          <subj type="minor">Aged</subj>
+          <subj type="minor">England</subj>
+          <subj type="minor">Health Care Delivery</subj>
+          <subj type="minor">Staff Development</subj>
+          <subj type="minor">Dementia Therapy</subj>
+          <subj type="minor">Dementia Nursing</subj>
+          <subj type="age">Aged: 65+ years</subj>
+        </sug>
+        <ab>Intermediate care services are usually intended for frail, older people and those with complex needs. Their aims are to avoid unnecessary hospital admission, help people regain independence after a hospital stay and prevent premature admission to long-term care. Services are time limited and delivered in patients' own homes, community hospitals and sometimes nursing homes. But, as Louise Hunt reports, the second national audit of intermediate care, published late last year, found capacity in England is just half of what is needed. There is also significant variation between localities in capacity outside hospital and in the balance of bed-based, home-based and re-enablement services. Two case studies are presented of intermediate care services where nurses play an important role in achieving positive outcomes for patients and saving the health service money.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>case study</doctype>
+        <doctype>pictorial</doctype>
+        <doctype>Journal Article</doctype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=ccm&amp;AN=104060544&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="12">
+  <header shortDbName="ccm" longDbName="CINAHL Complete" uiTerm="107960283">
+    <controlInfo>
+      <bkinfo />
+      <dissinfo />
+      <jinfo>
+        <jtl>Nursing Research</jtl>
+        <issn>00296562</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2013" month="07" day="01">Jul/Aug2013</dt>
+        <vid>62</vid>
+        <iid>4</iid>
+        <place>Baltimore, Maryland</place>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1097/NNR.0b013e318298aa55</ui>
+        <ui type="pmid">NLM23817284</ui>
+        <ppf>269</ppf>
+        <ppct>10</ppct>
+        <formats />
+        <tig>
+          <atl>Nurse Care Coordination and Technology Effects on Health Status of Frail Older Adults via Enhanced Self-Management of Medication.</atl>
+        </tig>
+        <aug>
+          <au>Dorman Marek, Karen</au>
+          <au>Stetzer, Frank</au>
+          <au>Ryan, Polly A.</au>
+          <au>Denison Bub, Linda</au>
+          <au>Adams, Scott J.</au>
+          <au>Schlidt, Andrea</au>
+          <au>Lancaster, Rachelle</au>
+          <au>O'Brien, Anne-Marie</au>
+          <affil>Bernita 'B' Professor of Geriatrie Nursing, College of Nursing and Health Innovation, Arizona State University, Phoenix.</affil>
+        </aug>
+        <sug>
+          <subj type="major">Health Status In Old Age</subj>
+          <subj type="major">Frail Elderly</subj>
+          <subj type="major">Self Administration In Old Age</subj>
+          <subj type="major">Home Health Care In Old Age</subj>
+          <subj type="major">Advanced Nursing Practice</subj>
+          <subj type="major">Home Nursing, Professional</subj>
+          <subj type="minor">Human</subj>
+          <subj type="minor">Randomized Controlled Trials</subj>
+          <subj type="minor">Midwestern United States</subj>
+          <subj type="minor">Health Status Evaluation</subj>
+          <subj type="minor">Geriatric Depression Scale</subj>
+          <subj type="minor">Short Form-36 Health Survey (SF-36)</subj>
+          <subj type="minor">Scales</subj>
+          <subj type="minor">Questionnaires</subj>
+          <subj type="minor">Repeated Measures</subj>
+          <subj type="minor">Outcomes (Health Care) Evaluation</subj>
+          <subj type="minor">Pharmacists</subj>
+          <subj type="minor">Advanced Practice Nurses</subj>
+          <subj type="minor">Reminder Systems</subj>
+          <subj type="minor">Type I Error</subj>
+          <subj type="minor">Male</subj>
+          <subj type="minor">Female</subj>
+          <subj type="minor">Aged</subj>
+          <subj type="minor">Self Administration Evaluation</subj>
+          <subj type="minor">Multivariate Statistics</subj>
+          <subj type="minor">Chronic Disease</subj>
+          <subj type="minor">T-Tests</subj>
+          <subj type="minor">Effect Size</subj>
+          <subj type="minor">Confidence Intervals</subj>
+          <subj type="minor">Funding Source</subj>
+          <subj type="age">Aged: 65+ years</subj>
+          <subj type="gender">Male</subj>
+          <subj type="gender">Female</subj>
+        </sug>
+        <ab>Background: Self-management of complex medication regimens for chronic illness is challenging for many older adults. Objectives: The purpose of this study was to evaluate health status outcomes of frail older adults receiving a home-based support program that emphasized self-management of medications using both care coordination and technology. Design: This study used a randomized controlled trial with three arms and longitudinal outcome measurement. Setting: Older adults having difficulty in self-managing medications (n = 414) were recruited at discharge from three Medicare-certified home healthcare agencies in a Midwestern urban area. Methods: All participants received baseline pharmacy screens. The control group received no further intervention. A team of advanced practice nurses and registered nurses coordinated care for 12 months to two intervention groups who also received either an MD.2 medication-dispensing machine or a medplanner. Health status outcomes (the Geriatric Depression Scale, Mini Mental Status Examination, Physical Performance Test, and SF-36 Physical Component Summary and Mental Component Summary) were measured at baseline and at 3, 6, 9, and 12 months. Results: After covariate and baseline health status adjustment, time x group interactions for the MD.2 and medplanner groups on health status outcomes were not significant. Time x group interactions were significant for the medplanner and control group comparisons. Discussion: Participants with care coordination had significantly better health status outcomes over time than those in the control group, but addition of the MD.2 machine to nurse care coordination did not result in better health status outcomes.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>clinical trial</doctype>
+        <doctype>research</doctype>
+        <doctype>tables/charts</doctype>
+        <doctype>randomized controlled trial</doctype>
+        <doctype>Journal Article</doctype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=ccm&amp;AN=107960283&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="13">
+  <header shortDbName="ccm" longDbName="CINAHL Complete" uiTerm="108234322">
+    <controlInfo>
+      <bkinfo />
+      <dissinfo />
+      <jinfo>
+        <jtl>Nursing Older People</jtl>
+        <issn>14720795</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2011" month="06" day="01">Jun2011</dt>
+        <vid>23</vid>
+        <iid>5</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="pmid">NLM21736101</ui>
+        <ppf>16</ppf>
+        <ppct>7</ppct>
+        <formats />
+        <tig>
+          <atl>USE OF HYPODERMOCLYSIS TO MANAGE DEHYDRATION.</atl>
+        </tig>
+        <aug>
+          <au>Scales, Katie</au>
+          <affil>Nurse consultant, critical care, Imperial College Healthcare NHS Trust, London</affil>
+        </aug>
+        <sug>
+          <subj type="major">Dehydration Therapy</subj>
+          <subj type="major">Hypodermoclysis Methods</subj>
+          <subj type="major">Gerontologic Nursing</subj>
+          <subj type="major">Dehydration Diagnosis</subj>
+          <subj type="minor">Fluid-Electrolyte Balance</subj>
+          <subj type="minor">Dehydration Prevention and Control</subj>
+          <subj type="minor">Aging</subj>
+          <subj type="minor">Dehydration Risk Factors</subj>
+          <subj type="minor">Aged</subj>
+          <subj type="minor">United Kingdom</subj>
+          <subj type="minor">Aged, 80 and Over</subj>
+          <subj type="minor">Frail Elderly</subj>
+          <subj type="minor">Kidney Physiopathology</subj>
+          <subj type="minor">Glomerular Filtration Rate</subj>
+          <subj type="minor">Creatinine Blood</subj>
+          <subj type="minor">Fluid Intake</subj>
+          <subj type="minor">Patient Education</subj>
+          <subj type="minor">Geriatric Assessment</subj>
+          <subj type="minor">Fluid Intake-Output Measures</subj>
+          <subj type="minor">Dehydration Symptoms</subj>
+          <subj type="minor">Hypodermoclysis Equipment and Supplies</subj>
+          <subj type="minor">Isotonic Solutions Administration and Dosage</subj>
+          <subj type="minor">Hypodermoclysis Adverse Effects</subj>
+          <subj type="minor">Insertion Sites</subj>
+          <subj type="minor">Hypodermoclysis Nursing</subj>
+          <subj type="age">Aged: 65+ years</subj>
+          <subj type="age">Aged, 80 &amp; over</subj>
+        </sug>
+        <ab>Older people, particularly those who are frail, are vulnerable to dehydration. Management of dehydration in older people can be more complex than in younger adults because of the physical effects of ageing. As the population ages, nurses will increasingly care for older patients in every setting. This article provides an overview of the physiological changes that affect the ability of older people to maintain a normal fluid balance. Risk factors for dehydration are reviewed and strategies for the prevention, detection and management of dehydration are discussed. The article focuses on subcutaneous fluid replacement for the management of dehydration in older adults.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>pictorial</doctype>
+        <doctype>review</doctype>
+        <doctype>tables/charts</doctype>
+        <doctype>Journal Article</doctype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=ccm&amp;AN=108234322&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="14">
+  <header shortDbName="ccm" longDbName="CINAHL Complete" uiTerm="104879854">
+    <controlInfo>
+      <bkinfo />
+      <dissinfo />
+      <jinfo>
+        <jtl>Journal of Diabetes Nursing</jtl>
+        <issn>13681109</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2011" month="03" day="01">2011</dt>
+        <vid>15</vid>
+        <iid>3</iid>
+      </pubinfo>
+      <artinfo>
+        <ppf>102</ppf>
+        <ppct>5</ppct>
+        <formats>
+          <fmt type="HTML Full Text" />
+          <fmt type="PDF" />
+        </formats>
+        <tig>
+          <atl>Barriers to the delivery of high-quality care for care home residents with diabetes.</atl>
+        </tig>
+        <aug>
+          <au>Kirkland, Fiona</au>
+          <au>Sinclair, Alan</au>
+          <affil>Consultant Nurse Diabetes, South Staffordshire PCT, Staffordshire</affil>
+        </aug>
+        <sug>
+          <subj type="major">Diabetes Mellitus Nursing</subj>
+          <subj type="major">Nursing Home Patients</subj>
+          <subj type="major">Quality of Nursing Care</subj>
+          <subj type="minor">Aged</subj>
+          <subj type="minor">Diabetes Mellitus Diagnosis</subj>
+          <subj type="minor">Personnel Staffing and Scheduling</subj>
+          <subj type="minor">Support, Psychosocial</subj>
+          <subj type="age">Aged: 65+ years</subj>
+        </sug>
+        <ab>The age of the UK population is increasing, resulting in many people living with multiple long-term conditions, such as diabetes. Many older people who have complex health needs reside in care homes. The aim of this article is to raise awareness of the diabetes-related problems that exist for older people living in care homes, including the barriers to the delivery of high-quality diabetes care. The authors focus on the Good Clinical Practice Guidelines for Care Home Residents with Diabetes (Diabetes UK, 2010), which discusses the shortfalls in delivery of care, identifies possible barriers and their consequences and highlights the tools that can support change.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>tables/charts</doctype>
+        <doctype>Journal Article</doctype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=ccm&amp;AN=104879854&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="15">
+  <header shortDbName="ccm" longDbName="CINAHL Complete" uiTerm="55594481">
+    <controlInfo>
+      <bkinfo />
+      <dissinfo />
+      <jinfo>
+        <jtl>Nursing Praxis in New Zealand</jtl>
+        <issn>01127438</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2010" month="11" day="01">Nov2010</dt>
+        <vid>26</vid>
+        <iid>3</iid>
+        <place>Palmerston North, &lt;Blank&gt;</place>
+      </pubinfo>
+      <artinfo>
+        <ppf>17</ppf>
+        <ppct>8</ppct>
+        <formats>
+          <fmt type="PDF" />
+        </formats>
+        <tig>
+          <atl>STAFF BELIEFS ABOUT SEXUALITY IN AGED RESIDENTIAL CARE.</atl>
+        </tig>
+        <aug>
+          <au>Gilmer, Mary Jane</au>
+          <au>Meyer, Alannah</au>
+          <au>Davidson, Jocelyn</au>
+          <au>Koziol-McLain, Jane</au>
+          <affil>Primary Health Care, Senior Lecturer, Auckland University of Technology</affil>
+        </aug>
+        <sug>
+          <subj type="major">Sexuality In Old Age</subj>
+          <subj type="major">Nursing Home Personnel</subj>
+          <subj type="major">Attitude of Health Personnel</subj>
+          <subj type="major">Nursing Home Patients Psychosocial Factors</subj>
+          <subj type="minor">Sexuality Ethical Issues</subj>
+          <subj type="minor">Descriptive Research</subj>
+          <subj type="minor">Pilot Studies</subj>
+          <subj type="minor">Questionnaires</subj>
+          <subj type="minor">Data Analysis Software</subj>
+          <subj type="minor">Descriptive Statistics</subj>
+          <subj type="minor">Exploratory Research</subj>
+          <subj type="minor">Content Analysis</subj>
+          <subj type="minor">Male</subj>
+          <subj type="minor">Female</subj>
+          <subj type="minor">Human</subj>
+          <subj type="minor">Adult</subj>
+          <subj type="minor">Middle Age</subj>
+          <subj type="minor">Aged</subj>
+          <subj type="minor">Nursing Assessment Psychosocial Factors</subj>
+          <subj type="minor">Attitude to Sexuality</subj>
+          <subj type="minor">New Zealand</subj>
+          <subj type="minor">Decision Making, Ethical</subj>
+          <subj type="age">Adult: 19-44 years</subj>
+          <subj type="age">Middle Aged: 45-64 years</subj>
+          <subj type="age">Aged: 65+ years</subj>
+          <subj type="gender">Male</subj>
+          <subj type="gender">Female</subj>
+        </sug>
+        <ab>Expression of sexuality is a lifelong need and a basic human right, yet little is known about how staff in aged care facilities approach and manage the sexuality needs of residents. Fifty-two staff members from the rest home component of aged care facilities in one District Health Board completed a survey anonymously. Findings indicated that while the majority believe residents have sexual needs that should be acknowledged and supported, expression of sexuality often created discomfort and the need was not regularly assessed, or managed by a team approach. Lack of privacy, negative staff and family attitudes plus the difficulty of managing risk make responding to sexuality a complex issue. The combination of individual and institutional barriers suggest that thoughtful and creative team strategies are required to address the sexuality related needs of the older person in residential care.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>research</doctype>
+        <doctype>tables/charts</doctype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=ccm&amp;AN=55594481&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="16">
+  <header shortDbName="ccm" longDbName="CINAHL Complete" uiTerm="104956318">
+    <controlInfo>
+      <bkinfo />
+      <dissinfo />
+      <jinfo>
+        <jtl>Nursing Praxis in New Zealand</jtl>
+        <issn>01127438</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2010" month="11" day="01">Nov2010</dt>
+        <vid>26</vid>
+        <iid>3</iid>
+        <place>Palmerston North, &lt;Blank&gt;</place>
+      </pubinfo>
+      <artinfo>
+        <ui type="pmid">NLM21188913</ui>
+        <ppf>17</ppf>
+        <ppct>8</ppct>
+        <formats>
+          <fmt type="PDF" />
+        </formats>
+        <tig>
+          <atl>Staff beliefs about sexuality in aged residential care.</atl>
+        </tig>
+        <aug>
+          <au>Gilmer MJ</au>
+          <au>Meyer A</au>
+          <au>Davidson J</au>
+          <au>Koziol-McLain J</au>
+          <affil>Primary Health Care, Senior Lecturer, Auckland University of Technology</affil>
+        </aug>
+        <sug>
+          <subj type="major">Sexuality In Old Age</subj>
+          <subj type="major">Nursing Home Personnel</subj>
+          <subj type="major">Attitude of Health Personnel</subj>
+          <subj type="major">Nursing Home Patients Psychosocial Factors</subj>
+          <subj type="minor">Sexuality Ethical Issues</subj>
+          <subj type="minor">Descriptive Research</subj>
+          <subj type="minor">Pilot Studies</subj>
+          <subj type="minor">Questionnaires</subj>
+          <subj type="minor">Data Analysis Software</subj>
+          <subj type="minor">Descriptive Statistics</subj>
+          <subj type="minor">Exploratory Research</subj>
+          <subj type="minor">Content Analysis</subj>
+          <subj type="minor">Male</subj>
+          <subj type="minor">Female</subj>
+          <subj type="minor">Human</subj>
+          <subj type="minor">Adult</subj>
+          <subj type="minor">Middle Age</subj>
+          <subj type="minor">Aged</subj>
+          <subj type="minor">Nursing Assessment Psychosocial Factors</subj>
+          <subj type="minor">Attitude to Sexuality</subj>
+          <subj type="minor">New Zealand</subj>
+          <subj type="minor">Decision Making, Ethical</subj>
+          <subj type="age">Adult: 19-44 years</subj>
+          <subj type="age">Middle Aged: 45-64 years</subj>
+          <subj type="age">Aged: 65+ years</subj>
+          <subj type="gender">Male</subj>
+          <subj type="gender">Female</subj>
+        </sug>
+        <ab>Expression of sexuality is a lifelong need and a basic human right, yet little is known about how staff in aged care facilities approach and manage the sexuality needs of residents. Fifty-two staff members from the rest home component of aged care facilities in one District Health Board completed a survey anonymously. Findings indicated that while the majority believe residents have sexual needs that should be acknowledged and supported, expression of sexuality often created discomfort and the need was not regularly assessed, or managed by a team approach. Lack of privacy, negative staff and family attitudes plus the difficulty of managing risk make responding to sexuality a complex issue. The combination of individual and institutional barriers suggest that thoughtful and creative team strategies are required to address the sexuality related needs of the older person in residential care.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>research</doctype>
+        <doctype>tables/charts</doctype>
+        <doctype>Journal Article</doctype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=ccm&amp;AN=104956318&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="17">
+  <header shortDbName="ccm" longDbName="CINAHL Complete" uiTerm="105060825">
+    <controlInfo>
+      <bkinfo />
+      <dissinfo />
+      <jinfo>
+        <jtl>Research in Gerontological Nursing</jtl>
+        <issn>19404921</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2010" month="07" day="01">Jul2010</dt>
+        <vid>3</vid>
+        <iid>3</iid>
+        <place>Thorofare, New Jersey</place>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.3928/19404921-20100528-99</ui>
+        <ui type="pmid">NLM20635805</ui>
+        <ppf>209</ppf>
+        <ppct>12</ppct>
+        <formats>
+          <fmt type="PDF" />
+        </formats>
+        <tig>
+          <atl>Double jeopardy: comorbid anxiety and depression in late life.</atl>
+        </tig>
+        <aug>
+          <au>Beattie E</au>
+          <au>Pachana NA</au>
+          <au>Franklin SJ</au>
+          <affil>Professor and Director, Dementia Collaborative Research Centre: Carers and Consumers, Room 615, Level 6, N Block, School of Nursing and Midwifery, Queensland University of Technology, Kelvin Grove, Queensland, Australia</affil>
+        </aug>
+        <sug>
+          <subj type="major">Anxiety In Old Age</subj>
+          <subj type="major">Comorbidity</subj>
+          <subj type="major">Depression In Old Age</subj>
+          <subj type="major">Geriatric Psychiatry</subj>
+          <subj type="minor">Aged</subj>
+          <subj type="minor">Depression Risk Factors</subj>
+          <subj type="minor">Mental Health</subj>
+          <subj type="minor">Prevalence</subj>
+          <subj type="minor">Quality of Life</subj>
+          <subj type="age">Aged: 65+ years</subj>
+        </sug>
+        <ab>Comorbid depression and anxiety in late life present challenges for geriatric mental health care providers. These challenges include identifying the often complex diagnostic presentations both clinically and in a research context. This potent comorbidity can be conceived as double jeopardy in older adults, further diminishing their quality of life. Geriatric health care providers need to understand psychiatric comorbidity of this type for accurate diagnosis and early referral to specialists, and to coordinate interdisciplinary care. Researchers in the field also need to recognize potential multiple impacts of comorbidities with respect to assessment and treatment domains. This article describes the prevalence of late-life depression and anxiety disorders and reviews studies on this comorbidity in older adults. Risk factors and protective factors for anxiety and depression in later life are reviewed, and information is provided about comparative symptoms, the selection of assessment tools, and challenges to the provision of interdisciplinary, evidence-based care.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>review</doctype>
+        <doctype>tables/charts</doctype>
+        <doctype>Journal Article</doctype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=ccm&amp;AN=105060825&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="18">
+  <header shortDbName="ccm" longDbName="CINAHL Complete" uiTerm="105306456">
+    <controlInfo>
+      <bkinfo />
+      <dissinfo />
+      <jinfo>
+        <jtl>Health &amp; Social Care in the Community</jtl>
+        <issn>09660410</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2010" month="03" day="01">Mar2010</dt>
+        <vid>18</vid>
+        <iid>2</iid>
+        <place>Malden, Massachusetts</place>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1111/j.1365-2524.2009.00892.x</ui>
+        <ppf>199</ppf>
+        <ppct>9</ppct>
+        <formats>
+          <fmt type="PDF" />
+        </formats>
+        <tig>
+          <atl>It's not just about heart failure -- voices of older people in transition to dependence and death.</atl>
+        </tig>
+        <aug>
+          <au>Waterworth S</au>
+          <au>Jorgensen D</au>
+          <affil>School of Nursing, The University of Auckland, Private Bag, Auckland 92019 New Zealand. E-mail s.waterworth@auckland.ac.nz</affil>
+        </aug>
+        <sug>
+          <subj type="major">Attitude to Change</subj>
+          <subj type="major">Heart Failure</subj>
+          <subj type="major">Life Experiences</subj>
+          <subj type="minor">Aged</subj>
+          <subj type="minor">Aged, 80 and Over</subj>
+          <subj type="minor">Audiorecording</subj>
+          <subj type="minor">Conceptual Framework</subj>
+          <subj type="minor">Convenience Sample</subj>
+          <subj type="minor">Data Analysis Software</subj>
+          <subj type="minor">Depression</subj>
+          <subj type="minor">Descriptive Statistics</subj>
+          <subj type="minor">Female</subj>
+          <subj type="minor">Grounded Theory</subj>
+          <subj type="minor">Human</subj>
+          <subj type="minor">Male</subj>
+          <subj type="minor">Multicenter Studies</subj>
+          <subj type="minor">New Zealand</subj>
+          <subj type="minor">Palliative Care</subj>
+          <subj type="minor">Prospective Studies</subj>
+          <subj type="minor">Psychological Tests</subj>
+          <subj type="minor">Qualitative Studies</subj>
+          <subj type="minor">Questionnaires</subj>
+          <subj type="minor">Semi-Structured Interview</subj>
+          <subj type="minor">Thematic Analysis</subj>
+          <subj type="minor">Time Factors</subj>
+          <subj type="minor">Uncertainty</subj>
+          <subj type="age">Aged: 65+ years</subj>
+          <subj type="age">Aged, 80 &amp; over</subj>
+          <subj type="gender">Female</subj>
+          <subj type="gender">Male</subj>
+        </sug>
+        <ab>This paper explores the experiences of older people living with heart failure and their transitions from independence to dependence and for some death. New Zealand's ageing population is predicted to increase from 12% in 2001 to 25% by the year 2051, similar to the worldwide trend of ageing. A high proportion of these people will have one or more chronic illnesses. Associated with the increase in survival is a growing body of research examining the needs of the older person with heart failure and finding particular problems with end of life care. Older people face many challenges in living with their heart failure, in particular the transition to dependence. To study the transition a longitudinal qualitative study using General Inductive approach was used. Participants were interviewed every 3 months for a 12-month period during 2006-2008. A total of 79 interviews with 25 people were completed. Our findings showed that transition was not a simple linear process with the older person moving from one phase to another; instead their experiences illustrated the complexity of transitions they faced and what helped them to manage these. The older people in this study illustrated the importance of trust in health professionals and believed they would receive good care. Their fears revealed concerns about being a burden as they deteriorate and becoming more dependent. Understanding the complex issues related to transition to dependence can provide health professionals with a framework for assessment and approaches to providing the support required.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>research</doctype>
+        <doctype>tables/charts</doctype>
+        <doctype>Journal Article</doctype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=ccm&amp;AN=105306456&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="19">
+  <header shortDbName="ccm" longDbName="CINAHL Complete" uiTerm="105028797">
+    <controlInfo>
+      <bkinfo />
+      <dissinfo />
+      <jinfo>
+        <jtl>Nordic Journal of Nursing Research &amp; Clinical Studies / Vård i Norden</jtl>
+        <issn>01074083</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2010" month="03" day="01">2010</dt>
+        <vid>30</vid>
+        <iid>1</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1177/010740831003000103</ui>
+        <ppf>9</ppf>
+        <ppct>5</ppct>
+        <formats>
+          <fmt type="PDF" />
+        </formats>
+        <tig>
+          <atl>The diversity and complexity in health promotion and empowerment related to older hospital patients -- exploring nurses' reflections.</atl>
+        </tig>
+        <aug>
+          <au>Berg GV</au>
+          <au>Sarvimäki A</au>
+          <au>Hedelin B</au>
+          <affil>Assistant Professor, Gjøvik University College, Faculty of Nursing Science, Gjøvik, Norway; gvberg@bbnett.no; geir.berg@hig.no</affil>
+        </aug>
+        <sug>
+          <subj type="major">Empowerment</subj>
+          <subj type="major">Health Promotion</subj>
+          <subj type="major">Inpatients In Old Age</subj>
+          <subj type="major">Nursing Care</subj>
+          <subj type="major">Reflection</subj>
+          <subj type="minor">Aged</subj>
+          <subj type="minor">Audiorecording</subj>
+          <subj type="minor">Content Analysis</subj>
+          <subj type="minor">Descriptive Research</subj>
+          <subj type="minor">Exploratory Research</subj>
+          <subj type="minor">Focus Groups</subj>
+          <subj type="minor">Human</subj>
+          <subj type="minor">Interviews</subj>
+          <subj type="minor">Qualitative Studies</subj>
+          <subj type="age">Aged: 65+ years</subj>
+        </sug>
+        <ab>Background: In the future, health care services will be challenged by an increasing number of older hospital patients. This prompts a need to focus on and implement a health promoting approach in older people's nursing. Aim: The aim of this exploratory study was to illuminate nurses' reflections about health promotion and empowerment related to older hospital patients. Method: The study had a qualitative descriptive design. The concepts of health, health promotion and empowerment were initially introduced to nurses before participating in multistage focus group interviews. Two groups of nurses participated in three focus group interviews that were conducted by a moderator and an assistant. The interviews were tape-recorded, transcribed verbatim and analysed with qualitative content analysis. Findings: The nurses unfolded the theme «diversity and complexity marks health promotion and empowerment related to older hospital patients » as the latent content in the text. Two categories, «empowerment as balance of power - a twofold relation» and «focusing on the individual person», described the manifest content in the texts. The categories were further supported by sub-categories. Conclusion: The focus group interviews showed the ambiguity and complexity in the interpretation of the concepts -- health promotion and empowerment -- related to the older hospital patient. The findings also indicated that multistage focus group interviews may be a useful tool to develop nurses ' reflections about their clinical practice.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>research</doctype>
+        <doctype>tables/charts</doctype>
+        <doctype>Journal Article</doctype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=ccm&amp;AN=105028797&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="20">
+  <header shortDbName="ccm" longDbName="CINAHL Complete" uiTerm="105291963">
+    <controlInfo>
+      <bkinfo />
+      <dissinfo />
+      <jinfo>
+        <jtl>Nursing &amp; Residential Care</jtl>
+        <issn>14659301</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2010" month="01" day="01">Jan2010</dt>
+        <vid>12</vid>
+        <iid>1</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.12968/nrec.2010.12.1.45885</ui>
+        <ppf>18</ppf>
+        <ppct>3</ppct>
+        <formats>
+          <fmt type="PDF" />
+        </formats>
+        <tig>
+          <atl>An overview of urinary incontinence.</atl>
+        </tig>
+        <aug>
+          <au>Foxley S</au>
+          <affil>Consultant Nurse in Continence, King's College Hospital NHS Foundation Trust, London</affil>
+        </aug>
+        <sug>
+          <subj type="major">Professional Role</subj>
+          <subj type="major">Urinary Incontinence Prevention and Control</subj>
+          <subj type="minor">Age Factors</subj>
+          <subj type="minor">Aged</subj>
+          <subj type="minor">Female</subj>
+          <subj type="minor">Male</subj>
+          <subj type="minor">Middle Age</subj>
+          <subj type="minor">Prevalence</subj>
+          <subj type="minor">Urinary Incontinence Classification</subj>
+          <subj type="minor">Urinary Incontinence Psychosocial Factors</subj>
+          <subj type="minor">Urinary Incontinence Risk Factors</subj>
+          <subj type="age">Aged: 65+ years</subj>
+          <subj type="age">Middle Aged: 45-64 years</subj>
+          <subj type="gender">Female</subj>
+          <subj type="gender">Male</subj>
+        </sug>
+        <ab>Incontinence is not life-threatening, but can be life changing. This article considers the implications of such a common and yet unrecognized condition, and provide carers with an overview of this complex topic.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>pictorial</doctype>
+        <doctype>review</doctype>
+        <doctype>tables/charts</doctype>
+        <doctype>Journal Article</doctype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=ccm&amp;AN=105291963&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="21">
+  <header shortDbName="ccm" longDbName="CINAHL Complete" uiTerm="105256246">
+    <controlInfo>
+      <bkinfo />
+      <dissinfo />
+      <jinfo>
+        <jtl>Nursing Older People</jtl>
+        <issn>14720795</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2009" month="12" day="01">Dec2009</dt>
+        <vid>21</vid>
+        <iid>10</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.7748/nop2009.12.21.10.24.c7406</ui>
+        <ui type="pmid">NLM20067076</ui>
+        <ppf>24</ppf>
+        <ppct>5</ppct>
+        <formats />
+        <tig>
+          <atl>The role of the specialist nurse in an acute assessment and liaison service.</atl>
+        </tig>
+        <aug>
+          <au>Harvey P</au>
+          <au>Wilson D</au>
+          <affil>Older People's Specialist Nurse, Department of Clinical Gerontology, King's College Hospital NHS Trust, London</affil>
+        </aug>
+        <sug>
+          <subj type="major">Acute Care In Old Age</subj>
+          <subj type="major">Aged, Hospitalized</subj>
+          <subj type="major">Frail Elderly</subj>
+          <subj type="major">Gerontologic Nursing</subj>
+          <subj type="major">Nurse Liaison</subj>
+          <subj type="major">Nursing Role</subj>
+          <subj type="minor">Aged</subj>
+          <subj type="minor">Clinical Assessment Tools</subj>
+          <subj type="minor">Geriatric Assessment</subj>
+          <subj type="minor">Hospital Programs</subj>
+          <subj type="minor">Inpatients</subj>
+          <subj type="minor">Multidisciplinary Care Team</subj>
+          <subj type="minor">National Health Programs</subj>
+          <subj type="minor">Patient Care Plans</subj>
+          <subj type="minor">Teamwork</subj>
+          <subj type="minor">United Kingdom</subj>
+          <subj type="age">Aged: 65+ years</subj>
+        </sug>
+        <ab>This article explores the work of an acute assessment and liaison service for older people, including the role of the older people's apecialist nurse in the service. The service screens all patients admitted who are over the age of 75 for problems specific to a frail population and to identify where ongoing specialist support referral or advice is indicated. Patients with complex problems undergo a comprehensive geriatric assessment. The service has reduced length of stay and resulted in better care for older people.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>pictorial</doctype>
+        <doctype>tables/charts</doctype>
+        <doctype>Journal Article</doctype>
+      </artinfo>
+      <language>English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=ccm&amp;AN=105256246&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec></records>

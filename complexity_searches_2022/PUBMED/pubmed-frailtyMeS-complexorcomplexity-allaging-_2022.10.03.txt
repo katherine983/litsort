@@ -1,0 +1,4279 @@
+PMID- 34623222
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220111
+LR  - 20220111
+IS  - 1839-3535 (Electronic)
+IS  - 1037-6178 (Linking)
+VI  - 57
+IP  - 3-4
+DP  - 2021 Apr-Jun
+TI  - Linking hospital and residential aged care: a nurse-led vascular-geriatric model 
+      of care.
+PG  - 224-234
+LID - 10.1080/10376178.2021.1991414 [doi]
+AB  - The interplay of frailty, multimorbidity and polypharmacy in the older person 
+      results in complex care needs. Monitoring and proactive management of chronic 
+      diseases in this context can be challenging. Early identification of 
+      deterioration reduces the risk of hospitalisation in older people, particularly 
+      in residential care, where the person can be particularly vulnerable. 
+      Deterioration of a resident often results in an expectation of in-hospital care, 
+      which especially where there are life-limiting conditions, may not align to the 
+      wishes of the person and their family. However, links between tertiary hospital 
+      services with the expertise to upskill and mentor those providing the more 
+      complex care to residents of aged care facilities need to be developed. Current 
+      models of care need to be adapted to incorporate the provision of specialist 
+      nursing within residential facilities to support higher-level care delivered in 
+      the person's familiar environment, improve the person and family experience, and 
+      reduce the costs and potential for iatrogenic problems associated with 
+      hospitalisation. Vascular dysfunction is common in aged care and results in 
+      impaired healing and complex wounds. We developed a Vascular and Geriatric (VaG) 
+      model of care to support specialist care for aged care residents with vascular 
+      dysfunction. The VaG model enhances existing links between hospital and 
+      residential care settings and builds workforce capacity in residential care 
+      facilities by the use of clinical consultation, peer learning and networking to 
+      increase the vascular skill set initially of the hospital outreach nurse and then 
+      modelled to residential care clinicians. This paper reports the development and 
+      implementation of the VaG model as part of the Aged Care Outreach Service.
+FAU - Schasser, Suzy
+AU  - Schasser S
+AD  - Aged Care, Concord Repatriation General Hospital, Concord, Australia.
+FAU - Monaro, Susan
+AU  - Monaro S
+AUID- ORCID: 0000-0002-4172-4932
+AD  - Aged Care, Concord Repatriation General Hospital, Concord, Australia.
+AD  - Faculty of Medicine and Health, Sydney Nursing School, University of Sydney, 
+      Concord, Australia.
+FAU - West, Sandra
+AU  - West S
+AD  - Faculty of Medicine and Health, Sydney Nursing School, University of Sydney, 
+      Concord, Australia.
+LA  - eng
+PT  - Journal Article
+DEP - 20211031
+PL  - United States
+TA  - Contemp Nurse
+JT  - Contemporary nurse
+JID - 9211867
+MH  - Aged
+MH  - *Assisted Living Facilities
+MH  - Hospitalization
+MH  - Hospitals
+MH  - Humans
+MH  - *Nurse's Role
+OTO - NOTNLM
+OT  - Model of care
+OT  - geriatric nursing
+OT  - vascular nursing
+EDAT- 2021/10/09 06:00
+MHDA- 2022/01/12 06:00
+CRDT- 2021/10/08 12:15
+PHST- 2021/10/09 06:00 [pubmed]
+PHST- 2022/01/12 06:00 [medline]
+PHST- 2021/10/08 12:15 [entrez]
+AID - 10.1080/10376178.2021.1991414 [doi]
+PST - ppublish
+SO  - Contemp Nurse. 2021 Apr-Jun;57(3-4):224-234. doi: 10.1080/10376178.2021.1991414. 
+      Epub 2021 Oct 31.
+
+PMID- 34105710
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210610
+LR  - 20210610
+IS  - 2260-1341 (Print)
+IS  - 2260-1341 (Linking)
+VI  - 10
+IP  - 3
+DP  - 2021
+TI  - Impact of Social Frailty on Relocation of Older Adults.
+PG  - 254-258
+LID - 10.14283/jfa.2021.3 [doi]
+AB  - BACKGROUND: The relationship between frailty and variables such as housing are 
+      the least included in models of frailty and research on frailty or social frailty 
+      and relocation is negligible. The decision to relocate is complex and demanding 
+      for older adults with a loss of independence but little is known about what makes 
+      older adults relocate to congregated housing designated for older adults, let 
+      alone in combination with social frailty, and how they navigate this transition. 
+      OBJECTIVES: This mixed method descriptive study aims to understand the influence 
+      of social frailty for a population of French-speaking semi-independent older 
+      adults relocating to a housing continuum community. DESIGN: Semi-structured 
+      individual interviews including sociodemographic data and the PRISMA-7 Frailty 
+      Scale were conducted with recently relocated older adults. SETTING: A newly 
+      opened French-speaking housing continuum community in Eastern Canada that offers 
+      luxury apartments for independent older adults, two assisted living facilities 
+      for semi-independent older adults along with a long-term care facility. 
+      PARTICIPANTS: Twenty-nine older adults with a mean age of 85 years, mostly 
+      female, married or widowed and highly educated. MEASUREMENTS: Content analysis of 
+      the transcribed recorded interviews and descriptive statistical analyses to 
+      examine relationships between the frailty PRISMA-7 scale, answers to additional 
+      questions and the sociodemographic data. RESULTS: There was not a significant 
+      difference in the scores for socialization before and after relocation nor 
+      between prior help and current help; however, there was a significant negative 
+      correlation between help and socialization before and after relocation. Three 
+      main themes included: imposed influences, push and pull factors and post 
+      relocation. CONCLUSIONS: The results indicate that several social factors 
+      contributed to relocation and that participants were experiencing social frailty. 
+      Participants were at the crossover point of being vulnerable to experiencing 
+      additional deficits which would potentially have led to higher frailty had they 
+      not relocated.
+FAU - Dupuis-Blanchard, S
+AU  - Dupuis-Blanchard S
+AD  - Suzanne Dupuis-Blanchard, School of Nursing, Université de Moncton, 18 Antonine 
+      Maillet Ave., Moncton, NB E1A 3E9, Canada, Email : 
+      suzanne.dupuis-blanchard@umoncton.ca, Telephone : (506)858-4673, Fax : 
+      (506)858-4017.
+FAU - Bigonnesse, C
+AU  - Bigonnesse C
+FAU - Andrew, M K
+AU  - Andrew MK
+FAU - Gould, O
+AU  - Gould O
+FAU - Maillet, D
+AU  - Maillet D
+LA  - eng
+PT  - Journal Article
+PL  - France
+TA  - J Frailty Aging
+JT  - The Journal of frailty & aging
+JID - 101604797
+SB  - IM
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - *Assisted Living Facilities
+MH  - Canada
+MH  - Female
+MH  - *Frailty
+MH  - Humans
+MH  - Independent Living
+MH  - Male
+MH  - Nursing Homes
+OTO - NOTNLM
+OT  - Social frailty
+OT  - community
+OT  - official language minority
+OT  - relocation
+OT  - social support
+COIS- No conflict of interest.
+EDAT- 2021/06/10 06:00
+MHDA- 2021/06/11 06:00
+CRDT- 2021/06/09 08:50
+PHST- 2021/06/09 08:50 [entrez]
+PHST- 2021/06/10 06:00 [pubmed]
+PHST- 2021/06/11 06:00 [medline]
+AID - 10.14283/jfa.2021.3 [doi]
+PST - ppublish
+SO  - J Frailty Aging. 2021;10(3):254-258. doi: 10.14283/jfa.2021.3.
+
+PMID- 33230017
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210521
+LR  - 20210604
+IS  - 2689-8381 (Electronic)
+IS  - 2689-8381 (Linking)
+VI  - 19
+IP  - 2
+DP  - 2021 Feb
+TI  - Recognizing and responding to deterioration in care homes: a scoping review 
+      protocol.
+PG  - 447-453
+LID - 10.11124/JBISRIR-D-19-00413 [doi]
+AB  - OBJECTIVE: To identify the available published primary research and any relevant 
+      policies, guidelines, or protocols regarding how care home staff recognize and 
+      respond to an acutely deteriorating resident. INTRODUCTION: Older people living 
+      in care homes have complex health care needs. Chronic illnesses, comorbidities, 
+      frailty, cognitive impairment, and physical dependency can contribute to 
+      unpredictable changes in their health status that can lead to residents becoming 
+      unwell and acutely deteriorating. Exploring how care home staff recognize and 
+      respond to acutely deteriorating health among residents is important to 
+      understand whether opportunities exist to minimize these unpredictable changes in 
+      health. INCLUSION CRITERIA: This scoping review will consider studies that 
+      feature the recognition and response to acute deterioration in care home 
+      residents. This review will consider qualitative and quantitative primary 
+      research. Non-indexed and gray literature such as policies, deterioration tools, 
+      and reports from health policy organizations will also be included. METHODS: The 
+      searches will be conducted using bibliographic databases, university 
+      repositories, and non-indexed and gray literature, such as reports by health care 
+      and health policy organizations. The studies will be independently selected from 
+      the inclusion criteria by two researchers based on their title and abstract. In 
+      case of disagreement, a third researcher will be consulted. An adapted version of 
+      the JBI data extraction form will be used to extrapolate data from included 
+      studies. The results will be presented in tabular form, accompanied by a 
+      narrative summary related to the objectives of the scoping review.
+CI  - Copyright © 2021 JBI.
+FAU - Hodge, Sevim Y
+AU  - Hodge SY
+AD  - Division of Rehabilitation, Ageing and Well Being, University of Nottingham, 
+      Nottingham, UK.
+AD  - Institute of Nursing and Midwifery Care Excellence, Nottingham University 
+      Hospital NHS Trust, Nottingham, UK.
+FAU - Ali, Mohammad R
+AU  - Ali MR
+AD  - Nottingham Respiratory Research Unit, Nottingham University Hospital NHS Trust, 
+      Nottingham, UK.
+FAU - Gordon, Adam L
+AU  - Gordon AL
+AD  - Division of Medical Sciences and Graduate Entry Medicine, University of 
+      Nottingham, Nottingham, UK.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - JBI Evid Synth
+JT  - JBI evidence synthesis
+JID - 101764819
+SB  - IM
+MH  - Aged
+MH  - *Delivery of Health Care
+MH  - *Frailty
+MH  - Humans
+MH  - Review Literature as Topic
+COIS- The authors declare no conflict of interest.
+EDAT- 2020/11/25 06:00
+MHDA- 2021/05/22 06:00
+CRDT- 2020/11/24 05:58
+PHST- 2020/11/25 06:00 [pubmed]
+PHST- 2021/05/22 06:00 [medline]
+PHST- 2020/11/24 05:58 [entrez]
+AID - 02174543-202102000-00010 [pii]
+AID - 10.11124/JBISRIR-D-19-00413 [doi]
+PST - ppublish
+SO  - JBI Evid Synth. 2021 Feb;19(2):447-453. doi: 10.11124/JBISRIR-D-19-00413.
+
+PMID- 34986459
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220311
+LR  - 20220311
+IS  - 1872-6976 (Electronic)
+IS  - 0167-4943 (Linking)
+VI  - 99
+DP  - 2022 Mar-Apr
+TI  - Frailty assessment using routine clinical data: An integrative review.
+PG  - 104612
+LID - S0167-4943(21)00275-2 [pii]
+LID - 10.1016/j.archger.2021.104612 [doi]
+AB  - BACKGROUND: Frailty is a common but complex problem in older adults. Frailty 
+      assessment using routine clinical data has been suggested as a pragmatic approach 
+      based on electronic health records from primary care center or hospital settings. 
+      PURPOSE: We aimed to explore the tools and outcome variables used in the 
+      published studies on frailty assessment using routine clinical data. METHODS: An 
+      integrative literature review was conducted using the method of Whittemore and 
+      Knafl. A literature search was conducted in PubMed, EMBASE, and CINAHL from 
+      January 2010 to October 2021. RESULTS: A total of 45 studies and thirteen frailty 
+      assessment tools were analyzed. The assessment items were generally biased toward 
+      frailty's risk factors rather than the mechanisms or phenotypes of frailty. 
+      Similar to using conventional tools, routine clinical data-based frailty was 
+      associated with adverse health outcomes. CONCLUSIONS: Frailty assessment based on 
+      routine clinical data could efficiently evaluate frailty using electronic health 
+      records from primary care centers or hospitals. However, they need refinement to 
+      consider the risk factors, mechanisms, and frailty phenotypes.
+CI  - Copyright © 2021. Published by Elsevier B.V.
+FAU - Lim, Arum
+AU  - Lim A
+AD  - Department of Nursing, Graduate school of Yonsei University, Seoul, 03722, South 
+      Korea.
+FAU - Choi, JiYeon
+AU  - Choi J
+AD  - College of Nursing, Mo-Im Kim Nursing Research Institute, Yonsei University, 
+      Seoul, 03722, South Korea. Electronic address: JYCHOI610@yuhs.ac.
+FAU - Ji, Hyunju
+AU  - Ji H
+AD  - Department of Nursing, Graduate school of Yonsei University, Seoul, 03722, South 
+      Korea; Severance Hospital, Seoul, 03722, South Korea.
+FAU - Lee, Hyangkyu
+AU  - Lee H
+AD  - College of Nursing, Mo-Im Kim Nursing Research Institute, Yonsei University, 
+      Seoul, 03722, South Korea. Electronic address: hkyulee@yuhs.ac.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20211220
+PL  - Netherlands
+TA  - Arch Gerontol Geriatr
+JT  - Archives of gerontology and geriatrics
+JID - 8214379
+SB  - IM
+MH  - Aged
+MH  - Frail Elderly
+MH  - *Frailty/diagnosis
+MH  - Geriatric Assessment/methods
+MH  - Humans
+MH  - Risk Factors
+OTO - NOTNLM
+OT  - Electronic health record
+OT  - Frailty
+OT  - Frailty assessment tools
+OT  - Health outcomes
+OT  - Integrative review
+EDAT- 2022/01/06 06:00
+MHDA- 2022/03/12 06:00
+CRDT- 2022/01/05 20:10
+PHST- 2021/09/30 00:00 [received]
+PHST- 2021/12/08 00:00 [revised]
+PHST- 2021/12/15 00:00 [accepted]
+PHST- 2022/01/06 06:00 [pubmed]
+PHST- 2022/03/12 06:00 [medline]
+PHST- 2022/01/05 20:10 [entrez]
+AID - S0167-4943(21)00275-2 [pii]
+AID - 10.1016/j.archger.2021.104612 [doi]
+PST - ppublish
+SO  - Arch Gerontol Geriatr. 2022 Mar-Apr;99:104612. doi: 
+      10.1016/j.archger.2021.104612. Epub 2021 Dec 20.
+
+PMID- 35329148
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220418
+LR  - 20220418
+IS  - 1660-4601 (Electronic)
+IS  - 1661-7827 (Print)
+IS  - 1660-4601 (Linking)
+VI  - 19
+IP  - 6
+DP  - 2022 Mar 15
+TI  - Relationship between Multimorbidity and Disability in Elderly Patients with 
+      Coexisting Frailty Syndrome.
+LID - 10.3390/ijerph19063461 [doi]
+LID - 3461
+AB  - BACKGROUND: Multimorbidity is a common problem worldwide. It carries the risk of 
+      reduced quality of life, disability, frequent hospitalizations, and death. The 
+      present study was designed to assess the relationships that exist between 
+      multimorbidity and disability in elderly patients. METHODS: The study included 
+      100 patients and was conducted between October 2020 and January 2021. Inclusion 
+      criteria included age &gt;65 years, presence of a minimum of two comorbidities in 
+      the subject, and consent to participate in the study. Standardized survey 
+      instruments such as Tilburg Frailty Indicator (TFI), Charlson Comorbidities Index 
+      (CCI), Assessment of Basic Activities of Daily Living-Katz Scale (ADL), and 
+      Assessment of Complex Activities of Daily Living-Lawton Scale (IADL) were used in 
+      the study. RESULTS: The majority of the subjects (92) had a frailty syndrome 
+      (TFI). A small group of respondents (8%) suffered from severe comorbidities 
+      (CCI). Among the subjects surveyed, 71% maintained full function in performing 
+      simple activities of daily living (ADL), while 29% demonstrated moderate 
+      disability on the scale. Full independence in performing complex activities of 
+      daily living (IADL) was present in 33% of the respondents, and 67% were partially 
+      independent. Independence in complex activities of daily living (IADL) was 
+      significantly higher in patients with fewer comorbidities. The severity of 
+      comorbidities (CCI) had a significant effect on the decrease in the level of 
+      independence (ADL and IADL). Independence in performing complex activities (IADL) 
+      was worse among older patients. CONCLUSIONS: An increase in the number of 
+      comorbidities contributes to a decrease in the level of performance of complex 
+      activities of daily living. The severity of comorbidities significantly reduces 
+      the level of independence of the subjects in simple and complex activities of 
+      daily living. In patients with a higher level of independence in performing 
+      simple and complex activities, the co-occurrence of frailty syndrome was less 
+      severe. As the age of the subjects increases, the frequency in which they show 
+      moderate dependence on third parties in performing complex activities of daily 
+      living increases.
+FAU - Jędrzejczyk, Maria
+AU  - Jędrzejczyk M
+AUID- ORCID: 0000-0002-7208-3509
+AD  - Department of Nursing and Obstetrics, Faculty of Health Sciences, Wroclaw Medical 
+      University, 51-618 Wrocław, Poland.
+FAU - Foryś, Weronika
+AU  - Foryś W
+AD  - Harvard Division of Continuing Education, Harvard University, Cambridge, MA 
+      02138-3722, USA.
+FAU - Czapla, Michał
+AU  - Czapla M
+AUID- ORCID: 0000-0002-4245-5420
+AD  - Laboratory for Experimental Medicine and Innovative Technologies, Department of 
+      Emergency Medical Service, Wroclaw Medical University, 51-616 Wroclaw, Poland.
+AD  - Institute of Heart Diseases, University Hospital, 50-566 Wroclaw, Poland.
+AD  - Faculty of Nursing, Group in Research in Care (GRUPAC), University of La Rioja, 
+      26006 Logroño, Spain.
+FAU - Uchmanowicz, Izabella
+AU  - Uchmanowicz I
+AD  - Department of Nursing and Obstetrics, Faculty of Health Sciences, Wroclaw Medical 
+      University, 51-618 Wrocław, Poland.
+AD  - Institute of Heart Diseases, University Hospital, 50-566 Wroclaw, Poland.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20220315
+TA  - Int J Environ Res Public Health
+JT  - International journal of environmental research and public health
+JID - 101238455
+SB  - IM
+MH  - Activities of Daily Living
+MH  - Aged
+MH  - Frail Elderly
+MH  - *Frailty/epidemiology
+MH  - Humans
+MH  - Multimorbidity
+MH  - Quality of Life
+PMC - PMC8950513
+OTO - NOTNLM
+OT  - frailty syndrome
+OT  - functional disability
+OT  - multimorbidity
+OT  - old age
+COIS- The authors declare no conflict of interest.
+EDAT- 2022/03/26 06:00
+MHDA- 2022/04/19 06:00
+CRDT- 2022/03/25 01:09
+PHST- 2022/02/05 00:00 [received]
+PHST- 2022/03/04 00:00 [revised]
+PHST- 2022/03/14 00:00 [accepted]
+PHST- 2022/03/25 01:09 [entrez]
+PHST- 2022/03/26 06:00 [pubmed]
+PHST- 2022/04/19 06:00 [medline]
+AID - ijerph19063461 [pii]
+AID - ijerph-19-03461 [pii]
+AID - 10.3390/ijerph19063461 [doi]
+PST - epublish
+SO  - Int J Environ Res Public Health. 2022 Mar 15;19(6):3461. doi: 
+      10.3390/ijerph19063461.
+
+PMID- 34247595
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210713
+LR  - 20210715
+IS  - 1472-6963 (Electronic)
+IS  - 1472-6963 (Linking)
+VI  - 21
+IP  - 1
+DP  - 2021 Jul 11
+TI  - Relatives' experiences with abuse and neglect in Norwegian nursing homes. A 
+      qualitative study.
+PG  - 684
+LID - 10.1186/s12913-021-06713-9 [doi]
+LID - 684
+AB  - BACKGROUND: Elder abuse in nursing homes (NH) is a widespread and complex 
+      problem. Residents' ability to share their experiences are impeded, due to a high 
+      degree of cognitive problems and frailty, and previous studies are thus mainly 
+      based on reports from staff. Therefore, we aimed to give voice to the residents 
+      by investigating their relatives' experiences with elder abuse in NH. METHODS: 
+      Qualitative individual interviews were conducted with 16 relatives of residents 
+      with experience of abuse and/or neglect in NH. Content analysis was used to 
+      analyse the data. RESULTS: Relatives perceived neglect as most pervasive and 
+      staff-to-resident psychological abuse as a key problem. Physical abuse was mostly 
+      related to resident-to-resident aggression. Relatives perceived elder abuse in NH 
+      to be related to low competence among staff, low staffing, poor NH leadership, 
+      working cultures characterized by fear and loyalty to employer or co-workers, and 
+      a lack of individualized care for the residents. Furthermore, relatives 
+      themselves experienced maltreatment from NH, which caused them to suffer stress, 
+      anxiety and distrust. Relatives also expressed a need to compensate for lack of 
+      care. CONCLUSIONS: Relatives of NH residents who had experienced abuse reported 
+      that neglect of basic care and individual rights was predominant and viewed 
+      organizational explanations as most important. Relatives perceive themselves as 
+      collaborators in care and are emotionally attached to their family member. 
+      Therefore, if relatives experience resident abuse or neglect, it inflicts a 
+      feeling of being mistreated themselves, particularly if they are not listened to 
+      or their notice of abuse on the part of the resident is ignored or trivialized. 
+      Including relatives in a committed partnership with NH in care practices is not 
+      only a valuable path to reduce the risk of abuse, but it also leads to a more 
+      sustainable healthcare with high standards of quality and safety.
+CI  - © 2021. The Author(s).
+FAU - Saga, Susan
+AU  - Saga S
+AD  - Department of Public Health and Nursing, Faculty of Medicine and Health Sciences 
+      NTNU, Norwegian University of Science and Technology, Trondheim, Norway. 
+      susan.saga@ntnu.no.
+FAU - Blekken, Lene Elisabeth
+AU  - Blekken LE
+AD  - Department of Public Health and Nursing, Faculty of Medicine and Health Sciences 
+      NTNU, Norwegian University of Science and Technology, Trondheim, Norway.
+FAU - Nakrem, Sigrid
+AU  - Nakrem S
+AD  - Department of Public Health and Nursing, Faculty of Medicine and Health Sciences 
+      NTNU, Norwegian University of Science and Technology, Trondheim, Norway.
+FAU - Sandmoe, Astrid
+AU  - Sandmoe A
+AD  - Norwegian Centre for Violence and Traumatic Stress Studies, Oslo, Norway.
+LA  - eng
+PT  - Journal Article
+DEP - 20210711
+TA  - BMC Health Serv Res
+JT  - BMC health services research
+JID - 101088677
+SB  - IM
+MH  - Aged
+MH  - *Elder Abuse
+MH  - Family
+MH  - Humans
+MH  - Norway/epidemiology
+MH  - *Nursing Homes
+MH  - Qualitative Research
+PMC - PMC8272837
+OTO - NOTNLM
+OT  - Elder abuse
+OT  - Interview
+OT  - Long-term care
+OT  - Neglect
+OT  - Next of kin
+OT  - Nursing home
+OT  - Qualitative
+OT  - Relatives
+OT  - Resident-to-resident abuse
+OT  - Staff-to-resident abuse
+COIS- The authors declare that they have no competing interests.
+EDAT- 2021/07/13 06:00
+MHDA- 2021/07/14 06:00
+CRDT- 2021/07/12 05:23
+PHST- 2021/01/26 00:00 [received]
+PHST- 2021/06/29 00:00 [accepted]
+PHST- 2021/07/12 05:23 [entrez]
+PHST- 2021/07/13 06:00 [pubmed]
+PHST- 2021/07/14 06:00 [medline]
+AID - 10.1186/s12913-021-06713-9 [pii]
+AID - 6713 [pii]
+AID - 10.1186/s12913-021-06713-9 [doi]
+PST - epublish
+SO  - BMC Health Serv Res. 2021 Jul 11;21(1):684. doi: 10.1186/s12913-021-06713-9.
+
+PMID- 34285057
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210823
+LR  - 20210823
+IS  - 2291-0026 (Electronic)
+IS  - 2291-0026 (Linking)
+VI  - 9
+IP  - 3
+DP  - 2021 Jul-Sep
+TI  - Association between preoperative frailty and outcomes among adults undergoing 
+      cardiac surgery: a prospective cohort study.
+PG  - E777-E787
+LID - 10.9778/cmajo.20200034 [doi]
+AB  - BACKGROUND: The identification of frailty before complex and invasive procedures 
+      may have relevance for prognostic and recovery purposes, to optimally inform 
+      patients, caregivers and clinicians about perioperative risk and postoperative 
+      care needs. The aim of this study was to estimate the prevalence of frailty and 
+      describe the associated clinical course and outcomes of patients referred for 
+      nonemergent cardiac surgery. METHODS: A prospective cohort of patients aged 50 
+      years and older referred for nonemergent cardiac surgery in Alberta, Canada, from 
+      November 2011 to March 2014 were screened preoperatively for frailty, defined as 
+      a Clinical Frailty Scale (CFS) score of 5 or greater. Postoperatively, patients 
+      were followed by telephone to assess CFS score, health services use and vital 
+      status. The primary outcome was all-cause hospital mortality. Secondary outcomes 
+      included health services use, hospital discharge disposition, 1-year 
+      health-related quality of life and all-cause 5-year mortality. RESULTS: The 
+      cohort (n = 529) had a mean age of 67 (standard deviation [SD] 9) years; 25.9% 
+      were female, and the prevalence of frailty was 9.6% (n = 51; 95% confidence 
+      interval [CI] 7.3%-12.5%). Frail patients were older (median age 75, 
+      interquartile range [IQR] 65-80 v. 67, IQR 60-73, yr; p < 0.001), were more 
+      likely to be female (51.0% v. 23.2%; p < 0.001), had a higher mean EuroSCORE II 
+      (8, SD 3 v. 5, SD 3; p < 0.001) and received combined coronary artery bypass 
+      grafting and valve procedures more frequently (29.4% v. 15.9%; p = 0.02) than 
+      nonfrail patients. Postoperatively, frail patients had a longer median duration 
+      of stay in the cardiovascular intensive care unit (median difference 2.2, 95% CI 
+      1.60-2.79) and hospital (median difference 9.3, 95% CI 8.2-10.3). Hospital 
+      mortality was 9.8% among frail patients and 1.0% among nonfrail patients 
+      (adjusted hazard ratio 3.84, 95% CI 0.90-16.34). INTERPRETATION: Preoperative 
+      frailty was present in 10% of patients and was associated with a higher risk of 
+      morbidity and greater health services use. Preoperative frailty has important 
+      implications for the postoperative clinical course and resource utilization of 
+      patients undergoing cardiac surgery.
+CI  - © 2021 CMA Joule Inc. or its licensors.
+FAU - Montgomery, Carmel
+AU  - Montgomery C
+AD  - Department of Critical Care Medicine (Montgomery, Zibdawi, Bagshaw), Faculty of 
+      Medicine & Dentistry, University of Alberta, Edmonton, Alta.; Department of 
+      Critical Care Medicine (Stelfox), Cumming School of Medicine, and Department of 
+      Community Health Sciences (Stelfox), University of Calgary, Calgary, Alta.; 
+      Faculty of Nursing and School of Public Health (Norris, Bagshaw), University of 
+      Alberta; Strategic Clinical Networks (Norris, Bagshaw), Alberta Health Services; 
+      Division of Geriatric Medicine (Rolfson), Department of Medicine, and Division of 
+      Cardiac Surgery, (Meyer) Department of Surgery, Faculty of Medicine & Dentistry, 
+      University of Alberta, Edmonton, Alta. carmelm@ualberta.ca.
+FAU - Stelfox, Henry
+AU  - Stelfox H
+AD  - Department of Critical Care Medicine (Montgomery, Zibdawi, Bagshaw), Faculty of 
+      Medicine & Dentistry, University of Alberta, Edmonton, Alta.; Department of 
+      Critical Care Medicine (Stelfox), Cumming School of Medicine, and Department of 
+      Community Health Sciences (Stelfox), University of Calgary, Calgary, Alta.; 
+      Faculty of Nursing and School of Public Health (Norris, Bagshaw), University of 
+      Alberta; Strategic Clinical Networks (Norris, Bagshaw), Alberta Health Services; 
+      Division of Geriatric Medicine (Rolfson), Department of Medicine, and Division of 
+      Cardiac Surgery, (Meyer) Department of Surgery, Faculty of Medicine & Dentistry, 
+      University of Alberta, Edmonton, Alta.
+FAU - Norris, Colleen
+AU  - Norris C
+AD  - Department of Critical Care Medicine (Montgomery, Zibdawi, Bagshaw), Faculty of 
+      Medicine & Dentistry, University of Alberta, Edmonton, Alta.; Department of 
+      Critical Care Medicine (Stelfox), Cumming School of Medicine, and Department of 
+      Community Health Sciences (Stelfox), University of Calgary, Calgary, Alta.; 
+      Faculty of Nursing and School of Public Health (Norris, Bagshaw), University of 
+      Alberta; Strategic Clinical Networks (Norris, Bagshaw), Alberta Health Services; 
+      Division of Geriatric Medicine (Rolfson), Department of Medicine, and Division of 
+      Cardiac Surgery, (Meyer) Department of Surgery, Faculty of Medicine & Dentistry, 
+      University of Alberta, Edmonton, Alta.
+FAU - Rolfson, Darryl
+AU  - Rolfson D
+AD  - Department of Critical Care Medicine (Montgomery, Zibdawi, Bagshaw), Faculty of 
+      Medicine & Dentistry, University of Alberta, Edmonton, Alta.; Department of 
+      Critical Care Medicine (Stelfox), Cumming School of Medicine, and Department of 
+      Community Health Sciences (Stelfox), University of Calgary, Calgary, Alta.; 
+      Faculty of Nursing and School of Public Health (Norris, Bagshaw), University of 
+      Alberta; Strategic Clinical Networks (Norris, Bagshaw), Alberta Health Services; 
+      Division of Geriatric Medicine (Rolfson), Department of Medicine, and Division of 
+      Cardiac Surgery, (Meyer) Department of Surgery, Faculty of Medicine & Dentistry, 
+      University of Alberta, Edmonton, Alta.
+FAU - Meyer, Steven
+AU  - Meyer S
+AD  - Department of Critical Care Medicine (Montgomery, Zibdawi, Bagshaw), Faculty of 
+      Medicine & Dentistry, University of Alberta, Edmonton, Alta.; Department of 
+      Critical Care Medicine (Stelfox), Cumming School of Medicine, and Department of 
+      Community Health Sciences (Stelfox), University of Calgary, Calgary, Alta.; 
+      Faculty of Nursing and School of Public Health (Norris, Bagshaw), University of 
+      Alberta; Strategic Clinical Networks (Norris, Bagshaw), Alberta Health Services; 
+      Division of Geriatric Medicine (Rolfson), Department of Medicine, and Division of 
+      Cardiac Surgery, (Meyer) Department of Surgery, Faculty of Medicine & Dentistry, 
+      University of Alberta, Edmonton, Alta.
+FAU - Zibdawi, Mohamad
+AU  - Zibdawi M
+AD  - Department of Critical Care Medicine (Montgomery, Zibdawi, Bagshaw), Faculty of 
+      Medicine & Dentistry, University of Alberta, Edmonton, Alta.; Department of 
+      Critical Care Medicine (Stelfox), Cumming School of Medicine, and Department of 
+      Community Health Sciences (Stelfox), University of Calgary, Calgary, Alta.; 
+      Faculty of Nursing and School of Public Health (Norris, Bagshaw), University of 
+      Alberta; Strategic Clinical Networks (Norris, Bagshaw), Alberta Health Services; 
+      Division of Geriatric Medicine (Rolfson), Department of Medicine, and Division of 
+      Cardiac Surgery, (Meyer) Department of Surgery, Faculty of Medicine & Dentistry, 
+      University of Alberta, Edmonton, Alta.
+FAU - Bagshaw, Sean
+AU  - Bagshaw S
+AD  - Department of Critical Care Medicine (Montgomery, Zibdawi, Bagshaw), Faculty of 
+      Medicine & Dentistry, University of Alberta, Edmonton, Alta.; Department of 
+      Critical Care Medicine (Stelfox), Cumming School of Medicine, and Department of 
+      Community Health Sciences (Stelfox), University of Calgary, Calgary, Alta.; 
+      Faculty of Nursing and School of Public Health (Norris, Bagshaw), University of 
+      Alberta; Strategic Clinical Networks (Norris, Bagshaw), Alberta Health Services; 
+      Division of Geriatric Medicine (Rolfson), Department of Medicine, and Division of 
+      Cardiac Surgery, (Meyer) Department of Surgery, Faculty of Medicine & Dentistry, 
+      University of Alberta, Edmonton, Alta.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20210720
+TA  - CMAJ Open
+JT  - CMAJ open
+JID - 101620603
+SB  - IM
+MH  - Age Factors
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Alberta/epidemiology
+MH  - *Cardiac Surgical Procedures/adverse effects
+MH  - Elective Surgical Procedures
+MH  - Female
+MH  - Frail Elderly
+MH  - Frailty/diagnosis/*epidemiology
+MH  - Geriatric Assessment
+MH  - Heart Diseases/*epidemiology/etiology/*surgery
+MH  - Hospital Mortality
+MH  - Humans
+MH  - Intensive Care Units
+MH  - Length of Stay
+MH  - Male
+MH  - Middle Aged
+MH  - Patient Outcome Assessment
+MH  - Postoperative Complications/epidemiology/etiology/prevention & control
+MH  - *Preoperative Period
+MH  - Prevalence
+MH  - Prospective Studies
+MH  - Quality of Life
+MH  - Treatment Outcome
+PMC - PMC8313095
+COIS- Competing interests: Sean Bagshaw reports grants and personal fees from Baxter, 
+      and personal fees from CNA Diagnostics and BioPorto, outside the submitted work. 
+      No other competing interests were declared.
+EDAT- 2021/07/22 06:00
+MHDA- 2021/08/24 06:00
+CRDT- 2021/07/21 05:46
+PHST- 2021/07/21 05:46 [entrez]
+PHST- 2021/07/22 06:00 [pubmed]
+PHST- 2021/08/24 06:00 [medline]
+AID - 9/3/E777 [pii]
+AID - cmajo.20200034 [pii]
+AID - 10.9778/cmajo.20200034 [doi]
+PST - epublish
+SO  - CMAJ Open. 2021 Jul 20;9(3):E777-E787. doi: 10.9778/cmajo.20200034. Print 2021 
+      Jul-Sep.
+
+PMID- 33570259
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210527
+LR  - 20220727
+IS  - 1748-3743 (Electronic)
+IS  - 1748-3735 (Print)
+IS  - 1748-3735 (Linking)
+VI  - 16
+IP  - 3
+DP  - 2021 May
+TI  - Integrated care for older adults during the COVID-19 pandemic in Belgium: Lessons 
+      learned the hard way.
+PG  - e12366
+LID - 10.1111/opn.12366 [doi]
+LID - e12366
+AB  - The corona pandemic challenges countries worldwide in many different ways. Due to 
+      its magnitude and impact on global health, this health crisis exposes several 
+      shortcomings in their health systems and emphasizes their shortcomings and 
+      deficiencies. These deficiencies have quickly affected the most frail citizens, 
+      such as older people. The first wave of the COVID19 pandemic in Belgium has 
+      quickly shown that nursing homes were not prepared for these kinds of crises. The 
+      nature, speed and extent gave rise to an accelerated and more extensive 
+      collaboration between various nursing homes and Ghent University Hospital. Before 
+      this crisis, the level of integrated care between nursing homes and hospitals was 
+      mostly limited. But setting up a strong collaboration model and integrated care 
+      between nursing homes and hospitals enables the nursing homes to manage this 
+      specific and complex care in their own environment. IMPLICATIONS FOR PRACTICE: 
+      This case study shows that integrated care is possible and that both the hospital 
+      and the nursing homes benefit from such a system. Investments in people, 
+      resources, training and guidance concerning transitional care and knowledge 
+      exchange between hospitals and nursing homes, are necessary to guarantee a more 
+      efficient and robust approach to (pandemic) crises in nursing homes.
+CI  - © 2021 John Wiley & Sons Ltd.
+FAU - Deschacht, Martha
+AU  - Deschacht M
+AUID- ORCID: 0000-0001-5291-7863
+AD  - Strategic Unit & Nursing Department, Ghent University Hospital, Ghent, Belgium.
+FAU - Malfait, Simon
+AU  - Malfait S
+AUID- ORCID: 0000-0001-7287-6034
+AD  - Strategic Unit & Nursing Department, Ghent University Hospital, Ghent, Belgium.
+FAU - Eeckloo, Kristof
+AU  - Eeckloo K
+AD  - Faculty of Medicine and Health Sciences, Department of Public Health, Ghent 
+      University, Ghent, Belgium.
+AD  - Head of Strategic Policy Cell, Ghent University Hospital, Ghent, Belgium.
+LA  - eng
+PT  - Letter
+DEP - 20210211
+TA  - Int J Older People Nurs
+JT  - International journal of older people nursing
+JID - 101267281
+SB  - IM
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Belgium/epidemiology
+MH  - COVID-19/epidemiology/*nursing
+MH  - *Delivery of Health Care, Integrated
+MH  - Female
+MH  - *Hospitals
+MH  - Humans
+MH  - Male
+MH  - Nursing Homes/*organization & administration
+MH  - Pandemics
+MH  - Pneumonia, Viral/epidemiology/*nursing
+MH  - SARS-CoV-2
+PMC - PMC7995106
+OTO - NOTNLM
+OT  - COVID-19
+OT  - integrated care
+OT  - nursing homes
+OT  - older adults
+COIS- No conflict of interest has been declared by the authors.
+EDAT- 2021/02/12 06:00
+MHDA- 2021/05/28 06:00
+CRDT- 2021/02/11 08:42
+PHST- 2020/10/08 00:00 [revised]
+PHST- 2020/05/21 00:00 [received]
+PHST- 2020/12/22 00:00 [accepted]
+PHST- 2021/02/12 06:00 [pubmed]
+PHST- 2021/05/28 06:00 [medline]
+PHST- 2021/02/11 08:42 [entrez]
+AID - OPN12366 [pii]
+AID - 10.1111/opn.12366 [doi]
+PST - ppublish
+SO  - Int J Older People Nurs. 2021 May;16(3):e12366. doi: 10.1111/opn.12366. Epub 2021 
+      Feb 11.
+
+PMID- 34465368
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210902
+LR  - 20220426
+IS  - 1745-6215 (Electronic)
+IS  - 1745-6215 (Linking)
+VI  - 22
+IP  - 1
+DP  - 2021 Aug 31
+TI  - The impact of frailty Screening of Older adults with muLtidisciplinary assessment 
+      of those At Risk during emergency hospital attendance on the quality, safety and 
+      cost-effectiveness of care (SOLAR): a randomised controlled trial.
+PG  - 581
+LID - 10.1186/s13063-021-05525-w [doi]
+LID - 581
+AB  - BACKGROUND: Older people account for 25% of all Emergency Department (ED) 
+      admissions. This is expected to rise with an ageing demographic. Older people 
+      often present to the ED with complex medical needs in the setting of multiple 
+      comorbidities. Comprehensive Geriatric Assessment (CGA) has been shown to improve 
+      outcomes in an inpatient setting but clear evidence of benefit in the ED setting 
+      has not been established. It is not feasible to offer this resource-intensive 
+      assessment to all older adults in a timely fashion. Screening tools for frailty 
+      have been used to identify those at most risk for adverse outcomes following ED 
+      visit. The overall aim of this study is to examine the impact of CGA on the 
+      quality, safety and cost-effectiveness of care in an undifferentiated population 
+      of frail older people with medical complaints who present to the ED and Acute 
+      Medical Assessment Unit. METHODS: This will be a parallel 1:1 allocation 
+      randomised control trial. All patients who are ≥ 75 years will be screened for 
+      frailty using the Identification of Seniors At Risk (ISAR) tool. Those with a 
+      score of ≥ 2 on the ISAR will be randomised. The treatment arm will undergo 
+      geriatric medicine team-led CGA in the ED or Acute Medical Assessment Unit 
+      whereas the non-treatment arm will undergo usual patient care. A dedicated 
+      multidisciplinary team of a specialist geriatric medicine doctor, senior 
+      physiotherapist, specialist nurse, pharmacist, senior occupational therapist and 
+      senior medical social worker will carry out the assessment, as well as 
+      interventions that arise from that assessment. Primary outcomes will be the 
+      length of stay in the ED or Acute Medical Assessment Unit. Secondary outcomes 
+      will include ED re-attendance, re-hospitalisation, functional decline, quality of 
+      life and mortality at 30 days and 180 days. These will be determined by telephone 
+      consultation and electronic records by a research nurse blinded to group 
+      allocation. ETHICS AND DISSEMINATION: Ethical approval was obtained from the 
+      Health Service Executive (HSE) Mid-Western Regional Hospital Research Ethics 
+      Committee (088/2020). Our lay dissemination strategy will be developed in 
+      collaboration with our Patient and Public Involvement stakeholder panel of older 
+      people at the Ageing Research Centre and we will present our findings in 
+      peer-reviewed journals and national and international conferences. TRIAL 
+      REGISTRATION: ClinicalTrials.gov NCT04629690 . Registered on November 16, 2020.
+CI  - © 2021. The Author(s).
+FAU - Leahy, Aoife
+AU  - Leahy A
+AUID- ORCID: 0000-0003-2123-1513
+AD  - School of Allied Health, Faculty of Education and Health Sciences, Ageing 
+      Research Centre, Health Research Institute, University of Limerick, Limerick, 
+      Ireland. aoife.leahy@ul.ie.
+AD  - Department of Ageing and Therapeutics, University Hospital Limerick, Limerick, 
+      Ireland. aoife.leahy@ul.ie.
+FAU - McNamara, Rachel
+AU  - McNamara R
+AD  - Department of Ageing and Therapeutics, University Hospital Limerick, Limerick, 
+      Ireland.
+FAU - Reddin, Catriona
+AU  - Reddin C
+AD  - Department of Ageing and Therapeutics, University Hospital Limerick, Limerick, 
+      Ireland.
+FAU - Corey, Gillian
+AU  - Corey G
+AD  - School of Allied Health, Faculty of Education and Health Sciences, Ageing 
+      Research Centre, Health Research Institute, University of Limerick, Limerick, 
+      Ireland.
+FAU - Carroll, Ida
+AU  - Carroll I
+AD  - Department of Ageing and Therapeutics, University Hospital Limerick, Limerick, 
+      Ireland.
+CN  - SOLAR team
+FAU - O'Neill, Aoife
+AU  - O'Neill A
+AD  - School of Allied Health, Faculty of Education and Health Sciences, Ageing 
+      Research Centre, Health Research Institute, University of Limerick, Limerick, 
+      Ireland.
+FAU - Flannery, Darragh
+AU  - Flannery D
+AD  - Department of Economics, Kemmy Business School, University of Limerick, Limerick, 
+      Ireland.
+FAU - Devlin, Collette
+AU  - Devlin C
+AD  - School of Allied Health, Faculty of Education and Health Sciences, Ageing 
+      Research Centre, Health Research Institute, University of Limerick, Limerick, 
+      Ireland.
+FAU - Barry, Louise
+AU  - Barry L
+AD  - School of Allied Health, Faculty of Education and Health Sciences, Ageing 
+      Research Centre, Health Research Institute, University of Limerick, Limerick, 
+      Ireland.
+AD  - School of Nursing and Midwifery, Faculty of Education and Health Sciences, 
+      University of Limerick, Limerick, Ireland.
+FAU - MacCarthy, Brian
+AU  - MacCarthy B
+AD  - Department of Emergency Medicine, University Hospital Limerick, Limerick, 
+      Ireland.
+FAU - Cummins, Niamh
+AU  - Cummins N
+AD  - School of Allied Health, Faculty of Education and Health Sciences, Ageing 
+      Research Centre, Health Research Institute, University of Limerick, Limerick, 
+      Ireland.
+FAU - Shanahan, Elaine
+AU  - Shanahan E
+AD  - Department of Ageing and Therapeutics, University Hospital Limerick, Limerick, 
+      Ireland.
+FAU - Shchetkovsky, Denys
+AU  - Shchetkovsky D
+AD  - Department of Emergency Medicine, University Hospital Limerick, Limerick, 
+      Ireland.
+FAU - Ryan, Damien
+AU  - Ryan D
+AD  - Department of Emergency Medicine, University Hospital Limerick, Limerick, 
+      Ireland.
+FAU - O'Connor, Margaret
+AU  - O'Connor M
+AD  - Department of Ageing and Therapeutics, University Hospital Limerick, Limerick, 
+      Ireland.
+FAU - Galvin, Rose
+AU  - Galvin R
+AD  - School of Allied Health, Faculty of Education and Health Sciences, Ageing 
+      Research Centre, Health Research Institute, University of Limerick, Limerick, 
+      Ireland.
+LA  - eng
+SI  - ClinicalTrials.gov/NCT04629690
+GR  - ILP-HSR-2017-014/HRBI_/Health Research Board/Ireland
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+DEP - 20210831
+TA  - Trials
+JT  - Trials
+JID - 101263253
+SB  - IM
+MH  - Aged
+MH  - Cost-Benefit Analysis
+MH  - Emergency Service, Hospital
+MH  - *Frailty/diagnosis/therapy
+MH  - Geriatric Assessment
+MH  - Hospitals
+MH  - Humans
+MH  - Quality of Life
+MH  - Referral and Consultation
+MH  - Telephone
+PMC - PMC8406381
+OTO - NOTNLM
+OT  - Comprehensive geriatric assessment
+OT  - Emergency department
+OT  - Frailty
+OT  - ISAR
+OT  - Older People
+COIS- The authors declare that they do not have any competing interests.
+EDAT- 2021/09/02 06:00
+MHDA- 2021/09/03 06:00
+CRDT- 2021/09/01 05:47
+PHST- 2021/05/04 00:00 [received]
+PHST- 2021/08/09 00:00 [accepted]
+PHST- 2021/09/01 05:47 [entrez]
+PHST- 2021/09/02 06:00 [pubmed]
+PHST- 2021/09/03 06:00 [medline]
+AID - 10.1186/s13063-021-05525-w [pii]
+AID - 5525 [pii]
+AID - 10.1186/s13063-021-05525-w [doi]
+PST - epublish
+SO  - Trials. 2021 Aug 31;22(1):581. doi: 10.1186/s13063-021-05525-w.
+
+PMID- 34102371
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210728
+LR  - 20210728
+IS  - 1873-491X (Electronic)
+IS  - 0020-7489 (Linking)
+VI  - 120
+DP  - 2021 Aug
+TI  - Can an individualized adherence education program delivered by nurses improve 
+      therapeutic adherence in elderly people with acute myocardial infarction?: A 
+      randomized controlled study.
+PG  - 103975
+LID - S0020-7489(21)00120-6 [pii]
+LID - 10.1016/j.ijnurstu.2021.103975 [doi]
+AB  - BACKGROUND: The ageing of the population is leading to an increase in the number 
+      of elderly patients with acute myocardial infarction. These patients are at 
+      higher risk for complications and poor medication adherence, which in turn are 
+      associated with higher healthcare resource expenditures. Nursing programmes might 
+      help to improve adherence in these complex patients. OBJECTIVE: The objective of 
+      this study was to assess the impact of a nursing intervention on therapeutic 
+      adherence in elderly patients after myocardial infarction compared to a control 
+      group. DESIGN: A single-blind, randomized controlled trial. SETTINGS: Heart 
+      disease institute of a tertiary care hospital. PARTICIPANTS: Patients aged ≥75 
+      years with myocardial infarction undergoing percutaneous coronary intervention. 
+      METHODS: A comprehensive geriatric assessment was performed during the admission 
+      in all patients (N=143). Patients were randomly allocated to a nursing 
+      intervention group (n=68) or a usual care group (n=75). In patients from the 
+      intervention group, a nursing intervention programme was performed 3 months after 
+      admission based on education support and patient monitoring to improve 
+      therapeutic adherence. The main outcome measured was 12-months therapeutic 
+      adherence, as defined by a combination of measurement tools (Morisky-Green and 
+      Hayness-Sacket scales, attendance at visits and withdrawal of medication from the 
+      pharmacy). Therapeutic adherence was assessed by nurses blinded to the assignment 
+      group. RESULTS: The mean age was 82.2 years. The proportion of comorbidities was 
+      significant (diabetes mellitus 51/143 (35.7%), hypertension 110/143 (76.9%), 
+      prior stroke 22/143 (15.4%)). Likewise, the proportion of geriatric syndromes was 
+      noticeable (frailty 26/143 (18.2%), risk of malnutrition 38/143 (26.6%), 
+      cognitive impairment 28/143 (19.6%)). Most patients (92.3%) had a low educational 
+      level. A total of 119 patients achieved 12-month assessment adherence. Among 
+      these patients, the proportions of adherence were as follows: Morisky-Green test: 
+      76/119 (63.9%), Haynes-Sackett test 99/119 (83.2%), medical visits compliance 
+      95/119 (79.8%), and correct acquisition of drugs in the pharmacy 74/119 (62.2%). 
+      A total of 42/119 patients (35.3%) were adherent as defined by the combination of 
+      the 4 measures. Therapeutic adherence at 12 months was achieved in a 
+      significantly higher proportion of patients from the nursing intervention group 
+      (51.9% vs 21.5%, p<0.001). CONCLUSION: A significant proportion of elderly 
+      patients with myocardial infarction were non-adherent at 12 months. The 
+      proportion of adherent patients was highly variable according to the different 
+      tools used. A structured nursing intervention was independently associated with a 
+      higher adherence rate, as assessed by a multidimensional measurement, in this 
+      subset of complex high-risk elderly patients with myocardial infarction. TRIAL 
+      REGISTRATION: Registered with www.clinicaltrials.gov (NCT04662762).
+CI  - Copyright © 2021 Elsevier Ltd. All rights reserved.
+FAU - Calvo, Elena
+AU  - Calvo E
+AD  - Department of Heart Disease, Bellvitge University Hospital; University of 
+      Barcelona; Nursing Research Group (GRIN-IDIBELL), Barcelona, Spain. Electronic 
+      address: https://twitter.com/@elenacalvo_bcn.
+FAU - Izquierdo, Silvia
+AU  - Izquierdo S
+AD  - Department of Heart Disease, Bellvitge University Hospital, University of 
+      Barcelona, Barcelona, Spain. Electronic address: 
+      s.izquierdo@bellvitgehospital.cat.
+FAU - Castillo, Rocio
+AU  - Castillo R
+AD  - Department of Heart Disease, Bellvitge University Hospital, Barcelona, Spain. 
+      Electronic address: rcastillo@bellvitgehospital.cat.
+FAU - César, Elisabeth
+AU  - César E
+AD  - Department of Heart Disease, Bellvitge University Hospital, Barcelona, Spain. 
+      Electronic address: ecesar@bellvitgehospital.cat.
+FAU - Domene, Gerard
+AU  - Domene G
+AD  - Department of Heart Disease, Bellvitge University Hospital, Barcelona, Spain. 
+      Electronic address: gdomene@bellvitgehospital.cat.
+FAU - Gómez, Ana Belén
+AU  - Gómez AB
+AD  - Department of Heart Disease, Bellvitge University Hospital, Barcelona, Spain. 
+      Electronic address: abgomez@bellvitgehospital.cat.
+FAU - Guerrero, Carmen
+AU  - Guerrero C
+AD  - Department of Heart Disease, Bellvitge University Hospital, IDIBELL, Barcelona, 
+      Spain. Electronic address: c.guerreromorales@bellvitgehospital.cat.
+FAU - Andreu-Periz, Lola
+AU  - Andreu-Periz L
+AD  - University school of nursing, Fundamental care and medical-surgical nursing, 
+      University of Barcelona, Barcelona, Spain. Electronic address: lolaandreu@ub.edu.
+FAU - Gómez-Hospital, Joan Antoni
+AU  - Gómez-Hospital JA
+AD  - Department of Heart Disease, Bellvitge University Hospital, IDIBELL, Barcelona, 
+      Spain. Electronic address: jagomezh@bellvitgehospital.cat.
+FAU - Ariza-Solé, Albert
+AU  - Ariza-Solé A
+AD  - Department of Heart Disease, Bellvitge University Hospital, IDIBELL, Barcelona, 
+      Spain. Electronic address: aariza@bellvitgehospital.cat.
+LA  - eng
+SI  - ClinicalTrials.gov/NCT04662762
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+DEP - 20210510
+PL  - England
+TA  - Int J Nurs Stud
+JT  - International journal of nursing studies
+JID - 0400675
+SB  - IM
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Humans
+MH  - Medication Adherence
+MH  - *Myocardial Infarction/drug therapy
+MH  - *Nurses
+MH  - *Percutaneous Coronary Intervention
+MH  - Single-Blind Method
+OTO - NOTNLM
+OT  - Elderly
+OT  - Intervention
+OT  - Medication adherence
+OT  - Myocardial infarction
+OT  - Nursing
+OT  - Randomised controlled trial
+COIS- Declaration of Competing Interest The authors declare no potential conflict of 
+      interest with respect to their research, authorship, and/or publication of this 
+      article.
+EDAT- 2021/06/09 06:00
+MHDA- 2021/07/29 06:00
+CRDT- 2021/06/08 20:32
+PHST- 2020/12/10 00:00 [received]
+PHST- 2021/04/26 00:00 [revised]
+PHST- 2021/04/29 00:00 [accepted]
+PHST- 2021/06/09 06:00 [pubmed]
+PHST- 2021/07/29 06:00 [medline]
+PHST- 2021/06/08 20:32 [entrez]
+AID - S0020-7489(21)00120-6 [pii]
+AID - 10.1016/j.ijnurstu.2021.103975 [doi]
+PST - ppublish
+SO  - Int J Nurs Stud. 2021 Aug;120:103975. doi: 10.1016/j.ijnurstu.2021.103975. Epub 
+      2021 May 10.
+
+PMID- 33674372
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210519
+LR  - 20220531
+IS  - 2044-6055 (Electronic)
+IS  - 2044-6055 (Linking)
+VI  - 11
+IP  - 3
+DP  - 2021 Mar 5
+TI  - Being Your Best: protocol for a feasibility study of a codesigned approach to 
+      reduce symptoms of frailty in people aged 65 years or more after transition from 
+      hospital.
+PG  - e043223
+LID - 10.1136/bmjopen-2020-043223 [doi]
+LID - e043223
+AB  - INTRODUCTION: The population is ageing, with increasing health and supportive 
+      care needs. For older people, complex chronic health conditions and frailty can 
+      lead to a cascade of repeated hospitalisations and further decline. Existing 
+      solutions are fragmented and not person centred. The proposed Being Your Best 
+      programme integrates care across hospital and community settings to address 
+      symptoms of frailty. METHODS AND ANALYSIS: A multicentre pragmatic mixed methods 
+      study aiming to recruit 80 community-dwelling patients aged ≥65 years recently 
+      discharged from hospital. Being Your Best is a codesigned 6-month programme that 
+      provides referral and linkage with existing services comprising four modules to 
+      prevent or mitigate symptoms of physical, nutritional, cognitive and social 
+      frailty. Feasibility will be assessed in terms of recruitment, acceptability of 
+      the intervention to participants and level of retention in the programme. Changes 
+      in frailty (Modified Reported Edmonton Frail Scale), cognition (Mini-Mental State 
+      Examination), functional ability (Barthel and Lawton), loneliness (University of 
+      California Los Angeles Loneliness Scale-3 items) and nutrition (Malnutrition 
+      Screening Tool) will also be measured at 6 and 12 months. ETHICS AND 
+      DISSEMINATION: The study has received approval from Monash Health Human Research 
+      Ethics Committee (RES-19-0000904L). Results will be disseminated through 
+      peer-reviewed journals, conference and seminar presentations. TRIAL REGISTRATION 
+      NUMBER: ACTRN12620000533998; Pre-results.
+CI  - © Author(s) (or their employer(s)) 2021. Re-use permitted under CC BY-NC. No 
+      commercial re-use. See rights and permissions. Published by BMJ.
+FAU - Lowthian, Judy A
+AU  - Lowthian JA
+AUID- ORCID: 0000-0002-9780-5256
+AD  - Bolton Clarke Research Institute, Bentleigh, Victoria, Australia 
+      jlowthian@boltonclarke.com.au.
+AD  - School of Public Health and Preventive Medicine, Alfred Hospital, Monash 
+      University, Melbourne, Victoria, Australia.
+AD  - Faculty of Health and Behavioural Sciences, The University of Queensland, 
+      Brisbane, Queensland, Australia.
+FAU - Green, Maja
+AU  - Green M
+AUID- ORCID: 0000-0002-7982-2503
+AD  - Bolton Clarke Research Institute, Bentleigh, Victoria, Australia.
+FAU - Meyer, Claudia
+AU  - Meyer C
+AD  - Bolton Clarke Research Institute, Bentleigh, Victoria, Australia.
+AD  - Rehabilitation, Ageing and Independent Living Research Centre, Monash University, 
+      Clayton, Victoria, Australia.
+AD  - Centre for Health Communication and Participation, La Trobe University, Bundoora, 
+      Victoria, Australia.
+FAU - Cyarto, Elizabeth
+AU  - Cyarto E
+AD  - Bolton Clarke Research Institute, Bentleigh, Victoria, Australia.
+AD  - Faculty of Health and Behavioural Sciences, The University of Queensland, 
+      Brisbane, Queensland, Australia.
+AD  - Department of Psychiatry, University of Melbourne, Parkville, Victoria, 
+      Australia.
+FAU - Robinson, Elizabeth
+AU  - Robinson E
+AD  - Bolton Clarke Research Institute, Bentleigh, Victoria, Australia.
+FAU - Mills, Amber
+AU  - Mills A
+AUID- ORCID: 0000-0003-4932-8413
+AD  - Inclusive Communities, Research and Policy Centre, Brotherhood of St Laurence, 
+      Collingwood, Victoria, Australia.
+FAU - Sutherland, Fran
+AU  - Sutherland F
+AD  - Cabrini Health, Malvern, Victoria, Australia.
+FAU - Hutchinson, Alison M
+AU  - Hutchinson AM
+AD  - School of Nursing and Midwifery, Deakin University, Burwood, Victoria, Australia.
+AD  - Centre for Quality and Safety Research, Monash Health-Deakin University 
+      Partnership, Melbourne, Victoria, Australia.
+FAU - Smit, De Villers
+AU  - Smit V
+AD  - School of Public Health and Preventive Medicine, Alfred Hospital, Monash 
+      University, Melbourne, Victoria, Australia.
+AD  - Emergency and Trauma Centre, Alfred Health, Melbourne, Victoria, Australia.
+FAU - Boyd, Leanne
+AU  - Boyd L
+AD  - Learning and Teaching, Nursing and Midwifery, Eastern Health, Box Hill, Victoria, 
+      Australia.
+FAU - Walker, Katie
+AU  - Walker K
+AUID- ORCID: 0000-0002-5313-5852
+AD  - Emergency Medicine, Casey Hospital, Monash Health, Berwick, Victoria, Australia.
+AD  - Health Services, Monash University, Melbourne, Victoria, Australia.
+AD  - Central Clinical School, Alfred Hospital, Monash University, Melbourne, Victoria, 
+      Australia.
+FAU - Newnham, Harvey
+AU  - Newnham H
+AD  - Central Clinical School, Alfred Hospital, Monash University, Melbourne, Victoria, 
+      Australia.
+AD  - Emergency and Acute Medicine, Alfred Health, Melbourne, Victoria, Australia.
+FAU - Rose, Michael
+AU  - Rose M
+AD  - Central Clinical School, Alfred Hospital, Monash University, Melbourne, Victoria, 
+      Australia.
+AD  - Geriatric Medicine, Cabrini Health, Malvern, Victoria, Australia.
+LA  - eng
+SI  - ANZCTR/ACTRN12620000533998
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20210305
+TA  - BMJ Open
+JT  - BMJ open
+JID - 101552874
+SB  - IM
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Feasibility Studies
+MH  - *Frailty/diagnosis
+MH  - Hospitals
+MH  - Humans
+MH  - Independent Living
+MH  - Los Angeles
+PMC - PMC7939014
+OTO - NOTNLM
+OT  - accident & emergency medicine
+OT  - general medicine (see internal medicine)
+OT  - geriatric medicine
+OT  - public health
+COIS- Competing interests: None declared.
+EDAT- 2021/03/07 06:00
+MHDA- 2021/05/20 06:00
+CRDT- 2021/03/06 05:34
+PHST- 2021/03/06 05:34 [entrez]
+PHST- 2021/03/07 06:00 [pubmed]
+PHST- 2021/05/20 06:00 [medline]
+AID - bmjopen-2020-043223 [pii]
+AID - 10.1136/bmjopen-2020-043223 [doi]
+PST - epublish
+SO  - BMJ Open. 2021 Mar 5;11(3):e043223. doi: 10.1136/bmjopen-2020-043223.
+
+PMID- 32346124
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210902
+LR  - 20210902
+IS  - 1476-5527 (Electronic)
+IS  - 0950-9240 (Linking)
+VI  - 35
+IP  - 3
+DP  - 2021 Mar
+TI  - Blood pressure control and complex health conditions in older adults: impact of 
+      recent hypertension management guidelines.
+PG  - 280-289
+LID - 10.1038/s41371-020-0334-4 [doi]
+AB  - The American College of Cardiology and the American Heart Association (ACC/AHA) 
+      2017 guidelines for hypertension management lowered blood pressure (BP) 
+      thresholds to 130/80 mmHg to define hypertension while the European Society of 
+      Cardiology and the European Society of Hypertension (ESC/ESH) 2018 guidelines 
+      retained 140/90 mmHg. Both guidelines recommend adapting management for older 
+      patients with complex health conditions, without however clear indications on how 
+      to adapt. Our aims were to assess the impact of lowering BP thresholds on the 
+      prevalence of elevated BP and BP control, as well as the proportion of 
+      participants with a complex health condition across these BP categories. We used 
+      data from 3210 participants in the Lausanne cohort Lc65+ aged between 67 and 80 
+      years. Hypertension diagnosis and antihypertensive medication use were 
+      self-reported. BP was measured three times at one visit. Some 51% of participants 
+      reported having hypertension and 44% reported taking antihypertensive medication. 
+      Compared with ESC/ESH thresholds, the prevalence of measured elevated BP was 24% 
+      percentage points higher and BP control was 24% percentage points lower using 
+      ACC/AHA thresholds. About one out of two participants with elevated BP and four 
+      out of five participants with uncontrolled BP had a complex health condition, 
+      i.e., frailty, multimorbidity, or polypharmacy. To comply with ACC/AHA 
+      guidelines, considerable effort would be required to reach BP control. This is a 
+      serious challenge because a large share of hypertensive older adults has complex 
+      health conditions, a type of patients for whom there is no strong evidence on how 
+      to manage hypertension.
+FAU - Anker, Daniela
+AU  - Anker D
+AUID- ORCID: 0000-0002-0607-0283
+AD  - Institute of Primary Health Care (BIHAM), University of Bern, Bern, Switzerland. 
+      daniela.anker@biham.unibe.ch.
+AD  - Department of Epidemiology, Biostatistics and Occupational Health, McGill 
+      University, Montreal, Canada. daniela.anker@biham.unibe.ch.
+FAU - Santos-Eggimann, Brigitte
+AU  - Santos-Eggimann B
+AD  - Center for Primary Care and Public Health (Unisanté), University of Lausanne, 
+      Lausanne, Switzerland.
+FAU - Zwahlen, Marcel
+AU  - Zwahlen M
+AUID- ORCID: 0000-0002-6772-6346
+AD  - Institute of Social and Preventive Medicine (ISPM), University of Bern, Bern, 
+      Switzerland.
+FAU - Santschi, Valérie
+AU  - Santschi V
+AD  - La Source, School of Nursing Sciences, HES-SO University of Applied Sciences and 
+      Arts Western Switzerland, Lausanne, Switzerland.
+FAU - Rodondi, Nicolas
+AU  - Rodondi N
+AD  - Institute of Primary Health Care (BIHAM), University of Bern, Bern, Switzerland.
+AD  - Department of General Internal Medicine, Inselspital, Bern University Hospital, 
+      University of Bern, Bern, Switzerland.
+FAU - Wolfson, Christina
+AU  - Wolfson C
+AD  - Department of Epidemiology, Biostatistics and Occupational Health, McGill 
+      University, Montreal, Canada.
+FAU - Chiolero, Arnaud
+AU  - Chiolero A
+AD  - Institute of Primary Health Care (BIHAM), University of Bern, Bern, Switzerland.
+AD  - Department of Epidemiology, Biostatistics and Occupational Health, McGill 
+      University, Montreal, Canada.
+AD  - Population Health Laboratory (#PopHealthLab), University of Fribourg, Fribourg, 
+      Switzerland.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20200428
+PL  - England
+TA  - J Hum Hypertens
+JT  - Journal of human hypertension
+JID - 8811625
+RN  - 0 (Antihypertensive Agents)
+SB  - IM
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - American Heart Association
+MH  - Antihypertensive Agents/pharmacology/therapeutic use
+MH  - Blood Pressure
+MH  - Blood Pressure Determination
+MH  - Humans
+MH  - *Hypertension/diagnosis/drug therapy/epidemiology
+MH  - United States/epidemiology
+EDAT- 2020/04/30 06:00
+MHDA- 2021/09/03 06:00
+CRDT- 2020/04/30 06:00
+PHST- 2019/12/11 00:00 [received]
+PHST- 2020/03/25 00:00 [accepted]
+PHST- 2020/03/24 00:00 [revised]
+PHST- 2020/04/30 06:00 [pubmed]
+PHST- 2021/09/03 06:00 [medline]
+PHST- 2020/04/30 06:00 [entrez]
+AID - 10.1038/s41371-020-0334-4 [pii]
+AID - 10.1038/s41371-020-0334-4 [doi]
+PST - ppublish
+SO  - J Hum Hypertens. 2021 Mar;35(3):280-289. doi: 10.1038/s41371-020-0334-4. Epub 
+      2020 Apr 28.
+
+PMID- 34649518
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211027
+LR  - 20211027
+IS  - 1471-2318 (Electronic)
+IS  - 1471-2318 (Linking)
+VI  - 21
+IP  - 1
+DP  - 2021 Oct 14
+TI  - Factors affecting missed nursing care in hospitalized frail older adults in the 
+      medical wards: a qualitative study.
+PG  - 555
+LID - 10.1186/s12877-021-02524-z [doi]
+LID - 555
+AB  - BACKGROUND: Frail older adults who are hospitalized, are more likely to 
+      experience missed nursing care (MNC) due to high care needs, communication 
+      problems, and complexity of nursing care. We conducted a qualitative study to 
+      examine the factors affecting MNC among hospitalized frail older adults in the 
+      medical units. METHODS: This qualitative study was carried using the conventional 
+      content analysis approach in three teaching hospitals. Semi-structured interviews 
+      were conducted with 17 nurses through purposive and snowball sampling. The 
+      inclusion criteria for the nurses were: at least two years of clinical work 
+      experience on a medical ward, caring for frail older people in hospital and 
+      willingness to participate. Data were analyzed in accordance with the process 
+      described by Graneheim and Lundman. In addition, trustworthiness of the study was 
+      assessed using the criteria proposed by Lincoln and Guba. RESULTS: In general, 20 
+      interviews were conducted with nurses. A total of 1320 primary codes were 
+      extracted, which were classified into two main categories: MNC aggravating and 
+      moderating factors. Factors such as "age-unfriendly structure," "inefficient 
+      care," and "frailty of older adults" could increase the risk of MNC. In addition, 
+      factors such as "support capabilities" and "ethical and legal requirements" will 
+      moderate MNC. CONCLUSIONS: Hospitalized frail older adults are more at risk of 
+      MNC due to high care needs, communication problems, and nursing care complexity. 
+      Nursing managers can take practical steps to improve the quality of care by 
+      addressing the aggravating and moderating factors of MNC. In addition, nurses 
+      with a humanistic perspective who understand the multidimensional problems of 
+      frail older adults and pay attention to their weakness in expressing needs, can 
+      create a better experience for them in the hospital and improve patient safety.
+CI  - © 2021. The Author(s).
+FAU - Rezaei-Shahsavarloo, Zahra
+AU  - Rezaei-Shahsavarloo Z
+AD  - Student Research Committee, School of Nursing and Midwifery, Shahid Beheshti 
+      University of Medical Sciences, Tehran, Iran.
+FAU - Atashzadeh-Shoorideh, Foroozan
+AU  - Atashzadeh-Shoorideh F
+AD  - Department of Psychiatric Nursing & Management, School of Nursing and Midwifery, 
+      Shahid Labbafinezhad Hospital, Shahid Beheshti University of Medical Sciences, 
+      Tehran, Iran. f_atashzadeh@sbmu.ac.ir.
+FAU - Ebadi, Abbas
+AU  - Ebadi A
+AD  - Behavioral Sciences Research Center, Life Style Institute, Baqiyatallah 
+      University of Medical Sciences, Tehran, IR, Iran.
+AD  - Nursing Faculty, Baqiyatallah University of Medical Sciences, Tehran, IR, Iran.
+FAU - Gobbens, Robbert J J
+AU  - Gobbens RJJ
+AD  - Faculty of Health, Sports and Social Work, Inholland University of Applied 
+      Sciences, Amsterdam, the Netherlands.
+AD  - Zonnehuisgroep Amstelland, Amstelveen, The Netherlands.
+AD  - Department of Family Medicine and Population Health, Faculty of Medicine and 
+      Health Sciences, University of Antwerp, Antwerp, Belgium.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20211014
+TA  - BMC Geriatr
+JT  - BMC geriatrics
+JID - 100968548
+SB  - IM
+MH  - Aged
+MH  - *Frail Elderly
+MH  - *Frailty
+MH  - Hospitals
+MH  - Humans
+MH  - Patient Safety
+MH  - Qualitative Research
+PMC - PMC8515677
+OTO - NOTNLM
+OT  - Frail Older Adults
+OT  - Frailty
+OT  - Hospitalization
+OT  - Missed Nursing Care
+OT  - Qualitative Study
+COIS- The authors declare that they have no competing interests.
+EDAT- 2021/10/16 06:00
+MHDA- 2021/10/28 06:00
+CRDT- 2021/10/15 05:26
+PHST- 2021/07/18 00:00 [received]
+PHST- 2021/10/05 00:00 [accepted]
+PHST- 2021/10/15 05:26 [entrez]
+PHST- 2021/10/16 06:00 [pubmed]
+PHST- 2021/10/28 06:00 [medline]
+AID - 10.1186/s12877-021-02524-z [pii]
+AID - 2524 [pii]
+AID - 10.1186/s12877-021-02524-z [doi]
+PST - epublish
+SO  - BMC Geriatr. 2021 Oct 14;21(1):555. doi: 10.1186/s12877-021-02524-z.
+
+PMID- 34666699
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211027
+LR  - 20211027
+IS  - 1471-2318 (Electronic)
+IS  - 1471-2318 (Linking)
+VI  - 21
+IP  - 1
+DP  - 2021 Oct 19
+TI  - Impact of organizational context on patient outcomes in a proactive primary care 
+      program:a longitudinal observational study.
+PG  - 578
+LID - 10.1186/s12877-021-02539-6 [doi]
+LID - 578
+AB  - BACKGROUND: The effectiveness of health care interventions is co-determined by 
+      contextual factors. Unknown is the extent of this impact on patient outcomes. 
+      Therefore, the aim of this study is to explore which characteristics of general 
+      practices are associated with patient outcomes in a proactive primary care 
+      program, the U-PROFIT 2.0. METHODS: A longitudinal observational study was 
+      conducted from January 2016 till October 2017. Two questionnaires were send out, 
+      one to collect characteristics of general practices such as practice 
+      neighbourhood socio-economic status, general practice versus healthcare centre 
+      (involving multiple primary care professionals), and professional- frail older 
+      patient ratio per practice of general practitioners and practice nurses. 
+      Regarding delivering the program, the practice or district nurse who delivered 
+      the program, number of years since the start of the implementation, and choice of 
+      age threshold for frailty screening were collected. Patient outcomes collected by 
+      the second questionnaire and send to frail patients were daily functioning, 
+      hospital admissions, emergency department visits, and general practice 
+      out-of-hours consultations. Linear and generalized linear mixed models were used. 
+      RESULTS: A total of 827 frail older people were included at baseline. Delivery of 
+      the program by a district nurse compared to a practice nurse was significantly 
+      associated with a decrease in daily functioning on patient-level (β = 2.19; 
+      P = < 0.001). Duration since implementation of 3 years compared to 9 years was 
+      significantly associated with less out-of-hours consultations to a general 
+      practice (OR 0.11; P = 0.001). Applying frailty screening from the age of 75 
+      compared to those targeted from the age of 60 showed a significant increase in 
+      emergency visits (OR 5.26; P = 0.03). CONCLUSION: Three associations regarding 
+      the organizational context 1) the nurse who delivered the program, 2) the number 
+      of years the program was implemented and 3) the age threshold for defining a 
+      frail patient are significant and clinically relevant for frail patients that 
+      receive a proactive primary care program. In general, contextual factors need 
+      more attention when implementing complex primary care programs which can result 
+      in better balanced choices to enhance effective proactive care for older people 
+      living in the community.
+CI  - © 2021. The Author(s).
+FAU - Smit, Linda C
+AU  - Smit LC
+AD  - Research Centre for Healthy and Sustainable Living, University of Applied 
+      Sciences Utrecht, Heidelberglaan 7, Utrecht, 3584 CS, The Netherlands. 
+      linda.smit@hu.nl.
+FAU - De Wit, Niek J
+AU  - De Wit NJ
+AD  - Department of General Practice, Division Julius Center for Health Sciences and 
+      Primary Care, University Medical Center Utrecht, Utrecht, 3508 GA, The 
+      Netherlands.
+FAU - Nieuwenhuizen, Meggie L
+AU  - Nieuwenhuizen ML
+AD  - Department of General Practice, Division Julius Center for Health Sciences and 
+      Primary Care, University Medical Center Utrecht, Utrecht, 3508 GA, The 
+      Netherlands.
+FAU - Schuurmans, Marieke J
+AU  - Schuurmans MJ
+AD  - Education Center, UMC Utrecht Academy, University Medical Center Utrecht, 
+      Utrecht, 3508 GA, The Netherlands.
+FAU - Bleijenberg, Nienke
+AU  - Bleijenberg N
+AD  - Research Centre for Healthy and Sustainable Living, University of Applied 
+      Sciences Utrecht, Heidelberglaan 7, Utrecht, 3584 CS, The Netherlands.
+AD  - Department of Nursing Science, Julius Center for Health Sciences and Primary 
+      Care, University Medical Center Utrecht, Utrecht, 3508 GA, The Netherlands.
+LA  - eng
+PT  - Journal Article
+PT  - Observational Study
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20211019
+TA  - BMC Geriatr
+JT  - BMC geriatrics
+JID - 100968548
+SB  - IM
+MH  - Aged
+MH  - Frail Elderly
+MH  - *Frailty
+MH  - *General Practice
+MH  - *General Practitioners
+MH  - Humans
+MH  - Primary Health Care
+PMC - PMC8527676
+OTO - NOTNLM
+OT  - Implementation
+OT  - Older people
+OT  - Organizational context
+OT  - Primary care
+OT  - Proactive care program
+COIS- The author(s) declare(s) that they have no competing non- financial interests. 
+      This study was funded by the Netherlands Organization for Health Research and 
+      Development (ZonMw), grant number 63300095110. The funders had no role in the 
+      design of the study and collection, analysis, and interpretation of data and in 
+      writing the manuscript. The authors have no further financial conflicts.
+EDAT- 2021/10/21 06:00
+MHDA- 2021/10/28 06:00
+CRDT- 2021/10/20 05:39
+PHST- 2021/05/07 00:00 [received]
+PHST- 2021/10/06 00:00 [accepted]
+PHST- 2021/10/20 05:39 [entrez]
+PHST- 2021/10/21 06:00 [pubmed]
+PHST- 2021/10/28 06:00 [medline]
+AID - 10.1186/s12877-021-02539-6 [pii]
+AID - 2539 [pii]
+AID - 10.1186/s12877-021-02539-6 [doi]
+PST - epublish
+SO  - BMC Geriatr. 2021 Oct 19;21(1):578. doi: 10.1186/s12877-021-02539-6.
+
+PMID- 34454494
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210831
+LR  - 20210903
+IS  - 1472-6963 (Electronic)
+IS  - 1472-6963 (Linking)
+VI  - 21
+IP  - 1
+DP  - 2021 Aug 28
+TI  - Evaluating an integrated care pathway for frail elderly patients in Norway using 
+      multi-criteria decision analysis.
+PG  - 884
+LID - 10.1186/s12913-021-06805-6 [doi]
+LID - 884
+AB  - BACKGROUND: To provide value-based care for patients with multi-morbidity, 
+      innovative integrated care programmes and comprehensive evaluations of such 
+      programmes are required. In Norway, a new programme called "Holistic Continuity 
+      of Patient Care" (HCPC) addresses the issue of multi-morbidity by providing 
+      integrated care within learning networks for frail elderly patients who receive 
+      municipal home care services or a short-term stay in a nursing home. This study 
+      conducts a multi-criteria decision analysis (MCDA) to evaluate whether the HCPC 
+      programme performs better on a large set of outcomes corresponding to the 'triple 
+      aim' compared to usual care. METHODS: Prospective longitudinal survey data were 
+      collected at baseline and follow-up after 6-months. The assessment of HCPC was 
+      implemented by a novel MCDA framework. The relative weights of importance of the 
+      outcomes used in the MCDA were obtained from a discrete choice experiment among 
+      five different groups of stakeholders. The performance score was estimated using 
+      a quasi-experimental design and linear mixed methods. Performance scores were 
+      standardized and multiplied by their weights of importance to obtain the overall 
+      MCDA value by stakeholder group. RESULTS: At baseline in the HCPC and usual care 
+      groups, respectively, 120 and 89 patients responded, of whom 87 and 41 responded 
+      at follow-up. The average age at baseline was 80.0 years for HCPC and 83.6 for 
+      usual care. Matching reduced the standardized differences between the groups for 
+      patient background characteristics and outcome variables. The MCDA results 
+      indicated that HCPC was preferred to usual care irrespective of stakeholders. The 
+      better performance of HCPC was mostly driven by improvements in enjoyment of 
+      life, psychological well-being, and social relationships and participation. 
+      Results were consistent with sensitivity analyses using Monte Carlo simulation. 
+      CONCLUSION: Frail elderly with multi-morbidity represent complex health problems 
+      at large costs for society in terms of health- and social care. This study is a 
+      novel contribution to assessing and understanding HCPC programme performance 
+      respecting the multi-dimensionality of desired outcomes. Integrated care 
+      programmes like HCPC may improve well-being of patients, be cost-saving, and 
+      contribute to the pursuit of evidence based gradual reforms in the care of frail 
+      elderly.
+CI  - © 2021. The Author(s).
+FAU - Islam, M Kamrul
+AU  - Islam MK
+AUID- ORCID: 0000-0003-4751-1513
+AD  - Department of Economics, University of Bergen, Postboks 7802, 5020, Bergen, 
+      Norway. kamrul.islam@uib.no.
+AD  - Department of Social Sciences, NORCE Norwegian Research Centre, Bergen, Norway. 
+      kamrul.islam@uib.no.
+FAU - Ruths, Sabine
+AU  - Ruths S
+AD  - Research Unit for General Practice, NORCE Norwegian Research Centre, Bergen, 
+      Norway.
+AD  - Department of Global Public Health and Primary Care, University of Bergen, 
+      Bergen, Norway.
+FAU - Jansen, Kristian
+AU  - Jansen K
+AD  - Research Unit for General Practice, NORCE Norwegian Research Centre, Bergen, 
+      Norway.
+AD  - Department of Nursing homes, Municipality of Bergen, Bergen, Norway.
+FAU - Falck, Runa
+AU  - Falck R
+AD  - Department of Comparative Politics, University of Bergen, Bergen, Norway.
+FAU - Mölken, Maureen Rutten-van
+AU  - Mölken MR
+AD  - School of Health Policy and Management, Erasmus University Rotterdam, Rotterdam, 
+      the Netherlands.
+FAU - Askildsen, Jan Erik
+AU  - Askildsen JE
+AD  - Department of Economics, University of Bergen, Postboks 7802, 5020, Bergen, 
+      Norway.
+LA  - eng
+GR  - 634288/H2020 European Research Council/
+PT  - Journal Article
+DEP - 20210828
+TA  - BMC Health Serv Res
+JT  - BMC health services research
+JID - 101088677
+SB  - IM
+MH  - Aged
+MH  - Decision Support Techniques
+MH  - *Delivery of Health Care, Integrated
+MH  - *Frail Elderly
+MH  - Humans
+MH  - Norway
+MH  - Prospective Studies
+PMC - PMC8400755
+OTO - NOTNLM
+OT  - Continuity of care
+OT  - Discrete choice experiment
+OT  - Frail elderly
+OT  - Holistic assessment
+OT  - Integrated care
+OT  - Mixed methods
+OT  - Multi-criteria decision analysis
+OT  - Multi-morbidity
+OT  - Primary care
+OT  - Quasi-experimental design
+COIS- The authors declare no competing interests.
+EDAT- 2021/08/30 06:00
+MHDA- 2021/09/01 06:00
+CRDT- 2021/08/29 20:26
+PHST- 2020/10/23 00:00 [received]
+PHST- 2021/07/20 00:00 [accepted]
+PHST- 2021/08/29 20:26 [entrez]
+PHST- 2021/08/30 06:00 [pubmed]
+PHST- 2021/09/01 06:00 [medline]
+AID - 10.1186/s12913-021-06805-6 [pii]
+AID - 6805 [pii]
+AID - 10.1186/s12913-021-06805-6 [doi]
+PST - epublish
+SO  - BMC Health Serv Res. 2021 Aug 28;21(1):884. doi: 10.1186/s12913-021-06805-6.
+
+PMID- 36011979
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220829
+LR  - 20220908
+IS  - 1660-4601 (Electronic)
+IS  - 1661-7827 (Print)
+IS  - 1660-4601 (Linking)
+VI  - 19
+IP  - 16
+DP  - 2022 Aug 19
+TI  - Implications of the Metabolic Control of Diabetes in Patients with Frailty 
+      Syndrome.
+LID - 10.3390/ijerph191610327 [doi]
+LID - 10327
+AB  - INTRODUCTION: Frailty syndrome occurs more frequently in patients with diabetes 
+      than in the general population. The reasons for this more frequent occurrence and 
+      the interdependence of the two conditions are not well understood. To date, there 
+      is no fully effective method for the diagnosis, prevention, and monitoring of 
+      frailty syndrome. This study aimed to assess the degree of metabolic control of 
+      diabetes in patients with frailty syndrome and to determine the impact of frailty 
+      on the course of diabetes using a retrospective analysis. MATERIALS AND METHODS: 
+      A total of 103 individuals aged 60+ with diabetes were studied. The study 
+      population included 65 women (63.1%) and 38 men (36.9%). The mean age was 72.96 
+      years (SD 7.55). The study was conducted in the practice of a general 
+      practitioner in Wielkopolska in 2018-2019. The research instrument was the 
+      authors' original medical history questionnaire. The questions of the 
+      questionnaire were related to age, education, and sociodemographic situation of 
+      the respondents, as well as their dietary habits, health status, and use of 
+      stimulants. Other instruments used were: the Mini-Mental State Examination 
+      (MMSE), Lawton Scale (IADL-Instrumental Activities of Daily Living), Katz Scale 
+      (ADL-Activities of Daily Living), Geriatric Depression Rating Scale (GDS), and 
+      SHARE-FI scale (Survey of Health, Aging, and Retirement in Europe). 
+      Anthropometric and biochemical tests were performed. RESULTS: In the study, 
+      frailty syndrome was diagnosed using the SHARE-FI scale in 26 individuals (25%): 
+      32 (31.1%) were pre-frailty and 45 (43.7%) represented a non-frailty group. 
+      Statistical analysis revealed that elevated HbA1c levels were associated with a 
+      statistically significant risk of developing frailty syndrome (p = 0.048). In 
+      addition, the co-occurrence of diabetes and frailty syndrome was found to be a 
+      risk factor for loss of functional capacity or limitation in older adults (p = 
+      0.00) and was associated with the risk of developing depression (p &lt; 0.001) 
+      and cognitive impairment (p &lt; 0.001). CONCLUSIONS: Concerning metabolic 
+      control of diabetes, higher HbA1c levels in the elderly are a predictive factor 
+      for the development of frailty syndrome. No statistical significance was found 
+      for the other parameters of metabolic control in diabetes. People with frailty 
+      syndrome scored significantly higher on the Geriatric Depression Rating Scale and 
+      lower on the MMSE cognitive rating scale than the comparison group. This suggests 
+      that frailty is a predictive factor for depression and cognitive impairment. 
+      Patients with frailty and diabetes have significantly lower scores on the Basic 
+      Activities of Daily Living Rating Scale and the Complex Activities of Daily 
+      Living Rating Scale, which are associated with loss or limitation of functioning. 
+      Frailty syndrome is a predictive factor for loss of functional capacity in the 
+      elderly.
+FAU - Muszalik, Marta
+AU  - Muszalik M
+AUID- ORCID: 0000-0002-3267-6975
+AD  - Department of Geriatrics, Faculty of Health Sciences, Nicolaus Copernicus 
+      University in Torun, Collegium Medicum in Bydgoszcz, 85-094 Bydgoszcz, Poland.
+FAU - Stępień, Hubert
+AU  - Stępień H
+AD  - Department of Internal Medicine II, Asklepios Clinic Uckermark, 74-506 Schwedt, 
+      Germany.
+FAU - Puto, Grażyna
+AU  - Puto G
+AUID- ORCID: 0000-0002-0829-327X
+AD  - Department of Clinical Nursing, Institute of Nursing and Midwifery, Faculty of 
+      Health Sciences, Jagiellonian University Medical College Cracow, 31-501 Crakow, 
+      Poland.
+FAU - Cybulski, Mateusz
+AU  - Cybulski M
+AUID- ORCID: 0000-0002-5116-3497
+AD  - Department of Integrated Medical Care, Faculty of Health Sciences, Medical 
+      University of Bialystok, 15-096 Białystok, Poland.
+FAU - Kurpas, Donata
+AU  - Kurpas D
+AUID- ORCID: 0000-0002-6996-8920
+AD  - Department of Family Medicine, Wroclaw Medical University, 51-141 Wroclaw, 
+      Poland.
+LA  - eng
+PT  - Journal Article
+DEP - 20220819
+TA  - Int J Environ Res Public Health
+JT  - International journal of environmental research and public health
+JID - 101238455
+RN  - 0 (Glycated Hemoglobin A)
+SB  - IM
+MH  - Activities of Daily Living
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - *Diabetes Mellitus/epidemiology
+MH  - Female
+MH  - Frail Elderly
+MH  - *Frailty/diagnosis/epidemiology
+MH  - Geriatric Assessment/methods
+MH  - Glycated Hemoglobin A
+MH  - Humans
+MH  - Male
+MH  - Retrospective Studies
+PMC - PMC9408164
+OTO - NOTNLM
+OT  - ADL
+OT  - GDS
+OT  - IDAL
+OT  - MMSE
+OT  - SHARE-FI
+OT  - diabetes mellitus
+OT  - frailty syndrome
+OT  - functional capability
+OT  - metabolic control
+OT  - older adults
+COIS- The authors declare no conflict of interest.
+EDAT- 2022/08/27 06:00
+MHDA- 2022/08/30 06:00
+CRDT- 2022/08/26 01:20
+PHST- 2022/07/07 00:00 [received]
+PHST- 2022/08/16 00:00 [revised]
+PHST- 2022/08/17 00:00 [accepted]
+PHST- 2022/08/26 01:20 [entrez]
+PHST- 2022/08/27 06:00 [pubmed]
+PHST- 2022/08/30 06:00 [medline]
+AID - ijerph191610327 [pii]
+AID - ijerph-19-10327 [pii]
+AID - 10.3390/ijerph191610327 [doi]
+PST - epublish
+SO  - Int J Environ Res Public Health. 2022 Aug 19;19(16):10327. doi: 
+      10.3390/ijerph191610327.
+
+PMID- 36065698
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220907
+LR  - 20220907
+IS  - 1000-503X (Print)
+IS  - 1000-503X (Linking)
+VI  - 44
+IP  - 4
+DP  - 2022 Aug
+TI  - [Research Hotspots and Trends of Multimorbidity].
+PG  - 643-653
+LID - 10.3881/j.issn.1000-503X.14530 [doi]
+AB  - Objective To clarify the hotspots and trends of multimorbidity research and to 
+      provide evidence for further research in China. Methods Papers on multimorbidity 
+      were retrieved from PubMed and Web of Science (from inception to August 
+      11,2021).BICOMB and gCLUTO were used for bibliometric and clustering analysis,and 
+      CiteSpace was employed for analysis of authors and citations,and burst detection 
+      of keywords. Results The research on multimorbidity has been on the rise.Among 
+      the authors,Mercer SW published the most papers on this topic and Fortin M was 
+      the most cited author.Karolinska Institute topped the institutions in the number 
+      of published papers,and the paper published in Lancet by Barnett K in 2012 was 
+      the most cited.A total of 75 high-frequency keywords were extracted,on the basis 
+      of which seven research hotspots were summarized:epidemiology (including the 
+      prevalence and trend),medication (involving polypharmacy,medication 
+      compliance,etc.),medical expenditure (including cost and medical services),aging 
+      (such as elderly patients,frailty,and disability),psychology (involving mental 
+      health,social support,etc.),multimorbidity management (such as the 
+      treatment,primary health care,and integrated care),and comorbidity of 
+      cardiovascular and metabolic diseases (involving obesity,stroke,diabetes,etc.). 
+      Conclusions Multimorbidity is concerned as a major health threat and public 
+      health problem worldwide.The management of multimorbidity is more complex than 
+      that of one disease,which thus faces more challenges.Therefore,researchers,health 
+      care providers,and policy-makers should underscore it.
+FAU - Lü, Xiao-Yan
+AU  - Lü XY
+AD  - Department of Nursing,Qilu Hospital of Shandong University,Jinan 250012,China 
+      ;Nursing Theory and Practice Innovation Research Center,Shandong University,Jinan 
+      250012,China.
+FAU - Li, Rong
+AU  - Li R
+AD  - Department of Nursing,Qilu Hospital of Shandong University,Jinan 250012,China 
+      ;Nursing Theory and Practice Innovation Research Center,Shandong University,Jinan 
+      250012,China.
+FAU - Li, Yu-Xin
+AU  - Li YX
+AD  - Nursing Theory and Practice Innovation Research Center,Shandong University,Jinan 
+      250012,China ;School of Nursing and Rehabilitation,Cheeloo College of 
+      Medicine,Shandong University,Jinan 250012,China.
+FAU - Guan, Xiang-Yun
+AU  - Guan XY
+AD  - Department of Nursing,Qilu Hospital of Shandong University,Jinan 250012,China 
+      ;Nursing Theory and Practice Innovation Research Center,Shandong University,Jinan 
+      250012,China.
+FAU - Li, Li
+AU  - Li L
+AD  - Department of Nursing,Qilu Hospital of Shandong University,Jinan 250012,China 
+      ;Nursing Theory and Practice Innovation Research Center,Shandong University,Jinan 
+      250012,China.
+FAU - Li, Jun-Li
+AU  - Li JL
+AD  - Department of Nursing,Qilu Hospital of Shandong University,Jinan 250012,China 
+      ;Nursing Theory and Practice Innovation Research Center,Shandong University,Jinan 
+      250012,China.
+FAU - Cao, Ying-Juan
+AU  - Cao YJ
+AD  - Department of Nursing,Qilu Hospital of Shandong University,Jinan 250012,China 
+      ;Nursing Theory and Practice Innovation Research Center,Shandong University,Jinan 
+      250012,China ;School of Nursing and Rehabilitation,Cheeloo College of 
+      Medicine,Shandong University,Jinan 250012,China.
+LA  - chi
+PT  - Journal Article
+PL  - China
+TA  - Zhongguo Yi Xue Ke Xue Yuan Xue Bao
+JT  - Zhongguo yi xue ke xue yuan xue bao. Acta Academiae Medicinae Sinicae
+JID - 8006230
+SB  - IM
+MH  - Aged
+MH  - *Bibliometrics
+MH  - China/epidemiology
+MH  - Comorbidity
+MH  - Humans
+MH  - *Multimorbidity
+OTO - NOTNLM
+OT  - bibliometries
+OT  - cluster analysis
+OT  - multimorbidity
+OT  - visualization analysis
+EDAT- 2022/09/07 06:00
+MHDA- 2022/09/08 06:00
+CRDT- 2022/09/06 04:12
+PHST- 2022/09/06 04:12 [entrez]
+PHST- 2022/09/07 06:00 [pubmed]
+PHST- 2022/09/08 06:00 [medline]
+AID - 10.3881/j.issn.1000-503X.14530 [doi]
+PST - ppublish
+SO  - Zhongguo Yi Xue Ke Xue Yuan Xue Bao. 2022 Aug;44(4):643-653. doi: 
+      10.3881/j.issn.1000-503X.14530.
+
+PMID- 35390490
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220503
+LR  - 20220615
+IS  - 1873-6815 (Electronic)
+IS  - 0531-5565 (Linking)
+VI  - 163
+DP  - 2022 Jun 15
+TI  - Physical fitness and frailty status of frail older adults in long-term care 
+      facilities after acupunch exercises: A cluster-randomized controlled trial.
+PG  - 111799
+LID - S0531-5565(22)00107-3 [pii]
+LID - 10.1016/j.exger.2022.111799 [doi]
+AB  - BACKGROUND: Frailty is a complex geriatric syndrome and serves as an indicator 
+      for functional degradation in older adults. Regular exercise intervention could 
+      reduce the level of frailty and improve general physical fitness. The aim of this 
+      study was to test the effects of the Vitality Acupunch (VA) exercise on the 
+      promotion of physical fitness and the improvement of frailty status among frail 
+      older adults in long-term care facilities. METHOD: This study was a 
+      cluster-randomized controlled trial adopted a pretest-posttest design. Using 
+      convenience sampling, 81 frail adults older than 65 years of age from 10 
+      long-term care facilities participated in this study. The older adults were 
+      cluster-randomized by facility into an intervention group (5 long-term care 
+      facilities, n = 40) and a control group (5 long-term care facilities, n = 41). 
+      The intervention group engaged in the VA exercise 3 times a week, each lasting 
+      40 min, for 24 weeks. The control group maintained regular activities of daily 
+      living. The outcome measures for physical fitness were assessed before study 
+      began (pretest), at the 12th week (posttest 1), and at the 24th week (posttest 2) 
+      in the study. RESULTS: After a 24-week intervention, the frail older adults who 
+      engaged in the VA exercise program showed significant improvements in handgrip 
+      strength, upper-limb muscle endurance, lung function, shoulder flexibility, 
+      forward flexion, shoulder joint flexion, and shoulder joint abduction (all 
+      p < 0.05) but not in lower-limb muscle endurance (p = 0.502) compared against 
+      their pretest data. The intervention group had significantly better physical 
+      fitness and positive changes in frailty status than the control group (all 
+      p < 0.001), except for the lower-limb muscle endurance (p = 0.557). CONCLUSION: 
+      Regular engagement in the VA exercise program for 24 weeks significantly improved 
+      the physical fitness and frailty status of frail older adults in long-term care 
+      facilities.
+CI  - Copyright © 2022 Elsevier Inc. All rights reserved.
+FAU - Chou, Chia-Pei
+AU  - Chou CP
+AD  - Department of Family Medicine, Kaohsiung Chang Gung Memorial Hospital, 123 Dapi 
+      Rd., Niaosong District, Kaohsiung 83301, Taiwan; College of Medicine, Chang Gung 
+      University, Taiwan. Electronic address: libra760924@cgmh.org.tw.
+FAU - Chen, Kuei-Min
+AU  - Chen KM
+AD  - College of Nursing, Kaohsiung Medical University, 100 Shih-Chuan 1(st) Rd., 
+      Sanmin District, Kaohsiung, Taiwan; Center for Long-term Care Research, Kaohsiung 
+      Medical University, Taiwan; Department of Medical Research, Kaohsiung Medical 
+      University Hospital, Taiwan. Electronic address: kmc@kmu.edu.tw.
+FAU - Tung, Hsiao-Ting
+AU  - Tung HT
+AD  - Department of Nursing, Kaohsiung Armed Forces General Hospital, 2 Zhongzheng 1st 
+      Rd., Lingya District, Kaohsiung 80284, Taiwan.
+FAU - Belcastro, Frank
+AU  - Belcastro F
+AD  - Department of Education and Psychology, University of Dubuque, 2000 University 
+      Ave., Dubuque, Iowa 52001, USA.
+FAU - Hsu, Hui-Fen
+AU  - Hsu HF
+AD  - Center for Long-term Care Research, Kaohsiung Medical University, 100 Shih-Chuan 
+      1(st) Rd., Sanmin District, Kaohsiung 80708, Taiwan. Electronic address: 
+      R080152@kmu.edu.tw.
+LA  - eng
+SI  - ClinicalTrials.gov/NCT04481438
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+DEP - 20220404
+PL  - England
+TA  - Exp Gerontol
+JT  - Experimental gerontology
+JID - 0047061
+SB  - IM
+MH  - Activities of Daily Living
+MH  - Aged
+MH  - Exercise Therapy
+MH  - *Frail Elderly
+MH  - *Frailty/therapy
+MH  - Hand Strength
+MH  - Humans
+MH  - Long-Term Care
+MH  - Physical Fitness
+OTO - NOTNLM
+OT  - Acupunch exercise
+OT  - Frailty
+OT  - Long-term care facilities
+OT  - Older adults
+OT  - Physical fitness
+EDAT- 2022/04/08 06:00
+MHDA- 2022/05/04 06:00
+CRDT- 2022/04/07 20:11
+PHST- 2021/12/27 00:00 [received]
+PHST- 2022/03/29 00:00 [revised]
+PHST- 2022/03/31 00:00 [accepted]
+PHST- 2022/04/08 06:00 [pubmed]
+PHST- 2022/05/04 06:00 [medline]
+PHST- 2022/04/07 20:11 [entrez]
+AID - S0531-5565(22)00107-3 [pii]
+AID - 10.1016/j.exger.2022.111799 [doi]
+PST - ppublish
+SO  - Exp Gerontol. 2022 Jun 15;163:111799. doi: 10.1016/j.exger.2022.111799. Epub 2022 
+      Apr 4.
+
+PMID- 35998956
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220825
+LR  - 20220907
+IS  - 2044-6055 (Electronic)
+IS  - 2044-6055 (Linking)
+VI  - 12
+IP  - 8
+DP  - 2022 Aug 23
+TI  - Nursing, frailty, functional decline and models of care in relation to older 
+      people receiving long-term care: a scoping review protocol.
+PG  - e061303
+LID - 10.1136/bmjopen-2022-061303 [doi]
+LID - e061303
+AB  - INTRODUCTION: Older people receiving healthcare in long-term care contexts (eg, 
+      home healthcare, sheltered housing and nursing home contexts) are especially 
+      vulnerable to developing frailty and functional decline. Considering the negative 
+      effects associated with these conditions and the possibility of preventing them 
+      from progressing, it is vital that nurses possess a broad knowledge base related 
+      to them. Particularly as prevention related to these conditions lies well within 
+      their remit. Such knowledge could guide the development of effective models of 
+      care, ensuring continuity and, hence, quality of care. Our objective will be to 
+      review published literature on existing models of care targeting frailty and/or 
+      functional decline and how these conditions are described by older people 
+      themselves, significant others and nurses in relation to long-term care. METHODS 
+      AND ANALYSIS: The scoping review will be conducted in accordance with Arksey and 
+      O'Malley's methodological framework. Recent methodological developments will be 
+      considered. PubMed, CINAHL and PsycINFO will be searched. Eligibility criteria 
+      will be peer-reviewed papers and written in English. All types of study designs 
+      will be eligible and included papers will be quality and ethically assessed. The 
+      Preferred Reporting Items for Systematic Reviews and Meta-Analyses 
+      (PRISMA)-Protocol checklist for protocols and the PRISMA for Scoping Reviews 
+      checklist were followed in this paper. ETHICS AND DISSEMINATION: As the study 
+      outlined in this protocol is a scoping review, no ethics approval was needed for 
+      this protocol nor for the upcoming study. The findings will be published in an 
+      open-access, peer-reviewed journal. Additionally, the findings will guide a 
+      research project following the Medical Research Council's framework for 
+      developing and evaluating complex interventions. Thus, supporting us in 
+      developing a model of care related to the detection and prevention of frailty 
+      and/or functional decline among older people in a long-term care context.
+CI  - © Author(s) (or their employer(s)) 2022. Re-use permitted under CC BY-NC. No 
+      commercial re-use. See rights and permissions. Published by BMJ.
+FAU - Flyum, Ida Røed
+AU  - Flyum IR
+AUID- ORCID: 0000-0002-6256-4245
+AD  - Institute of Health Sciences, Department of Nursing, Karlstad University Faculty 
+      of Health Science and Technology, Karlstad, Sweden Ida.r.flyum@ldh.no.
+AD  - Bachelor Education in Nursing, Lovisenberg Diaconal University College, Oslo, 
+      Norway.
+FAU - Gjevjon, Edith Roth
+AU  - Gjevjon ER
+AUID- ORCID: 0000-0002-9656-522X
+AD  - Bachelor Education in Nursing, Lovisenberg Diaconal University College, Oslo, 
+      Norway.
+FAU - Josse-Eklund, Anna
+AU  - Josse-Eklund A
+AUID- ORCID: 0000-0002-1192-9697
+AD  - Institute of Health Sciences, Department of Nursing, Karlstad University Faculty 
+      of Health Science and Technology, Karlstad, Sweden.
+FAU - Lærum-Onsager, Ellisiv
+AU  - Lærum-Onsager E
+AUID- ORCID: 0000-0001-9097-6100
+AD  - Bachelor Education in Nursing, Lovisenberg Diaconal University College, Oslo, 
+      Norway.
+FAU - Borglin, Gunilla
+AU  - Borglin G
+AUID- ORCID: 0000-0002-7934-6949
+AD  - Bachelor Education in Nursing, Lovisenberg Diaconal University College, Oslo, 
+      Norway.
+LA  - eng
+PT  - Journal Article
+DEP - 20220823
+TA  - BMJ Open
+JT  - BMJ open
+JID - 101552874
+SB  - IM
+MH  - Aged
+MH  - *Biomedical Research
+MH  - *Frailty
+MH  - Humans
+MH  - Long-Term Care
+MH  - Research Design
+MH  - Review Literature as Topic
+PMC - PMC9403107
+OTO - NOTNLM
+OT  - GERIATRIC MEDICINE
+OT  - PRIMARY CARE
+OT  - Quality in health care
+COIS- Competing interests: None declared.
+EDAT- 2022/08/24 06:00
+MHDA- 2022/08/26 06:00
+CRDT- 2022/08/23 20:52
+PHST- 2022/08/23 20:52 [entrez]
+PHST- 2022/08/24 06:00 [pubmed]
+PHST- 2022/08/26 06:00 [medline]
+AID - bmjopen-2022-061303 [pii]
+AID - 10.1136/bmjopen-2022-061303 [doi]
+PST - epublish
+SO  - BMJ Open. 2022 Aug 23;12(8):e061303. doi: 10.1136/bmjopen-2022-061303.
+
+PMID- 34183567
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211125
+LR  - 20211125
+IS  - 1948-965X (Electronic)
+IS  - 1682-3141 (Linking)
+VI  - 29
+IP  - 5
+DP  - 2021 Jun 29
+TI  - Clinical Decision Path for Identifying Recurrent Falls in Late Middle-Aged and 
+      Older Patients With Chronic Schizophrenia.
+PG  - e167
+LID - 10.1097/JNR.0000000000000444 [doi]
+AB  - BACKGROUND: Falls are a major hazard for elderly patients with schizophrenia. As 
+      patients with schizophrenia may experience a more-accelerated rate of physical 
+      aging than the overall elderly population, the risk of falls may emerge during 
+      the late middle-age period in this population. Furthermore, the risk of falls is 
+      affected by multiple, interrelated risk factors. PURPOSE: This study was 
+      undertaken to capture the complexity of the risk of falls in patients with 
+      schizophrenia. A cross-sectional approach was used to apply classification and 
+      regression tree (CART) analysis to generate a clinical decision path to identify 
+      the risk factors of recurrent falls in late middle-aged and older patients with 
+      schizophrenia. METHODS: Two hundred ninety-one patients aged 55 years or older 
+      were recruited from psychiatric halfway houses for assessment. Frailty, physical 
+      functional performance, depressive severity, cognitive function, and level of 
+      fatigue were measured, respectively, using the Study of Osteoporotic Fractures 
+      Frailty Index, Short Physical Performance Battery (SPPB), Center for 
+      Epidemiological Studies Depression Scale, Short Portable Mental Status 
+      Questionnaire (SPMSQ), and Chinese version of the Fatigue Severity Scale. The 
+      variables revealed by descriptive statistics to be statistically significant were 
+      further analyzed using CART analysis. RESULTS: The overall proportion of 
+      recurrent fallers in this study was 19.2%. CART analysis revealed eight end 
+      groups and identified four predictors: frailty, physical functional performance, 
+      cognitive function, and sex. The most prominent condition for recurrent fallers 
+      was frailty, present in 57.1% of the frail participants. In the nonfrail group 
+      (both prefrail and robust), participants with an SPPB score of less than 10 had a 
+      29.7% chance of being a recurrent faller versus 13.6% for those with an SPPB 
+      score of 10 or more. Furthermore, an SPMSQ score of 7 was the next-best split 
+      among participants without frailty, with an SPPB score of 10 or more. Finally, 
+      among participants without frailty and with an SPPB score of 10 or more and an 
+      SPMSQ score of more than 7, the proportion of recurrent fallers was higher in 
+      women than men. CONCLUSIONS: The results of this study indicate that assessing 
+      frailty status may be an effective, first-step approach to identifying 
+      schizophrenic patients at an increased risk of recurrent falls. Among patients 
+      with prefrailty or robust status, an SPPB score cutoff of 10, an SPMSQ score 
+      cutoff of 7, and being female may be used sequentially to identify individuals at 
+      a heightened risk of recurrent falls.
+CI  - Copyright © 2021 The Authors. Published by Wolters Kluwer Health, Inc.
+FAU - Wang, Mei-Yeh
+AU  - Wang MY
+AD  - PhD, RN, Associate Professor, Department of Nursing, Cardinal Tien Junior College 
+      of Healthcare and Management, Taiwan, ROC.
+FAU - Liu, I-Chao
+AU  - Liu IC
+AD  - MD, DSc, Attending Physician, Department of Psychiatry, Fu Jen Catholic 
+      University Hospital, Taiwan, ROC.
+FAU - Chiu, Chen-Huan
+AU  - Chiu CH
+AD  - PhD, MD, Attending Physician, Department of General Psychiatry, Taipei City 
+      Psychiatric Center and Department of Psychiatry, School of Medicine, College of 
+      Medicine, Taipei Medical University, Taiwan, ROC.
+LA  - eng
+PT  - Journal Article
+DEP - 20210629
+PL  - China (Republic : 1949- )
+TA  - J Nurs Res
+JT  - The journal of nursing research : JNR
+JID - 101128757
+SB  - IM
+MH  - Aged
+MH  - Cognition
+MH  - Female
+MH  - Frail Elderly
+MH  - *Frailty
+MH  - Geriatric Assessment
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Risk Factors
+MH  - *Schizophrenia/complications/epidemiology
+COIS- The authors declare no conflicts of interest.
+EDAT- 2021/06/30 06:00
+MHDA- 2021/11/26 06:00
+CRDT- 2021/06/29 05:56
+PHST- 2021/06/30 06:00 [pubmed]
+PHST- 2021/11/26 06:00 [medline]
+PHST- 2021/06/29 05:56 [entrez]
+AID - 00134372-202110000-00003 [pii]
+AID - 10.1097/JNR.0000000000000444 [doi]
+PST - epublish
+SO  - J Nurs Res. 2021 Jun 29;29(5):e167. doi: 10.1097/JNR.0000000000000444.
+
+PMID- 34495726
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210930
+LR  - 20210930
+IS  - 1544-5208 (Electronic)
+IS  - 0278-2715 (Linking)
+VI  - 40
+IP  - 9
+DP  - 2021 Sep
+TI  - Optimal Staffing Models To Care For Frail Older Adults In Primary Care And 
+      Geriatrics Practices In The US.
+PG  - 1368-1376
+LID - 10.1377/hlthaff.2021.00401 [doi]
+AB  - Different staffing configurations in primary and geriatric care practices could 
+      have implications for how best to deliver services that are essential for a 
+      growing population of older adults. Using data from a 2018 survey of physicians 
+      (MDs) and nurse practitioners (NPs) working in primary and geriatric care, we 
+      assessed whether different configurations were associated with better or worse 
+      performance on a number of standard process measures indicative of comprehensive, 
+      high-quality primary care. Practices with a large concentration of MDs had the 
+      highest estimated labor costs. Practices high in NPs and physician assistants 
+      (PAs) were most common in states that grant full scope of practice to NPs. The 
+      high-NP/PA configuration was associated with a 17-percentage-point greater 
+      probability of facilitating patient visits and a 26-percentage-point greater 
+      probability of providing the full bundle of primary care services compared with 
+      the high-MD model. Team-based configurations had a 27.7-percentage-point greater 
+      probability of providing the full bundle of primary care services. The complex 
+      needs of older adults may be best served by team-based practices with a broad 
+      provider mix that can provide a range of services in the office and the 
+      community.
+FAU - Auerbach, David I
+AU  - Auerbach DI
+AD  - David I. Auerbach is an external adjunct faculty member at the Center for 
+      Interdisciplinary Health Workforce Studies, College of Nursing, Montana State 
+      University, in Bozeman, Montana, and is senior director for research and cost 
+      trends at the Massachusetts Health Policy Commission, in Boston, Massachusetts.
+FAU - Levy, Douglas E
+AU  - Levy DE
+AD  - Douglas E. Levy is an associate professor in the Health Policy Research Center, 
+      Mongan Institute, Massachusetts General Hospital, in Boston.
+FAU - Maramaldi, Peter
+AU  - Maramaldi P
+AD  - Peter Maramaldi is a professor in the School of Social Work, Simmons University, 
+      in Boston.
+FAU - Dittus, Robert S
+AU  - Dittus RS
+AD  - Robert S. Dittus is the Albert and Bernard Werthan Professor of Medicine at 
+      Vanderbilt University; chief innovation officer and senior vice president for the 
+      Vanderbilt Health Affiliated Network; and director of the Geriatric Research, 
+      Education, and Clinical Center at the Veterans Affairs Tennessee Valley 
+      Healthcare System, in Nashville, Tennessee.
+FAU - Spetz, Joanne
+AU  - Spetz J
+AD  - Joanne Spetz is director and Brenda and Jeffrey L. Kang Presidential Chair in 
+      Healthcare Finance at the Philip R. Lee Institute for Health Policy Studies at 
+      the University of California San Francisco, in San Francisco, California.
+FAU - Buerhaus, Peter I
+AU  - Buerhaus PI
+AD  - Peter I. Buerhaus is a professor of nursing and director of the Center for 
+      Interdisciplinary Health Workforce Studies, both in the College of Nursing, 
+      Montana State University.
+FAU - Donelan, Karen
+AU  - Donelan K
+AD  - Karen Donelan (karendonelan@brandeis.edu) is the Stuart H. Altman Chair in U.S. 
+      Health Policy at the Heller School for Social Policy and Management, Brandeis 
+      University, in Waltham, Massachusetts. At the time this work was performed, she 
+      was a senior scientist at the Health Policy Research Center at the Mongan 
+      Institute, Massachusetts General Hospital, and an associate professor in the 
+      Department of Medicine at Harvard Medical School, in Boston.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Health Aff (Millwood)
+JT  - Health affairs (Project Hope)
+JID - 8303128
+SB  - IM
+MH  - Aged
+MH  - Frail Elderly
+MH  - *Geriatrics
+MH  - Humans
+MH  - *Nurse Practitioners
+MH  - *Physician Assistants
+MH  - Primary Health Care
+MH  - United States
+MH  - Workforce
+EDAT- 2021/09/09 06:00
+MHDA- 2021/10/01 06:00
+CRDT- 2021/09/08 17:16
+PHST- 2021/09/08 17:16 [entrez]
+PHST- 2021/09/09 06:00 [pubmed]
+PHST- 2021/10/01 06:00 [medline]
+AID - 10.1377/hlthaff.2021.00401 [doi]
+PST - ppublish
+SO  - Health Aff (Millwood). 2021 Sep;40(9):1368-1376. doi: 10.1377/hlthaff.2021.00401.
+
+PMID- 33048381
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210618
+LR  - 20210618
+IS  - 1365-2648 (Electronic)
+IS  - 0309-2402 (Print)
+IS  - 0309-2402 (Linking)
+VI  - 77
+IP  - 1
+DP  - 2021 Jan
+TI  - Deciding about the use of a Personal Safety Alerting Device-The need for a 
+      legitimation process: A qualitative study.
+PG  - 331-342
+LID - 10.1111/jan.14566 [doi]
+AB  - AIMS: To explore reasons, thoughts, motives, and influencing factors regarding 
+      the use or non-use of Personal Safety Alerting Devices (PSADs) in the daily lives 
+      of community-dwelling older persons. DESIGN: A qualitative descriptive study 
+      design was used. METHODS: Six focus groups were conducted with a total of 32 
+      older persons between February-August 2016. Data analysis followed the 
+      Qualitative Analysis Guide of Leuven. RESULTS: The participants described the use 
+      or non-use of PSADs as a decision resulting from a "legitimation process". This 
+      process implies that a person needs to perceive the necessity for a PSAD and then 
+      determine the right moment at which to start using it. During this process, each 
+      person weighs her or his "ageing self" and "perception of technology" then 
+      decides whether to start using a device or to delay its use. "Critical events" 
+      initiate this process, compelling the person to consider their own safety and 
+      their possible need for assistance. CONCLUSION: The legitimation process suggests 
+      that the initiation of PSAD use represents a turning point in life. Using a PSAD 
+      is not simply a matter of obtaining one. It is a complex decision-making process 
+      establishing legitimation for its use, which is interwoven with one's individual 
+      ageing, self-perception, and the meaning attributed to the device. IMPACT: Older 
+      persons need to be supported; in particular, they require time to go through the 
+      legitimation process for PSAD use. Nurses can empower them in this process, such 
+      that they perceive using a PSAD as a means to restore their frailty balance and 
+      feel enabled to (re)gain control over their own life and thus to preserve their 
+      independence.
+CI  - © 2020 The Authors. Journal of Advanced Nursing published by John Wiley & Sons 
+      Ltd.
+FAU - Thilo, Friederike J S
+AU  - Thilo FJS
+AUID- ORCID: 0000-0002-5085-3664
+AD  - Applied Research & Development in Nursing, Department of Health Professions, Bern 
+      University of Applied Sciences, Bern, Switzerland.
+AD  - School CAPHRI, Department of Health Services Research, Maastricht University, 
+      Maastricht, The Netherlands.
+FAU - Schols, Jos M G A
+AU  - Schols JMGA
+AD  - School CAPHRI, Department of Health Services Research, Maastricht University, 
+      Maastricht, The Netherlands.
+AD  - School CAPHRI, Department of Family Medicine, Maastricht University, Maastricht, 
+      The Netherlands.
+FAU - Halfens, Ruud J G
+AU  - Halfens RJG
+AD  - School CAPHRI, Department of Health Services Research, Maastricht University, 
+      Maastricht, The Netherlands.
+FAU - Linhart, Monika
+AU  - Linhart M
+AD  - Applied Research & Development in Nursing, Department of Health Professions, Bern 
+      University of Applied Sciences, Bern, Switzerland.
+FAU - Hahn, Sabine
+AU  - Hahn S
+AUID- ORCID: 0000-0002-2697-2014
+AD  - Applied Research & Development in Nursing, Department of Health Professions, Bern 
+      University of Applied Sciences, Bern, Switzerland.
+LA  - eng
+GR  - Stiftung Symphasis/
+PT  - Journal Article
+DEP - 20201013
+TA  - J Adv Nurs
+JT  - Journal of advanced nursing
+JID - 7609811
+SB  - IM
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Female
+MH  - Focus Groups
+MH  - *Frailty
+MH  - Humans
+MH  - *Independent Living
+MH  - Motivation
+MH  - Qualitative Research
+PMC - PMC7756415
+OTO - NOTNLM
+OT  - ageing in place
+OT  - community-dwelling
+OT  - decision-making
+OT  - empowerment
+OT  - focus group
+OT  - gerontechnology
+OT  - independent living
+OT  - nurses
+OT  - patient safety
+OT  - technology adoption
+COIS- No conflict of interests has been declared by the authors.
+EDAT- 2020/10/14 06:00
+MHDA- 2021/06/22 06:00
+CRDT- 2020/10/13 12:14
+PHST- 2020/03/01 00:00 [received]
+PHST- 2020/06/26 00:00 [revised]
+PHST- 2020/09/07 00:00 [accepted]
+PHST- 2020/10/14 06:00 [pubmed]
+PHST- 2021/06/22 06:00 [medline]
+PHST- 2020/10/13 12:14 [entrez]
+AID - JAN14566 [pii]
+AID - 10.1111/jan.14566 [doi]
+PST - ppublish
+SO  - J Adv Nurs. 2021 Jan;77(1):331-342. doi: 10.1111/jan.14566. Epub 2020 Oct 13.
+
+PMID- 34379467
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210816
+LR  - 20210816
+IS  - 0966-0461 (Print)
+IS  - 0966-0461 (Linking)
+VI  - 30
+IP  - 15
+DP  - 2021 Aug 12
+TI  - Exploring the benefits of structured medication reviews for frail older patients 
+      in advanced clinical practice.
+PG  - 894-898
+LID - 10.12968/bjon.2021.30.15.894 [doi]
+AB  - Frailty in old age has become synonymous with medication use. As people age, the 
+      risk of disease burden increases. Older age is often linked with complex 
+      healthcare needs, with a rise in the number of comorbidities. This often results 
+      in the need to use multiple medications. Frailty is a global concern and requires 
+      early interventions to help people maintain their health as they age. Advanced 
+      clinical practitioners have an important role in supporting frail people living 
+      in the community. This article will review the literature and explore strategies 
+      that advanced practitioners can implement to optimise wellbeing and reduce 
+      medicines-related harm for this vulnerable population.
+FAU - Duffy, Sharron
+AU  - Duffy S
+AD  - Advanced Nurse Practitioner, Community Health Partnerships, NHS Lothian, 
+      Edinburgh.
+FAU - Paterson, Ruth
+AU  - Paterson R
+AD  - Associate Professor (Prescribing and Medicines Optimisation), School of Health 
+      and Social Care, Edinburgh Napier University, Edinburgh.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - England
+TA  - Br J Nurs
+JT  - British journal of nursing (Mark Allen Publishing)
+JID - 9212059
+MH  - *Advanced Practice Nursing
+MH  - Aged
+MH  - Comorbidity
+MH  - *Frail Elderly
+MH  - *Frailty/nursing
+MH  - Humans
+MH  - *Medication Therapy Management/organization & administration
+OTO - NOTNLM
+OT  - Community patients
+OT  - Frail older people
+OT  - Frailty
+OT  - Medication reviews
+OT  - Reduced adverse events
+EDAT- 2021/08/12 06:00
+MHDA- 2021/08/17 06:00
+CRDT- 2021/08/11 17:13
+PHST- 2021/08/11 17:13 [entrez]
+PHST- 2021/08/12 06:00 [pubmed]
+PHST- 2021/08/17 06:00 [medline]
+AID - 10.12968/bjon.2021.30.15.894 [doi]
+PST - ppublish
+SO  - Br J Nurs. 2021 Aug 12;30(15):894-898. doi: 10.12968/bjon.2021.30.15.894.
+
+PMID- 33980251
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211117
+LR  - 20211117
+IS  - 1748-5908 (Electronic)
+IS  - 1748-5908 (Linking)
+VI  - 16
+IP  - 1
+DP  - 2021 May 12
+TI  - Implementation fidelity of the Systems for Person-Centered Elder Care (SPEC): a 
+      process evaluation study.
+PG  - 52
+LID - 10.1186/s13012-021-01113-3 [doi]
+LID - 52
+AB  - BACKGROUND: The Systems for Person-Centered Elder Care (SPEC), a complex 
+      intervention, was conducted to examine its effectiveness as a 
+      technology-enhanced, multidisciplinary, and integrated care model for frail older 
+      persons among ten nursing homes (NHs) in South Korea where formal long-term care 
+      has recently been introduced. The purpose of this study was to evaluate the 
+      implementation fidelity of the SPEC intervention and to identify moderating 
+      factors that influence the implementation fidelity. METHODS: This study was a 
+      process evaluation based on an evidence-based framework for implementation 
+      fidelity using a mixed-methods design. Quantitative data from consultant 
+      logbooks, NH documentations, an information and communications technology (ICT) 
+      system, and a standardized questionnaire were collected from April 2015 to 
+      December 2016 and analyzed by calculating the descriptive statistics. 
+      Semi-structured focus group interviews were held with multidisciplinary teams 
+      from the participating NHs. Qualitative data from a semi-structured questionnaire 
+      and the focus group interviews were analyzed using content analysis. RESULTS: The 
+      SPEC program demonstrated good implementation fidelity, and adherence to the SPEC 
+      program was strong in all aspects, such as content, coverage, frequency, and 
+      duration. Of the participating on-site coordinators, 60% reported that the SPEC 
+      model positively impacted needs assessment and the reporting system for resident 
+      care. The important facilitating factors were tailored facilitating strategies, 
+      assurance of the quality of delivery, and recruitment strategies. CONCLUSION: The 
+      effectiveness of the SPEC program was driven by good implementation fidelity. The 
+      key factors of good implementation fidelity were tailored delivery of 
+      evidence-based interventions over process evaluation work, facilitating 
+      strategies, and ICT support. Larger implementation studies with a more 
+      user-friendly ICT system are recommended. TRIAL REGISTRATION: ISRCTN registry, 
+      ISRCTN11972147 . Registered on 16 March 2015.
+FAU - Choi, Hyoungshim
+AU  - Choi H
+AD  - Department of Nursing, Hansei University, 30 Hansei-ro, Gyeong-gi, South Korea.
+FAU - Jung, Young-Il
+AU  - Jung YI
+AD  - Department of Environmental Health, Korea National Open University, 86 Daehak-ro, 
+      Jongno-gu, Seoul, South Korea.
+FAU - Kim, Hongsoo
+AU  - Kim H
+AUID- ORCID: 0000-0002-5539-7653
+AD  - Graduate School of Public Health, Department of Public Health Sciences, Institute 
+      of Aging, Institute of Health and Environment, Seoul National University, 1 
+      Gwanak-ro, Gwanak-gu, Seoul, South Korea. hk65@snu.ac.kr.
+LA  - eng
+SI  - ISRCTN/ISRCTN11972147
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20210512
+TA  - Implement Sci
+JT  - Implementation science : IS
+JID - 101258411
+SB  - IM
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Delivery of Health Care
+MH  - Focus Groups
+MH  - Humans
+MH  - *Long-Term Care
+MH  - *Nursing Homes
+MH  - Republic of Korea
+PMC - PMC8117605
+OTO - NOTNLM
+OT  - Evaluation
+OT  - Geriatric care model
+OT  - Long-term care
+OT  - Process evaluation
+OT  - Technology
+COIS- The authors declare that they have no competing interests.
+EDAT- 2021/05/14 06:00
+MHDA- 2021/11/18 06:00
+CRDT- 2021/05/13 05:35
+PHST- 2020/10/07 00:00 [received]
+PHST- 2021/04/07 00:00 [accepted]
+PHST- 2021/05/13 05:35 [entrez]
+PHST- 2021/05/14 06:00 [pubmed]
+PHST- 2021/11/18 06:00 [medline]
+AID - 10.1186/s13012-021-01113-3 [pii]
+AID - 1113 [pii]
+AID - 10.1186/s13012-021-01113-3 [doi]
+PST - epublish
+SO  - Implement Sci. 2021 May 12;16(1):52. doi: 10.1186/s13012-021-01113-3.
+
+PMID- 34715850
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211102
+LR  - 20211102
+IS  - 1472-6963 (Electronic)
+IS  - 1472-6963 (Linking)
+VI  - 21
+IP  - 1
+DP  - 2021 Oct 29
+TI  - Changes in home care clients' characteristics and home care in five European 
+      countries from 2001 to 2014: comparison based on InterRAI - Home Care data.
+PG  - 1177
+LID - 10.1186/s12913-021-07197-3 [doi]
+LID - 1177
+AB  - BACKGROUND: Policymakers advocate extended residence in private homes as people 
+      age, rather than relocation to long-term care facilities. Consequently, it is 
+      expected that older people living in their own homes will be frailer and have 
+      more complex health problems over time. Therefore, community care for aging 
+      people is becoming increasingly important to facilitate prevention of decline in 
+      physical and cognitive abilities and unnecessary hospital admission and transfer 
+      to a nursing home. The aim of this study was to examine changes in the 
+      characteristic of home care clients and home care provided in five European 
+      countries between 2001 and 2014 and to explore whether home care clients who are 
+      most in need of care receive the care required. METHODS: This descriptive study 
+      used data from two European research projects, Aged in Home Care (AdHOC; 
+      2001-2002) and Identifying best practices for care-dependent elderly by 
+      Benchmarking Costs and outcomes of Community Care (IBenC; 2014-2016). In both 
+      projects, the InterRAI-Home Care assessment tool was used to assess a random 
+      sample of home care clients 65 years and older in five European countries. These 
+      data facilitate a comparison of physical and cognitive health and the provided 
+      home care between countries and study periods. RESULTS: In most participating 
+      countries, both cognitive (measured on the Cognitive Performance Scale) and 
+      functional ability (measured on the Activities of Daily Living Hierarchy scale) 
+      of home care clients deteriorated over a 10-year period. Home care provided 
+      increased between the studies. Home care clients who scored high on the physical 
+      and cognitive scales also received home care for a significantly higher duration 
+      than those who scored low. CONCLUSION: Older people in several European countries 
+      remain living in their own homes despite deteriorating physical and cognitive 
+      skills. Home care services to this group have increased. This indicates that the 
+      government policy of long-term residence at own home among older people, even in 
+      increased frailty, has been realised.
+CI  - © 2021. The Author(s).
+FAU - Kristinsdottir, I V
+AU  - Kristinsdottir IV
+AD  - Faculty of Nursing, University of Iceland, Eiríksgata 34, 101, Reykjavík, 
+      Iceland. ivk2@hi.is.
+AD  - Home Care center, The Capital Area Primary Care, Álfabakki 16, 109, Reykjavík, 
+      Iceland. ivk2@hi.is.
+FAU - Jonsson, P V
+AU  - Jonsson PV
+AD  - Faculty of Medicine, University of Iceland, Vatnsmýrarvegur 16, 101, Reykjavík, 
+      Iceland.
+AD  - Department of Geriatrics, The National University Hospital of Iceland, Túngata 
+      26, 101, Reykjavík, Iceland.
+FAU - Hjaltadottir, I
+AU  - Hjaltadottir I
+AD  - Faculty of Nursing, University of Iceland, Eiríksgata 34, 101, Reykjavík, 
+      Iceland.
+AD  - Department of Geriatrics, The National University Hospital of Iceland, Túngata 
+      26, 101, Reykjavík, Iceland.
+FAU - Bjornsdottir, K
+AU  - Bjornsdottir K
+AD  - Faculty of Nursing, University of Iceland, Eiríksgata 34, 101, Reykjavík, 
+      Iceland.
+LA  - eng
+PT  - Journal Article
+DEP - 20211029
+TA  - BMC Health Serv Res
+JT  - BMC health services research
+JID - 101088677
+SB  - IM
+MH  - Activities of Daily Living
+MH  - Aged
+MH  - Europe/epidemiology
+MH  - *Frailty
+MH  - *Home Care Services
+MH  - Humans
+MH  - Nursing Homes
+PMC - PMC8555210
+OTO - NOTNLM
+OT  - AdHOC
+OT  - Elderly
+OT  - Formal care
+OT  - Health care policy
+OT  - Home care
+OT  - IBenC
+OT  - interRAI-home care
+COIS- PVJ is a member of interRAI and IVK, IH and KB declare no competing interests.
+EDAT- 2021/10/31 06:00
+MHDA- 2021/11/03 06:00
+CRDT- 2021/10/30 05:24
+PHST- 2021/06/25 00:00 [received]
+PHST- 2021/10/19 00:00 [accepted]
+PHST- 2021/10/30 05:24 [entrez]
+PHST- 2021/10/31 06:00 [pubmed]
+PHST- 2021/11/03 06:00 [medline]
+AID - 10.1186/s12913-021-07197-3 [pii]
+AID - 7197 [pii]
+AID - 10.1186/s12913-021-07197-3 [doi]
+PST - epublish
+SO  - BMC Health Serv Res. 2021 Oct 29;21(1):1177. doi: 10.1186/s12913-021-07197-3.
+
+PMID- 34196480
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211006
+LR  - 20211006
+IS  - 1742-7924 (Electronic)
+IS  - 1742-7924 (Linking)
+VI  - 18
+IP  - 4
+DP  - 2021 Oct
+TI  - Factors related to complex care needs of older adults in community-based 
+      integrated care centers in Japan: A cross-sectional study.
+PG  - e12440
+LID - 10.1111/jjns.12440 [doi]
+AB  - AIM: This study aimed to identify the factors related to complex care needs of 
+      older adults in community-based integrated care centers. METHODS: We sent 936 
+      self-reported questionnaires to community-based integrated care center directors 
+      in the Kinki region of Japan. These questionnaires included questions not only 
+      about the directors' demographic data, but also regarding the sociodemographic, 
+      psychosocial, and family-related dimensions of the older adults in the community 
+      centers. The directors divided their cases into two categories: "Complex cases" 
+      and "Straightforward cases." We compared the intergroup differences and examined 
+      the factors related to complex care needs in older adults. RESULTS: A total of 
+      232 directors responded. Complex cases were significantly associated with younger 
+      age, poor health conditions, and having a family member who needs care, as 
+      compared to straightforward cases where these associations were not present. 
+      Logistic regression showed that in older adults, factors of refusing support or 
+      social services, social isolation, and trouble with neighbors were associated 
+      with their complexities. Additionally, family members with a high likelihood of 
+      refusing social services, older adults without a key family member, and 
+      difficulties in forming their consensus regarding care were associated with older 
+      adults' complexities. CONCLUSION: Older adults with complex care needs could have 
+      the risk of self-neglect, and their families faced difficulties in supporting 
+      them as family members. Healthcare professions should carefully assess these 
+      factors and develop needs-oriented services for them without their family support 
+      as an upstream intervention.
+CI  - © 2021 Japan Academy of Nursing Science.
+FAU - Yoshioka-Maeda, Kyoko
+AU  - Yoshioka-Maeda K
+AUID- ORCID: 0000-0003-0344-0143
+AD  - Department of Health Promotion, National Institute of Public Health, Saitama, 
+      Japan.
+FAU - Kono, Ayumi
+AU  - Kono A
+AUID- ORCID: 0000-0002-8277-7141
+AD  - Department of Home Health Nursing, Osaka City University, Osaka, Japan.
+LA  - eng
+GR  - Osaka Gas Group Welfare Foundation/
+PT  - Journal Article
+DEP - 20210701
+PL  - Japan
+TA  - Jpn J Nurs Sci
+JT  - Japan journal of nursing science : JJNS
+JID - 101227890
+SB  - IM
+MH  - Aged
+MH  - Cross-Sectional Studies
+MH  - *Delivery of Health Care, Integrated
+MH  - *Family
+MH  - Humans
+MH  - Japan
+OTO - NOTNLM
+OT  - community
+OT  - cross-sectional studies
+OT  - family members
+OT  - frail
+OT  - self-neglect
+EDAT- 2021/07/02 06:00
+MHDA- 2021/10/07 06:00
+CRDT- 2021/07/01 08:51
+PHST- 2021/05/03 00:00 [revised]
+PHST- 2020/11/27 00:00 [received]
+PHST- 2021/05/24 00:00 [accepted]
+PHST- 2021/07/02 06:00 [pubmed]
+PHST- 2021/10/07 06:00 [medline]
+PHST- 2021/07/01 08:51 [entrez]
+AID - 10.1111/jjns.12440 [doi]
+PST - ppublish
+SO  - Jpn J Nurs Sci. 2021 Oct;18(4):e12440. doi: 10.1111/jjns.12440. Epub 2021 Jul 1.
+
+PMID- 33546737
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210219
+LR  - 20210420
+IS  - 1745-6215 (Electronic)
+IS  - 1745-6215 (Linking)
+VI  - 22
+IP  - 1
+DP  - 2021 Feb 5
+TI  - Transitional care from skilled nursing facilities to home: study protocol for a 
+      stepped wedge cluster randomized trial.
+PG  - 120
+LID - 10.1186/s13063-021-05068-0 [doi]
+LID - 120
+AB  - BACKGROUND: Skilled nursing facility (SNF) patients are medically complex with 
+      multiple, advanced chronic conditions. They are dependent on caregivers and have 
+      experienced recent acute illnesses. Among SNF patients, the rate of mortality or 
+      acute care use is over 50% within 90 days of discharge, yet these patients and 
+      their caregivers often do not receive the quality of transitional care that 
+      prepares them to manage serious illnesses at home. METHODS: The study will test 
+      the efficacy of Connect-Home, a successfully piloted transitional care 
+      intervention targeting seriously ill SNF patients discharged to home and their 
+      caregivers. The study setting will be SNFs in North Carolina, USA, and, following 
+      discharge, in patients' home. Using a stepped wedge cluster randomized trial 
+      design, six SNFs will transition at randomly assigned intervals from standard 
+      discharge planning to the Connect-Home intervention. The SNFs will contribute 
+      data for patients (N = 360) and their caregivers (N = 360), during both the 
+      standard discharge planning and Connect-Home time periods. Connect-Home is a 
+      two-step intervention: (a) SNF staff create an individualized Transition Plan of 
+      Care to manage the patient's illness at home; and (b) a Connect-Home Activation 
+      RN visits the patient's home to implement the written Transition Plan of Care. A 
+      key feature of the trial includes training of the SNF and Home Care Agency staff 
+      to complete the transition plan rather than using study interventionists. The 
+      primary outcomes will be patient preparedness for discharge and caregiver 
+      preparedness for caregiving role. With the proposed sample and using a two-sided 
+      test at the 5% significance level, we have 80% power to detect a 18% increase in 
+      the patient's preparedness for discharge score. We will employ linear mixed 
+      models to compare observations between intervention and usual care periods to 
+      assess primary outcomes. Secondary outcomes include (a) patients' quality of 
+      life, functional status, and days of acute care use and (b) caregivers' burden 
+      and distress. DISCUSSION: Study results will determine the efficacy of an 
+      intervention using existing clinical staff to (a) improve transitional care for 
+      seriously ill SNF patients and their caregivers, (b) prevent avoidable days of 
+      acute care use in a population with persistent risks from chronic conditions, and 
+      (c) advance the science of transitional care within end-of-life and palliative 
+      care trajectories of SNF patients and their caregivers. While this study protocol 
+      was being implemented, the COVID-19 pandemic occurred and this protocol was 
+      revised to mitigate COVID-related risks of patients, their caregivers, SNF staff, 
+      and the study team. Thus, this paper includes additional material describing 
+      these modifications. TRIAL REGISTRATION: ClinicalTrials.gov NCT03810534 . 
+      Registered on January 18, 2019.
+FAU - Toles, M
+AU  - Toles M
+AD  - School of Nursing, University of North Carolina at Chapel Hill, Chapel Hill, USA. 
+      mtoles@email.unc.edu.
+FAU - Colón-Emeric, C
+AU  - Colón-Emeric C
+AD  - School of Medicine and the Durham VA GRECC, Duke University, Durham, USA.
+FAU - Hanson, L C
+AU  - Hanson LC
+AD  - School of Medicine, University of North Carolina at Chapel Hill, Chapel Hill, 
+      USA.
+FAU - Naylor, M
+AU  - Naylor M
+AD  - School of Nursing, University of Pennsylvania, Philadelphia, USA.
+FAU - Weinberger, M
+AU  - Weinberger M
+AD  - Gillings School of Global Public Health, University of North Carolina at Chapel 
+      Hill, Chapel Hill, USA.
+FAU - Covington, J
+AU  - Covington J
+AD  - School of Nursing, University of North Carolina at Chapel Hill, Chapel Hill, USA.
+FAU - Preisser, J S
+AU  - Preisser JS
+AD  - Gillings School of Global Public Health, University of North Carolina at Chapel 
+      Hill, Chapel Hill, USA.
+LA  - eng
+SI  - ClinicalTrials.gov/NCT03810534
+GR  - R01 NR017636/NR/NINR NIH HHS/United States
+GR  - R01NR017636/NR/NINR NIH HHS/United States
+PT  - Clinical Trial Protocol
+PT  - Journal Article
+DEP - 20210205
+TA  - Trials
+JT  - Trials
+JID - 101263253
+SB  - IM
+MH  - Aged
+MH  - COVID-19/*epidemiology/virology
+MH  - Caregivers
+MH  - Cluster Analysis
+MH  - Critical Care/methods
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Frail Elderly
+MH  - Humans
+MH  - Male
+MH  - North Carolina/epidemiology
+MH  - *Pandemics
+MH  - Patient Discharge
+MH  - *Quality of Health Care
+MH  - Quality of Life
+MH  - Randomized Controlled Trials as Topic
+MH  - *SARS-CoV-2
+MH  - *Skilled Nursing Facilities
+MH  - *Transitional Care
+PMC - PMC7863858
+OTO - NOTNLM
+OT  - Aging
+OT  - Caregivers
+OT  - Frailty
+OT  - Patient discharge
+OT  - Skilled nursing facilities
+OT  - Transitional care
+COIS- The authors declare that they have no competing interests.
+EDAT- 2021/02/07 06:00
+MHDA- 2021/02/20 06:00
+CRDT- 2021/02/06 05:28
+PHST- 2020/11/10 00:00 [received]
+PHST- 2021/01/20 00:00 [accepted]
+PHST- 2021/02/06 05:28 [entrez]
+PHST- 2021/02/07 06:00 [pubmed]
+PHST- 2021/02/20 06:00 [medline]
+AID - 10.1186/s13063-021-05068-0 [pii]
+AID - 5068 [pii]
+AID - 10.1186/s13063-021-05068-0 [doi]
+PST - epublish
+SO  - Trials. 2021 Feb 5;22(1):120. doi: 10.1186/s13063-021-05068-0.
+
+PMID- 34284759
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210722
+LR  - 20211013
+IS  - 1472-6963 (Electronic)
+IS  - 1472-6963 (Linking)
+VI  - 21
+IP  - 1
+DP  - 2021 Jul 20
+TI  - Development of a theory-based intervention to increase cognitively able frail 
+      elders' engagement with advance care planning using the behaviour change wheel.
+PG  - 712
+LID - 10.1186/s12913-021-06548-4 [doi]
+LID - 712
+AB  - BACKGROUND: Advance care planning (ACP) conversations support people to think 
+      about, discuss and document their beliefs, values and preferences regarding 
+      future care. This process means that should the person loose capacity in the 
+      future, care can be provided, consistent with their personal values and beliefs. 
+      The ACP process is particularly relevant for older people living with frailty 
+      (frail elders) as they are vulnerable to sudden deterioration. However, ACP is 
+      rarely undertaken by frail elders. The aim of this study was to develop an 
+      intervention to increase multidisciplinary health and social care professionals' 
+      (H&SCPs) engagement of cognitively able, domestic-dwelling frail elders with ACP. 
+      METHODS: Intervention development was guided by the Medical Research Council 
+      framework for complex interventions and the Behaviour Change Wheel. Multiple 
+      methods were used to understand ACP barriers and enablers: a systematic 
+      integrative review, a survey (n = 73 H&SCPs), and semi-structured interviews 
+      (n = 10 frail elders, n = 8 family members). A conceptual model, developed from 
+      the integrative review, underpinned data collection for the survey and 
+      interviews. Synthesis of this data, including patient and public involvement, was 
+      then used to identify H&SCPs behaviours that needed to change for ACP to be 
+      implemented and decide content and implementation for the intervention. RESULTS: 
+      Following the Behaviour Change Wheel system, and based on the findings of the 
+      review, survey and interviews, the prototype intervention, Conversations on 
+      Living and Dying (CLaD), was developed. The CLaD prototype consisted of one 
+      3.5-hour educational skills session for H&SCPs supported by a toolkit. Content 
+      focussed on the relevance of ACP for frail elders, experience of ACP by frail 
+      elders, and strategies H&SCPs could adopt to encourage frail elders' engagement 
+      with ACP. Strategies include recognising the importance of relationships and 
+      living well now, preparing frail elders for ACP conversations and starting ACP 
+      early. Participants who took part in initial prototype refinement reported that 
+      the intervention helped them think differently about ACP and encouraged them to 
+      engage with frail elders. CONCLUSIONS: The use of behavioural theory enabled the 
+      development of CLaD, an evidence-based, theory-driven, person-centred 
+      intervention to support ACP engagement with frail elders. While feasibility 
+      testing is required, initial prototype refinement demonstrated that H&SCPs found 
+      the intervention to be acceptable, engaging, and clinically valuable in their 
+      practice with frail elders and their families.
+CI  - © 2021. The Author(s).
+FAU - Combes, S
+AU  - Combes S
+AD  - Florence Nightingale Faculty of Nursing, Midwifery and Palliative Care, King's 
+      College London, James Clerk Maxwell Building, 57 Waterloo Road, London, SE1 8WA, 
+      UK. sarah.combes@kcl.ac.uk.
+AD  - St Christopher's Hospice, London, UK. sarah.combes@kcl.ac.uk.
+FAU - Forbes, G
+AU  - Forbes G
+AD  - Centre for Behaviour Change, University College London, London, UK.
+FAU - Gillett, K
+AU  - Gillett K
+AD  - Florence Nightingale Faculty of Nursing, Midwifery and Palliative Care, King's 
+      College London, James Clerk Maxwell Building, 57 Waterloo Road, London, SE1 8WA, 
+      UK.
+FAU - Norton, C
+AU  - Norton C
+AD  - Florence Nightingale Faculty of Nursing, Midwifery and Palliative Care, King's 
+      College London, James Clerk Maxwell Building, 57 Waterloo Road, London, SE1 8WA, 
+      UK.
+FAU - Nicholson, C J
+AU  - Nicholson CJ
+AD  - St Christopher's Hospice, London, UK.
+AD  - Faculty of Health and Medical Sciences, Surrey University, Guildford, UK.
+LA  - eng
+GR  - ICA-CDRF-2017-03-012/DH_/Department of Health/United Kingdom
+PT  - Journal Article
+PT  - Systematic Review
+DEP - 20210720
+TA  - BMC Health Serv Res
+JT  - BMC health services research
+JID - 101088677
+SB  - IM
+MH  - *Advance Care Planning
+MH  - Aged
+MH  - Communication
+MH  - Family
+MH  - *Frail Elderly
+MH  - Health Personnel
+MH  - Humans
+PMC - PMC8290869
+OTO - NOTNLM
+OT  - Advance care planning
+OT  - Behaviour change wheel
+OT  - Behavioural change
+OT  - COM-B
+OT  - Communication
+OT  - End-of-life care
+OT  - Frail elderly
+OT  - Intervention development
+OT  - Palliative care
+COIS- The authors declare that they have no competing interests.
+EDAT- 2021/07/22 06:00
+MHDA- 2021/07/23 06:00
+CRDT- 2021/07/21 05:32
+PHST- 2021/03/08 00:00 [received]
+PHST- 2021/05/17 00:00 [accepted]
+PHST- 2021/07/21 05:32 [entrez]
+PHST- 2021/07/22 06:00 [pubmed]
+PHST- 2021/07/23 06:00 [medline]
+AID - 10.1186/s12913-021-06548-4 [pii]
+AID - 6548 [pii]
+AID - 10.1186/s12913-021-06548-4 [doi]
+PST - epublish
+SO  - BMC Health Serv Res. 2021 Jul 20;21(1):712. doi: 10.1186/s12913-021-06548-4.
+
+PMID- 34708549
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220503
+LR  - 20220503
+IS  - 1748-3743 (Electronic)
+IS  - 1748-3735 (Linking)
+VI  - 17
+IP  - 3
+DP  - 2022 May
+TI  - Sexual harassment or disinhibition? Residential care staff responses to older 
+      adults' unwanted behaviours.
+PG  - e12433
+LID - 10.1111/opn.12433 [doi]
+AB  - BACKGROUND: The ethical complexity of residential care is especially apparent for 
+      staff responding to residents' inappropriate sexual expression, particularly when 
+      directed towards care workers as these residents are typically frail, often 
+      cognitively impaired, and require ongoing care. OBJECTIVES: To explore staff 
+      accounts of how they made meaning of and responded to residents' unwanted sexual 
+      behaviours directed towards staff. This exploration includes whether staff 
+      appeared to accept harassment as a workplace hazard to be managed, or an 
+      unacceptable workplace violation, or something else. METHODS: These qualitative 
+      data are drawn from a national two-arm mixed method study in Aotearoa New Zealand 
+      undertaken in 35 residential care facilities. Semi-structured interviews were 
+      conducted with 77 staff, residents and family members. Interpretive description 
+      was used to analyse the data. RESULTS: Staff had numerous ways they used to 
+      respond to behaviours: (1) minimisation, deflection and de-escalation, where 
+      staff used strategies to minimise behaviours without requiring any accountability 
+      from residents; (2) holding residents accountable, where staff to some degree 
+      addressed the behaviour directly with residents; (3) blurred boundaries and 
+      complexities in intimate long-term care, where staff noted that in a context 
+      where touch is common-place, cognitive function was diminished and relationships 
+      were long-term, boundaries were easily breached; (4) dehumanising and 
+      infantilising residents' behaviours, where staff appeared to assert control 
+      through diminishing the residents' identity as an older person. It was evident 
+      that staff had developed considerable practice wisdom focused on preserving the 
+      care relationship although few referred to policy and education guiding practice. 
+      CONCLUSIONS: Staff appeared to be navigating a complex ethical terrain with 
+      thoughtfulness and skill. Care workers seemed reluctant to label resident 
+      behaviour as sexual harassment, and the term may not fit for staff where they 
+      perceive residents are frail and cognitively impaired. IMPLICATIONS FOR PRACTICE: 
+      Policy, education and clinical leadership are recommended to augment practice 
+      wisdom and ensure staff and resident safety and dignity and to determine how best 
+      to intervene with residents' unwanted sexual behaviours.
+CI  - © 2021 John Wiley & Sons Ltd.
+FAU - Cook, Catherine M
+AU  - Cook CM
+AUID- ORCID: 0000-0003-3976-6858
+AD  - School of Clinical Sciences, Auckland University of Technology, Auckland, New 
+      Zealand.
+FAU - Schouten, Vanessa
+AU  - Schouten V
+AUID- ORCID: 0000-0002-6188-5004
+AD  - School of Humanities, Massey University, Palmerston North, New Zealand.
+FAU - Henrickson, Mark
+AU  - Henrickson M
+AUID- ORCID: 0000-0003-2769-5132
+AD  - School of Social Work, Massey University, Auckland, New Zealand.
+FAU - McDonald, Sandra
+AU  - McDonald S
+AUID- ORCID: 0000-0001-8710-0108
+AD  - School of Nursing, Manukau Institute of Technology, Manukau City, New Zealand.
+FAU - Atefi, Narges
+AU  - Atefi N
+AUID- ORCID: 0000-0003-4935-737X
+AD  - School of Social Work, Massey University, Auckland, New Zealand.
+LA  - eng
+GR  - MAU1723/Royal Society Te Apārangi Marsden Fund/
+PT  - Journal Article
+DEP - 20211028
+PL  - England
+TA  - Int J Older People Nurs
+JT  - International journal of older people nursing
+JID - 101267281
+SB  - IM
+MH  - Aged
+MH  - Family
+MH  - Humans
+MH  - Long-Term Care
+MH  - Respect
+MH  - *Sexual Harassment
+MH  - Workplace
+OTO - NOTNLM
+OT  - Sexual harassment
+OT  - dementia
+OT  - disinhibited behaviour
+OT  - nursing
+OT  - older adults
+OT  - residential care
+EDAT- 2021/10/29 06:00
+MHDA- 2022/05/04 06:00
+CRDT- 2021/10/28 07:00
+PHST- 2021/06/01 00:00 [revised]
+PHST- 2021/01/13 00:00 [received]
+PHST- 2021/09/28 00:00 [accepted]
+PHST- 2021/10/29 06:00 [pubmed]
+PHST- 2022/05/04 06:00 [medline]
+PHST- 2021/10/28 07:00 [entrez]
+AID - 10.1111/opn.12433 [doi]
+PST - ppublish
+SO  - Int J Older People Nurs. 2022 May;17(3):e12433. doi: 10.1111/opn.12433. Epub 2021 
+      Oct 28.
+
+PMID- 33220911
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210802
+LR  - 20210802
+IS  - 1528-3968 (Electronic)
+IS  - 0029-6554 (Linking)
+VI  - 69
+IP  - 3
+DP  - 2021 May-Jun
+TI  - Evaluation of an interprofessional care coordination model: Benefits to health 
+      professions students and the community served.
+PG  - 322-332
+LID - S0029-6554(20)30667-9 [pii]
+LID - 10.1016/j.outlook.2020.09.007 [doi]
+AB  - BACKGROUND/PURPOSE: An innovative care coordination program was developed to 
+      enhance wellness among low-income older adults living in subsidized apartment 
+      buildings and to provide rich interprofessional education experiences for health 
+      professions students. METHODS: Program effectiveness for the residents was 
+      measured through an evaluation of participation, services used, and healthcare 
+      utilization. Educational effectiveness was measured through a change in health 
+      concepts and perceptions of interprofessional practice. FINDINGS: Health care 
+      utilization among participating residents showed an 8.6% reduction in emergency 
+      department visits and 9.8% reduction in hospital admissions. Students 
+      demonstrated improved knowledge in motivational interviewing (p = .02); diabetes 
+      (p = .02); hypertension (p≤.01); and frailty (p≤.01). Changes in students 
+      perception of interprofessional practice were significant in two areas; Teamwork 
+      and Collaboration (p≥.00); and Person Centeredness (p = .00). DISCUSSION: This 
+      care coordination model may be an effective approach to reduce care resource 
+      utilization among medically complex lower income older adults and provides a rich 
+      interprofessional learning experience for students.
+CI  - Copyright © 2020 Elsevier Inc. All rights reserved.
+FAU - Parsons, Pamela L
+AU  - Parsons PL
+AD  - Department of Family and Community Health Nursing, School of Nursing, Virginia 
+      Commonwealth University, Richmond, VA.
+FAU - Slattum, Patricia W
+AU  - Slattum PW
+AD  - Department of Pharmacotherapy and Outcomes Science, School of Pharmacy, Virginia 
+      Commonwealth University, Richmond, VA.
+FAU - Thomas, Carla K
+AU  - Thomas CK
+AD  - Health Quality Innovators (HQI), Richmond, VA.
+FAU - Cheng, Jennifer L
+AU  - Cheng JL
+AD  - Health Quality Innovators (HQI), Richmond, VA.
+FAU - Alsane, Danah
+AU  - Alsane D
+AD  - Department of Pharmacotherapy and Outcomes Science, School of Pharmacy, Virginia 
+      Commonwealth University, Richmond, VA.
+FAU - Giddens, Jean L
+AU  - Giddens JL
+AD  - School of Nursing, Virginia Commonwealth University, Richmond, VA. Electronic 
+      address: jgiddens@vcu.edu.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, P.H.S.
+DEP - 20201119
+PL  - United States
+TA  - Nurs Outlook
+JT  - Nursing outlook
+JID - 0401075
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Attitude of Health Personnel
+MH  - Community Networks/*organization & administration
+MH  - *Cooperative Behavior
+MH  - Education, Medical/*organization & administration
+MH  - Female
+MH  - Health Personnel/*psychology
+MH  - Humans
+MH  - *Interprofessional Relations
+MH  - Male
+MH  - Middle Aged
+MH  - Patient Care Team/*organization & administration
+MH  - Students, Medical/*psychology
+MH  - Surveys and Questionnaires
+MH  - Young Adult
+OTO - NOTNLM
+OT  - Care coordination
+OT  - Community-based care
+OT  - Interprofessional education
+OT  - Interprofessional practice
+OT  - Older adults
+EDAT- 2020/11/23 06:00
+MHDA- 2021/08/03 06:00
+CRDT- 2020/11/22 20:30
+PHST- 2020/04/11 00:00 [received]
+PHST- 2020/09/01 00:00 [revised]
+PHST- 2020/09/20 00:00 [accepted]
+PHST- 2020/11/23 06:00 [pubmed]
+PHST- 2021/08/03 06:00 [medline]
+PHST- 2020/11/22 20:30 [entrez]
+AID - S0029-6554(20)30667-9 [pii]
+AID - 10.1016/j.outlook.2020.09.007 [doi]
+PST - ppublish
+SO  - Nurs Outlook. 2021 May-Jun;69(3):322-332. doi: 10.1016/j.outlook.2020.09.007. 
+      Epub 2020 Nov 19.
+
+PMID- 35409900
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220413
+LR  - 20220531
+IS  - 1660-4601 (Electronic)
+IS  - 1661-7827 (Print)
+IS  - 1660-4601 (Linking)
+VI  - 19
+IP  - 7
+DP  - 2022 Apr 1
+TI  - Variability in Healthcare Expenditure According to the Stratification of Adjusted 
+      Morbidity Groups in the Canary Islands (Spain).
+LID - 10.3390/ijerph19074219 [doi]
+LID - 4219
+AB  - Morbidity is the main item in the distribution of expenditure on healthcare 
+      services. The Adjusted Morbidity Group (AMG) measures comorbidity and complexity 
+      and classifies the patient into mutually exclusive clinical categories. The aim 
+      of this study is to analyse the variability of healthcare expenditure on users 
+      with similar scores classified by the AMG. Observational analytical and 
+      retrospective study. Population: 1,691,075 subjects, from Canary Islands (Spain), 
+      aged over 15 years with data from health cards, clinical history, Basic Minimum 
+      Specialised Healthcare Data Set, AMG, hospital agreements information system and 
+      Electronic Prescriptions. A descriptive, bivariant (ANOVA coefficient η(2)) and 
+      multivariant analysis was conducted. There is a correlation between the costs and 
+      the weight of AMG (rho = 0.678) and the prescribed active ingredients (rho = 
+      0.689), which is smaller with age and does not exist with the other variables. As 
+      for the influence of the AMG morbidity group on the total costs of the patient, 
+      the coefficient η(2) (0.09) obtains a median effect in terms of the variability 
+      of expenditure, hence there is intra- and inter-group variability in the cost. In 
+      a first model created with all the variables and the cost, an explanatory power 
+      of 36.43% (R(2) = 0.3643) was obtained; a second model that uses solely active 
+      ingredients, AMG weight, being female and a pensioner obtained an explanatory 
+      power of 36.4%. There is room for improvement in terms of predicting the 
+      expenditure.
+FAU - Company-Sancho, Maria Consuelo
+AU  - Company-Sancho MC
+AUID- ORCID: 0000-0002-5410-4791
+AD  - Health Promotion Service, Directorate General for Public Health, Canary Islands 
+      Health Service, 35003 Las Palmas de Gran Canaria, Spain.
+AD  - Nursing and Healthcare Research Unit (Investén-isciii), Institute of Health 
+      Carlos III, 28029 Madrid, Spain.
+FAU - González-Chordá, Víctor M
+AU  - González-Chordá VM
+AUID- ORCID: 0000-0001-7426-6686
+AD  - Nursing Department, Universitat Jaume I, Avda Sos Baynat s/n, 12071 Castellon, 
+      Spain.
+FAU - Orts-Cortés, María Isabel
+AU  - Orts-Cortés MI
+AUID- ORCID: 0000-0002-1504-575X
+AD  - Nursing and Healthcare Research Unit (Investén-isciii), Institute of Health 
+      Carlos III, 28029 Madrid, Spain.
+AD  - Department of Nursing, University of Alicante (BALMIS), Alicante Institute for 
+      Health and Biomedical Research (ISABIAL), 03690 Alicante, Spain.
+AD  - CIBER of Frailty and Healthy Ageing, (CIBERFES) Institute of Health Carlos III, 
+      28029 Madrid, Spain.
+LA  - eng
+PT  - Journal Article
+PT  - Observational Study
+DEP - 20220401
+TA  - Int J Environ Res Public Health
+JT  - International journal of environmental research and public health
+JID - 101238455
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Cross-Sectional Studies
+MH  - *Delivery of Health Care
+MH  - Female
+MH  - *Health Expenditures
+MH  - Humans
+MH  - Male
+MH  - Morbidity
+MH  - Retrospective Studies
+MH  - Spain/epidemiology
+PMC - PMC8998451
+OTO - NOTNLM
+OT  - AMG
+OT  - costs
+OT  - morbidity aggregator (or stratification systems)
+OT  - multi-morbidity
+OT  - variability
+COIS- The authors declare no conflict of interest.
+EDAT- 2022/04/13 06:00
+MHDA- 2022/04/14 06:00
+CRDT- 2022/04/12 01:15
+PHST- 2022/03/05 00:00 [received]
+PHST- 2022/03/29 00:00 [revised]
+PHST- 2022/03/30 00:00 [accepted]
+PHST- 2022/04/12 01:15 [entrez]
+PHST- 2022/04/13 06:00 [pubmed]
+PHST- 2022/04/14 06:00 [medline]
+AID - ijerph19074219 [pii]
+AID - ijerph-19-04219 [pii]
+AID - 10.3390/ijerph19074219 [doi]
+PST - epublish
+SO  - Int J Environ Res Public Health. 2022 Apr 1;19(7):4219. doi: 
+      10.3390/ijerph19074219.
+
+PMID- 35427944
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220509
+LR  - 20220716
+IS  - 1873-491X (Electronic)
+IS  - 0020-7489 (Print)
+IS  - 0020-7489 (Linking)
+VI  - 130
+DP  - 2022 Jun
+TI  - The changing role of Advanced Clinical Practitioners working with older people 
+      during the COVID- 19 pandemic: A qualitative research study.
+PG  - 104235
+LID - S0020-7489(22)00064-5 [pii]
+LID - 10.1016/j.ijnurstu.2022.104235 [doi]
+AB  - BACKGROUND: COVID-19 was identified as a pandemic by the World Health 
+      Organisation (WHO) in December 2020. Advanced Clinical Practitioners (ACPs) in 
+      England working with older people with frailty, experienced their clinical role 
+      changing in response to the emergency health needs of this complex population 
+      group. In contrast to other countries, in England Advanced Clinical Practitioners 
+      are drawn from both nursing and allied health professions. Whilst much of the 
+      literature emphasises the importance of ensuring the sustainability of the 
+      Advanced Clinical Practitioners' role, the pandemic threw further light on its 
+      potential and challenges. However, an initial review of the literature 
+      highlighted a lack of research of Advanced Clinical Practitioners' capabilities 
+      working with uncertainty in disaster response situations. AIM: To capture the 
+      lived experience of how English Advanced Clinical Practitioners working with 
+      older people adapted their roles in response to the COVID-19 pandemic (October 
+      2020-January 2021). DESIGN, SETTING AND PARTICIPANTS: A qualitative research 
+      design was used. Following ethical approval, 23 Advanced Clinical Practitioner 
+      volunteer participants from across England with varied health professional 
+      backgrounds were recruited from Advanced Clinical Practitioners' professional and 
+      social media networks on Twitter using a snowballing technique. METHODS: 
+      Depending on preference or availability, 23 participants (nurses (18), 
+      physiotherapists (2), paramedics (2) and a pharmacist (1)) were interviewed 
+      singularly (n = 9) or as part of 3 focus groups (n = 14) using Zoom video 
+      communication. Audio recordings were transcribed and using qualitative data 
+      analysis software, NVivo 12 pro, coded for an essentialist thematic analysis of 
+      Advanced Clinical Practitioners' responses using an inductive approach. 27 codes 
+      were identified and collated into five themes. For the purposes of this paper, 
+      four themes are discussed: experiencing different work, developing attributes, 
+      negotiating barriers and changing future provision. FINDINGS: Advanced Clinical 
+      Practitioners successfully transferred their advanced practice skills into areas 
+      of clinical need during the pandemic. Their autonomous and generic, high level of 
+      expertise equipped them for management and leadership positions where speed of 
+      change, and the dissolution of traditional professional boundaries, were 
+      prioritised. Barriers to progress included a lack of knowledge of the Advanced 
+      Clinical Practitioner role and friction between Advanced Clinical Practitioners 
+      and physicians. DISCUSSION AND CONCLUSION: The study demonstrated the successful 
+      adaption of the Advanced Clinical Practitioner role to enable more creative, 
+      personalised and sustainable solutions in the care of older people living with 
+      frailty during the pandemic. The potential of Advanced Clinical Practitioner 
+      development is in a juxtaposition to the threat of pandemic services being 
+      dismantled once the emergency nature of care has passed. Healthcare organisations 
+      have a vital part to play in considering the enablers and barriers of Advanced 
+      Clinical Practitioner capability-based practice when responding to uncertainty.
+CI  - Copyright © 2022 Elsevier Ltd. All rights reserved.
+FAU - Morley, Dawn A
+AU  - Morley DA
+AD  - Department of Nursing Science, Faculty of Health and Social Science (FHSS), 
+      Bournemouth University, Bournemouth Gateway Building, St Pauls Lane, Bournemouth 
+      BH8 8AJ, United Kingdom. Electronic address: morleyd@bournemouth.ac.uk.
+FAU - Kilgore, Cliff
+AU  - Kilgore C
+AD  - Dorset Healthcare Universities NHS Foundation Trust, United Kingdom.
+FAU - Edwards, Mary
+AU  - Edwards M
+AD  - Dorset Healthcare Universities NHS Foundation Trust, United Kingdom.
+FAU - Collins, Pippa
+AU  - Collins P
+AD  - Dorset Healthcare Universities NHS Foundation Trust, United Kingdom.
+FAU - Scammell, Janet Me
+AU  - Scammell JM
+AD  - Department of Nursing Science, Faculty of Health and Social Science (FHSS), 
+      Bournemouth University, Bournemouth Gateway Building, St Pauls Lane, Bournemouth 
+      BH8 8AJ, United Kingdom.
+FAU - Fletcher, Kelsie
+AU  - Fletcher K
+AD  - Department of Nursing Science, Faculty of Health and Social Science (FHSS), 
+      Bournemouth University, Bournemouth Gateway Building, St Pauls Lane, Bournemouth 
+      BH8 8AJ, United Kingdom.
+FAU - Board, Michele
+AU  - Board M
+AD  - Department of Nursing Science, Faculty of Health and Social Science (FHSS), 
+      Bournemouth University, Bournemouth Gateway Building, St Pauls Lane, Bournemouth 
+      BH8 8AJ, United Kingdom.
+LA  - eng
+PT  - Journal Article
+DEP - 20220326
+TA  - Int J Nurs Stud
+JT  - International journal of nursing studies
+JID - 0400675
+SB  - IM
+MH  - Aged
+MH  - *COVID-19
+MH  - *Frailty
+MH  - Humans
+MH  - Leadership
+MH  - Pandemics
+MH  - Qualitative Research
+PMC - PMC8956343
+OTO - NOTNLM
+OT  - Advanced clinical practice
+OT  - COVID-19
+OT  - Capability
+OT  - Frailty
+OT  - Leadership
+OT  - Management
+OT  - Older people
+COIS- Declaration of Competing Interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2022/04/16 06:00
+MHDA- 2022/05/10 06:00
+CRDT- 2022/04/15 20:15
+PHST- 2021/07/28 00:00 [received]
+PHST- 2022/03/11 00:00 [revised]
+PHST- 2022/03/12 00:00 [accepted]
+PHST- 2022/04/16 06:00 [pubmed]
+PHST- 2022/05/10 06:00 [medline]
+PHST- 2022/04/15 20:15 [entrez]
+AID - S0020-7489(22)00064-5 [pii]
+AID - 104235 [pii]
+AID - 10.1016/j.ijnurstu.2022.104235 [doi]
+PST - ppublish
+SO  - Int J Nurs Stud. 2022 Jun;130:104235. doi: 10.1016/j.ijnurstu.2022.104235. Epub 
+      2022 Mar 26.
+
+PMID- 34246238
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210809
+LR  - 20220304
+IS  - 1471-2318 (Electronic)
+IS  - 1471-2318 (Linking)
+VI  - 21
+IP  - 1
+DP  - 2021 Jul 10
+TI  - Sex disparities in the prevalence of physical function disabilities: a 
+      population-based study in a low-income community.
+PG  - 419
+LID - 10.1186/s12877-021-02362-z [doi]
+LID - 419
+AB  - BACKGROUND: Functional disability continues to be a significant public health 
+      problem that increases older adults' vulnerability to experience a diminished 
+      quality of life, loss of independence, higher healthcare costs and health 
+      services utilization, and increased risks of mortality. Thus, we aimed to study 
+      the prevalence of functional disabilities by sex according to the types of daily 
+      living activities, controlling for specific sociodemographic variables among 
+      older Hispanics from low-income communities. METHODS: We used a cross-sectional 
+      epidemiological research design, considering a complex sampling design of 
+      households to interview adults ≥65 years living in low-income communities in 
+      Puerto Rico. Functional disability was measured by the PROMIS® Physical Function 
+      Short Form-20 T-score. The selected community was reported to have 5980 adult 
+      residents ≥65 years, according to the USA Census. The prevalence of functional 
+      disability was estimated using the logistic regression model, weighting by the 
+      effect of the sampling. Our estimated prevalence was compared between sexes using 
+      the prevalence ratio (PR), which was estimated with logistic regression models, 
+      controlling for age, income, number of chronic conditions, high and low impact of 
+      chronic conditions in functional disabilities, marital status, and sampling 
+      design. RESULTS: We recruited 211 older Hispanics from a randomly selected 
+      sample. Their mean age was 74.4 ± 7.1 years, with female predominance (57.3%). 
+      The overall estimated prevalence of physical function disability using T-score 
+      among females was 2.70 (95% CI: 1.4, 5.1) times the estimated prevalence of 
+      physical function disability among males. Women were more likely to report 
+      functional disabilities in instrumental activities of daily living, self-care 
+      activities, and functional mobility compared to males. However, sex differences 
+      were largely explained by the presence of musculoskeletal conditions of high 
+      impact in functional disability. CONCLUSIONS: The females in our study bear the 
+      greater burden of physical function disability in their adult age. Health 
+      policies, as well as future studies, should be targeted at reducing the burden of 
+      physical function disabilities in different types of daily activities through 
+      gender-sensitive disability self-management programs.
+CI  - © 2021. The Author(s).
+FAU - Orellano-Colón, Elsa M
+AU  - Orellano-Colón EM
+AUID- ORCID: 0000-0002-0832-3109
+AD  - Occupational Therapy Program, School of Health Professions, University of Puerto 
+      Rico, Medical Sciences Campus, PO Box 365067, San Juan, PR, 00936-5067, USA. 
+      elsa.orellano@upr.edu.
+FAU - Suárez-Pérez, Erick L
+AU  - Suárez-Pérez EL
+AD  - Department of Biostatistics and Epidemiology, Graduate School of Public Health, 
+      University of Puerto Rico Medical Sciences Campus, San Juan, USA.
+FAU - Rivero-Méndez, Marta
+AU  - Rivero-Méndez M
+AD  - School of Nursing, University of Puerto Rico Medical Sciences Campus, San Juan, 
+      USA.
+FAU - Boneu-Meléndez, Claudia X
+AU  - Boneu-Meléndez CX
+AD  - Department of Biostatistics and Epidemiology, Graduate School of Public Health, 
+      University of Puerto Rico Medical Sciences Campus, San Juan, USA.
+FAU - Varas-Díaz, Nelson
+AU  - Varas-Díaz N
+AD  - Global and Sociocultural Studies, Florida International University, Florida, USA.
+FAU - Lizama-Troncoso, Mauricio
+AU  - Lizama-Troncoso M
+AD  - Puerto Rico Assistive Technology Program, University of Puerto Rico Central 
+      Administration, San Juan, USA.
+FAU - Jiménez-Velázquez, Ivonne Z
+AU  - Jiménez-Velázquez IZ
+AD  - School of Medicine, University of Puerto Rico Medical Sciences Campus, San Juan, 
+      USA.
+FAU - León-Astor, Arelí
+AU  - León-Astor A
+AD  - Office of Environmental Quality, Health, and Occupational Safety, University of 
+      Puerto Rico Medical Sciences Campus, San Juan, USA.
+FAU - Jutai, Jeffrey W
+AU  - Jutai JW
+AD  - Interdisciplinary School of Science, University of Ottawa, Ottawa, Ontario, 
+      Canada.
+LA  - eng
+GR  - R21 NR018039/NR/NINR NIH HHS/United States
+GR  - R25 MH067127/MH/NIMH NIH HHS/United States
+GR  - S21 MD001830/MD/NIMHD NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+DEP - 20210710
+TA  - BMC Geriatr
+JT  - BMC geriatrics
+JID - 100968548
+SB  - IM
+MH  - *Activities of Daily Living
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Cross-Sectional Studies
+MH  - *Disabled Persons
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Prevalence
+MH  - Quality of Life
+PMC - PMC8271294
+OTO - NOTNLM
+OT  - Activities of daily living, disability
+OT  - Frail elderly
+OT  - Hispanic
+OT  - Multiple chronic conditions
+OT  - Sex
+COIS- The authors declare that they have no competing interests.
+EDAT- 2021/07/12 06:00
+MHDA- 2021/08/10 06:00
+CRDT- 2021/07/11 20:19
+PHST- 2021/02/09 00:00 [received]
+PHST- 2021/06/23 00:00 [accepted]
+PHST- 2021/07/11 20:19 [entrez]
+PHST- 2021/07/12 06:00 [pubmed]
+PHST- 2021/08/10 06:00 [medline]
+AID - 10.1186/s12877-021-02362-z [pii]
+AID - 2362 [pii]
+AID - 10.1186/s12877-021-02362-z [doi]
+PST - epublish
+SO  - BMC Geriatr. 2021 Jul 10;21(1):419. doi: 10.1186/s12877-021-02362-z.
+
+PMID- 35836164
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220718
+LR  - 20220718
+IS  - 1472-684X (Electronic)
+IS  - 1472-684X (Linking)
+VI  - 21
+IP  - 1
+DP  - 2022 Jul 15
+TI  - Interdisciplinary staff perceptions of advance care planning in long-term care 
+      homes: a qualitative study.
+PG  - 127
+LID - 10.1186/s12904-022-01014-2 [doi]
+LID - 127
+AB  - BACKGROUND: Residents living in long-term care homes (LTCH) have complex care 
+      needs, multiple chronic conditions, increasing frailty and cognitive impairment. 
+      A palliative approach that incorporates advance care planning (ACP) should be 
+      integrated with chronic disease management, yet it is not a norm in most LTCHs. 
+      Despite its growing need, there remains a lack of staff engagement in the ACP 
+      process. OBJECTIVES: The aim of this study was to explore the perceptions and 
+      experiences of interdisciplinary staff related to the practice of ACP in LTCHs. 
+      METHODS: This study is part of a larger Canadian project, iCAN ACP, that aims to 
+      increase uptake, and access to ACP for older Canadians living with frailty. An 
+      exploratory qualitative design using an interpretive descriptive approach was 
+      employed utilizing focus groups and semi-structured interviews with staff from 
+      four LTCHs in Ontario, Canada. FINDINGS: There were 98 participants, including 
+      nurses (n = 36), physicians (n = 4), personal support workers (n = 34), support 
+      staff (n = 23), and a public guardian (n = 1). Three common themes and nine 
+      subthemes were derived: a) ongoing nature of ACP; b) complexities around ACP 
+      conversations; and c) aspirations for ACP becoming a standard of care in LTCHs. 
+      DISCUSSION: The findings of this study provide important contributions to our 
+      understanding of the complexities surrounding ACP implementation as a standard of 
+      practice in LTCHs. One of the critical findings relates to a lack of ACP 
+      conversations prior to admission in the LTCHs, by which time many residents may 
+      have already lost cognitive abilities to engage in these discussions. The 
+      hierarchical nature of LTCH staffing also serves as a barrier to the 
+      interdisciplinary collaboration required for a successful implementation of ACP 
+      initiatives. Participants within our study expressed support for ACP 
+      communication and the need for open lines of formal and informal 
+      interdisciplinary communication. There is a need for revitalizing care in LTCHs 
+      through interdisciplinary care practices, clarification of role descriptions, 
+      optimized staffing, capacity building of each category of staff and commitment 
+      from the LTCH leadership for such care. CONCLUSION: The findings build on a 
+      growing body of research illustrating the need to improve staff engagement in ACP 
+      communication in LTCHs.
+CI  - © 2022. The Author(s).
+FAU - Vellani, Shirin
+AU  - Vellani S
+AD  - Faculty of Health Sciences, School of Nursing, McMaster University, 1280 Main 
+      Street West, Hamilton, ON, L8S 3Z1, Canada.
+FAU - Green, Elizabeth
+AU  - Green E
+AD  - Faculty of Health Sciences, School of Nursing, McMaster University, 1280 Main 
+      Street West, Hamilton, ON, L8S 3Z1, Canada.
+FAU - Kulasegaram, Pereya
+AU  - Kulasegaram P
+AD  - Faculty of Health Sciences, School of Nursing, McMaster University, 1280 Main 
+      Street West, Hamilton, ON, L8S 3Z1, Canada.
+FAU - Sussman, Tamara
+AU  - Sussman T
+AD  - Faculty of Arts, School of Social Work, McGill University, 3506 University St, 
+      Montreal, QC, H3A 2A7, Canada.
+FAU - Wickson-Griffiths, Abby
+AU  - Wickson-Griffiths A
+AD  - Faculty of Nursing, University of Regina, 3737 Wascana Parkway, Regina, SK, 
+      S4S0A2, Canada.
+FAU - Kaasalainen, Sharon
+AU  - Kaasalainen S
+AD  - Faculty of Health Sciences, School of Nursing, McMaster University, 1280 Main 
+      Street West, Hamilton, ON, L8S 3Z1, Canada. kaasal@mcmaster.ca.
+LA  - eng
+PT  - Journal Article
+DEP - 20220715
+TA  - BMC Palliat Care
+JT  - BMC palliative care
+JID - 101088685
+SB  - IM
+MH  - *Advance Care Planning
+MH  - Aged
+MH  - *Frailty
+MH  - Humans
+MH  - Long-Term Care
+MH  - Nursing Homes
+MH  - Ontario
+MH  - Qualitative Research
+PMC - PMC9284816
+OTO - NOTNLM
+OT  - Advance care planning
+OT  - Interdisciplinary communication
+OT  - Long-term care home
+OT  - Palliative approach
+COIS- The authors have declared that no competing financial and non-financial interests 
+      exist.
+EDAT- 2022/07/15 06:00
+MHDA- 2022/07/19 06:00
+CRDT- 2022/07/14 23:40
+PHST- 2022/01/31 00:00 [received]
+PHST- 2022/06/28 00:00 [accepted]
+PHST- 2022/07/14 23:40 [entrez]
+PHST- 2022/07/15 06:00 [pubmed]
+PHST- 2022/07/19 06:00 [medline]
+AID - 10.1186/s12904-022-01014-2 [pii]
+AID - 1014 [pii]
+AID - 10.1186/s12904-022-01014-2 [doi]
+PST - epublish
+SO  - BMC Palliat Care. 2022 Jul 15;21(1):127. doi: 10.1186/s12904-022-01014-2.
+
+PMID- 33285403
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210310
+LR  - 20210310
+IS  - 1873-5223 (Electronic)
+IS  - 1471-5953 (Linking)
+VI  - 50
+DP  - 2021 Jan
+TI  - From clinical reasoning to ehealth interventions; a study on how nurses asses 
+      care and ehealth in home care.
+PG  - 102925
+LID - S1471-5953(20)31011-8 [pii]
+LID - 10.1016/j.nepr.2020.102925 [doi]
+AB  - The assessment of care in homecare today is complex. Nurses have to decide on 
+      care for clients with multiple health problems. Technological innovations promise 
+      solutions for support of self-management of older people. We do not know, 
+      however, how and when nurses assess eHealth. A qualitative study design was used, 
+      in which 43 homecare nurses participated in focus groups and think aloud 
+      interviews. The study shows that nurses believe a trusting relationship necessary 
+      in order to suggest eHealth interventions. Nurses say they need home visits for 
+      the assessment of eHealth. Nurses also have some strong opinions on eHealth, like 
+      the notion that eHealth isn't a fitting option for frail older people. It becomes 
+      clear that nurses need to see eHealth interventions fit for clients in a 
+      person-centred way and in close connection to health problems they've prioritised 
+      in order to assess it. Implications for practice and further research are to 
+      focus on how nurses can be convinced to assess and use eHealth in a 
+      person-centred way and how to discuss this with their clients. Next to that 
+      training and a tool that provides up to date information linked to frequently 
+      seen health problems are recommended.
+CI  - Copyright © 2020 Elsevier Ltd. All rights reserved.
+FAU - der Cingel, Margreet van
+AU  - der Cingel MV
+AD  - Professor Nursing Leadership & Identity Research Group Care & Wellbeing, NHL 
+      Stenden University of Applied Sciences / Medical Centre Leeuwarden, the 
+      Netherlands. Electronic address: margreetvandercingel@gmail.com.
+FAU - Bulle-Smid, Loes
+AU  - Bulle-Smid L
+AD  - Research Group IT-innovations in Healthcare, Windesheim University of Applied 
+      Sciences, the Netherlands.
+FAU - Holterman, Sander
+AU  - Holterman S
+AD  - Research Group IT-innovations in Healthcare, Windesheim University of Applied 
+      Sciences, the Netherlands.
+FAU - Prins, Hilco
+AU  - Prins H
+AD  - Research Group IT-innovations in Healthcare, Windesheim University of Applied 
+      Sciences, the Netherlands.
+FAU - Keuning, Wouter
+AU  - Keuning W
+AD  - Research Group IT-innovations in Healthcare, Windesheim University of Applied 
+      Sciences, the Netherlands.
+FAU - Hettinga, Marike
+AU  - Hettinga M
+AD  - Research Group IT-innovations in Healthcare, Windesheim University of Applied 
+      Sciences, the Netherlands.
+LA  - eng
+PT  - Journal Article
+DEP - 20201124
+PL  - Scotland
+TA  - Nurse Educ Pract
+JT  - Nurse education in practice
+JID - 101090848
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - *Clinical Reasoning
+MH  - Focus Groups
+MH  - *Home Care Services
+MH  - Humans
+MH  - Qualitative Research
+MH  - *Telemedicine
+OTO - NOTNLM
+OT  - Community care nursing
+OT  - Person-centred care
+OT  - eHealth
+EDAT- 2020/12/08 06:00
+MHDA- 2021/03/11 06:00
+CRDT- 2020/12/07 20:11
+PHST- 2019/02/01 00:00 [received]
+PHST- 2020/07/10 00:00 [revised]
+PHST- 2020/11/12 00:00 [accepted]
+PHST- 2020/12/08 06:00 [pubmed]
+PHST- 2021/03/11 06:00 [medline]
+PHST- 2020/12/07 20:11 [entrez]
+AID - S1471-5953(20)31011-8 [pii]
+AID - 10.1016/j.nepr.2020.102925 [doi]
+PST - ppublish
+SO  - Nurse Educ Pract. 2021 Jan;50:102925. doi: 10.1016/j.nepr.2020.102925. Epub 2020 
+      Nov 24.
+
+PMID- 36096948
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220914
+LR  - 20220915
+IS  - 1745-6215 (Electronic)
+IS  - 1745-6215 (Linking)
+VI  - 23
+IP  - 1
+DP  - 2022 Sep 12
+TI  - Effectiveness of a complex regional advance care planning intervention to improve 
+      care consistency with care preferences: study protocol for a multi-center, 
+      cluster-randomized controlled trial focusing on nursing home residents (BEVOR 
+      trial).
+PG  - 770
+LID - 10.1186/s13063-022-06576-3 [doi]
+LID - 770
+AB  - BACKGROUND: According to recent legislation, facilitated advance care planning 
+      (ACP) for nursing home (NH) residents is covered by German sickness funds. 
+      However, the effects of ACP on patient-relevant outcomes have not been studied in 
+      Germany yet. This study investigates whether implementing a complex regional ACP 
+      intervention improves care consistency with care preferences in NH residents. 
+      METHODS: This is a parallel-group cluster-randomized controlled trial (cRCT) with 
+      48 NHs (≈ 3840 resident beds) between 09/2019 and 02/2023. The intervention group 
+      will receive a complex, regional ACP intervention aiming at sustainable systems 
+      redesign at all levels (individual, institutional, regional). The intervention 
+      comprises comprehensive training of ACP facilitators, implementation of reliable 
+      ACP processes, organizational development in the NH and other relevant 
+      institutions of the regional healthcare system, and education of health 
+      professionals caring for the residents. Control group NHs will deliver care as 
+      usual. Primary outcome is the hospitalization rate during the 12-months 
+      observation period. Secondary outcomes include the rate of residents whose 
+      preferences were known and honored in potentially life-threatening events, 
+      hospital days, index treatments like resuscitation and artificial ventilation, 
+      advance directives, quality of life, psychological burden on bereaved families, 
+      and costs of care. The NHs will provide anonymous, aggregated data of all their 
+      residents on the primary outcome and several secondary outcomes (data collection 
+      1). For residents who have given informed consent, we will evaluate care 
+      consistency with care preferences and further secondary outcomes, based on chart 
+      reviews and short interviews with residents, surrogates, and carers (data 
+      collection 2). Process evaluation will aim to explain barriers and facilitators, 
+      economic evaluation the cost implications. DISCUSSION: This study has the 
+      potential for high-quality evidence on the effects of a complex regional ACP 
+      intervention on NH residents, their families and surrogates, NH staff, and health 
+      care utilization in Germany. It is the first cRCT investigating a comprehensive 
+      regional ACP intervention that aims at improving patient-relevant clinical 
+      outcomes, addressing and educating multiple institutions and health care 
+      providers, besides qualification of ACP facilitators. Thereby, it can generate 
+      evidence on the potential of ACP to effectively promote patient-centered care in 
+      the vulnerable population of frail and often chronically ill elderly. TRIAL 
+      REGISTRATION: ClinicalTrials.gov ID NCT04333303 . Registered 30 March 2020.
+CI  - © 2022. The Author(s).
+FAU - Götze, Kornelia
+AU  - Götze K
+AUID- ORCID: 0000-0001-8134-7521
+AD  - Institute of General Practice, Medical Faculty, Heinrich Heine University 
+      Düsseldorf, Düsseldorf, Germany. goetzeko@uni-duesseldorf.de.
+FAU - Bausewein, Claudia
+AU  - Bausewein C
+AD  - Department of Palliative Medicine, Munich University Hospital, Munich, Germany.
+FAU - Feddersen, Berend
+AU  - Feddersen B
+AD  - Department of Palliative Medicine, Munich University Hospital, Munich, Germany.
+FAU - Fuchs, Angela
+AU  - Fuchs A
+AD  - Institute of General Practice, Medical Faculty, Heinrich Heine University 
+      Düsseldorf, Düsseldorf, Germany.
+FAU - Hot, Amra
+AU  - Hot A
+AD  - Institute of Medical Biometry and Epidemiology, University Medical Center 
+      Hamburg-Eppendorf, Hamburg, Germany.
+FAU - Hummers, Eva
+AU  - Hummers E
+AD  - Department of General Practice, University Medical Center Göttingen, Göttingen, 
+      Germany.
+FAU - Icks, Andrea
+AU  - Icks A
+AD  - Institute for Health Services Research and Health Economics, German Diabetes 
+      Center, Leibniz Center for Diabetes Research at the Heinrich Heine University 
+      Düsseldorf, Düsseldorf, Germany.
+FAU - Kirchner, Änne
+AU  - Kirchner Ä
+AD  - Institute of Health and Nursing Science, Medical Faculty, Martin Luther 
+      University Halle-Wittenberg, Halle (Saale), Germany.
+FAU - Kleinert, Evelyn
+AU  - Kleinert E
+AD  - Department of General Practice, University Medical Center Göttingen, Göttingen, 
+      Germany.
+FAU - Klosterhalfen, Stephanie
+AU  - Klosterhalfen S
+AD  - Institute of General Practice, Medical Faculty, Heinrich Heine University 
+      Düsseldorf, Düsseldorf, Germany.
+FAU - Kolbe, Henrike
+AU  - Kolbe H
+AD  - Coordination Center for Clinical Trials - KKSD, Heinrich Heine University 
+      Düsseldorf, Düsseldorf, Germany.
+FAU - Laag, Sonja
+AU  - Laag S
+AD  - Barmer Health Insurance, Wuppertal, Germany.
+FAU - Langner, Henriette
+AU  - Langner H
+AD  - Institute of Health and Nursing Science, Medical Faculty, Martin Luther 
+      University Halle-Wittenberg, Halle (Saale), Germany.
+FAU - Lezius, Susanne
+AU  - Lezius S
+AD  - Institute of Medical Biometry and Epidemiology, University Medical Center 
+      Hamburg-Eppendorf, Hamburg, Germany.
+FAU - Meyer, Gabriele
+AU  - Meyer G
+AD  - Institute of Health and Nursing Science, Medical Faculty, Martin Luther 
+      University Halle-Wittenberg, Halle (Saale), Germany.
+FAU - Montalbo, Joseph
+AU  - Montalbo J
+AD  - Institute for Health Services Research and Health Economics, German Diabetes 
+      Center, Leibniz Center for Diabetes Research at the Heinrich Heine University 
+      Düsseldorf, Düsseldorf, Germany.
+FAU - Nauck, Friedemann
+AU  - Nauck F
+AD  - Department of Palliative Medicine, University Medical Center Göttingen, 
+      Göttingen, Germany.
+FAU - Reisinger, Christine
+AU  - Reisinger C
+AD  - Institute of Ethics, History and Theory of Medicine, Ludwig Maximilians 
+      University Munich, Munich, Germany.
+FAU - Rieder, Nicola
+AU  - Rieder N
+AD  - Department of Palliative Medicine, University Medical Center Göttingen, 
+      Göttingen, Germany.
+FAU - Schildmann, Jan
+AU  - Schildmann J
+AD  - Institute for History and Ethics of Medicine, Martin Luther University 
+      Halle-Wittenberg, Halle (Saale), Germany.
+FAU - Schunk, Michaela
+AU  - Schunk M
+AD  - Department of Palliative Medicine, Munich University Hospital, Munich, Germany.
+FAU - Stanze, Henrikje
+AU  - Stanze H
+AD  - Department of Social and Nursing Science, City University of Applied Science 
+      Bremen, Bremen, Germany.
+FAU - Vogel, Christiane
+AU  - Vogel C
+AD  - Institute for History and Ethics of Medicine, Martin Luther University 
+      Halle-Wittenberg, Halle (Saale), Germany.
+FAU - Wegscheider, Karl
+AU  - Wegscheider K
+AD  - Institute of Medical Biometry and Epidemiology, University Medical Center 
+      Hamburg-Eppendorf, Hamburg, Germany.
+FAU - Zapf, Antonia
+AU  - Zapf A
+AD  - Institute of Medical Biometry and Epidemiology, University Medical Center 
+      Hamburg-Eppendorf, Hamburg, Germany.
+FAU - Marckmann, Georg
+AU  - Marckmann G
+AD  - Institute of Ethics, History and Theory of Medicine, Ludwig Maximilians 
+      University Munich, Munich, Germany.
+FAU - In der Schmitten, Jürgen
+AU  - In der Schmitten J
+AD  - Institute of Family Medicine/General Practice, Medical Faculty, University of 
+      Duisburg-Essen, Essen, Germany.
+CN  - BEVOR study group
+LA  - eng
+SI  - ClinicalTrials.gov/NCT04333303
+GR  - 01VSF18004/Gemeinsame Bundesausschuss/
+PT  - Clinical Trial Protocol
+PT  - Journal Article
+DEP - 20220912
+TA  - Trials
+JT  - Trials
+JID - 101263253
+SB  - IM
+MH  - *Advance Care Planning
+MH  - Aged
+MH  - Germany
+MH  - Health Personnel
+MH  - Humans
+MH  - Multicenter Studies as Topic
+MH  - *Nursing Homes
+MH  - Quality of Life
+MH  - Randomized Controlled Trials as Topic
+PMC - PMC9465132
+OTO - NOTNLM
+OT  - ACP facilitation
+OT  - Advance care planning
+OT  - Cluster-randomized controlled trial
+OT  - Complex intervention
+OT  - Nursing homes
+OT  - Patient-centered care
+OT  - Study protocol
+COIS- Berend Feddersen, Angela Fuchs, Kornelia Götze, Georg Marckmann, Jürgen in der 
+      Schmitten, Henrikje Stanze, Friedemann Nauck, and Jan Schildmann are ACP trainers 
+      and received professional fees for conducting ACP qualifications, talks, or 
+      workshops on ACP outside of the study. Jürgen in der Schmitten (2011-2021) has 
+      been and Kornelia Götze is (since 08/2021) treasurer of the international ACP-i 
+      society. Jürgen in der Schmitten (since 02/2017), Friedemann Nauck 
+      (02/2017-06/2021), Berend Feddersen (06/2019-06/2021), Kornelia Götze (since 
+      06/2021), and Georg Marckmann (since 02/2017) were or are committee members of 
+      the Advance Care Planning Germany society.
+FIR - Albert, Annika
+IR  - Albert A
+FIR - Alheid, Cornelia
+IR  - Alheid C
+FIR - Bausewein, Claudia
+IR  - Bausewein C
+FIR - Bruene, Manuela
+IR  - Bruene M
+FIR - Calles, Christian
+IR  - Calles C
+FIR - Camci, Havva
+IR  - Camci H
+FIR - Daubmann, Anne
+IR  - Daubmann A
+FIR - Dahlke, Sophie
+IR  - Dahlke S
+FIR - Enger, Stephanie
+IR  - Enger S
+FIR - Feddersen, Berend
+IR  - Feddersen B
+FIR - Felder, Gerd
+IR  - Felder G
+FIR - Fluck, Carsten
+IR  - Fluck C
+FIR - Freienstein, Andreas
+IR  - Freienstein A
+FIR - Freytag, Theresa
+IR  - Freytag T
+FIR - Fuchs, Angela
+IR  - Fuchs A
+FIR - Icks, Andrea
+IR  - Icks A
+FIR - In der Schmitten, Jürgen
+IR  - In der Schmitten J
+FIR - Hensel, Lena
+IR  - Hensel L
+FIR - Hummers, Eva
+IR  - Hummers E
+FIR - Hot, Amra
+IR  - Hot A
+FIR - Kirchner, Änne
+IR  - Kirchner Ä
+FIR - Kleinert, Evelyn
+IR  - Kleinert E
+FIR - Klosterhalfen, Stephanie
+IR  - Klosterhalfen S
+FIR - Kolbe, Henrike
+IR  - Kolbe H
+FIR - Laag, Sonja
+IR  - Laag S
+FIR - Langner, Henriette
+IR  - Langner H
+FIR - Lezius, Susanne
+IR  - Lezius S
+FIR - Marckmann, Georg
+IR  - Marckmann G
+FIR - Meyer, Gabriele
+IR  - Meyer G
+FIR - Montalbo, Jospeh
+IR  - Montalbo J
+FIR - Nauck, Friedemann
+IR  - Nauck F
+FIR - Nguyen, Thuy
+IR  - Nguyen T
+FIR - Nowak, Andre
+IR  - Nowak A
+FIR - Ossenberg, Malte
+IR  - Ossenberg M
+FIR - Reisinger, Christine
+IR  - Reisinger C
+FIR - Reuter, Sophia
+IR  - Reuter S
+FIR - Rieder, Nicola
+IR  - Rieder N
+FIR - Riester, Tanja
+IR  - Riester T
+FIR - Rosu, Irina
+IR  - Rosu I
+FIR - Rösgen, Holger
+IR  - Rösgen H
+FIR - Salanta, Katharina
+IR  - Salanta K
+FIR - Sassi, Zeinep
+IR  - Sassi Z
+FIR - Schildmann, Jan
+IR  - Schildmann J
+FIR - Schulenberg, Thomas
+IR  - Schulenberg T
+FIR - Schunk, Michaela
+IR  - Schunk M
+FIR - Sommer, Daniela
+IR  - Sommer D
+FIR - Stanze, Henrikje
+IR  - Stanze H
+FIR - Stöhr, Andreas
+IR  - Stöhr A
+FIR - Theuerkauf, Anke
+IR  - Theuerkauf A
+FIR - Thilo, Nancy
+IR  - Thilo N
+FIR - Tönjann, Jessica
+IR  - Tönjann J
+FIR - Partowinia-Peters, Mahnaz
+IR  - Partowinia-Peters M
+FIR - Prommersberger, Sebastian
+IR  - Prommersberger S
+FIR - Przybylla, Susanne
+IR  - Przybylla S
+FIR - Vogel, Christiane
+IR  - Vogel C
+FIR - Vomhof, Markus
+IR  - Vomhof M
+FIR - Wilken, Janka
+IR  - Wilken J
+FIR - Zapf, Antonia
+IR  - Zapf A
+FIR - Zimprich, Jennifer
+IR  - Zimprich J
+EDAT- 2022/09/13 06:00
+MHDA- 2022/09/15 06:00
+CRDT- 2022/09/12 23:47
+PHST- 2022/05/22 00:00 [received]
+PHST- 2022/07/20 00:00 [accepted]
+PHST- 2022/09/12 23:47 [entrez]
+PHST- 2022/09/13 06:00 [pubmed]
+PHST- 2022/09/15 06:00 [medline]
+AID - 10.1186/s13063-022-06576-3 [pii]
+AID - 6576 [pii]
+AID - 10.1186/s13063-022-06576-3 [doi]
+PST - epublish
+SO  - Trials. 2022 Sep 12;23(1):770. doi: 10.1186/s13063-022-06576-3.
+
+PMID- 35055488
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220228
+LR  - 20220228
+IS  - 1660-4601 (Electronic)
+IS  - 1661-7827 (Print)
+IS  - 1660-4601 (Linking)
+VI  - 19
+IP  - 2
+DP  - 2022 Jan 7
+TI  - Key Components for the Delivery of Palliative and End-of-Life Care in Care Homes 
+      in Hong Kong: A Modified Delphi Study.
+LID - 10.3390/ijerph19020667 [doi]
+LID - 667
+AB  - Integrating the palliative care approach into care home service to address the 
+      complex care needs of older adults with frailty or advanced diseases has been 
+      increasingly recognized. However, such a service is underdeveloped in Hong Kong 
+      owing to socio-cultural and legal concerns. We adopted a modified Delphi study 
+      design to identify the key components for the delivery of palliative and 
+      end-of-life care in care home settings for the local context. It was an iterative 
+      staged method to assimilate views of experts in aged care, palliative care, and 
+      care home management. A multidisciplinary expert panel of 18 members consented to 
+      participate in the study. They rated their level of agreement with 61 candidate 
+      statements identified through a scoping review in two rounds of anonymous 
+      surveys. The steering group revised the statements in light of the survey 
+      findings. Eventually, the finalized list included 28 key statements concerning 
+      structure and process of care in seven domains, namely policy and infrastructure, 
+      education, assessment, symptom management, communication, care for dying 
+      patients, and family support. The findings of this study underscored concerns 
+      regarding the feasibility of statements devised at different levels of palliative 
+      care development. This list would be instrumental for regions where the 
+      development of palliative and end-of-life care services in care home setting is 
+      at an initial stage.
+FAU - Chan, Helen Yue-Lai
+AU  - Chan HY
+AUID- ORCID: 0000-0003-4038-4654
+AD  - The Nethersole School of Nursing, The Chinese University of Hong Kong, Hong Kong 
+      SAR, China.
+FAU - Chan, Cecilia Nim-Chee
+AU  - Chan CN
+AD  - The Hong Kong Association of Gerontology, Hong Kong SAR, China.
+FAU - Man, Chui-Wah
+AU  - Man CW
+AD  - The Hong Kong Association of Gerontology, Hong Kong SAR, China.
+FAU - Chiu, Alice Dik-Wah
+AU  - Chiu AD
+AD  - The Hong Kong Association of Gerontology, Hong Kong SAR, China.
+FAU - Liu, Faith Chun-Fong
+AU  - Liu FC
+AD  - The Hong Kong Association of Gerontology, Hong Kong SAR, China.
+FAU - Leung, Edward Man-Fuk
+AU  - Leung EM
+AD  - The Hong Kong Association of Gerontology, Hong Kong SAR, China.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20220107
+TA  - Int J Environ Res Public Health
+JT  - International journal of environmental research and public health
+JID - 101238455
+SB  - IM
+MH  - Aged
+MH  - Delphi Technique
+MH  - Hong Kong
+MH  - *Hospice Care
+MH  - Humans
+MH  - Palliative Care
+MH  - *Terminal Care
+PMC - PMC8775885
+OTO - NOTNLM
+OT  - end of life
+OT  - long-term care
+OT  - older adults
+OT  - palliative care
+OT  - quality of care
+OT  - residential care home
+OT  - service development
+COIS- The authors declare no conflict of interest. The funders had no role in the 
+      design of the study; in the collection, analyses, or interpretation of data; in 
+      the writing of the manuscript; or in the decision to publish the results.
+EDAT- 2022/01/22 06:00
+MHDA- 2022/03/01 06:00
+CRDT- 2022/01/21 01:11
+PHST- 2021/12/06 00:00 [received]
+PHST- 2022/01/03 00:00 [revised]
+PHST- 2022/01/04 00:00 [accepted]
+PHST- 2022/01/21 01:11 [entrez]
+PHST- 2022/01/22 06:00 [pubmed]
+PHST- 2022/03/01 06:00 [medline]
+AID - ijerph19020667 [pii]
+AID - ijerph-19-00667 [pii]
+AID - 10.3390/ijerph19020667 [doi]
+PST - epublish
+SO  - Int J Environ Res Public Health. 2022 Jan 7;19(2):667. doi: 
+      10.3390/ijerph19020667.
+
+PMID- 35365140
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220405
+LR  - 20220405
+IS  - 1472-6963 (Electronic)
+IS  - 1472-6963 (Linking)
+VI  - 22
+IP  - 1
+DP  - 2022 Apr 1
+TI  - Balancing standardisation and individualisation in transitional care pathways: a 
+      meta-ethnography of the perspectives of older patients, informal caregivers and 
+      healthcare professionals.
+PG  - 430
+LID - 10.1186/s12913-022-07823-8 [doi]
+LID - 430
+AB  - BACKGROUND: Transitional care implies the transfer of patients within or across 
+      care settings in a seamless and safe way. For frail, older patients with complex 
+      health issues, high-quality transitions are especially important as these 
+      patients typically move more frequently within healthcare settings, requiring 
+      treatment from different providers. As transitions of care for frail people are 
+      considered risky, securing the quality and safety of these transitions is of 
+      great international interest. Nevertheless, despite efforts to improve quality in 
+      transitional care, research indicates that there is a lack of clear guidance to 
+      deal with practical challenges that may arise. The aim of this article is to 
+      synthesise older patients, informal caregivers and healthcare professionals' 
+      experiences of challenges to achieving high-quality transitional care. METHODS: 
+      We used the seven-step method for meta-ethnography originally developed by Noblit 
+      and Hare. In four different but connected qualitative projects, the authors 
+      investigated the challenges to transitional care for older people in the 
+      Norwegian healthcare system from the perspectives of older patients, informal 
+      caregivers and healthcare professionals. In this paper, we highlight and discuss 
+      the cruciality of these challenging issues by synthesising the results from 
+      twelve articles. RESULTS: The analysis resulted in four themes: i) balancing 
+      person-centred versus efficient care, ii) balancing everyday patient life versus 
+      the treatment of illness, iii) balancing user choice versus "What Matters to 
+      You", and iv) balancing relational versus practical care. These expressed 
+      challenges represent tensions at the system, organisation and individual levels 
+      based on partial competing assumptions on person-centred-care-inspired 
+      individualisation endeavours and standardisation requirements in transitional 
+      care. CONCLUSIONS: There is an urgent need for a clearer understanding of the 
+      tension between standardisation and individualisation in transitional care 
+      pathways for older patients to ensure better healthcare quality for patients and 
+      more realistic working environments for healthcare professionals. Incorporating a 
+      certain professional flexibility within the wider boundary of standardisation may 
+      give healthcare professionals room for negotiation to meet patients' individual 
+      needs, while at the same time ensuring patient flow, equity and evidence-based 
+      practice.
+CI  - © 2022. The Author(s).
+FAU - Kvæl, Linda Aimée Hartford
+AU  - Kvæl LAH
+AD  - Faculty of Health Sciences, Department of Physical Therapy, Oslo Metropolitan 
+      University, PO box 4 , St. Olavs plass, NO-0130, Oslo, Norway. linaim@oslomet.no.
+AD  - Norwegian Social Research - NOVA, Department of Ageing Research and Housing 
+      Studies, Oslo Metropolitan University, PO box 4, St. Olavs plass, NO-0130, Oslo, 
+      Norway. linaim@oslomet.no.
+FAU - Hellesø, Ragnhild
+AU  - Hellesø R
+AD  - Faculty of Medicine, Institute of Health and Society, Department of Nursing 
+      Science, University of Oslo, P.O. 1130, Blindern, 0318, Oslo, Norway.
+AD  - Center for Care Research, Norwegian University of Science and Technology (NTNU), 
+      Pb 191, 2802, Gjøvik, Norway.
+FAU - Bergland, Astrid
+AU  - Bergland A
+AD  - Faculty of Health Sciences, Department of Physical Therapy, Oslo Metropolitan 
+      University, PO box 4 , St. Olavs plass, NO-0130, Oslo, Norway.
+FAU - Debesay, Jonas
+AU  - Debesay J
+AD  - Faculty of Health Sciences, Department of Nursing and Health Promotion, Oslo 
+      Metropolitan University, PO box 4, St. Olavs plass, NO-0130, Oslo, Norway.
+LA  - eng
+PT  - Journal Article
+DEP - 20220401
+TA  - BMC Health Serv Res
+JT  - BMC health services research
+JID - 101088677
+SB  - IM
+MH  - Aged
+MH  - Anthropology, Cultural
+MH  - *Caregivers
+MH  - Delivery of Health Care
+MH  - Health Personnel
+MH  - Humans
+MH  - *Transitional Care
+PMC - PMC8974038
+OTO - NOTNLM
+OT  - Clinical work
+OT  - Integrated care
+OT  - Meta-ethnography
+OT  - Norway
+OT  - Older persons
+OT  - Person-centred care
+OT  - Transitional care
+COIS- The authors declare no conflict of interest.
+EDAT- 2022/04/03 06:00
+MHDA- 2022/04/06 06:00
+CRDT- 2022/04/02 05:21
+PHST- 2021/12/09 00:00 [received]
+PHST- 2022/03/22 00:00 [accepted]
+PHST- 2022/04/02 05:21 [entrez]
+PHST- 2022/04/03 06:00 [pubmed]
+PHST- 2022/04/06 06:00 [medline]
+AID - 10.1186/s12913-022-07823-8 [pii]
+AID - 7823 [pii]
+AID - 10.1186/s12913-022-07823-8 [doi]
+PST - epublish
+SO  - BMC Health Serv Res. 2022 Apr 1;22(1):430. doi: 10.1186/s12913-022-07823-8.

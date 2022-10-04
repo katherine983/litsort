@@ -1,0 +1,159 @@
+
+File name added:  None
+Date/time of data add:  2021-06-08T17:18:10.286081
+Article repeats:  1813
+Article count before program ran:  1329
+Article count after program completed:  1329
+Total modifications to database:  1813
+
+Database reset.
+
+File name added:  None
+Date/time of data add:  2021-06-08T17:51:24.268138
+Article repeats:  484
+Article count before program ran:  0
+Article count after program completed:  1329
+Total modifications to database:  6095
+
+Database reset.
+
+File name added:  None
+Date/time of data add:  2021-06-08T17:53:03.057611
+Article repeats:  484
+Article count before program ran:  0
+Article count after program completed:  1329
+Total modifications to database:  6095
+
+Database reset.
+
+File name added:  pubmed-frailtyMeS-set.txt
+Date/time of data add:  2021-06-16T13:10:09.536682
+Article repeats:  0
+Article count before program ran:  0
+Article count after program completed:  182
+Total modifications to database:  783
+
+File name added:  pubmed-geriatricn-set.txt
+Date/time of data add:  2021-06-16T13:11:08.183146
+Article repeats:  8
+Article count before program ran:  182
+Article count after program completed:  258
+Total modifications to database:  270
+
+Database reset.
+
+File name added:  ProQuestallagingandcomplexityorcomplexandfrailandnurs_2021-06-23.xls
+Date/time of data add:  2021-06-30T17:42:49.330902
+Article repeats:  0
+Article count before program ran:  0
+Article count after program completed:  16
+Total modifications to database:  151
+
+File name added:  MHallagingandcomplexityorcomplexandfrail_nurseauth_2021.06.23.xml
+Date/time of data add:  2021-07-01T12:59:42.686018
+Article repeats:  0
+Article count before program ran:  16
+Article count after program completed:  37
+Total modifications to database:  57
+
+Database reset.
+
+File name added:  CINAHL / None
+Date/time of data add:  2021-07-01T15:55:21.518432
+Article repeats:  29
+Article count before program ran:  0
+Article count after program completed:  205
+Total modifications to database:  537
+
+File name added: PUBMED / None
+Date/time of data add:  2021-07-01T16:05:37.270852
+Article repeats:  108
+Article count before program ran:  205
+Article count after program completed:  346
+Total modifications to database:  812
+
+File name added: HSN / None
+Date/time of data add:  2021-07-01T16:18:20.188865
+Article repeats:  62
+Article count before program ran:  346
+Article count after program completed:  528
+Total modifications to database:  481
+
+File name added: WOS / None
+Date/time of data add:  2021-07-01T16:19:57.062045
+Article repeats:  112
+Article count before program ran:  528
+Article count after program completed:  598
+Total modifications to database:  1043
+
+File name added: PSYCINFO / None
+Date/time of data add:  2021-07-01T16:22:20.101243
+Article repeats:  16
+Article count before program ran:  598
+Article count after program completed:  723
+Total modifications to database:  883
+
+File name added: HSN / None
+Date/time of data add:  2021-07-01T18:23:05.229946
+Article repeats:  244
+Article count before program ran:  723
+Article count after program completed:  723
+Total modifications to database:  244
+
+Database reset.
+
+File name added: CINAHL / MHallagingandcomplexityorcomplexandfrail_nurseauth_2021.06.23.xml
+Date/time of data add:  2021-07-01T18:26:30.440424
+Article repeats:  0
+Article count before program ran:  0
+Article count after program completed:  21
+Total modifications to database:  59
+
+File name added: PUBMED / pubmed-frailtyMeS-complexorcomplexity-allaging-_2021.06.24.txt
+Date/time of data add:  2021-07-01T18:27:27.265258
+Article repeats:  2
+Article count before program ran:  21
+Article count after program completed:  136
+Total modifications to database:  537
+
+File name added: PSYCINFO / ProQuestallagingandcomplexityorcomplexandfrailandnurs_2021-06-23.xls
+Date/time of data add:  2021-07-01T18:28:24.351303
+Article repeats:  0
+Article count before program ran:  136
+Article count after program completed:  152
+Total modifications to database:  149
+
+File name added: HSN / None
+Date/time of data add:  2021-07-01T18:29:21.836146
+Article repeats:  23
+Article count before program ran:  152
+Article count after program completed:  373
+Total modifications to database:  534
+
+File name added: PSYCINFO / ProQuestallagingandcomplexityorcomplexandfrail_2021-06-23.xls
+Date/time of data add:  2021-07-01T18:30:07.617045
+Article repeats:  16
+Article count before program ran:  373
+Article count after program completed:  482
+Total modifications to database:  741
+
+File name added: WOS / complexityorcomplextiorabandallaging_onlynursing_2021.06.24.xls
+Date/time of data add:  2021-07-01T18:30:51.350415
+Article repeats:  91
+Article count before program ran:  482
+Article count after program completed:  573
+Total modifications to database:  1063
+
+File name added: PUBMED / pubmed-frailtyMeS-complexityorcomplex-allaging-nursjour-2021.06.24.txt
+Date/time of data add:  2021-07-01T18:31:42.605551
+Article repeats:  93
+Article count before program ran:  573
+Article count after program completed:  612
+Total modifications to database:  278
+
+File name added: CINAHL / Mhallagingandcomplexityorcomplexandfrail_nursjournals_2021.06.23.xml
+Date/time of data add:  2021-07-01T18:33:06.541948
+Article repeats:  102
+Article count before program ran:  612
+Article count after program completed:  723
+Total modifications to database:  395

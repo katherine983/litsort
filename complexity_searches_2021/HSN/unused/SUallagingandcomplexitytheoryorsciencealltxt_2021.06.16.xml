@@ -1,0 +1,2349 @@
+<records>
+<rec resultID="1">
+  <header shortDbName="a9h" longDbName="Academic Search Complete" uiTerm="150068754">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Experimental Gerontology</jtl>
+        <issn>05315565</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2021" month="07" day="01">Jul2021</dt>
+        <vid>149</vid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1016/j.exger.2021.111341</ui>
+        <ppf>N.PAG</ppf>
+        <ppct>1</ppct>
+        <formats />
+        <tig>
+          <atl>Dynamical indicators of resilience from physiological time series in geriatric inpatients: Lessons learned.</atl>
+        </tig>
+        <aug>
+          <au>Rector, Jerrald L.</au>
+          <au>Gijzel, Sanne M.W.</au>
+          <au>van de Leemput, Ingrid A.</au>
+          <au>van Meulen, Fokke B.</au>
+          <au>Olde Rikkert, Marcel G.M.</au>
+          <au>Melis, René J.F.</au>
+          <affil>Department of Geriatrics, Radboud Institute for Health Sciences, Radboud University Medical Center, Nijmegen, the Netherlands</affil>
+          <affil>Department of Environmental Sciences, Wageningen University, Wageningen, the Netherlands</affil>
+          <affil>Department of Electrical Engineering, Eindhoven University of Technology, De Zaale, Eindhoven, the Netherlands</affil>
+          <affil>Sleep Medicine Center Kempenhaeghe, Sterkselseweg 65, Heeze, the Netherlands</affil>
+        </aug>
+        <sug>
+          <subj type="thes">GERIATRICS</subj>
+          <subj type="thes">OLDER patients</subj>
+          <subj type="thes">HEART beat</subj>
+          <subj type="thes">HOSPITAL admission &amp; discharge</subj>
+          <subj type="thes">REGRESSION analysis</subj>
+        </sug>
+        <ab>The concept of physical resilience may help geriatric medicine objectively assess patients' ability to 'bounce back' from future health challenges. Indicators putatively forecasting resilience have been developed under two paradigms with different perspectives: Critical Slowing Down and Loss of Complexity. This study explored whether these indicators validly reflect the construct of resilience in geriatric inpatients. Geriatric patients (n = 121, 60% female) had their heart rate and physical activity continuously monitored using a chest-worn sensor. Indicators from both paradigms were extracted from both physiological signals. Measures of health functioning, concomitant with low resilience, were obtained by questionnaire at admission. The relationships among indicators and their associations with health functioning were assessed by correlation and linear regression analyses, respectively. Greater complexity and higher variance in physical activity were associated with lower frailty (β = −0.28, p =.004 and β = −0.37, p &lt;.001, respectively) and better ADL function (β = 0.23, p =.022 and β = 0.38, p &lt;.001). The associations of physical activity variance with health functioning were not in the expected direction based on Critical Slowing Down. In retrospect, these observations stress the importance of matching the resilience paradigm's assumptions to the homeostatic role of the variable monitored. We present several lessons learned. • Quantifying physical resilience may help assess recovery potential in the elderly. • Complexity Science offers quantitative indicators to capture aspects of resilience. • Critical Slowing Down and Loss of Complexity assess different underlying mechanisms. • Physical activity complexity and variance coincided with better health functioning. • The assumptions of the paradigm must match the homeostatic roles of the variables.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=a9h&amp;AN=150068754&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="2">
+  <header shortDbName="a9h" longDbName="Academic Search Complete" uiTerm="149513379">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Entropy</jtl>
+        <issn>10994300</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2021" month="03" day="01">Mar2021</dt>
+        <vid>23</vid>
+        <iid>3</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.3390/e23030375</ui>
+        <ppf>375</ppf>
+        <ppct>1</ppct>
+        <formats>
+          <fmt type="HTML Full Text" />
+          <fmt type="PDF" size="798KB" />
+        </formats>
+        <tig>
+          <atl>The Impact of Visual Input and Support Area Manipulation on Postural Control in Subjects after Osteoporotic Vertebral Fracture.</atl>
+        </tig>
+        <aug>
+          <au>Błażkiewicz, Michalina</au>
+          <au>Kędziorek, Justyna</au>
+          <au>Hadamus, Anna</au>
+          <au>Sherwin, William B.</au>
+          <au>Syczewska, Małgorzata</au>
+          <affil>Department of Physiotherapy, The Józef Piłsudski University of Physical Education in Warsaw, 00-968 Warsaw, Poland</affil>
+          <affil>Department of Rehabilitation, Faculty of Medical Sciences, Medical University of Warsaw, 02-091 Warsaw, Poland</affil>
+        </aug>
+        <sug>
+          <subj type="thes">BONE fractures</subj>
+          <subj type="thes">FRACTAL dimensions</subj>
+          <subj type="thes">ACCIDENTAL fall prevention</subj>
+          <subj type="thes">OLDER people</subj>
+          <subj type="thes">LEAD abatement</subj>
+          <subj type="thes">POSTURAL muscles</subj>
+        </sug>
+        <ab>Osteoporosis is a prevalent health concern among older adults and is associated with an increased risk of falls that may result in fracture, injury, or even death. Identifying the risk factors for falls and assessing the complexity of postural control within this population is essential for developing effective regimes for fall prevention. The aim of this study was to assess postural control in individuals recovering from osteoporotic vertebral fractures while performing various stability tasks. Seventeen individuals with type II osteoporosis and 17 healthy subjects participated in this study. The study involved maintaining balance while standing barefoot on both feet for 20 s on an Advanced Mechanical Technology Inc. (AMTI) plate, with eyes open, eyes closed, and eyes closed in conjunction with a dual-task. Another three trials lasting 10 s each were undertaken during a single-leg stance under the same conditions. Fall risk was assessed using the Biodex Balance platform. Nonlinear measures were used to assess center of pressure (CoP) dynamics in all trials. Reducing the support area or elimination of the visual control led to increased sample entropy and fractal dimension. Results of the nonlinear measurements indicate that individuals recovering from osteoporotic vertebral fractures are characterized by decreased irregularity, mainly in the medio-lateral direction and reduced complexity.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=a9h&amp;AN=149513379&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="3">
+  <header shortDbName="a9h" longDbName="Academic Search Complete" uiTerm="148309126">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>PLoS ONE</jtl>
+        <issn>19326203</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2021" month="01" day="25">1/25/2021</dt>
+        <vid>16</vid>
+        <iid>1</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1371/journal.pone.0244600</ui>
+        <ppf>1</ppf>
+        <ppct>15</ppct>
+        <formats>
+          <fmt type="HTML Full Text" />
+          <fmt type="PDF" size="666KB" />
+        </formats>
+        <tig>
+          <atl>Next of kin participation in the care of older persons in nursing homes: A pre–post non-randomised educational evaluation, using within-group and individual person-level comparisons.</atl>
+        </tig>
+        <aug>
+          <au>Westergren, Albert</au>
+          <au>Ahlström, Gerd</au>
+          <au>Persson, Magnus</au>
+          <au>Behm, Lina</au>
+          <affil>Faculty of Medicine, Department of Health Sciences, Lund University, Lund, Sweden</affil>
+          <affil>Faculty of Health Sciences, Research Platform for Collaboration for Health, Kristianstad University, Kristianstad, Sweden</affil>
+          <affil>Faculty of Health Sciences, Kristianstad University, Kristianstad, Sweden</affil>
+        </aug>
+        <sug>
+          <subj type="thes">NURSING care facilities</subj>
+          <subj type="thes">OLDER people</subj>
+          <subj type="thes">EDUCATIONAL evaluation</subj>
+          <subj type="thes">CARE of people</subj>
+          <subj type="thes">NURSING home care</subj>
+          <subj type="naics">Nursing Care Facilities (Skilled Nursing Facilities)</subj>
+          <subj type="naics">Community care facilities for the elderly</subj>
+          <subj type="unclass">CLINICAL trial registries</subj>
+        </sug>
+        <ab>Background: Next of kin participation in care is a cornerstone of palliative care and is thus important in nursing homes, and outcomes following interventions need to be evaluated using robust methods. Objective: To use within-group and within-individual analytical approaches to evaluate the participation of next of kin in care following an intervention and to compare the outcome between the intervention and control groups. Methods: A pre–post intervention/control group study design was used. The educational intervention, directed towards staff members, focused on palliative care. The Next of Kin Participation in Care scale comprises the Communication and Trust subscale and the Collaboration in Care subscale, with nine items each. In total, 203 persons (intervention group: n = 95; control group: n = 108) were included. Three different analytical approaches were used: 1) traditional within-group comparison of raw ordinal scores and linearly transformed interval scores; 2) modern within-individual (person-level) interval score comparisons; 3) comparisons between the intervention group and control group based on individual person-level outcomes. Results: Within-group comparisons of change revealed no change in any of the groups, whether based on raw or transformed scores. Despite this, significant improvements at the individual level were found in 32.9% of the intervention group and 11.6% of the control group for the total scale (p = 0.0024), in 25% of the intervention group and 10.5% of the control group for the Communication and Trust subscale (p = 0.0018), and in 31.2% of the intervention group and 10.5% of the control group for the Collaboration in Care subscale (p = 0.0016). However, a significant worsening at the individual level in Collaboration in Care was found in 35.1% of the intervention group but only among 8.4% of the control group (p &lt; 0.0005). Conclusion: The intervention seems to have a positive impact on next of kin participation in care in nursing homes, especially for communication and trust. However, some next of kin reported decreased participation in care after the intervention. Modern individual person-level approaches for the analysis of intervention outcomes revealed individual significant changes beyond traditional group-level comparisons that would otherwise be hidden. The findings are relevant for future outcome studies and may also necessitate a re-evaluation of previous studies that have not used individual person-level comparisons. Trial registration: This study is part of the intervention project registered under Clinical Trials Registration NCT02708498.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=a9h&amp;AN=148309126&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="4">
+  <header shortDbName="a9h" longDbName="Academic Search Complete" uiTerm="148950231">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>European Physical Journal B -- Condensed Matter</jtl>
+        <issn>14346028</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2021" month="01" day="01">Jan2021</dt>
+        <vid>94</vid>
+        <iid>1</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1140/epjb/s10051-020-00039-x</ui>
+        <ppf>1</ppf>
+        <ppct>23</ppct>
+        <formats />
+        <tig>
+          <atl>Record dynamics of evolving metastable systems: theory and applications.</atl>
+        </tig>
+        <aug>
+          <au>Sibani, Paolo</au>
+          <au>Boettcher, Stefan</au>
+          <au>Jensen, Henrik Jeldtoft</au>
+          <affil>FKF, University of Southern Denmark, Campusvej 55, DK5230, Odense M, Denmark</affil>
+          <affil>Department of Physics, Emory University, 30322, Atlanta, GA, USA</affil>
+          <affil>Department of Mathematics, Centre for Complexity Science, Imperial College London, South Kensington Campus, SW7 2AZ, London, UK</affil>
+          <affil>Institute of Innovative Research, Tokyo Institute of Technology, 4259, Nagatsuta-cho, 226-8502, Yokohama, Japan</affil>
+        </aug>
+        <sug>
+          <subj type="thes">SYSTEMS theory</subj>
+          <subj type="thes">RANDOM walks</subj>
+          <subj type="thes">CONFIGURATION space</subj>
+          <subj type="thes">AGING</subj>
+          <subj type="thes">HOMOGENEITY</subj>
+          <subj type="thes">WHITE noise</subj>
+        </sug>
+        <ab>Record Dynamics (RD) deals with complex systems evolving through a sequence of metastable stages. These are macroscopically distinguishable and appear stationary, except for the sudden and rapid changes, called quakes, which induce the transitions from one stage to the next. This phenomenology is well known in physics as "physical aging", but from the vantage point of RD, the evolution of a class of systems of physical, biological, and cultural origin is rooted in a hierarchically structured configuration space and can, therefore, be analyzed by similar statistical tools. This colloquium paper strives to present in a coherent fashion methods and ideas that have gradually evolved over time. To this end, it first describes the differences and similarities between RD and two widespread paradigms of complex dynamics, Self-Organized Criticality and Continuous Time Random Walks. It then outlines the Poissonian nature of records events in white noise time-series, and connects it to the statistics of quakes in metastable hierarchical systems, arguing that the relaxation effects of quakes can generally be described by power laws unrelated to criticality. Several different applications of RD have been developed over the years. Some of these are described, showing the basic RD hypothesis and how the log-time homogeneity of quake dynamics, can be empirically verified in a given context. The discussion summarizes the paper and briefly mentions applications not discussed in detail. Finally, the outlook points to possible improvements and to new areas of research where RD could be of use.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=a9h&amp;AN=148950231&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="5">
+  <header shortDbName="a9h" longDbName="Academic Search Complete" uiTerm="146390292">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>BMC Women's Health</jtl>
+        <issn>14726874</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2020" month="10" day="12">10/12/2020</dt>
+        <vid>20</vid>
+        <iid>1</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1186/s12905-020-01092-5</ui>
+        <ppf>N.PAG</ppf>
+        <ppct>1</ppct>
+        <formats>
+          <fmt type="HTML Full Text" />
+          <fmt type="PDF" size="2.2MB" />
+        </formats>
+        <tig>
+          <atl>Complicated versus complexity: when an old woman and her daughter meet the health care system.</atl>
+        </tig>
+        <aug>
+          <au>Sund Levander, Märta</au>
+          <au>Tingström, Pia</au>
+          <affil>Department of Nursing, Medical faculty, Linköping University, Linköping, Sweden</affil>
+        </aug>
+        <sug>
+          <subj type="thes">OLDER women</subj>
+          <subj type="thes">MOTHERS</subj>
+          <subj type="thes">FRAIL elderly</subj>
+          <subj type="thes">MEDICAL care</subj>
+          <subj type="thes">OLDER patients</subj>
+          <subj type="thes">URINARY tract infections</subj>
+        </sug>
+        <ab>&lt;bold&gt;Background: &lt;/bold&gt;Detecting infection in frail elderly is a challenge due to lack of specific signs and symptoms. We highlight the complex situation when an elderly woman with urinary tract infection (UTI) and her daughter meet the highly qualified health care system. The aim was to describe and analyze the process when an elderly individual with an acute infection encounters the healthcare system.&lt;bold&gt;Methods: &lt;/bold&gt;A descriptive, retrospective Single Case Study design with a qualitative approach was used. Data from interviews with the old women and her daughter, medical record data and different regulatory documents were gathered and analysed with a qualitative content analysis. In a second step, the results were interpreted with concepts from the complexity theory. Complexity theory has been used as a conceptual framework for analysis or a framework for interpretation. In this study we are using the theory for interpretation by comparing the results with the complexity theory, which is explored in the discussion.&lt;bold&gt;Results: &lt;/bold&gt;The latent content analysis of the daughter's story is interpreted as though she perceives the situation as causing a life crisis and a threat to her mother's entire existence. The old women herself does not take part in what is happening, though after returning to home she is trying to understand her behaviour and what has happened. The health care tries different diagnoses and treatment according to standardized care plans without success. When urinary tract infection is finally diagnosed and treated successfully, the old women recovers quickly.&lt;bold&gt;Conclusion: &lt;/bold&gt;The healthcare system should embrace the complexity in the encounter with an elderly individual. However, we found that the immediate reaction from the healthcare system is to handle the patients' problem as complicated by complexity reduction. Shortcomings are that elderly patients with multiple disorders are difficult to evaluate and triage "correctly" for later placement in the appropriate continuum of care, although the findings of this case study also imply that with time the system instead took on an approach of absorption of complexity.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>journal article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=a9h&amp;AN=146390292&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="6">
+  <header shortDbName="a9h" longDbName="Academic Search Complete" uiTerm="144921006">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Ageing International</jtl>
+        <issn>01635158</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2020" month="09" day="01">Sep2020</dt>
+        <vid>45</vid>
+        <iid>3</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1007/s12126-019-09349-7</ui>
+        <ppf>288</ppf>
+        <ppct>17</ppct>
+        <formats>
+          <fmt type="HTML Full Text" />
+          <fmt type="PDF" size="1.4MB" />
+        </formats>
+        <tig>
+          <atl>A 10 Step Framework to Implement Integrated Care for Older Persons.</atl>
+        </tig>
+        <aug>
+          <au>Harnett, Patrick John</au>
+          <au>Kennelly, Siobhan</au>
+          <au>Williams, Peter</au>
+          <affil>Social Care Division/Clinical Strategy and Programme Division, Health Service Executive, Dublin, Ireland</affil>
+          <affil>Clinical Strategy and Programme Division/Social Care Division, Health Service Executive, Dublin, Ireland</affil>
+          <affil>Department of Research Engineering, University of Limerick, Limerick, Ireland</affil>
+        </aug>
+        <sug>
+          <subj type="thes">OLDER people</subj>
+          <subj type="thes">CARE of people</subj>
+          <subj type="thes">SOCIAL dynamics</subj>
+          <subj type="thes">POPULATION aging</subj>
+          <subj type="thes">CHANGE management</subj>
+          <subj type="thes">FRAIL elderly</subj>
+          <subj type="geo">CATALONIA (Spain)</subj>
+          <subj type="geo">SCOTLAND</subj>
+        </sug>
+        <ab>An aging population, whose multi-morbidities and risk of frailty increase with age results in significant health and social care consumption. Increasing complexity amplifies fragmentation of care and results in sub optimal care outcomes. Ireland, in keeping with other jurisdictions seeks to implement integrated care for older persons as a policy response. There is growing evidence base supporting effective service responses for older persons. These typically include multidisciplinary, community based teams providing services in or near to the older person's home (the 'what'). However, examples of systemic implementation are confined to smaller regions notably in Catalonia (Spain), Scotland and Singapore. This reflects the fact that the implementation of integrated care is problematic at scale. The need to attend to methods that support high autonomy professionals tasked with local implementation (the 'who') is a neglected area. This is especially important in light of the fact managerial and clinical leaders already have operational and clinical imperatives to attend to. Whilst ideologically committed, the change management challenge presented by integrated care is daunting as they may lack the capacity (time, resources, structures) required to test a new care model. In addition, most change methodologies fail to recognise powerful social dynamics that reflect the characteristics of a complex adaptive system (the 'how'). This paper proposes a framework to implementing integrated care for older persons. In addition, it offers some initial empirical evidence that this approach has utility among managers and clinicians. In doing so seeks to bridge the implementation gap associated with systemic change.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=a9h&amp;AN=144921006&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="7">
+  <header shortDbName="a9h" longDbName="Academic Search Complete" uiTerm="145369979">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Cells (2073-4409)</jtl>
+        <issn>20734409</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2020" month="08" day="01">Aug2020</dt>
+        <vid>9</vid>
+        <iid>8</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.3390/cells9081862</ui>
+        <ppf>1862</ppf>
+        <ppct>1</ppct>
+        <formats>
+          <fmt type="HTML Full Text" />
+          <fmt type="PDF" size="1.4MB" />
+        </formats>
+        <tig>
+          <atl>Robustness during Aging—Molecular Biological and Physiological Aspects.</atl>
+        </tig>
+        <aug>
+          <au>Barth, Emanuel</au>
+          <au>Sieber, Patricia</au>
+          <au>Stark, Heiko</au>
+          <au>Schuster, Stefan</au>
+          <affil>RNA Bioinformatics/High Throughput Analysis, Faculty of Mathematics and Computer Science, Friedrich Schiller University Jena, 07743 Jena, Germany</affil>
+          <affil>Matthias Schleiden Institute, Bioinformatics, Friedrich Schiller University Jena, 07743 Jena, Germany</affil>
+          <affil>Institute of Zoology and Evolutionary Research with Phyletic Museum, Friedrich Schiller University Jena, 07743 Jena, Germany</affil>
+        </aug>
+        <sug>
+          <subj type="thes">HUMAN behavior</subj>
+          <subj type="thes">COMMUNICABLE diseases</subj>
+          <subj type="thes">AGING</subj>
+        </sug>
+        <ab>Understanding the process of aging is still an important challenge to enable healthy aging and to prevent age-related diseases. Most studies in age research investigate the decline in organ functionality and gene activity with age. The focus on decline can even be considered a paradigm in that field. However, there are certain aspects that remain surprisingly stable and keep the organism robust. Here, we present and discuss various properties of robust behavior during human and animal aging, including physiological and molecular biological features, such as the hematocrit, body temperature, immunity against infectious diseases and others. We examine, in the context of robustness, the different theories of how aging occurs. We regard the role of aging in the light of evolution.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=a9h&amp;AN=145369979&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="8">
+  <header shortDbName="a9h" longDbName="Academic Search Complete" uiTerm="143395167">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Journal of Empirical Research on Human Research Ethics</jtl>
+        <issn>15562646</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2020" month="07" day="01">Jul2020</dt>
+        <vid>15</vid>
+        <iid>3</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1177/1556264619873790</ui>
+        <ppf>111</ppf>
+        <ppct>17</ppct>
+        <formats />
+        <tig>
+          <atl>Stakeholder Requirements for an Ethical Framework to Sustain Multiple Research Projects in an Emerging Living Lab Involving Older Adults.</atl>
+        </tig>
+        <aug>
+          <au>Callari, Tiziana C.</au>
+          <au>Moody, Louise</au>
+          <au>Saunders, Janet</au>
+          <au>Ward, Gill</au>
+          <au>Woodley, Julie</au>
+          <affil>Coventry University, UK</affil>
+          <affil>Royal College of Occupational Therapists, London, UK</affil>
+          <affil>University of the West of England, Bristol, UK</affil>
+        </aug>
+        <sug>
+          <subj type="thes">OLDER people</subj>
+          <subj type="thes">SEMI-structured interviews</subj>
+          <subj type="thes">SPECIFICATIONS</subj>
+          <subj type="thes">COMPLEXITY (Philosophy)</subj>
+        </sug>
+        <ab>Living Lab (LL) research should follow clear ethical guidelines and principles. While these exist in specific disciplinary contexts, there is a lack of tailored and specific ethical guidelines for the design, development, and implementation of LL projects. As well as the complexity of these dynamic and multi-faceted contexts, the engagement of older adults, and adults with reducing cognitive and physical capacity in LL research, poses additional ethical challenges. Semi-structured interviews were undertaken with 26 participants to understand multistakeholder experiences related to user engagement and related ethical issues in emerging LL research. The participants' experiences and concerns are reported and translated into an ethical framework to guide future LL research initiatives.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=a9h&amp;AN=143395167&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="9">
+  <header shortDbName="a9h" longDbName="Academic Search Complete" uiTerm="138935032">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>BMC Health Services Research</jtl>
+        <issn>14726963</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2019" month="10" day="03">10/3/2019</dt>
+        <vid>19</vid>
+        <iid>1</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1186/s12913-019-4397-2</ui>
+        <ppf>N.PAG</ppf>
+        <ppct>1</ppct>
+        <formats>
+          <fmt type="HTML Full Text" />
+          <fmt type="PDF" size="3.1MB" />
+        </formats>
+        <tig>
+          <atl>Person-centred, integrated and pro-active care for multi-morbid elderly with advanced care needs: a propensity score-matched controlled trial.</atl>
+        </tig>
+        <aug>
+          <au>Berntsen, G. K. R.</au>
+          <au>Dalbakk, M.</au>
+          <au>Hurley, J. S.</au>
+          <au>Bergmo, T.</au>
+          <au>Solbakken, B.</au>
+          <au>Spansvoll, L.</au>
+          <au>Bellika, J. G.</au>
+          <au>Skrøvseth, S. O.</au>
+          <au>Brattland, T.</au>
+          <au>Rumpsfeld, M.</au>
+          <affil>Norwegian Center for e-health research, University Hospital of North Norway Trust, Universitetssykehuset, PB 35, 9038, Tromsø, Norway</affil>
+          <affil>Institute of community medicine, UiT The Arctic University of Norway, PO Box 6050 Langnes, N-9037, Tromsø, Norway</affil>
+          <affil>Clinic of general medicine, University Hospital of North Norway Trust, Universitetssykehuset, PB 100, 9038, Tromsø, Norway</affil>
+          <affil>Clinic of general medicine, University Hospital of North Norway Trust, Harstad hospital, PB 1065, 9480, Harstad, Norway</affil>
+          <affil>Director of Health and Care, Tromsø Municipality, PB 6900, 9299, Tromsø, Norway</affil>
+        </aug>
+        <sug>
+          <subj type="thes">ELDER care</subj>
+          <subj type="thes">FRAIL elderly</subj>
+          <subj type="thes">PROPENSITY score matching</subj>
+          <subj type="thes">ELECTRONIC health records</subj>
+          <subj type="geo">NORWAY</subj>
+          <subj type="naics">Continuing Care Retirement Communities</subj>
+        </sug>
+        <ab>&lt;bold&gt;Background: &lt;/bold&gt;Person-centred care (PCC) focusing on personalised goals and care plans derived from "What matters to you?" has an impact on single disease outcomes, but studies on multi-morbid elderly are lacking. Furthermore, the combination of PCC, Integrated Care (IC) and Pro-active care are widely recognised as desirable for multi-morbid elderly, yet previous studies focus on single components only, leaving synergies unexplored. The effect of a synergistic intervention, which implements 1) Person-centred goal-oriented care driven by "What matters to you?" with 2) IC and 3) pro-active care is unknown.&lt;bold&gt;Methods: &lt;/bold&gt;Inspired by theoretical foundations, complexity science, previous health service research and a patient-driven evaluation of care quality, we designed the Patient-Centred Team (PACT) intervention across primary and secondary care. The PACT team collaborate with the patient to make and deliver a person-centred, integrated and proactive multi-morbidity care-plan. The control group receives conventional care. The study design is a pragmatic six months prospective, controlled clinical trial based on hospital electronic health record data of 439 multi-morbid frail elderly at risk for emergency (re) admissions referred to PACT and 779 propensity score matched controls in Norway, 2014-2016. Outcomes are emergency admissions, the sum of emergency inpatient bed days, 30-day readmissions, planned and emergency outpatient visits and mortality at three and six months follow-up.&lt;bold&gt;Results: &lt;/bold&gt;The Rate Ratios (RR) for emergency admissions was 0,9 (95%CI: 0,82-0,99), for sum of emergency bed days 0,68 (95%CI:0,52-0,79) and for 30-days emergency readmissions 0,72 (95%CI: 0,41-1,24). RRs were 2,3 (95%CI: 2,02-2,55) and 0,9 (95%CI: 0,68-1,20) for planned and emergency outpatient visits respectively. The RR for death at 3 months was 0,39 (95% CI: 0,22-0,70) and 0,57 (95% CI: 0,34-0,94) at 6 months.&lt;bold&gt;Conclusion: &lt;/bold&gt;Compared with propensity score matched controls, the care process of frail multi-morbid elderly who received the PACT intervention had a reduced risk of high-level emergency care, increased use of low-level planned care, and substantially reduced mortality risk. Further study of process differences between groups is warranted to understand the genesis of these results better.&lt;bold&gt;Trial Registration: &lt;/bold&gt;ClinicalTrials.gov (identifier: NCT02541474 ), registered Sept 2015.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>journal article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=a9h&amp;AN=138935032&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="10">
+  <header shortDbName="a9h" longDbName="Academic Search Complete" uiTerm="138570855">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Milbank Quarterly</jtl>
+        <issn>0887378X</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2019" month="09" day="01">Sep2019</dt>
+        <vid>97</vid>
+        <iid>3</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1111/1468-0009.12412</ui>
+        <ppf>669</ppf>
+        <ppct>23</ppct>
+        <formats>
+          <fmt type="HTML Full Text" />
+          <fmt type="HTML Full Text with Images" />
+          <fmt type="PDF" size="298KB" />
+        </formats>
+        <tig>
+          <atl>An Adaptive, Contextual, Technology‐Aided Support (ACTS) System for Chronic Illness Self‐Management.</atl>
+        </tig>
+        <aug>
+          <au>GLASGOW, RUSSELL E.</au>
+          <au>HUEBSCHMANN, AMY G.</au>
+          <au>KRIST, ALEX H.</au>
+          <au>DEGRUY, FRANK V.</au>
+          <affil>University of Colorado School of Medicine</affil>
+          <affil>Adult and Child Consortium for Outcomes Research and Delivery Science</affil>
+          <affil>Center for Women's Health Research</affil>
+          <affil>Virginia Commonwealth University</affil>
+        </aug>
+        <sug>
+          <subj type="thes">CHRONIC disease treatment</subj>
+          <subj type="thes">AGING</subj>
+          <subj type="thes">INTEGRATED health care delivery</subj>
+          <subj type="thes">MEDICAL care</subj>
+          <subj type="thes">MEDICAL care costs</subj>
+          <subj type="thes">PRIMARY health care</subj>
+          <subj type="thes">HEALTH self-care</subj>
+          <subj type="thes">TECHNOLOGY</subj>
+          <subj type="thes">SOCIAL support</subj>
+          <subj type="thes">SOCIAL context</subj>
+          <subj type="thes">HEALTH &amp; social status</subj>
+          <subj type="geo">UNITED States</subj>
+          <subj type="naics">Other Individual and Family Services</subj>
+        </sug>
+        <ab>Policy PointsFundamental changes are needed in how complex chronic illness conditions are conceptualized and managed.Health management plans for chronic illness need to be integrated, adaptive, contextual, technology aided, patient driven, and designed to address the multilevel social environment of patients' lives.Such primary care–based health management plans are feasible today but will be even more effective and sustainable if supported by systems thinking, technological advances, and policies that create and reinforce home, work, and health care collaborations. Context: The current health care system is failing patients with chronic illness, especially those with complex comorbid conditions and social determinants of health challenges. The current system combined with unsustainable health care costs, lack of support for primary care in the United States, and aging demographics create a frightening probable future. Methods: Recent developments, including integrated behavioral health, community resources to address social determinants, population health infrastructure, patient‐centered digital‐health self‐management support, and complexity science have the potential to help address these alarming trends. This article describes, first, the opportunity to integrate these trends and, second, a proposal for an integrated, patient‐directed, adaptive, contextual, and technology‐aided support (ACTS) system, based on a patient's life context and home/primary care/work‐setting "support triangle." Findings: None of these encouraging trends is a panacea, and although most have been described previously, they have not been integrated. Here we discuss an example of integration using these components and how our proposed model (termed My Own Health Report) can be applied, along with its strengths, limitations, implications, and opportunities for practice, policy, and research. Conclusions: This ACTS system builds on and extends the current chronic illness management approaches. It is feasible today and can produce even more dramatic improvements in the future.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=a9h&amp;AN=138570855&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="11">
+  <header shortDbName="a9h" longDbName="Academic Search Complete" uiTerm="136891101">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>IEEE Transactions on Instrumentation &amp; Measurement</jtl>
+        <issn>00189456</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2019" month="07" day="01">Jul2019</dt>
+        <vid>68</vid>
+        <iid>7</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1109/TIM.2019.2913055</ui>
+        <ppf>2451</ppf>
+        <ppct>9</ppct>
+        <formats />
+        <tig>
+          <atl>Trip-Based Measures of Naturalistic Driving: Considerations and Connections With Cognitive Status in Older Adult Drivers.</atl>
+        </tig>
+        <aug>
+          <au>Howcroft, Jennifer</au>
+          <au>Wallace, Bruce</au>
+          <au>Goubran, Rafik</au>
+          <au>Knoefel, Frank</au>
+          <au>Marshall, Shawn</au>
+          <au>Porter, Michelle M.</au>
+          <affil>Department of Systems Design Engineering, University of Waterloo, Waterloo, Canada</affil>
+          <affil>Department of Systems and Computer Engineering, Carleton University, Ottawa, Canada</affil>
+          <affil>Ottawa Hospital Research Institute, University of Ottawa, Ottawa, Canada</affil>
+          <affil>Centre on Aging and Faculty of Kinesiology and Recreation Management, University of Manitoba, Winnipeg, Canada</affil>
+        </aug>
+        <sug>
+          <subj type="thes">OLDER automobile drivers</subj>
+          <subj type="thes">OLDER people</subj>
+          <subj type="thes">MOTOR vehicle driving</subj>
+          <subj type="thes">PUBLIC transit ridership</subj>
+          <subj type="thes">DRIVERS' licenses</subj>
+          <subj type="naics">Regulation and Administration of Transportation Programs</subj>
+        </sug>
+        <ab>Older adult drivers can experience age-related health declines, particularly cognitive health, that can negatively impact driving performance and lead to driver license revocation. The measurement of naturalistic in-car driving behavior can be used to evaluate trip complexity, including diversity, length, and frequency of trips and associated destinations. This paper examined measurement methods for trip complexity and driving destinations using GPS data for older adult drivers with differing health statuses, focusing primarily on cognitive health status. Older driver subgroups included four groups with relatively stable health: better overall health, better cognitive health, worse cognitive health, and worse overall health and one group with declining cognitive health. Older drivers with better health status (overall and cognitive) had higher measured trip complexity compared to those with worse health status. Two variables, mean trip distance and percent of trips driven during the workweek evening rush-hour, declined significantly $(p \le 0.049)$ in-line with cognitive declines but did not meaningfully discriminate cognitively declining older drivers from cognitively stable drivers (sensitivity: 18.8%–43.8%; specificity: 58.0%–93.3%). This contrast between significant group differences and nonpredictive declining group changes may suggest that self-referential naturalistic driving measures are needed to identify meaningful changes in driving behavior. In addition to the development of self-referential driving measurement systems, careful consideration of big data analysis as they apply to naturalistic driving is warranted. These include but are not limited to issues of validation, anonymity, measure-based definitions, and occurrence of outlier-type driving events like city-to-city travel.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=a9h&amp;AN=136891101&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="12">
+  <header shortDbName="a9h" longDbName="Academic Search Complete" uiTerm="136891080">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>IEEE Transactions on Instrumentation &amp; Measurement</jtl>
+        <issn>00189456</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2019" month="07" day="01">Jul2019</dt>
+        <vid>68</vid>
+        <iid>7</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1109/TIM.2018.2866316</ui>
+        <ppf>2545</ppf>
+        <ppct>7</ppct>
+        <formats />
+        <tig>
+          <atl>Gait Nonlinear Patterns Related to Parkinson’s Disease and Age.</atl>
+        </tig>
+        <aug>
+          <au>Lahmiri, Salim</au>
+          <affil>Montreal Neurological Institute, McGill University, Montreal, QC, Canada</affil>
+        </aug>
+        <sug>
+          <subj type="thes">BIPEDALISM</subj>
+          <subj type="thes">PARKINSON'S disease</subj>
+          <subj type="thes">AGE factors in disease</subj>
+          <subj type="thes">OLDER people</subj>
+          <subj type="thes">SENSORIMOTOR cortex</subj>
+          <subj type="thes">NONLINEAR analysis</subj>
+        </sug>
+        <ab>Gait and posture are regular activities which are fully controlled by the sensorimotor cortex. In this paper, the complexity of fluctuations in human walking stride records is analyzed to assess gait in healthy young, healthy older adults, and patients affected with Parkinson’s disease (PD). In this regard, a nonlinear analysis of gait reliability is performed by measuring long-range dependence, chaos, and information content in walking stride records. We seek to test if changes in these measures of gait nonlinear patterns occur with age and pathology. The inferential analyses were conducted by employing various statistical tests. The obtained results show a strong evidence of significant group differences in the measured gait nonlinear patterns. More importantly, values of all the three complexity measures increase with age and occurrence of pathology. In addition, age and PD significantly affect gait nonlinear dynamics. In particular, age shapes randomness, while PD alters regularity and stability. Complexity measures considered in this paper provide new insights to better understand the biomechanics of walk due to aging. In addition, they appear to be valuable tools that can highlight differences in gait nonlinear dynamics with respect to PD patients. In this regard, the measurement of gait nonlinear patterns may possibly afford pertinent clinical information on neuromotor conditions, characterization of some neurological disorders, and rehabilitation.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=a9h&amp;AN=136891080&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="13">
+  <header shortDbName="a9h" longDbName="Academic Search Complete" uiTerm="137010747">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Health Affairs</jtl>
+        <issn>02782715</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2019" month="06" day="01">Jun2019</dt>
+        <vid>38</vid>
+        <iid>6</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1377/hlthaff.2018.05486</ui>
+        <ppf>934</ppf>
+        <ppct>7</ppct>
+        <formats />
+        <tig>
+          <atl>A Path To High-Quality Team-Based Care For People With Serious Illness.</atl>
+        </tig>
+        <aug>
+          <au>Van Houtven, Courtney H.</au>
+          <au>Hastings, S. Nicole</au>
+          <au>Colon-Emeric, Cathleen</au>
+          <affil>Research scientist, Center of Innovation to Accelerate Discovery and Practice Transformation, Durham Veterans Affairs (VA) Health Care System</affil>
+          <affil>Professor, Department of Population Health Sciences, Duke University School of Medicine, Durham, North Carolina</affil>
+          <affil>Center director and a research scientist, Center of Innovation to Accelerate Discovery and Practice Transformation, Durham VA Health Care System</affil>
+          <affil>Associate professor of medicine and population health sciences and a senior fellow, Center for the Study of Aging and Human Development, Duke University School of Medicine</affil>
+          <affil>Research scientist, Center of Innovation to Accelerate Discovery and Practice Transformation, Durham VA Health Care System, Durham VA Geriatrics Research, Education, and Clinical Center</affil>
+          <affil>Professor of medicine and chief, Division of Geriatrics, Department of Medicine, Duke University</affil>
+          <affil>Senior fellow, Center for the Study of Aging and Human Development, Duke University School of Medicine</affil>
+        </aug>
+        <sug>
+          <subj type="thes">AGING</subj>
+          <subj type="thes">CAREGIVERS</subj>
+          <subj type="thes">COGNITION disorders</subj>
+          <subj type="thes">COMMUNICATION</subj>
+          <subj type="thes">CRITICALLY ill</subj>
+          <subj type="thes">DECISION making</subj>
+          <subj type="thes">HEALTH care teams</subj>
+          <subj type="thes">INTERPERSONAL relations</subj>
+          <subj type="thes">INTERPROFESSIONAL relations</subj>
+          <subj type="thes">MANAGEMENT</subj>
+          <subj type="thes">EVALUATION of medical care</subj>
+          <subj type="thes">MEDICAL quality control</subj>
+          <subj type="thes">PATIENTS</subj>
+          <subj type="thes">SELF-perception</subj>
+          <subj type="thes">TEAMS in the workplace</subj>
+          <subj type="thes">HEALTH &amp; social status</subj>
+          <subj type="corp">UNITED States. Dept. of Veterans Affairs</subj>
+          <subj type="naics">Administration of Veterans' Affairs</subj>
+        </sug>
+        <ab>Although most care for people with serious illness is delivered by multiple providers and agencies, there is no gold standard for how to assemble, train, unify, and sustain strong teams. Using lessons from complexity science, a way of studying complex systems, we propose improving team connections; the quality, quantity, and timeliness of information flow; and the purposeful seeking of diverse perspectives to interpret information and make decisions as a means of driving effective self-organization of teams and leading to high-quality outcomes. We highlight an adaptable intervention that helped improve connections, information flow, and cognitive diversity and resulted in effective selforganization in the Department of Veterans Affairs health care system. Finally, we describe challenges to building teams across systems and sectors, and we present research priorities for spreading a complexity science-based approach to optimize teams that care for people with serious illness.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=a9h&amp;AN=137010747&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="14">
+  <header shortDbName="a9h" longDbName="Academic Search Complete" uiTerm="131608626">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Neuroscience</jtl>
+        <issn>03064522</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2018" month="09" day="15">Sep2018</dt>
+        <vid>388</vid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1016/j.neuroscience.2018.07.025</ui>
+        <ppf>203</ppf>
+        <ppct>11</ppct>
+        <formats />
+        <tig>
+          <atl>Age- and Expertise-Related Differences of Sensorimotor Network Dynamics during Force Control.</atl>
+        </tig>
+        <aug>
+          <au>Vieluf, Solveig</au>
+          <au>Mora, Karin</au>
+          <au>Gölz, Christian</au>
+          <au>Reuter, Eva-Maria</au>
+          <au>Godde, Ben</au>
+          <au>Dellnitz, Michael</au>
+          <au>Reinsberger, Claus</au>
+          <au>Voelcker-Rehage, Claudia</au>
+          <affil>Institute of Sports Medicine, Paderborn University, Paderborn, Germany</affil>
+        </aug>
+        <sug>
+          <subj type="thes">AGE</subj>
+          <subj type="thes">COMPLEXITY (Philosophy)</subj>
+          <subj type="thes">DIFFERENCES</subj>
+          <subj type="thes">BRAIN</subj>
+          <subj type="thes">ELECTRODES</subj>
+        </sug>
+        <ab>Highlights • Experts were less variable and more complex than novices of their age. • EEG-data indicated that young novices specifically activate sensorimotor network. • Older novices relied more on interrelation of several networks. • DMD analysis suggests that experts more efficiently use and integrate information. Abstract Age-related deterioration of force control is evident on behavioral and neural levels. Extensive and deliberate practice can decrease these changes. This study focused on detecting electrophysiological correlates of age- and expertise-related differences in force control. We examined young (20–27 years) and late middle-aged (57–67 years) novices as well as late middle-aged experts in the field of fine motor control. Therefore, EEG data were recorded while participants performed a force maintenance task. Variability and complexity of force data were analyzed. To detect electrophysiological correlates, dynamic mode decomposition (DMD) was applied to EEG data. DMD allows assessing brain network dynamics by extracting electrode interrelations and their dynamics. Defining clusters of electrodes, we focused on sensorimotor and attentional networks. We confirmed that force control in late middle-aged novices was more variable and less complex than in other groups. Analysis of task-related overall network characteristics, showed a decrease within the α band and increase within low β, high β, and θ band. Compared to the other groups young novices presented a decreased α magnitude. High β magnitude was lower in late middle-aged novices than for other groups. Comparing left and right hands’ performance, young novices showed higher low β magnitude for the left hand. Late middle-aged novices showed high values for both hands while late middle-aged experts showed higher values for the right than for their left hand. Activation of attentional networks was lower in late middle-aged experts compared to novices. These results may relate to different control strategies of the three groups.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=a9h&amp;AN=131608626&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="15">
+  <header shortDbName="a9h" longDbName="Academic Search Complete" uiTerm="130949418">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>BBA - Molecular Basis of Disease</jtl>
+        <issn>09254439</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2018" month="09" day="02">Sep2018 Part A</dt>
+        <vid>1864</vid>
+        <iid>9</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1016/j.bbadis.2017.05.028</ui>
+        <ppf>2680</ppf>
+        <ppct>10</ppct>
+        <formats />
+        <tig>
+          <atl>Aging across the tree of life: The importance of a comparative perspective for the use of animal models in aging.</atl>
+        </tig>
+        <aug>
+          <au>Cohen, Alan A.</au>
+          <affil>Groupe de recherche PRIMUS, Department of Family Medicine, University of Sherbrooke, 3001 12e Ave N, Sherbrooke, QC J1H 5N4, Canada</affil>
+        </aug>
+        <sug>
+          <subj type="thes">COMPARATIVE studies</subj>
+          <subj type="thes">ANIMAL models in research</subj>
+          <subj type="thes">AGING</subj>
+          <subj type="thes">COMPARATIVE biology</subj>
+          <subj type="thes">COMPLEXITY (Philosophy)</subj>
+        </sug>
+        <ab>Use of model organisms in aging research is problematic because our ability to extrapolate across the tree of life is not clear. On one hand, there are conserved pathways that regulate lifespan in organisms including yeast, nematodes, fruit flies, and mice. On the other, many intermediate taxa across the tree of life appear not to age at all, and there is substantial variation in aging mechanisms and patterns, sometimes even between closely related species. There are good evolutionary and mechanistic reasons to expect this complexity, but it means that model organisms must be used with caution and that results must always be interpreted through a broader comparative framework. Additionally, it is essential to include research on non-traditional and unusual species, and to integrate mechanistic and demographic research. There will be no simple answers regarding the biology of aging, and research approaches should reflect this. This article is part of a Special Issue entitled: Animal models of aging - edited by Houtkooper Riekelt.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=a9h&amp;AN=130949418&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="16">
+  <header shortDbName="a9h" longDbName="Academic Search Complete" uiTerm="130364351">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>PLoS ONE</jtl>
+        <issn>19326203</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2018" month="06" day="27">6/27/2018</dt>
+        <vid>13</vid>
+        <iid>6</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1371/journal.pone.0198811</ui>
+        <ppf>1</ppf>
+        <ppct>19</ppct>
+        <formats>
+          <fmt type="HTML Full Text" />
+          <fmt type="PDF" size="1.8MB" />
+        </formats>
+        <tig>
+          <atl>Longitudinal multiple case study on effectiveness of network-based dementia care towards more integration, quality of care, and collaboration in primary care.</atl>
+        </tig>
+        <aug>
+          <au>Richters, Anke</au>
+          <au>Nieuwboer, Minke S.</au>
+          <au>Olde Rikkert, Marcel G. M.</au>
+          <au>Melis, Rene J. F.</au>
+          <au>Perry, Marieke</au>
+          <au>van der Marck, Marjolein A.</au>
+          <affil>Radboud university medical center, Donders Institute for Brain Cognition and Behaviour, Department of Geriatric Medicine, Nijmegen, The Netherlands</affil>
+          <affil>Radboud university medical center, Radboudumc Alzheimer Centre, Nijmegen, The Netherlands</affil>
+          <affil>Radboud university medical center, Department of Geriatric Medicine, Nijmegen, The Netherlands</affil>
+          <affil>Radboud university medical center, Radboud Institute for Health Sciences, Department of Geriatric Medicine, Nijmegen, The Netherlands</affil>
+        </aug>
+        <sug>
+          <subj type="thes">TREATMENT of dementia</subj>
+          <subj type="thes">MEDICAL quality control</subj>
+          <subj type="thes">PRIMARY care</subj>
+          <subj type="thes">LONGITUDINAL method</subj>
+          <subj type="thes">ACQUISITION of data</subj>
+        </sug>
+        <ab>Introduction: This study aimed to provide insight into the merits of DementiaNet, a network-based primary care innovation for community-dwelling dementia patients. Methods: Longitudinal mixed methods multiple case study including 13 networks of primary care professionals as cases. Data collection comprised continuously-kept logs; yearly network maturity score (range 0–24), yearly quality of care assessment (quality indicators, 0–100), and in-depth interviews. Results: Networks consisted of median nine professionals (range 5–22) covering medical, care and welfare disciplines. Their follow-up was 1–2 years. Average yearly increase was 2.03 (95%-CI:1.20–2.96) on network maturity and 8.45 (95%-CI:2.80–14.69) on quality indicator score. High primary care practice involvement and strong leadership proved essential in the transition towards more mature networks with better quality of care. Discussion: Progress towards more mature networks favored quality of care improvements. DementiaNet appeared to be effective to realize transition towards network-based care, enhance multidisciplinary collaboration, and improve quality of dementia care.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=a9h&amp;AN=130364351&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="17">
+  <header shortDbName="a9h" longDbName="Academic Search Complete" uiTerm="129728646">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>BMC Family Practice</jtl>
+        <issn>14712296</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2018" month="05" day="22">5/22/2018</dt>
+        <vid>19</vid>
+        <iid>1</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1186/s12875-018-0761-2</ui>
+        <ppf>N.PAG</ppf>
+        <ppct>1</ppct>
+        <formats>
+          <fmt type="HTML Full Text" />
+          <fmt type="PDF" size="593KB" />
+        </formats>
+        <tig>
+          <atl>Influences on the adoption of patient safety innovation in primary care: a qualitative exploration of staff perspectives.</atl>
+        </tig>
+        <aug>
+          <au>Litchfield, Ian</au>
+          <au>Gill, Paramjit</au>
+          <au>Avery, Tony</au>
+          <au>Campbell, Stephen</au>
+          <au>Perryman, Katherine</au>
+          <au>Marsden, Kate</au>
+          <au>Greenfield, Sheila</au>
+          <affil>Institute of Applied Health Research, College of Medical and Dental Sciences University of Birmingham Birmingham UK</affil>
+          <affil>Warwick Medical School - Social Science and Systems in Health University of Warwick Coventry UK</affil>
+          <affil>School of Medicine, Division of Primary Care University of Nottingham Nottingham UK</affil>
+          <affil>Centre for Primary Care, Division of Population Health, Health Services Research and Primary Care University of Manchester Manchester UK</affil>
+        </aug>
+        <sug>
+          <subj type="thes">EVALUATION of medical care</subj>
+          <subj type="thes">PATIENTS</subj>
+          <subj type="thes">AGING</subj>
+          <subj type="thes">DIFFUSION of innovations</subj>
+          <subj type="thes">DRUG prescribing</subj>
+          <subj type="thes">FAMILY medicine</subj>
+          <subj type="thes">HOSPITAL medical staff</subj>
+          <subj type="thes">MEDICAL care</subj>
+          <subj type="thes">ONLINE information services</subj>
+          <subj type="thes">PATIENT safety</subj>
+          <subj type="thes">PRIMARY health care</subj>
+          <subj type="thes">QUALITY assurance</subj>
+          <subj type="thes">QUESTIONNAIRES</subj>
+          <subj type="thes">PHYSICIAN practice patterns</subj>
+          <subj type="thes">DATA analysis software</subj>
+          <subj type="geo">ENGLAND</subj>
+        </sug>
+        <ab>Background: Primary care is changing rapidly to meet the needs of an ageing and chronically ill population. New ways of working are called for yet the introduction of innovative service interventions is complicated by organisational challenges arising from its scale and diversity and the growing complexity of patients and their care. One such intervention is the multi-strand, single platform, Patient Safety Toolkit developed to help practices provide safer care in this dynamic and pressured environment where the likelihood of adverse incidents is increasing. Here we describe the attitudes of staff toward these tools and how their implementation was shaped by a number of contextual factors specific to each practice. Methods: The Patient Safety Toolkit comprised six tools; a system of rapid note review, an online staff survey, a patient safety questionnaire, prescribing safety indicators, a medicines reconciliation tool, and a safe systems checklist. We implemented these tools at practices across the Midlands, the North West, and the South Coast of England and conducted semi-structured interviews to determine staff perspectives on their effectiveness and applicability. Results: The Toolkit was used in 46 practices and a total of 39 follow-up interviews were conducted. Three key influences emerged on the implementation of the Toolkit these related to their ease of use and the novelty of the information they provide; whether their implementation required additional staff training or practice resource; and finally factors specific to the practice's local environment such as overlapping initiatives orchestrated by their CCG. Conclusions: The concept of a balanced toolkit to address a range of safety issues proved popular. A number of barriers and facilitators emerged in particular those tools that provided relevant information with a minimum impact on practice resource were favoured. Individual practice circumstances also played a role. Practices with IT aware staff were at an advantage and those previously utilising patient safety initiatives were less likely to adopt additional tools with overlapping outputs. By acknowledging these influences we can better interpret reaction to and adoption of individual elements of the toolkit and optimise future implementation.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=a9h&amp;AN=129728646&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="18">
+  <header shortDbName="a9h" longDbName="Academic Search Complete" uiTerm="123501176">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>International Journal of Radiation Oncology, Biology, Physics</jtl>
+        <issn>03603016</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2017" month="07" day="15">Jul2017</dt>
+        <vid>98</vid>
+        <iid>4</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1016/j.ijrobp.2017.05.015</ui>
+        <ppf>713</ppf>
+        <ppct>2</ppct>
+        <formats />
+        <tig>
+          <atl>Frailty is our Destiny: An Introduction to the Red Journal's Special Edition on Radiation Therapy in the Elderly.</atl>
+        </tig>
+        <aug>
+          <au>Zietman, Anthony L.</au>
+        </aug>
+        <sug>
+          <subj type="thes">FRAGILITY (Psychology)</subj>
+          <subj type="thes">COMPLEXITY (Philosophy)</subj>
+          <subj type="thes">NURSING</subj>
+          <subj type="thes">CANCER diagnosis</subj>
+          <subj type="thes">HEALTH of older people</subj>
+        </sug>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>editorial</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=a9h&amp;AN=123501176&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="19">
+  <header shortDbName="a9h" longDbName="Academic Search Complete" uiTerm="121444635">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Journal of Evaluation in Clinical Practice</jtl>
+        <issn>13561294</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2017" month="02" day="01">Feb2017</dt>
+        <vid>23</vid>
+        <iid>1</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1111/jep.12693</ui>
+        <ppf>216</ppf>
+        <ppct>3</ppct>
+        <formats>
+          <fmt type="HTML Full Text" />
+          <fmt type="PDF" size="131KB" />
+        </formats>
+        <tig>
+          <atl>Moving beyond multimorbidity as a simple count of diseases.</atl>
+        </tig>
+        <aug>
+          <au>Melis, René J.F.</au>
+          <au>Gijzel, Sanne M.W.</au>
+          <au>Olde Rikkert, Marcel G.M.</au>
+          <affil>Department of Geriatric Medicine &amp; Radboudumc Alzheimer Center 925, Radboud Institute for Health Sciences, Radboud University Medical Center, The Netherlands</affil>
+          <affil>Department of Geriatric Medicine &amp; Radboudumc Alzheimer Center 925, Donders Centre for Neuroscience, Radboud University Medical Center, The Netherlands</affil>
+        </aug>
+        <sug>
+          <subj type="thes">PSYCHOLOGICAL adaptation</subj>
+          <subj type="thes">AGING</subj>
+          <subj type="thes">CHRONIC diseases</subj>
+          <subj type="thes">COMBINED modality therapy</subj>
+          <subj type="thes">HEALTH care teams</subj>
+          <subj type="thes">HEALTH status indicators</subj>
+          <subj type="thes">HOLISTIC medicine</subj>
+          <subj type="thes">MEDICAL care</subj>
+          <subj type="thes">MEDICINE</subj>
+          <subj type="thes">PSYCHOPHYSIOLOGY</subj>
+          <subj type="thes">PHENOTYPES</subj>
+          <subj type="thes">COMORBIDITY</subj>
+        </sug>
+        <ab>The author looks into the concept of multimorbidity of patients in relation to the improvement of healthcare worldwide. Topics include the importance of understanding the plurality of diseases and its reality, how the operationalization of multimorbidity should be about its causes and consequences, and multimorbidity operationalization as a complex adaptive system's phenomenon.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=a9h&amp;AN=121444635&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="20">
+  <header shortDbName="a9h" longDbName="Academic Search Complete" uiTerm="117321302">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Experimental Brain Research</jtl>
+        <issn>00144819</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2016" month="09" day="01">Sep2016</dt>
+        <vid>234</vid>
+        <iid>9</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1007/s00221-016-4657-x</ui>
+        <ppf>2529</ppf>
+        <ppct>12</ppct>
+        <formats />
+        <tig>
+          <atl>Aging affects postural tracking of complex visual motion cues.</atl>
+        </tig>
+        <aug>
+          <au>Sotirakis, H.</au>
+          <au>Kyvelidou, A.</au>
+          <au>Mademli, L.</au>
+          <au>Stergiou, N.</au>
+          <au>Hatzitaki, V.</au>
+          <affil>Motor Control and Learning Laboratory, Department of Physical Education and Sport Science , Aristotle University of Thessaloniki , 546 24 Thessaloniki Greece</affil>
+          <affil>Department of Biomechanics , University of Nebraska at Omaha , Omaha USA</affil>
+          <affil>Department of Physical Education and Sports Science at Serres , Aristotle University of Thessaloniki , Serres Greece</affil>
+        </aug>
+        <sug>
+          <subj type="thes">AGING</subj>
+          <subj type="thes">POSTURE</subj>
+          <subj type="thes">MOTION</subj>
+          <subj type="thes">PERCEPTION</subj>
+          <subj type="thes">ACTION (Physics)</subj>
+          <subj type="thes">GAZE</subj>
+          <subj type="thes">COMPLEXITY (Philosophy)</subj>
+        </sug>
+        <ab>Postural tracking of visual motion cues improves perception-action coupling in aging, yet the nature of the visual cues to be tracked is critical for the efficacy of such a paradigm. We investigated how well healthy older (72.45 ± 4.72 years) and young (22.98 ± 2.9 years) adults can follow with their gaze and posture horizontally moving visual target cues of different degree of complexity. Participants tracked continuously for 120 s the motion of a visual target (dot) that oscillated in three different patterns: a simple periodic (simulated by a sine), a more complex (simulated by the Lorenz attractor that is deterministic displaying mathematical chaos) and an ultra-complex random (simulated by surrogating the Lorenz attractor) pattern. The degree of coupling between performance (posture and gaze) and the target motion was quantified in the spectral coherence, gain, phase and cross-approximate entropy (cross-ApEn) between signals. Sway-target coherence decreased as a function of target complexity and was lower for the older compared to the young participants when tracking the chaotic target. On the other hand, gaze-target coherence was not affected by either target complexity or age. Yet, a lower cross-ApEn value when tracking the chaotic stimulus motion revealed a more synchronous gaze-target relationship for both age groups. Results suggest limitations in online visuo-motor processing of complex motion cues and a less efficient exploitation of the body sway dynamics with age. Complex visual motion cues may provide a suitable training stimulus to improve visuo-motor integration and restore sway variability in older adults.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=a9h&amp;AN=117321302&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="21">
+  <header shortDbName="a9h" longDbName="Academic Search Complete" uiTerm="114713559">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Journal of Adult Development</jtl>
+        <issn>10680667</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2016" month="06" day="01">Jun2016</dt>
+        <vid>23</vid>
+        <iid>2</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1007/s10804-015-9223-4</ui>
+        <ppf>79</ppf>
+        <ppct>14</ppct>
+        <formats>
+          <fmt type="PDF" size="494KB" />
+        </formats>
+        <tig>
+          <atl>The Ability to Live with Incongruence: Aintegration-The Concept and Its Operationalization.</atl>
+        </tig>
+        <aug>
+          <au>Lomranz, Jacob</au>
+          <au>Benyamini, Yael</au>
+          <affil>Bob Shapell School of Social Work, Tel Aviv University, Tel Aviv Israel</affil>
+        </aug>
+        <sug>
+          <subj type="thes">AGE distribution</subj>
+          <subj type="thes">AGING</subj>
+          <subj type="thes">COGNITION</subj>
+          <subj type="thes">PERSONALITY</subj>
+          <subj type="thes">QUESTIONNAIRES</subj>
+          <subj type="thes">RESILIENCE (Personality trait)</subj>
+          <subj type="thes">EDUCATIONAL attainment</subj>
+        </sug>
+        <ab>We present the concept of aintegration ( not integrated, maintaining incongruence), defined as the human ability to bear cognitive/emotional complexity, manifested in the capability to maintain incongruence and live with inconsistencies, discontinuities, contradictions and paradox, and yet not experience strain or discomfort. After defining aintegration, we present aintegrative-related issues in major psychological areas such as personality, adult development and aging, social and clinical psychology, cognitive processes, and coping with trauma, emphasizing the necessity of aintegration conceptualizations in these theories. We also relate to relevant cognitive, philosophical, and cultural systems of thought. We then present the operationalization of aintegration using a script-type questionnaire [the Aintegration Questionnaire (AIQ)] and three studies that tested its reliability and validity in different contexts: Study 1 revealed that aintegration is higher with age, education, and among divorced/separated people and the non-religious. Study 2 showed that individuals high in aintegration are more likely to report positive life events and to view negative events as not solely negative. Study 3 showed that among adults in middle and old age, aintegration is related to fewer post-traumatic symptoms, even after controlling for the number of traumas. The AIQ showed high internal reliability and divergent validity from need for structure. The findings support the concept of aintegration and its theoretical contribution to adult development and the psychological sciences. Aintegration can serve as an umbrella construct to areas typically investigated separately. Our epilogue emphasizes possible future theoretical evolutions of our concept and further research. The validity of the AIQ measurement supports the importance of the ability to live with incongruence, contradictions and complexity and the potential for this concept to inform research on modern life.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=a9h&amp;AN=114713559&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="22">
+  <header shortDbName="a9h" longDbName="Academic Search Complete" uiTerm="108330770">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Journal of Social Work Education</jtl>
+        <issn>10437797</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2015" month="07" day="01">Jul-Sep2015</dt>
+        <vid>51</vid>
+        <iid>3</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1080/10437797.2015.1043203</ui>
+        <ppf>535</ppf>
+        <ppct>15</ppct>
+        <formats>
+          <fmt type="HTML Full Text" />
+          <fmt type="PDF" size="121KB" />
+        </formats>
+        <tig>
+          <atl>Best of Both Worlds: A Conceptual Model for Integrating an Aging Specialization Within an Advanced Generalist MSW Program.</atl>
+        </tig>
+        <aug>
+          <au>Dakin, Emily K.</au>
+          <au>Quijano, Louise M.</au>
+          <au>Bishop, Pamela S.</au>
+          <au>Sheafor, Bradford W.</au>
+        </aug>
+        <sug>
+          <subj type="thes">UNIVERSITIES &amp; colleges</subj>
+          <subj type="thes">AGING</subj>
+          <subj type="thes">BUSINESS networks</subj>
+          <subj type="thes">CURRICULUM planning</subj>
+          <subj type="thes">FIELDWORK (Educational method)</subj>
+          <subj type="thes">INTERDISCIPLINARY education</subj>
+          <subj type="thes">MATHEMATICAL models</subj>
+          <subj type="thes">MEDICAL specialties &amp; specialists</subj>
+          <subj type="thes">SOCIAL work education</subj>
+          <subj type="thes">THEORY</subj>
+          <subj type="thes">MASTERS programs (Higher education)</subj>
+          <subj type="geo">COLORADO</subj>
+          <subj type="naics">Other Individual and Family Services</subj>
+          <subj type="naics">Colleges, Universities, and Professional Schools</subj>
+        </sug>
+        <ab>Must a master’s of social work (MSW) program’s orientation be either advanced generalist or some form of specialist? Or is there the possibility of a hybrid curriculum that provides enough breadth to prepare MSW graduates for a wide range of social work jobs, but that also addresses students’ and community agencies’ demands for student specialization? This article suggests a model for integrating an aging specialization within an advanced generalist curriculum. Although this model specifically concerns an aging specialization, the model is also applicable to any number of other specializations as well. We describe lessons learned and discuss implications for integrating specializations within other advanced generalist MSW programs.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=a9h&amp;AN=108330770&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="23">
+  <header shortDbName="a9h" longDbName="Academic Search Complete" uiTerm="100421059">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Experimental Brain Research</jtl>
+        <issn>00144819</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2015" month="02" day="01">Feb2015</dt>
+        <vid>233</vid>
+        <iid>2</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1007/s00221-014-4142-3</ui>
+        <ppf>631</ppf>
+        <ppct>9</ppct>
+        <formats />
+        <tig>
+          <atl>Proprioceptively guided reaching movements in 3D space: effects of age, task complexity and handedness.</atl>
+        </tig>
+        <aug>
+          <au>Schaap, T.</au>
+          <au>Gonzales, T.</au>
+          <au>Janssen, T.</au>
+          <au>Brown, S.</au>
+          <affil>Faculty of Human Movement Sciences, MOVE Research Institute Amsterdam, VU University, Amsterdam The Netherlands</affil>
+          <affil>Motor Control Laboratory, School of Kinesiology, University of Michigan, Ann Arbor 48103 USA</affil>
+        </aug>
+        <sug>
+          <subj type="thes">COMPLEXITY (Philosophy)</subj>
+          <subj type="thes">HANDEDNESS</subj>
+          <subj type="thes">MATCHING theory</subj>
+          <subj type="thes">COGNITIVE ability</subj>
+          <subj type="thes">PROPRIOCEPTION</subj>
+        </sug>
+        <ab>Aging is associated with impaired upper limb proprioceptive acuity, as reflected by decreased position matching accuracy with increasing task complexity and movement extent. Most studies have primarily used single-joint or planar paradigms to examine age-related changes in proprioception. It is unclear whether these changes can be generalized to more complex multi-joint movements, where additional sensory feedback may affect performance. Since age-related declines in cognitive function may impair the ability to integrate multiple sources of sensory feedback, deficits in position matching ability in older adults may persist when tasks are performed in three-dimensional space. The accuracy with which young and older participants reproduced remembered reference hand positions was assessed under different experimental conditions. Participants matched target locations located directly to the front or 45° to the side relative to the midline using the preferred and non-preferred arms. Either the same (i.e., ipsilateral matching) or the opposite (i.e., contralateral matching) arm was used to reproduce the target location. No differences in matching accuracy were found between young and older participants when matching ipsilaterally. When matching contralaterally, accuracy was worse in older participants for target locations located to the side, which may reflect age-related changes in the perception of peripersonal space. In contrast to previous studies, accuracy did not differ between the preferred and non-preferred arms in either group. These results extend previous findings demonstrating age-related impairments in proprioceptively guided arm movements when interhemispheric transfer is required.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=a9h&amp;AN=100421059&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="24">
+  <header shortDbName="a9h" longDbName="Academic Search Complete" uiTerm="97160828">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Journal of Dentistry</jtl>
+        <issn>03005712</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2014" month="08" day="01">2014</dt>
+        <vid>42</vid>
+        <iid>8</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1016/j.jdent.2014.05.010</ui>
+        <ppf>929</ppf>
+        <ppct>9</ppct>
+        <formats />
+        <tig>
+          <atl>Does dental disease presence equate to treatment need among care home residents?</atl>
+        </tig>
+        <aug>
+          <au>Johnson, I. G.</au>
+          <au>Morgana, M. Z.</au>
+          <au>Monaghan, N. P.</au>
+          <au>Karki, A. J.</au>
+          <affil>Applied Clinical Research and Public Health, School of Dentistry, College of Biomedical and Life Sciences, Cardiff University, Heath Park, Cardiff CF14 4XY, United Kingdom</affil>
+          <affil>Public Health Wales, Temple of Peace and Health, Cathay's Park, Cardiff CF103NW, United Kingdom</affil>
+        </aug>
+        <sug>
+          <subj type="thes">DENTAL caries</subj>
+          <subj type="thes">HOME care services</subj>
+          <subj type="thes">STATISTICAL sampling</subj>
+          <subj type="thes">DENTAL fillings</subj>
+          <subj type="thes">COMPLEXITY (Philosophy)</subj>
+          <subj type="thes">HEALTH surveys</subj>
+          <subj type="naics">Offices of all other health practitioners</subj>
+          <subj type="naics">Offices of All Other Miscellaneous Health Practitioners</subj>
+          <subj type="naics">Home Health Care Services</subj>
+          <subj type="naics">Services for the Elderly and Persons with Disabilities</subj>
+          <subj type="naics">Marketing Research and Public Opinion Polling</subj>
+        </sug>
+        <ab>Objectives: This study aimed to explore the relationship between dental disease, complexity and dental treatment needs of care home residents Methods: Survey of residents in care homes in Wales. Random sample of participants from a random selection of care homes across Wales, UK. Data collection involved questionnaires and dental examinations. Results: Data were collected from 655 care home residents in 213 care homes. Half of all residents reported good or very good oral health but most had dental treatment needs. 73% of dentate residents had active caries, of those, 53% required restorations and 37% needed extractions. All were deemed to require dental examination. 60% of dentate residents and 50% of edentate residents had case complexity, which influenced the delivery of care. Conclusions: There is significant unmet dental treatment need amongst care home residents. Dental disease presence alone is a poor indicator of the need for care and does not account for case complexity or the shift towards a patient centred rather than disease focussed approach to care. Measures for treatment needs and complexity are required when undertaking assessments of oral health needs in care homes. Clinical Significance: Traditional oral health surveys measuring dental disease do not necessarily equate to treatments required for care home residents and do not reflect the complexity and difficulties involved in delivering dental care. This survey highlights dental needs in care homes, and the difficulties involved in delivering care to address these needs.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=a9h&amp;AN=97160828&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="25">
+  <header shortDbName="a9h" longDbName="Academic Search Complete" uiTerm="95818914">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>PLoS ONE</jtl>
+        <issn>19326203</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2014" month="04" day="01">Apr2014</dt>
+        <vid>9</vid>
+        <iid>4</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1371/journal.pone.0094326</ui>
+        <ppf>1</ppf>
+        <ppct>5</ppct>
+        <formats>
+          <fmt type="PDF" size="208KB" />
+        </formats>
+        <tig>
+          <atl>Level of Satisfaction of Older Persons with Their General Practitioner and Practice: Role of Complexity of Health Problems.</atl>
+        </tig>
+        <aug>
+          <au>Poot, Antonius J.</au>
+          <au>den Elzen, Wendy P. J.</au>
+          <au>Blom, Jeanet W.</au>
+          <au>Gussekloo, Jacobijn</au>
+          <affil>Department of Public Health and Primary Care, Leiden University Medical Center, Leiden, the Netherlands</affil>
+        </aug>
+        <sug>
+          <subj type="thes">GENERAL practitioners</subj>
+          <subj type="thes">NURSING assessment</subj>
+          <subj type="thes">PATIENT satisfaction</subj>
+          <subj type="thes">MEDICAL care</subj>
+          <subj type="thes">SOCIAL psychology</subj>
+          <subj type="thes">PERCEPTION</subj>
+        </sug>
+        <ab>Background: Satisfaction is widely used to evaluate and direct delivery of medical care; a complicated relationship exists between patient satisfaction, morbidity and age. This study investigates the relationships between complexity of health problems and level of patient satisfaction of older persons with their general practitioner (GP) and practice. Methods and Findings: This study is embedded in the ISCOPE (Integrated Systematic Care for Older Persons) study. Enlisted patients aged ≥75 years from 59 practices received a written questionnaire to screen for complex health problems (somatic, functional, psychological and social). For 2664 randomly chosen respondents (median age 82 years; 68% female) information was collected on level of satisfaction (satisfied, neutral, dissatisfied) with their GP and general practice, and demographic and clinical characteristics including complexity of health problems. Of all participants, 4% was dissatisfied with their GP care, 59% neutral and 37% satisfied. Between these three categories no differences were observed in age, gender, country of birth or education level. The percentage of participants dissatisfied with their GP care increased from 0.4% in those with 0 problem domains to 8% in those with 4 domains, i.e. having complex health problems (p&lt;0.001). Per additional health domain with problems, the risk of being dissatisfied increased 1.7 times (95% CI 1.4–2.14; p&lt;0.001). This was independent of age, gender, and demographic and clinical parameters (adjusted OR 1.4, 95% CI 1.1–1.8; p = 0.021). Conclusion: In older persons, dissatisfaction with general practice is strongly correlated with rising complexity of health problems, independent of age, demographic and clinical parameters. It remains unclear whether complexity of health problems is a patient characteristic influencing the perception of care, or whether the care is unable to handle the demands of these patients. Prospective studies are needed to investigate the causal associations between care organization, patient characteristics, indicators of quality, and patient perceptions.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=a9h&amp;AN=95818914&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="26">
+  <header shortDbName="a9h" longDbName="Academic Search Complete" uiTerm="92890455">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>BMC Medical Informatics &amp; Decision Making</jtl>
+        <issn>14726947</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2013" month="12" day="01">2013</dt>
+        <vid>13</vid>
+        <iid>1</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1186/1472-6947-13-129</ui>
+        <ppf>1</ppf>
+        <ppct>27</ppct>
+        <formats>
+          <fmt type="PDF" size="530KB" />
+        </formats>
+        <tig>
+          <atl>Healthcare professionals' acceptance of BelRAI, a web-based system enabling person-centred recording and data sharing across care settings with interRAI instruments: a UTAUT analysis.</atl>
+        </tig>
+        <aug>
+          <au>Vanneste, Dirk</au>
+          <au>Vermeulen, Bram</au>
+          <au>Declercq, Anja0</au>
+          <affil>Elderly Care Research Unit at LUCAS, KU Leuven, Kapucijnenvoer 39, 3000 Leuven, Belgium</affil>
+          <affil>Elderly Care Research Unit at LUCAS and Center for Sociological Research, KU Leuven, Kapucijnenvoer 39, 3000 Leuven, Belgium</affil>
+        </aug>
+        <sug>
+          <subj type="thes">FEASIBILITY studies</subj>
+          <subj type="thes">LONG-term health care</subj>
+          <subj type="thes">TECHNOLOGY Acceptance Model</subj>
+          <subj type="thes">OLDER people with disabilities</subj>
+          <subj type="thes">MEDICAL personnel</subj>
+          <subj type="thes">MEDICAL care</subj>
+          <subj type="geo">BELGIUM</subj>
+        </sug>
+        <ab>Background Healthcare and social care environments are increasingly confronted with older persons with long-term care needs. Consequently, the need for integrated and coordinated assessment systems increases. In Belgium, feasibility studies have been conducted on the implementation and use of interRAI instruments offering opportunities to improve continuity and quality of care. However, the development and implementation of information technology to support a shared dataset is a difficult and gradual process. We explore the applicability of the UTAUT theoretical model in the BelRAI healthcare project to analyse the acceptance of the BelRAI web application by healthcare professionals in home care, nursing home care and acute hospital care for older people with disabilities. Methods A structured questionnaire containing items based on constructs validated in the original UTAUT study was distributed to 661 Flemish caregivers. We performed a complete case analysis using data from 282 questionnaires to obtain information regarding the effects of performance expectancy (PE), effort expectancy (EE), social influence (SI), facilitating conditions (FC), anxiety (ANX), self-efficacy (SE) and attitude towards using technology (ATUT) on behavioural intention (BI) to use the BelRAI web application. Results The values of the internal consistency evaluation of each construct demonstrated adequate reliability of the survey instrument. Convergent and discriminant validity were established. However, the items of the ATUT construct cross-loaded on PE. FC proved to have the most significant influence on BI to use BelRAI, followed by SE. Other constructs (PE, EE, SI, ANX, ATUT) had no significant influence on BI. The 'direct effects only' model explained 30.8% of the variance in BI to use BelRAI. Conclusions Critical factors in stimulating the behavioural intention to use new technology are goodquality software, interoperability and compatibility with other information systems, easy access to computers, training facilities, built-in and online help and ongoing IT support. These findings can be used by policy makers to maximise the acceptance and the success of new technology. For researchers, the conclusions of the original UTAUT study with regards to the item and scale construction should not be copied blindly across different information systems. A bottom-up approach is preferred when building upon the UTAUT model.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=a9h&amp;AN=92890455&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="27">
+  <header shortDbName="a9h" longDbName="Academic Search Complete" uiTerm="88375234">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>PLoS ONE</jtl>
+        <issn>19326203</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2013" month="05" day="01">May2013</dt>
+        <vid>8</vid>
+        <iid>5</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1371/journal.pone.0062585</ui>
+        <ppf>1</ppf>
+        <ppct>7</ppct>
+        <formats>
+          <fmt type="PDF" size="537KB" />
+        </formats>
+        <tig>
+          <atl>The Complexity of Standing Postural Control in Older Adults: A Modified Detrended Fluctuation Analysis Based upon the Empirical Mode Decomposition Algorithm</atl>
+        </tig>
+        <aug>
+          <au>Zhou, Junhong</au>
+          <au>Manor, Brad</au>
+          <au>Liu, Dongdong</au>
+          <au>Hu, Kun</au>
+          <au>Zhang, Jue</au>
+          <au>Fang, Jing</au>
+          <affil>1 Academy for Advanced Interdisciplinary Studies, Peking University, Beijing, China</affil>
+          <affil>2 Divisions of Gerontology, Beth Israel Deaconess Medical Center, Harvard Medical School, Boston, Massachusetts, United States of America</affil>
+          <affil>3 College of Engineering, Peking University, Beijing, China</affil>
+          <affil>4 Medical Biodynamics Program, Division of Sleep Medicine, Brigham and Women’s Hospital/Harvard Medical School, Boston, Massachusetts, United States of America</affil>
+          <affil>5 Center for Dynamical Biomarkers and Translational Medicine, National Central University, Chungli, Taiwan</affil>
+        </aug>
+        <sug>
+          <subj type="thes">POSTURE</subj>
+          <subj type="thes">HEALTH of older people</subj>
+          <subj type="thes">HILBERT-Huang transform</subj>
+          <subj type="thes">EVERYDAY life</subj>
+          <subj type="thes">BIOPHYSICS</subj>
+          <subj type="thes">MUSCULOSKELETAL system</subj>
+          <subj type="thes">BIOMECHANICS</subj>
+        </sug>
+        <ab>Human aging into senescence diminishes the capacity of the postural control system to adapt to the stressors of everyday life. Diminished adaptive capacity may be reflected by a loss of the fractal-like, multiscale complexity within the dynamics of standing postural sway (i.e., center-of-pressure, COP). We therefore studied the relationship between COP complexity and adaptive capacity in 22 older and 22 younger healthy adults. COP magnitude dynamics were assessed from raw data during quiet standing with eyes open and closed, and complexity was quantified with a new technique termed empirical mode decomposition embedded detrended fluctuation analysis (EMD-DFA). Adaptive capacity of the postural control system was assessed with the sharpened Romberg test. As compared to traditional DFA, EMD-DFA more accurately identified trends in COP data with intrinsic scales and produced short and long-term scaling exponents (i.e., αShort, αLong) with greater reliability. The fractal-like properties of COP fluctuations were time-scale dependent and highly complex (i.e., αShort values were close to one) over relatively short time scales. As compared to younger adults, older adults demonstrated lower short-term COP complexity (i.e., greater αShort values) in both visual conditions (p&gt;0.001). Closing the eyes decreased short-term COP complexity, yet this decrease was greater in older compared to younger adults (p&lt;0.001). In older adults, those with higher short-term COP complexity exhibited better adaptive capacity as quantified by Romberg test performance (r2 = 0.38, p&lt;0.001). These results indicate that an age-related loss of COP complexity of magnitude series may reflect a clinically important reduction in postural control system functionality as a new biomarker.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=a9h&amp;AN=88375234&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="28">
+  <header shortDbName="a9h" longDbName="Academic Search Complete" uiTerm="84575592">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Journal of the American Medical Directors Association</jtl>
+        <issn>15258610</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2013" month="01" day="01">Jan2013</dt>
+        <vid>14</vid>
+        <iid>1</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1016/j.jamda.2012.09.008</ui>
+        <ppf>48</ppf>
+        <ppct>5</ppct>
+        <formats />
+        <tig>
+          <atl>The Influence of Teams to Sustain Quality Improvement in Nursing Homes that “Need Improvement”</atl>
+        </tig>
+        <aug>
+          <au>Rantz, Marilyn J.</au>
+          <au>Zwygart-Stauffacher, Mary</au>
+          <au>Flesner, Marcia</au>
+          <au>Hicks, Lanis</au>
+          <au>Mehr, David</au>
+          <au>Russell, Teresa</au>
+          <au>Minner, Donna</au>
+          <affil>Sinclair School of Nursing, University of Missouri, Columbia, MO</affil>
+          <affil>College of Nursing and Health Sciences, University of Wisconsin, Eau Claire, WI</affil>
+          <affil>Health Management and Informatics, School of Medicine, University of Missouri, Columbia, MO</affil>
+          <affil>Family and Community Medicine, School of Medicine, University of Missouri, Columbia, MO</affil>
+          <affil>Cox College, Springfield, MO</affil>
+        </aug>
+        <sug>
+          <subj type="thes">ELDER care</subj>
+          <subj type="thes">COMMUNICATION</subj>
+          <subj type="thes">EXECUTIVES</subj>
+          <subj type="thes">GERIATRIC nursing</subj>
+          <subj type="thes">HEALTH care teams</subj>
+          <subj type="thes">HEALTH facilities</subj>
+          <subj type="thes">LONG-term health care</subj>
+          <subj type="thes">NURSING care facility administration</subj>
+          <subj type="thes">NURSING home employees</subj>
+          <subj type="thes">QUALITY assurance</subj>
+          <subj type="thes">TEAMS in the workplace</subj>
+          <subj type="thes">DECISION making in clinical medicine</subj>
+          <subj type="thes">QUALITATIVE research</subj>
+          <subj type="thes">RANDOMIZED controlled trials</subj>
+          <subj type="thes">CHANGE management</subj>
+          <subj type="thes">REPEATED measures design</subj>
+          <subj type="naics">Continuing Care Retirement Communities</subj>
+          <subj type="naics">All Other Outpatient Care Centers</subj>
+        </sug>
+        <ab>Abstract: Objectives: Qualitatively describe the use of team and group processes in intervention facilities participating in a study targeted to improve quality of care in nursing homes “in need of improvement.” Design/setting/participants: A randomized, two-group, repeated-measures design was used to test a 2-year intervention for improving quality of care and resident outcomes. Intervention group (n = 29) received an experimental multilevel intervention designed to help them: (1) use quality improvement methods, (2) use team and group process for direct-care decision-making, (3) focus on accomplishing the basics of care, and (4) maintain more consistent nursing and administrative leadership committed to communication and active participation of staff in decision-making. Results: The qualitative analysis revealed a subgroup of homes (“Full Adopters”) likely to continue quality improvement activities that were able to effectively use teams. “Full Adopters” had either the nursing home administrator or director of nursing who supported and were actively involved in the quality improvement work of the team. “Full Adopters” also selected care topics for the focus of their quality improvement team, instead of “communication” topics of the “Partial Adopters” or “Non-Adopters” in the study who were identified as unlikely to continue to continue quality improvement activities after the intervention. “Full Adopters” had evidence of the key elements of complexity science: information flow, cognitive diversity, and positive relationships among staff; this evidence was lacking in other subgroups. All subgroups were able to recruit interdisciplinary teams, but only those that involved leaders were likely to be effective and sustain team efforts at quality improvement of care delivery systems. Conclusions: Results of this qualitative analysis can help leaders and medical directors use the key elements and promote information flow among staff, residents, and families; be inclusive as discussions about care delivery, making sure diverse points of view are included; and help build positive relationships among all those living and working in the nursing home. Wide-spread adoption of the intervention in the randomized study is feasible and could be enabled by nursing home Medical Directors in collaborative practice with Advanced Practice Nurses.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=a9h&amp;AN=84575592&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="29">
+  <header shortDbName="a9h" longDbName="Academic Search Complete" uiTerm="67321019">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Neurobiology of Aging</jtl>
+        <issn>01974580</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2012" month="01" day="01">Jan2012</dt>
+        <vid>33</vid>
+        <iid>1</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1016/j.neurobiolaging.2010.04.010</ui>
+        <ppf>194.e1</ppf>
+        <ppct>0</ppct>
+        <formats />
+        <tig>
+          <atl>Age-related rarefaction in the fractal dimension of retinal vessel</atl>
+        </tig>
+        <aug>
+          <au>Azemin, Mohd Zulfaezal Che</au>
+          <au>Kumar, Dinesh Kant</au>
+          <au>Wong, Tien Y.</au>
+          <au>Wang, Jie Jin</au>
+          <au>Mitchell, Paul</au>
+          <au>Kawasaki, Ryo</au>
+          <au>Wu, Henry</au>
+          <affil>School of Electrical and Computer Engineering, RMIT University, Victoria 3001, Australia</affil>
+          <affil>Centre for Eye Research, Australia, University of Melbourne, Royal Victorian Eye and Ear Hospital, Melbourne, Australia</affil>
+          <affil>Singapore Eye Research Institute, National University of Singapore, Singapore</affil>
+          <affil>Centre for Vision Research, University of Sydney, Westmead Millennium Institute, Sydney, Australia</affil>
+        </aug>
+        <sug>
+          <subj type="thes">RETINAL blood vessels</subj>
+          <subj type="thes">AGING</subj>
+          <subj type="thes">FRACTALS</subj>
+          <subj type="thes">CORRELATION (Statistics)</subj>
+          <subj type="thes">FOURIER analysis</subj>
+          <subj type="thes">THREE-dimensional display systems</subj>
+        </sug>
+        <ab>Abstract: Previous work suggests a general reduction in complexity with aging, referred to as the aging-complexity theory. Fractal dimension (FD) of the vessels in the retina is a global measure of the complexity of the vasculature. However, earlier works did not find any correlation between aging and FD of the retinal vasculature, in contrast to the findings of reduced complexity in other parts of the body. The authors tested the hypothesis that reduced complexity develops with advancing age in the structure of the retinal vasculature. To overcome the limitations of earlier works, a three-dimensional representation of the vasculature, together with Fourier fractal dimension (FFD) techniques, was used. Based on the analysis of 748 retinal images taken of persons aged 49–89 years, we observed a significant decrease in the FFD with aging (p &lt; 0.0001). These data provide evidence supporting rarefaction (i.e. reduction) of the retinal vasculature with aging, consistent with observations from other human organ systems.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=a9h&amp;AN=67321019&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="30">
+  <header shortDbName="a9h" longDbName="Academic Search Complete" uiTerm="66815903">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>IEEE Transactions on Biomedical Engineering</jtl>
+        <issn>00189294</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2011" month="11" day="01">Nov2011</dt>
+        <vid>58</vid>
+        <iid>11</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1109/TBME.2011.2164793</ui>
+        <ppf>3206</ppf>
+        <ppct>9</ppct>
+        <formats />
+        <tig>
+          <atl>Inter-individual Differences in fMRI Entropy Measurements in Old Age.</atl>
+        </tig>
+        <aug>
+          <au>Sokunbi, Moses O.</au>
+          <au>Staff, Roger T.</au>
+          <au>Waiter, Gordon D.</au>
+          <au>Ahearn, Trevor S.</au>
+          <au>Fox, Helen C.</au>
+          <au>Deary, Ian J.</au>
+          <au>Starr, John M.</au>
+          <au>Whalley, Lawrence J.</au>
+          <au>Murray, Alison D.</au>
+          <affil>Aberdeen Biomedical Imaging Centre, SINAPSE Collaboration, University of Aberdeen, Aberdeen AB25 2ZD, Scotland, U.K</affil>
+          <affil>Department of Nuclear Medicine , Aberdeen Royal Infirmary, NHS-Grampian, Scotland, U.K.</affil>
+          <affil>University of Aberdeen, Aberdeen, Scotland, U.K.</affil>
+          <affil>Centre for Cognitive Ageing and Cognitive Epidemiology, University of Edinburgh, Edinburgh, Scotland, U.K.</affil>
+          <affil>Geriatric Medicine unit, University of Edinburgh, Edinburgh, Scotland, U.K.</affil>
+        </aug>
+        <sug>
+          <subj type="thes">INDIVIDUAL differences</subj>
+          <subj type="thes">CORRELATION (Statistics)</subj>
+          <subj type="thes">VISUALIZATION</subj>
+          <subj type="thes">ENTROPY (Information theory)</subj>
+          <subj type="thes">COGNITIVE ability</subj>
+          <subj type="thes">MAGNETIC resonance imaging of the brain</subj>
+          <subj type="thes">OLD age</subj>
+        </sug>
+        <ab>We investigated the association between individual differences in cognitive performance in old age and the approximate entropy (ApEn) measured from functional magnetic resonance imaging (fMRI) data acquired from 40 participants of the Aberdeen Birth Cohort 1936 (ABC1936), while undergoing a visual information processing task: inspection time (IT). Participants took a version of the Moray House Test (MHT) No. 12 at age 11, a valid measure of childhood intelligence. The same individuals completed a test of non-verbal reasoning (Raven's Standard Progressive Matrices [RPM]) aged about 68 years. The IT, MHT and RPM scores were used as indicators of cognitive performance. Our results show that higher regional signal entropy is associated with better cognitive performance. This finding was independent of ability in childhood but not independent of current cognitive ability. ApEn is used for the first time to identify a potential source of individual differences in cognitive ability using fMRI data.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=a9h&amp;AN=66815903&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="31">
+  <header shortDbName="a9h" longDbName="Academic Search Complete" uiTerm="57544605">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Aging &amp; Mental Health</jtl>
+        <issn>13607863</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2011" month="01" day="01">Jan2011</dt>
+        <vid>15</vid>
+        <iid>1</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1080/13607861003801052</ui>
+        <ppf>5</ppf>
+        <ppct>8</ppct>
+        <formats>
+          <fmt type="HTML Full Text" />
+          <fmt type="PDF" size="108KB" />
+        </formats>
+        <tig>
+          <atl>Implementing dementia care models in primary care settings: The Aging Brain Care Medical Home.</atl>
+        </tig>
+        <aug>
+          <au>Callahan, Christopher M.</au>
+          <au>Boustani, Malaz A.</au>
+          <au>Weiner, Michael</au>
+          <au>Beck, Robin A.</au>
+          <au>Livin, Lee R.</au>
+          <au>Kellams, Jeffrey J.</au>
+          <au>Willis, Deanna R.</au>
+          <au>Hendrie, Hugh C.</au>
+          <affil>Indiana University Center for Aging Research, Indianapolis, IN, USA</affil>
+          <affil>Department of Medicine, Indiana University School of Medicine, Indianapolis, IN, USA</affil>
+          <affil>Regenstrief Institute, Inc, Indianapolis, IN, USA</affil>
+          <affil>Wishard Health Services, Indianapolis, IN, USA</affil>
+          <affil>Department of Family Medicine, Indiana University School of Medicine, Indianapolis, IN, USA</affil>
+          <affil>Department of Psychiatry, Indiana University School of Medicine, Indianapolis, IN, USA</affil>
+        </aug>
+        <sug>
+          <subj type="thes">CARE of dementia patients</subj>
+          <subj type="thes">THERAPEUTICS</subj>
+          <subj type="thes">MENTAL depression</subj>
+          <subj type="thes">PRIMARY care</subj>
+          <subj type="thes">BRAIN</subj>
+          <subj type="thes">AGING</subj>
+          <subj type="thes">CLINICAL trials</subj>
+          <subj type="thes">PATIENT-centered care</subj>
+          <subj type="thes">MEDICAL care for older people</subj>
+          <subj type="naics">Research and Development in the Physical, Engineering, and Life Sciences (except Biotechnology)</subj>
+        </sug>
+        <ab>Objectives: The purpose of this article is to describe our experience in implementing a primary care-based dementia and depression care program focused on providing collaborative care for dementia and late-life depression. Methods: Capitalizing on the substantial interest in the US on the patient-centered medical home concept, the Aging Brain Care Medical Home targets older adults with dementia and/or late-life depression in the primary care setting. We describe a structured set of activities that laid the foundation for a new partnership with the primary care practice and the lessons learned in implementing this new care model. We also provide a description of the core components of this innovative memory care program. Results: Findings from three recent randomized clinical trials provided the rationale and basic components for implementing the new memory care program. We used the reflective adaptive process as a relationship building framework that recognizes primary care practices as complex adaptive systems. This framework allows for local adaptation of the protocols and procedures developed in the clinical trials. Tailored care for individual patients is facilitated through a care manager working in collaboration with a primary care physician and supported by specialists in a memory care clinic as well as by information technology resources. Conclusions: We have successfully overcome many system-level barriers in implementing a collaborative care program for dementia and depression in primary care. Spontaneous adoption of new models of care is unlikely without specific attention to the complexities and resource constraints of health care systems.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=a9h&amp;AN=57544605&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="32">
+  <header shortDbName="a9h" longDbName="Academic Search Complete" uiTerm="53420126">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Journal of the American Medical Directors Association</jtl>
+        <issn>15258610</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2010" month="09" day="01">Sep2010</dt>
+        <vid>11</vid>
+        <iid>7</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1016/j.jamda.2009.11.002</ui>
+        <ppf>511</ppf>
+        <ppct>8</ppct>
+        <formats />
+        <tig>
+          <atl>The Complexity of Implementing Culture Change Practices in Nursing Homes</atl>
+        </tig>
+        <aug>
+          <au>Sterns, Samantha</au>
+          <au>Miller, Susan C.</au>
+          <au>Allen, Susan</au>
+          <affil>Center for Gerontology and Health Care Research, Brown University, Providence, RI</affil>
+        </aug>
+        <sug>
+          <subj type="thes">SOCIAL change</subj>
+          <subj type="thes">NURSING care facilities</subj>
+          <subj type="thes">RESIDENTS (Medicine)</subj>
+          <subj type="thes">COMPLEXITY (Philosophy)</subj>
+          <subj type="thes">DATA analysis</subj>
+          <subj type="thes">ANALYSIS of variance</subj>
+          <subj type="thes">CHI-squared test</subj>
+          <subj type="thes">CONCEPTUAL structures</subj>
+          <subj type="thes">CORPORATE culture</subj>
+          <subj type="thes">GERIATRIC nursing</subj>
+          <subj type="thes">HEALTH facilities</subj>
+          <subj type="thes">INTERVIEWING</subj>
+          <subj type="thes">LONG-term health care</subj>
+          <subj type="thes">NURSING -- Practice</subj>
+          <subj type="thes">NURSING home patients</subj>
+          <subj type="thes">PROBABILITY theory</subj>
+          <subj type="thes">RESEARCH funding</subj>
+          <subj type="thes">SELF-evaluation</subj>
+          <subj type="thes">STATISTICAL hypothesis testing</subj>
+          <subj type="thes">SURVEYS</subj>
+          <subj type="thes">WORK environment</subj>
+          <subj type="thes">CHANGE management</subj>
+          <subj type="geo">UNITED States</subj>
+          <subj type="naics">All Other Outpatient Care Centers</subj>
+          <subj type="naics">Community care facilities for the elderly</subj>
+          <subj type="naics">Nursing Care Facilities (Skilled Nursing Facilities)</subj>
+        </sug>
+        <ab>Purpose: The culture change (CC) movement aims to transform the traditional nursing home (NH) that is institutional in design with hierarchical management structure into a homelike environment that empowers residents and frontline staff. This study examines differences in adoption of CC practices according to a NH's self-reported extent of CC implementation and its duration of CC adoption. Furthermore, it examines differences in adoption by whether a CC practice is considered less versus more complex, using complexity theory as the theoretical framework for this classification. Design and Methods: Using data from a 2007 Commonwealth-funded study, we analyzed a national sample of 291 US nursing homes that identified as being “for the most part” or “completely” CC facilities for “1 to 3 years” or “3+ years.” Also, using a complexity theory framework, we ranked 16 practices commonly associated with CC as low, moderately, or highly complex based on level of agreement needed to actuate the process (number of parties involved) and the certainty of intended outcomes. We then examined the prevalence of CC-associated practices in relation to their complexity and the extent and duration of a NH's CC adoption. Results: We found practices ranked as less complex were implemented more frequently in NHs with both shorter and longer durations of CC adoption. However, more complex CC practices were more prevalent among NHs reporting “complete” adoption for 3+ years versus 1 to 3 years. This was not observed in NHs reporting having CC “for the most part.” Conclusions/Implications: Less complex practices may be more economical and easier to implement. These early successes may result in sufficient momentum so that more complex change can follow. A nursing home that more completely embraces the culture change movement may be more likely to attempt these complex changes.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=a9h&amp;AN=53420126&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="33">
+  <header shortDbName="a9h" longDbName="Academic Search Complete" uiTerm="57556939">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Mount Sinai Journal of Medicine</jtl>
+        <issn>00272507</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2010" month="09" day="01">Sep/Oct2010</dt>
+        <vid>77</vid>
+        <iid>5</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1002/msj.20214</ui>
+        <ppf>559</ppf>
+        <ppct>11</ppct>
+        <formats>
+          <fmt type="PDF" size="242KB" />
+        </formats>
+        <tig>
+          <atl>Mechanisms of Yogic Practices in Health, Aging, and Disease.</atl>
+        </tig>
+        <aug>
+          <au>Kuntsevich, Viktoriya</au>
+          <au>Bushell, William C.</au>
+          <au>Theise, Neil D.</au>
+          <affil>Beth Israel Medical Center of Albert Einstein College of Medicine, New York, NY</affil>
+          <affil>Massachusetts Institute of Technology, Anthropology Program, Cambridge, MA; Tibet House US, New York, NY</affil>
+        </aug>
+        <sug>
+          <subj type="thes">YOGIC therapy</subj>
+          <subj type="thes">BEHAVIOR therapy</subj>
+          <subj type="thes">AGING</subj>
+          <subj type="thes">CIRCADIAN rhythms</subj>
+          <subj type="thes">MELATONIN</subj>
+        </sug>
+        <ab>Mechanisms underlying the modulating effects of yogic cognitive-behavioral practices (eg, meditation, yoga asanas, pranayama breathing, caloric restriction) on human physiology can be classified into 4 transduction pathways: humoral factors, nervous system activity, cell trafficking, and bioelectromagnetism. Here we give examples of these transduction pathways and how, through them, yogic practices might optimize health, delay aging, and ameliorate chronic illness and stress from disability. We also recognize that most studies of these mechanisms remain embedded in a reductionist paradigm, investigating small numbers of elements of only 1 or 2 pathways. Moreover, often, subjects are not long-term practitioners, but recently trained. The models generated from such data are, in turn, often limited, top-down, without the explanatory power to describe beneficial effects of long-term practice or to provide foundations for comparing one practice to another. More flexible and useful models require a systems-biology approach to gathering and analysis of data. Such a paradigm is needed to fully appreciate the deeper mechanisms underlying the ability of yogic practice to optimize health, delay aging, and speed efficient recovery from injury or disease. In this regard, 3 different, not necessarily competing, hypotheses are presented to guide design of future investigations, namely, that yogic practices may: (1) promote restoration of physiologic setpoints to normal after derangements secondary to disease or injury, (2) promote homeostatic negative feedback loops over nonhomeostatic positive feedback loops in molecular and cellular interactions, and (3) quench abnormal 'noise' in cellular and molecular signaling networks arising from environmental or internal stresses. Mt Sinai J Med 77: © 2010 Mount Sinai School of Medicine</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=a9h&amp;AN=57556939&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="34">
+  <header shortDbName="a9h" longDbName="Academic Search Complete" uiTerm="56439102">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>PLoS ONE</jtl>
+        <issn>19326203</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2009" month="11" day="01">2009</dt>
+        <vid>4</vid>
+        <iid>11</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1371/journal.pone.0007733</ui>
+        <ppf>1</ppf>
+        <ppct>6</ppct>
+        <formats>
+          <fmt type="PDF" size="210KB" />
+        </formats>
+        <tig>
+          <atl>Reduced Physiological Complexity in Robust Elderly Adults with the APOE ϵ4 Allele.</atl>
+        </tig>
+        <aug />
+        <sug>
+          <subj type="thes">OLDER people</subj>
+          <subj type="thes">ALLELES</subj>
+          <subj type="thes">GENETICS</subj>
+          <subj type="thes">HEART beat</subj>
+          <subj type="thes">ARRHYTHMIA</subj>
+          <subj type="thes">MORTALITY</subj>
+          <subj type="thes">PROGNOSIS</subj>
+          <subj type="thes">CARDIOVASCULAR diseases in old age</subj>
+          <subj type="thes">AGING</subj>
+        </sug>
+        <ab>The article presents a study focusing on reduced physiological complexity in robust elderly adults with the APOE ε4 allele. In the study multiscale entropy (MSE) analysis was applied to examine effects of the APOE genotypes on heart rate dynamics in a cohort of robust elderly adults. It shows that reduced complexity have been noticed in the risk of fatal cardiac arrhythmia, increased mortality, or poor prognosis in cardiovascular diseases. The study states that the relationship between the APOE ε4 allele and reduced physiological complexity at different time scales indicates that variants of the APOE gene may affect the integrity of the physiological system during the aging process.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=a9h&amp;AN=56439102&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="35">
+  <header shortDbName="a9h" longDbName="Academic Search Complete" uiTerm="41685263">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>BioEssays</jtl>
+        <issn>02659247</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2009" month="06" day="01">Jun2009</dt>
+        <vid>31</vid>
+        <iid>6</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1002/bies.200800224</ui>
+        <ppf>651</ppf>
+        <ppct>14</ppct>
+        <formats />
+        <tig>
+          <atl>Ageing as a price of cooperation and complexity.</atl>
+        </tig>
+        <aug>
+          <au>Kiss, Huba J. M.</au>
+          <au>Mihalik, Ágoston</au>
+          <au>Nánási, Tibor</au>
+          <au>Öry, BáIint</au>
+          <au>Spiró, Zoltán</au>
+          <au>Söti, Csaba</au>
+          <au>Csermely, Peter</au>
+          <affil>Department of Medical Chemistry, Semmelweis University, Budapest, Hungary</affil>
+        </aug>
+        <sug>
+          <subj type="thes">IDIOTYPIC networks</subj>
+          <subj type="thes">AGING</subj>
+          <subj type="thes">BIOCOMPLEXITY</subj>
+          <subj type="thes">COMPLEXITY (Philosophy)</subj>
+          <subj type="thes">MODULAR construction</subj>
+          <subj type="thes">PHENOTYPES</subj>
+          <subj type="thes">BIOLOGICAL evolution</subj>
+          <subj type="naics">Prefabricated Metal Building and Component Manufacturing</subj>
+          <subj type="naics">Manufactured Home (Mobile Home) Manufacturing</subj>
+        </sug>
+        <ab>The article presents an analysis of the key aspects of hierarchical complexity that contribute to the ageing of biological networks. It mentions the common properties of hierarchical networks including small-worldness, modular structure, and network skeleton. Among the cited factors of hierarchical systems include phenotypes and evolution. It assesses how cooperation, co-occurrence, and complexity result to the ageing of networks.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=a9h&amp;AN=41685263&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="36">
+  <header shortDbName="a9h" longDbName="Academic Search Complete" uiTerm="37216308">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Journals of Gerontology Series A: Biological Sciences &amp; Medical Sciences</jtl>
+        <issn>10795006</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2009" month="02" day="01">Feb2009</dt>
+        <vid>64A</vid>
+        <iid>2</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1093/gerona/gln066</ui>
+        <ppf>205</ppf>
+        <ppct>4</ppct>
+        <formats />
+        <tig>
+          <atl>Toward a Systems Biology Framework for Understanding Aging and Health Span.</atl>
+        </tig>
+        <aug>
+          <au>West, Geoffrey B.</au>
+          <au>Bergman, Aviv</au>
+          <affil>Santa Fe Institute, New Mexico</affil>
+          <affil>Department of Systems and Computational Biology, Albert Einstein College of Medicine, New York</affil>
+        </aug>
+        <sug>
+          <subj type="thes">AGING</subj>
+          <subj type="thes">LONGEVITY</subj>
+          <subj type="thes">HEALTH</subj>
+          <subj type="thes">CELLULAR aging</subj>
+          <subj type="thes">GERONTOLOGY</subj>
+        </sug>
+        <ab>It is argued that aging research is at a stage where it could benefit greatly from a more intense engagement with the perspectives emphasized by systems biology and complexity science. A more integrated, systematic approach is needed if we are ever to have a fully developed, fundamental understanding of aging, longevity, and their relationship to health. A broader, deeper, more quantitative, and predictive conceptual framework can lead to theoretical approaches and realistic models that can be quantitatively confronted with data and, perhaps more importantly, stimulate novel questions and novel experiments. Integral to this is the search for underlying causal multilevel mechanisms and principles that can be quantified and developed into a serious predictive theoretical framework, providing a point of departure for framing a more integrated research agenda.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=a9h&amp;AN=37216308&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="37">
+  <header shortDbName="a9h" longDbName="Academic Search Complete" uiTerm="35817068">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>NeuroImage</jtl>
+        <issn>10538119</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2009" month="02" day="01">Feb2009</dt>
+        <vid>44</vid>
+        <iid>3</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1016/j.neuroimage.2008.09.062</ui>
+        <ppf>715</ppf>
+        <ppct>9</ppct>
+        <formats />
+        <tig>
+          <atl>Age-related changes in modular organization of human brain functional networks</atl>
+        </tig>
+        <aug>
+          <au>Meunier, David</au>
+          <au>Achard, Sophie</au>
+          <au>Morcom, Alexa</au>
+          <au>Bullmore, Ed</au>
+          <affil>Brain Mapping Unit, University of Cambridge, Cambridge, UK</affil>
+          <affil>Behavioural and Clinical Neurosciences Institute, University of Cambridge, Cambridge, UK</affil>
+          <affil>Grenoble Image Parole Signal Automatique, Centre National de la Recherche Scientifique, Grenoble, France</affil>
+          <affil>Centre for Cognitive and Neural Systems, University of Edinburgh, Edinburgh, UK</affil>
+        </aug>
+        <sug>
+          <subj type="thes">AGING</subj>
+          <subj type="thes">BRAIN</subj>
+          <subj type="thes">GRAPH theory</subj>
+          <subj type="thes">BIOLOGICAL neural networks</subj>
+          <subj type="thes">MAGNETIC resonance imaging of the brain</subj>
+          <subj type="thes">MODULARITY (Psychology)</subj>
+          <subj type="thes">COMPLEXITY (Philosophy)</subj>
+        </sug>
+        <ab>Abstract: Graph theory allows us to quantify any complex system, e.g., in social sciences, biology or technology, that can be abstractly described as a set of nodes and links. Here we derived human brain functional networks from fMRI measurements of endogenous, low frequency, correlated oscillations in 90 cortical and subcortical regions for two groups of healthy (young and older) participants. We investigated the modular structure of these networks and tested the hypothesis that normal brain aging might be associated with changes in modularity of sparse networks. Newman''s modularity metric was maximised and topological roles were assigned to brain regions depending on their specific contributions to intra- and inter-modular connectivity. Both young and older brain networks demonstrated significantly non-random modularity. The young brain network was decomposed into 3 major modules: central and posterior modules, which comprised mainly nodes with few inter-modular connections, and a dorsal fronto-cingulo-parietal module, which comprised mainly nodes with extensive inter-modular connections. The mean network in the older group also included posterior, superior central and dorsal fronto-striato-thalamic modules but the number of intermodular connections to frontal modular regions was significantly reduced, whereas the number of connector nodes in posterior and central modules was increased.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=a9h&amp;AN=35817068&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="38">
+  <header shortDbName="a9h" longDbName="Academic Search Complete" uiTerm="28067872">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Psychology &amp; Aging</jtl>
+        <issn>08827974</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2007" month="12" day="01">Dec2007</dt>
+        <vid>22</vid>
+        <iid>4</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1037/0882-7974.22.4.738</ui>
+        <ppf>738</ppf>
+        <ppct>14</ppct>
+        <formats />
+        <tig>
+          <atl>Six-Year Change in Affect Optimization and Affect Complexity Across the Adult Life Span: A Further Examination.</atl>
+        </tig>
+        <aug>
+          <au>Labouvie-Vief, Gisela</au>
+          <au>Jain, Elizabeth</au>
+          <au>Diehl, Manfred</au>
+          <au>Fang Zhang</au>
+          <affil>University of Geneva</affil>
+          <affil>Wayne State University</affil>
+          <affil>Colorado State University</affil>
+          <affil>Assumption College</affil>
+        </aug>
+        <sug>
+          <subj type="thes">ADULTS</subj>
+          <subj type="thes">AGING</subj>
+          <subj type="thes">AFFECT (Psychology)</subj>
+          <subj type="thes">EMOTIONS</subj>
+          <subj type="thes">COMPLEXITY (Philosophy)</subj>
+        </sug>
+        <ab>This study examines the life course of 2 independent components of adult affective development, 1 aimed at differentiation and complexity, the other aimed at optimization and positive emotional balance. These 2 components are predicted to have different developmental trajectories over the adult life span and to become related in a compensatory fashion under conditions of resource restrictions, such as those related to late life. Using individual growth curve estimation, we modeled 6-year longitudinal changes in the 2 components in a total sample of 388 individuals ranging in age from 15 to 88 years. As predicted, initial level of affect optimization was positively associated with age up to late middle age with a subsequent leveling off; individual rates of change were found to decelerate with age up to age 60 years and accelerate again around age 80 years. For affect complexity, initial level of affect complexity was positively associated with age up to age 45 years and negatively associated with age from then on, whereas individual rates of change were negatively associated with age, and this association tended to get stronger with age.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=a9h&amp;AN=28067872&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="39">
+  <header shortDbName="a9h" longDbName="Academic Search Complete" uiTerm="24924995">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Studies in Continuing Education</jtl>
+        <issn>0158037X</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2006" month="11" day="01">Nov2006</dt>
+        <vid>28</vid>
+        <iid>3</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1080/01580370600947538</ui>
+        <ppf>279</ppf>
+        <ppct>11</ppct>
+        <formats>
+          <fmt type="HTML Full Text" />
+          <fmt type="PDF" size="77KB" />
+        </formats>
+        <tig>
+          <atl>Codified knowledge and embodied learning: the problem of safety training.</atl>
+        </tig>
+        <aug>
+          <au>Somerville, Margaret</au>
+          <au>Lloyd, Anne</au>
+          <affil>University of New England, Australia</affil>
+          <affil>Charles Sturt University, Australia</affil>
+        </aug>
+        <sug>
+          <subj type="thes">INDUSTRIAL safety</subj>
+          <subj type="thes">WORK environment</subj>
+          <subj type="thes">INDUSTRIAL research</subj>
+          <subj type="thes">LEARNING</subj>
+          <subj type="thes">KNOWLEDGE management</subj>
+          <subj type="thes">TRAINING</subj>
+          <subj type="thes">MINERAL industries</subj>
+          <subj type="thes">ELDER care</subj>
+          <subj type="thes">FIREFIGHTING</subj>
+          <subj type="thes">OUTCOME-based education</subj>
+          <subj type="naics">Continuing Care Retirement Communities</subj>
+          <subj type="naics">Fire Protection</subj>
+          <subj type="naics">Mineral, ore and precious metal merchant wholesalers</subj>
+          <subj type="naics">Coal and Other Mineral and Ore Merchant Wholesalers</subj>
+        </sug>
+        <ab>The research that informs this article was focused around the relationship between how workers are trained to work safely and how workers learn to work safely in the workplace. The findings of empirical studies into learning and practising safety in aged care, fire fighting, building construction, and mining industries are summarized. A common feature emerging from these studies is the failure of safety training through codified knowledge practices such as those incorporated in competency-based training. In such training the embodied learning of workers in the social and physical environments of the workplace is ignored. Stories of this embodied and spatial learning will be analysed in order to draw some conclusions about the practical problem of facilitating learning to work safely. We explore how theoretical categories of the body and space, which have been largely ignored in workplace learning research, can contribute to our understandings of workplace learning more generally.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=a9h&amp;AN=24924995&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="40">
+  <header shortDbName="a9h" longDbName="Academic Search Complete" uiTerm="20023161">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Nature Reviews Neuroscience</jtl>
+        <issn>1471003X</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2006" month="03" day="01">Mar2006</dt>
+        <vid>7</vid>
+        <iid>3</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1038/nrn1871</ui>
+        <ppf>232</ppf>
+        <ppct>11</ppct>
+        <formats>
+          <fmt type="PDF" size="844KB" />
+        </formats>
+        <tig>
+          <atl>Looking for inspiration: new perspectives on respiratory rhythm.</atl>
+        </tig>
+        <aug>
+          <au>Feldman, Jack L.</au>
+          <au>Del Negro, Christopher A.</au>
+          <affil>Department of Neurobiology, David Geffen School of Medicine, University of California, Los Angeles, BOX 951763, Los Angeles, California 90095-1763, USA</affil>
+          <affil>Department of Applied Science, McGlothlin-Street Hall, The College of William and Mary, Williamsburg, Virginia 23187-8795, USA</affil>
+        </aug>
+        <sug>
+          <subj type="thes">RESPIRATORY organs</subj>
+          <subj type="thes">BRAIN stem</subj>
+          <subj type="thes">OSCILLATIONS</subj>
+          <subj type="thes">CELL death</subj>
+          <subj type="thes">NEURODEGENERATION</subj>
+          <subj type="thes">AGING</subj>
+          <subj type="thes">BRAIN stem physiology</subj>
+          <subj type="thes">BIOLOGICAL rhythms</subj>
+          <subj type="thes">ANIMAL experimentation</subj>
+          <subj type="thes">BIOLOGICAL models</subj>
+          <subj type="thes">COMPARATIVE studies</subj>
+          <subj type="thes">RESEARCH methodology</subj>
+          <subj type="thes">MEDICAL cooperation</subj>
+          <subj type="thes">RESEARCH</subj>
+          <subj type="thes">RESPIRATION</subj>
+          <subj type="thes">RESPIRATORY organ physiology</subj>
+          <subj type="thes">EVALUATION research</subj>
+          <subj type="thes">PHYSIOLOGY</subj>
+          <subj type="unclass">BRAIN stem anatomy</subj>
+        </sug>
+        <ab>Recent experiments in vivo and in vitro have advanced our understanding of the sites and mechanisms involved in mammalian respiratory rhythm generation. Here we evaluate and interpret the new evidence for two separate brainstem respiratory oscillators and for the essential role of emergent network properties in rhythm generation. Lesion studies suggest that respiratory cell death might explain morbidity and mortality associated with neurodegenerative disorders and ageing.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>journal article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=a9h&amp;AN=20023161&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="41">
+  <header shortDbName="a9h" longDbName="Academic Search Complete" uiTerm="18406087">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Behaviour &amp; Information Technology</jtl>
+        <issn>0144929X</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2005" month="09" day="01">Sep/Oct2005</dt>
+        <vid>24</vid>
+        <iid>5</iid>
+      </pubinfo>
+      <artinfo>
+        <ui type="doi">10.1080/0144929042000320009</ui>
+        <ppf>375</ppf>
+        <ppct>15</ppct>
+        <formats>
+          <fmt type="HTML Full Text" />
+          <fmt type="PDF" size="540KB" />
+        </formats>
+        <tig>
+          <atl>How older adults meet complexity: Aging effects on the usability of different mobile phones.</atl>
+        </tig>
+        <aug>
+          <au>Ziefle, M</au>
+          <au>Bay, S</au>
+          <affil>Department of Psychology, RWTH Aachen University, Germany</affil>
+        </aug>
+        <sug>
+          <subj type="thes">OLDER people</subj>
+          <subj type="thes">OLDER consumers</subj>
+          <subj type="thes">CELL phones</subj>
+          <subj type="thes">AGING</subj>
+          <subj type="thes">TELECOMMUNICATION</subj>
+          <subj type="naics">Communication Equipment Repair and Maintenance</subj>
+          <subj type="naics">All Other Telecommunications</subj>
+          <subj type="naics">Telecommunications Resellers</subj>
+          <subj type="naics">Other telecommunications</subj>
+          <subj type="naics">Wireless Telecommunications Carriers (except Satellite)</subj>
+          <subj type="naics">Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing</subj>
+          <subj type="naics">Electronic components, navigational and communications equipment and supplies merchant wholesalers</subj>
+          <subj type="naics">Electronics Stores</subj>
+        </sug>
+        <ab>In this experiment, older and younger novice mobile phone users were examined when using handsets of different complexity. The independent variables were user age (young: 20 – 35 years; old: 50 – 64 years) and cognitive complexity of two mobile phones (Nokia 3210; Siemens C35i). The cognitive complexity of the phones was defined by the number of production rules applied when processing the four experimental tasks. Dependent variables were effectiveness and efficiency as taken from user protocols and the reported ease of use. The less complex phone (Nokia) performed significantly better than the complex one (Siemens). However, the benefit from the lower complexity was much larger than theoretically predicted. Thus, defining cognitive complexity of technical devices by the number of production rules does not account for the real difficulties which users experience. Older users had a lower navigation performance than younger users, however their performance matched younger users' when using mobiles with low complexity.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=a9h&amp;AN=18406087&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="42">
+  <header shortDbName="a9h" longDbName="Academic Search Complete" uiTerm="16474276">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Nursing Older People</jtl>
+        <issn>14720795</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2002" month="11" day="01">Nov2002</dt>
+        <vid>14</vid>
+        <iid>8</iid>
+      </pubinfo>
+      <artinfo>
+        <ppf>37</ppf>
+        <ppct>0</ppct>
+        <formats />
+        <tig>
+          <atl>new publications.</atl>
+        </tig>
+        <aug />
+        <sug>
+          <subj type="thes">BOOKS</subj>
+          <subj type="thes">CONFERENCES &amp; conventions</subj>
+          <subj type="thes">ELDER care</subj>
+          <subj type="thes">PUBLIC health</subj>
+          <subj type="naics">Continuing Care Retirement Communities</subj>
+          <subj type="naics">Book stores and news dealers</subj>
+          <subj type="naics">Book, Periodical, and Newspaper Merchant Wholesalers</subj>
+          <subj type="naics">Book, periodical and newspaper merchant wholesalers</subj>
+          <subj type="naics">Book Stores</subj>
+          <subj type="naics">Convention and Trade Show Organizers</subj>
+          <subj type="naics">Health and Welfare Funds</subj>
+          <subj type="product">COMPLEXITY &amp; Healthcare: An Introduction (Book)</subj>
+          <subj type="product">PALLIATIVE Care for Older People in Care Homes (Book)</subj>
+        </sug>
+        <ab>The article presents information on various books and events related to medical care of older people. "Complexity and Healthcare: An Introduction," edited by Kieran Sweeney and Frances Griffiths illustrates the relevance of chaos and complexity theory to healthcare organisations, public health, clinical governance and the consultation. "Palliative Care for Older People in Care Homes," edited by Jo Hockley and David Clark includes contributions from the fields of nursing, medicine, social and health sciences and ethics and health planning. Nourishing older people in care homes one day course will be held on November 13, 2005 by the Royal Institute of Public Health.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=a9h&amp;AN=16474276&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec>
+<rec resultID="43">
+  <header shortDbName="hch" longDbName="Health Source: Nursing/Academic Edition" uiTerm="16474276">
+    <controlInfo>
+      <bkinfo />
+      <jinfo>
+        <jtl>Nursing Older People</jtl>
+        <issn>14720795</issn>
+      </jinfo>
+      <pubinfo>
+        <dt year="2002" month="11" day="01">Nov2002</dt>
+        <vid>14</vid>
+        <iid>8</iid>
+      </pubinfo>
+      <artinfo>
+        <ppf>37</ppf>
+        <ppct>0</ppct>
+        <lexile>740</lexile>
+        <formats />
+        <tig>
+          <atl>new publications.</atl>
+        </tig>
+        <aug />
+        <sug>
+          <subj type="unclass">BOOKS</subj>
+          <subj type="unclass">CONFERENCES &amp; conventions</subj>
+          <subj type="unclass">ELDER care</subj>
+          <subj type="unclass">COMPLEXITY &amp; Healthcare: An Introduction (Book)</subj>
+          <subj type="unclass">PALLIATIVE Care for Older People in Care Homes (Book)</subj>
+          <subj type="unclass">PUBLIC health</subj>
+        </sug>
+        <ab>The article presents information on various books and events related to medical care of older people. "Complexity and Healthcare: An Introduction," edited by Kieran Sweeney and Frances Griffiths illustrates the relevance of chaos and complexity theory to healthcare organisations, public health, clinical governance and the consultation. "Palliative Care for Older People in Care Homes," edited by Jo Hockley and David Clark includes contributions from the fields of nursing, medicine, social and health sciences and ethics and health planning. Nourishing older people in care homes one day course will be held on November 13, 2005 by the Royal Institute of Public Health.</ab>
+        <pubtype>Academic Journal</pubtype>
+        <doctype>Article</doctype>
+      </artinfo>
+      <language code="eng">English</language>
+    </controlInfo>
+    <displayInfo>
+      <pLink>
+        <url>http://www.systems.wsu.edu/scripts/wsuall.pl?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=hch&amp;AN=16474276&amp;site=ehost-live</url>
+      </pLink>
+    </displayInfo>
+  </header>
+</rec></records>
