@@ -152,3 +152,7 @@ cython_debug/
 #.idea/
 litsort/litdb_default.sqlite
 litsort/litdb_defaultlog.txt
+complexity_searches_2022/CINAHL/zipfiles/c521c4a5-41c7-4321-a18b-d33507cf9feb.zip
+complexity_searches_2022/CINAHL/c521c4a5-41c7-4321-a18b-d33507cf9feb.zip
+complexity_searches_2022/HSN/ef6a2889-be93-4f79-bb2f-72e9a85c9e11.zip
+*.zip
