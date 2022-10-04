@@ -66,16 +66,20 @@ if newprojdir.upper() == 'Y':
                     continue
                 else:
                     quit()
-    while True:
+    while True:            
         db_name = input('Enter name of database file to use. (Note make sure db file is located under the project folder. ')
+        new_db = input('New database? Y/N')
         try:
             db_path = data_folder_parent / db_name
-            db_path.resolve(strict=True)
+            if new_db.upper() == 'Y':
+                db_path.resolve(strict=False)
+            else:
+                db_path.resolve(strict=True)
             break
         except FileNotFoundError:
             print("file path not found. please enter valid db filename, make sure to inclue file extension.")
             retrydb = input("Try again? Y/N (Enter 'N' to exit program): ")
-            if retrysubdir.upper() == 'Y':
+            if retrydb.upper() == 'Y':
                 continue
             else:
                 quit()
@@ -185,6 +189,7 @@ else:
                     if not fname:
                         print("No filename given. Will add all files in given directory to the db.")
                         iterdir = True
+                        break
                     elif fname:
                         file_to_open = file_root / fname
                         try:
