@@ -12,7 +12,7 @@ import pandas as pd
 #pattern=re.compile('(complex\S*)\s')
 entries=[]
 errorlog=[]
-df=pd.read_excel('article_export.xlsx', sheet_name='article_export', header=0)
+df=pd.read_excel('complexity_searches_2022/article_export_2022.xlsx', sheet_name='article_export', header=0)
 abstracts=df[['id','title','abstract']].to_dict('records')
 for row in abstracts:
     abstract=row['abstract']
@@ -31,5 +31,5 @@ df_update=pd.merge(df, df1, how='outer', on='id')
 df_update.sort_values(by=['abstract_mentions_count'], ascending=False, inplace=True)
 df_complexity=df_update.query('complexity_mentions > 0 | complexity_title_use>0')
 #df_update.to_csv('article_export.csv', sep='\t')
-df_complexity.to_csv('article_export_complexity.csv', sep='\t')
+df_complexity.to_csv('article_export_complexity_2022.csv', sep='\t')
 print("")

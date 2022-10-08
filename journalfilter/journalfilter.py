@@ -186,14 +186,18 @@ def nurs_auth(filelist, db_path):
 
     
 if __name__ == '__main__':
-    fopen=pathlib.Path(r"C:\Users\wuest\Desktop\complexity_searches\complexity_concept_db.sqlite")
+    db_path=pathlib.Path(r"C:\Users\Wuestney\Documents\GitHub\litsort\complexity_searches_2022\complexity_concept_db.sqlite")
     #nlm=nlm_read()
     #nahrs = nahrs_read()
     #inane = inane_read()
     #pmerg=nlm + nahrs + inane
     #pmerg=set(pmerg)
-    print(filt(fopen))
-    #filelist=['ProQuestallagingandcomplexityorcomplexandfrailandnurs_2021-06-23.xls', 'pubmed-frailtyMeS-complexorcomplexity-allaging-_2021.06.24.txt', 'MHallagingandcomplexityorcomplexandfrail_nurseauth_2021.06.23.xml', 'complexityorcomplextiorabandallaging_onlynursing_2021.06.24.xls']
-    #print(nurs_auth(filelist, fopen))
+    print("Number of changes to database when filtering for Nursing Journals.")
+    print(filt(db_path))
+    #filelist2021=['ProQuestallagingandcomplexityorcomplexandfrailandnurs_2021-06-23.xls', 'pubmed-frailtyMeS-complexorcomplexity-allaging-_2021.06.24.txt', 'MHallagingandcomplexityorcomplexandfrail_nurseauth_2021.06.23.xml', 'complexityorcomplextiorabandallaging_onlynursing_2021.06.24.xls']
+    filelist2022 = ['pubmed-frailtyMeS-complexorcomplexity-allaging-_2022.10.03.txt',
+                    'ProQuestallagingandcomplexityorcomplexandfrailandnurs_2022-10-03.xls']
+    print("Number of articles with a nursing author")
+    print(nurs_auth(filelist2022, db_path))
 
     

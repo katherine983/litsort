@@ -14,3 +14,114 @@ Article repeats:  1
 Article count before program ran:  22
 Article count after program completed:  50
 Total modifications to database:  69
+
+File name added: PSYCINFO / None
+Date/time of data add:  2022-10-04T14:42:36.822308
+Article repeats:  11
+Article count before program ran:  50
+Article count after program completed:  59
+Total modifications to database:  109
+
+File name added: PSYCINFO / None
+Date/time of data add:  2022-10-04T14:50:45.060780
+Article repeats:  20
+Article count before program ran:  59
+Article count after program completed:  59
+Total modifications to database:  20
+
+File name added: PUBMED / None
+Date/time of data add:  2022-10-04T14:53:29.539401
+Article repeats:  5
+Article count before program ran:  59
+Article count after program completed:  102
+Total modifications to database:  201
+
+File name added: WOS / None
+Date/time of data add:  2022-10-04T14:54:58.722485
+Article repeats:  24
+Article count before program ran:  102
+Article count after program completed:  122
+Total modifications to database:  291
+
+File name added: PUBMED / pubmed-frailtyMeS-complexorcomplexity-allaging-alljour-2022.10.03.txt
+Date/time of data add:  2022-10-04T15:01:20.475807
+Article repeats:  10
+Article count before program ran:  122
+Article count after program completed:  122
+Total modifications to database:  10
+
+File name added: PUBMED / pubmed-frailtyMeS-complexorcomplexity-allaging-alljour-2022.10.03.txt
+Date/time of data add:  2022-10-04T15:52:09.345624
+Article repeats:  71
+Article count before program ran:  122
+Article count after program completed:  339
+Total modifications to database:  905
+
+Database reset.
+
+File name added: CINAHL / None
+Date/time of data add:  2022-10-04T16:27:03.042772
+Article repeats:  0
+Article count before program ran:  0
+Article count after program completed:  22
+Total modifications to database:  61
+
+Database reset.
+
+File name added: PUBMED / None
+Date/time of data add:  2022-10-04T16:28:05.905144
+Article repeats:  47
+Article count before program ran:  0
+Article count after program completed:  289
+Total modifications to database:  1134
+
+Database reset.
+
+File name added: PSYCINFO / ProQuestallagingandcomplexityorcomplexandfrailandnurs_2022-10-03.xls
+Date/time of data add:  2022-10-04T16:29:24.329792
+Article repeats:  0
+Article count before program ran:  0
+Article count after program completed:  10
+Total modifications to database:  101
+
+File name added: PUBMED / pubmed-frailtyMeS-complexorcomplexity-allaging-_2022.10.03.txt
+Date/time of data add:  2022-10-04T16:30:44.754251
+Article repeats:  2
+Article count before program ran:  10
+Article count after program completed:  46
+Total modifications to database:  157
+
+File name added: CINAHL / None
+Date/time of data add:  2022-10-04T16:31:57.011862
+Article repeats:  4
+Article count before program ran:  46
+Article count after program completed:  64
+Total modifications to database:  57
+
+File name added: PUBMED / None
+Date/time of data add:  2022-10-04T16:32:26.020999
+Article repeats:  90
+Article count before program ran:  64
+Article count after program completed:  310
+Total modifications to database:  1011
+
+File name added: PSYCINFO / None
+Date/time of data add:  2022-10-04T16:34:00.409143
+Article repeats:  20
+Article count before program ran:  310
+Article count after program completed:  310
+Total modifications to database:  20
+
+File name added: HSN / None
+Date/time of data add:  2022-10-04T16:34:30.209409
+Article repeats:  19
+Article count before program ran:  310
+Article count after program completed:  320
+Total modifications to database:  50
+
+File name added: WOS / None
+Date/time of data add:  2022-10-04T16:34:57.766810
+Article repeats:  25
+Article count before program ran:  320
+Article count after program completed:  339
+Total modifications to database:  288
