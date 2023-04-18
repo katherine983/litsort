@@ -29,11 +29,14 @@ def parse(file_to_open, conn, cur, **kwargs):
         journal = getattr(row, "pubtitle")
         year = getattr(row, "year")
         volume = getattr(row, "volume")
-        issue = getattr(row, "issue")
-        pages = str(getattr(row, "pages"))
-        pages_list = pages.split("-")
-        start_page = float(pages_list[0])       
-                
+        issue = getattr(row, "issue", None)
+        pages = getattr(row, "pages", None)
+        if pages:
+            pages = str(pages)
+            pages_list = pages.split("-")
+            start_page = float(pages_list[0])       
+        else:
+            start_page = None
         print(journal)
         print(year, volume, issue)
             
@@ -120,96 +123,85 @@ def parse(file_to_open, conn, cur, **kwargs):
     return repeats
 
 if __name__ == '__main__':
-    while True:
-        data_folder_parent = pathlib.Path(r'C:\Users\wuest\Desktop\database_searches\\')
-        print("Current directory: ", data_folder_parent)
-        data_folder = input("Enter folder location as 'folder\subfolder\': ")
-        if len(data_folder)<1 :
-            data_folder = 'Lipsitz_hypothesis/PsycInfo_2019-12-10'
-        fname = input("Enter file name: ")
-        if len(fname)<1 : 
-            fname = "ProQuestDocuments-2019-12-10.xls"
+    file_to_open = pathlib.Path(r"C:\Users\Wuestney\Documents\GitHub\litsort\complexity_searches_2022\PSYCINFO\ProQuestallagingandcomplexityorcomplexandfrailandnurs_2022-10-04.xls")
+    try:
+        df = pd.read_excel(file_to_open, header=0, encoding= "utf-8")
+    except:
+        print("Invalid file name please reenter.")
+    getattr()
     
-        file_to_open = data_folder_parent / data_folder / fname
-        try:
-            df = pd.read_excel(file_to_open, header=0, encoding= "utf-8")
-            break
-        except:
-            print("Invalid file name please reenter.")
-            
-    
-    conn = sqlite3.connect('litdb_default.sqlite')
-    cur = conn.cursor()
+    # conn = sqlite3.connect('litdb_default.sqlite')
+    # cur = conn.cursor()
     
 
     
-    """
-    #CREATE DATABASE 
+    # """
+    # #CREATE DATABASE 
     
-    cur.execute('DROP TABLE IF EXISTS First_Authors') #use drop table commands only while troubleshooting initial setup
-    cur.execute('DROP TABLE IF EXISTS Articles')
-    cur.execute('DROP TABLE IF EXISTS Journals')
-    cur.execute('DROP TABLE IF EXISTS Keywords')
-    cur.execute('DROP TABLE IF EXISTS Databases')
+    # cur.execute('DROP TABLE IF EXISTS First_Authors') #use drop table commands only while troubleshooting initial setup
+    # cur.execute('DROP TABLE IF EXISTS Articles')
+    # cur.execute('DROP TABLE IF EXISTS Journals')
+    # cur.execute('DROP TABLE IF EXISTS Keywords')
+    # cur.execute('DROP TABLE IF EXISTS Databases')
     
-    cur.execute('''CREATE TABLE First_Authors (
-            id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT UNIQUE,
-            name TEXT UNIQUE,
-            lastname TEXT,
-            firstname TEXT)''')
-    cur.executescript('''CREATE TABLE  Articles (id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT UNIQUE,
-            title TEXT UNIQUE,
-            year YEAR,
-            auth_id TEXT,
-            doi TEXT UNIQUE,
-            pmid INTEGER UNIQUE,
-            umi TEXT UNIQUE,
-            journal_id INTEGER,
-            volume INTEGER,
-            issue INTEGER,
-            start_page TEXT,
-            abstract TEXT,
-            url TEXT,
-            date_added DEFAULT CURRENT_TIMESTAMP,
-            repeats INTEGER,
-            filename TEXT);
-        CREATE TABLE Journals (id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT UNIQUE,
-            name TEXT UNIQUE);
-        CREATE TABLE Keywords (id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT UNIQUE,
-            keyword TEXT UNIQUE,
-            db_id INTEGER,
-            count INTEGER);
-        CREATE TABLE Databases (id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT UNIQUE,
-            db TEXT UNIQUE)''')
+    # cur.execute('''CREATE TABLE First_Authors (
+    #         id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT UNIQUE,
+    #         name TEXT UNIQUE,
+    #         lastname TEXT,
+    #         firstname TEXT)''')
+    # cur.executescript('''CREATE TABLE  Articles (id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT UNIQUE,
+    #         title TEXT UNIQUE,
+    #         year YEAR,
+    #         auth_id TEXT,
+    #         doi TEXT UNIQUE,
+    #         pmid INTEGER UNIQUE,
+    #         umi TEXT UNIQUE,
+    #         journal_id INTEGER,
+    #         volume INTEGER,
+    #         issue INTEGER,
+    #         start_page TEXT,
+    #         abstract TEXT,
+    #         url TEXT,
+    #         date_added DEFAULT CURRENT_TIMESTAMP,
+    #         repeats INTEGER,
+    #         filename TEXT);
+    #     CREATE TABLE Journals (id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT UNIQUE,
+    #         name TEXT UNIQUE);
+    #     CREATE TABLE Keywords (id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT UNIQUE,
+    #         keyword TEXT UNIQUE,
+    #         db_id INTEGER,
+    #         count INTEGER);
+    #     CREATE TABLE Databases (id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT UNIQUE,
+    #         db TEXT UNIQUE)''')
     
-    """
+    # """
     
-    repeats = 0
-    articles_added = 0
-    cur.execute("SELECT count(*) FROM Articles")
-    articlecount_starting = cur.fetchone() [0]
-    print(articlecount_starting)
+    # repeats = 0
+    # articles_added = 0
+    # cur.execute("SELECT count(*) FROM Articles")
+    # articlecount_starting = cur.fetchone() [0]
+    # print(articlecount_starting)
     
-    #key_words = {}
-    #gather data into the variables one record at a time
+    # #key_words = {}
+    # #gather data into the variables one record at a time
     
-    repeats += parse(file_to_open, conn, cur, header=0)
+    # repeats += parse(file_to_open, conn, cur, header=0)
     
     
-    cur.execute("SELECT count(*) FROM ARTICLES")
-    articlecount_ending = cur.fetchone() [0]
-    total_changes = conn.total_changes
-    conn.close()
-    f = open('smarthomelitdblog.txt', "a")
-    print("", file=f)
-    print("File name added: ", fname, file=f)
-    print("Date/time of data add: ", now.isoformat(), file=f)
-    print("Article repeats: ", repeats, file=f)
-    print("Article count before program ran: ", articlecount_starting, file=f)
-    print("Article count after program completed: ", articlecount_ending, file=f)
-    print("Total modifications to database: ", total_changes, file=f)
+    # cur.execute("SELECT count(*) FROM ARTICLES")
+    # articlecount_ending = cur.fetchone() [0]
+    # total_changes = conn.total_changes
+    # conn.close()
+    # f = open('smarthomelitdblog.txt', "a")
+    # print("", file=f)
+    # print("File name added: ", fname, file=f)
+    # print("Date/time of data add: ", now.isoformat(), file=f)
+    # print("Article repeats: ", repeats, file=f)
+    # print("Article count before program ran: ", articlecount_starting, file=f)
+    # print("Article count after program completed: ", articlecount_ending, file=f)
+    # print("Total modifications to database: ", total_changes, file=f)
     
-    f.close()
+    # f.close()
 
 
    
