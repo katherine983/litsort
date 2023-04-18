@@ -125,3 +125,63 @@ Article repeats:  25
 Article count before program ran:  320
 Article count after program completed:  339
 Total modifications to database:  288
+
+Database reset.
+
+File name added: CINAHL / None
+Date/time of data add:  2023-01-02T19:05:38.485801
+Article repeats:  0
+Article count before program ran:  0
+Article count after program completed:  22
+Total modifications to database:  61
+
+Database reset.
+
+File name added: PSYCINFO / ProQuestallagingandcomplexityorcomplexandfrailandnurs_2022-10-04.xls
+Date/time of data add:  2023-01-02T19:37:39.956617
+Article repeats:  0
+Article count before program ran:  0
+Article count after program completed:  3
+Total modifications to database:  40
+
+File name added: PUBMED / pubmed-frailtyMeS-complexorcomplexity-allaging-_2022.10.03.txt
+Date/time of data add:  2023-01-02T19:38:10.509933
+Article repeats:  2
+Article count before program ran:  3
+Article count after program completed:  39
+Total modifications to database:  157
+
+File name added: WOS / None
+Date/time of data add:  2023-01-02T19:41:12.394279
+Article repeats:  24
+Article count before program ran:  39
+Article count after program completed:  59
+Total modifications to database:  291
+
+File name added: CINAHL / None
+Date/time of data add:  2023-01-02T19:42:16.744275
+Article repeats:  4
+Article count before program ran:  59
+Article count after program completed:  77
+Total modifications to database:  57
+
+File name added: PSYCINFO / ProQuestallagingandcomplexityorcomplexandfrail_2022-10-03.xls
+Date/time of data add:  2023-01-02T19:43:51.607491
+Article repeats:  3
+Article count before program ran:  77
+Article count after program completed:  84
+Total modifications to database:  64
+
+File name added: PUBMED / pubmed-frailtyMeS-complexorcomplexity-allaging-alljour-2022.10.03.txt
+Date/time of data add:  2023-01-02T19:44:37.149214
+Article repeats:  43
+Article count before program ran:  84
+Article count after program completed:  329
+Total modifications to database:  960
+
+File name added: HSN / None
+Date/time of data add:  2023-01-02T19:45:09.020523
+Article repeats:  19
+Article count before program ran:  329
+Article count after program completed:  339
+Total modifications to database:  50
